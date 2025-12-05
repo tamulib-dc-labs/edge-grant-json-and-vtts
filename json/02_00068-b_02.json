@@ -1,0 +1,29 @@
+{
+  "segments": [
+    {
+      "start": 25.968,
+      "end": 27.135,
+      "text": " Yes, yes, yes.",
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 25.968,
+          "end": 26.89,
+          "score": 0.501
+        },
+        {
+          "word": "yes,",
+          "start": 26.91,
+          "end": 27.033,
+          "score": 0.31
+        },
+        {
+          "word": "yes.",
+          "start": 27.054,
+          "end": 27.135,
+          "score": 0.25
+        }
+      ]
+    }
+  ]
+}

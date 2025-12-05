@@ -1,0 +1,848 @@
+{
+  "segments": [
+    {
+      "start": 4.908,
+      "end": 10.918,
+      "text": " How did our course compare with theirs?",
+      "words": [
+        {
+          "word": "How",
+          "start": 4.908,
+          "end": 5.37,
+          "score": 0.777
+        },
+        {
+          "word": "did",
+          "start": 6.918,
+          "end": 6.978,
+          "score": 0.0
+        },
+        {
+          "word": "our",
+          "start": 6.998,
+          "end": 7.24,
+          "score": 0.485
+        },
+        {
+          "word": "course",
+          "start": 7.34,
+          "end": 7.461,
+          "score": 0.198
+        },
+        {
+          "word": "compare",
+          "start": 7.481,
+          "end": 7.622,
+          "score": 0.001
+        },
+        {
+          "word": "with",
+          "start": 7.642,
+          "end": 7.722,
+          "score": 0.0
+        },
+        {
+          "word": "theirs?",
+          "start": 7.742,
+          "end": 10.918,
+          "score": 0.451
+        }
+      ]
+    },
+    {
+      "start": 75.04,
+      "end": 96.07,
+      "text": " Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 75.04,
+          "end": 95.97,
+          "score": 0.2
+        },
+        {
+          "word": "you.",
+          "start": 95.99,
+          "end": 96.07,
+          "score": 0.25
+        }
+      ]
+    },
+    {
+      "start": 97.163,
+      "end": 126.175,
+      "text": " I'm assuming that the",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 97.163,
+          "end": 125.815,
+          "score": 0.333
+        },
+        {
+          "word": "assuming",
+          "start": 125.835,
+          "end": 125.995,
+          "score": 0.0
+        },
+        {
+          "word": "that",
+          "start": 126.015,
+          "end": 126.095,
+          "score": 0.0
+        },
+        {
+          "word": "the",
+          "start": 126.115,
+          "end": 126.175,
+          "score": 0.333
+        }
+      ]
+    },
+    {
+      "start": 126.998,
+      "end": 148.112,
+      "text": " Of all the N70s, that University of Texas score in January, scored higher or hit more than a year at the top than any of the others until Houston came in?",
+      "words": [
+        {
+          "word": "Of",
+          "start": 126.998,
+          "end": 145.067,
+          "score": 0.497
+        },
+        {
+          "word": "all",
+          "start": 145.088,
+          "end": 145.148,
+          "score": 0.0
+        },
+        {
+          "word": "the",
+          "start": 145.168,
+          "end": 145.228,
+          "score": 0.0
+        },
+        {
+          "word": "N70s,",
+          "start": 145.248,
+          "end": 145.348,
+          "score": 0.001
+        },
+        {
+          "word": "that",
+          "start": 145.368,
+          "end": 145.448,
+          "score": 0.0
+        },
+        {
+          "word": "University",
+          "start": 145.468,
+          "end": 145.668,
+          "score": 0.0
+        },
+        {
+          "word": "of",
+          "start": 145.689,
+          "end": 145.729,
+          "score": 0.001
+        },
+        {
+          "word": "Texas",
+          "start": 145.749,
+          "end": 145.849,
+          "score": 0.0
+        },
+        {
+          "word": "score",
+          "start": 145.869,
+          "end": 145.969,
+          "score": 0.0
+        },
+        {
+          "word": "in",
+          "start": 145.989,
+          "end": 146.029,
+          "score": 0.0
+        },
+        {
+          "word": "January,",
+          "start": 146.049,
+          "end": 146.209,
+          "score": 0.0
+        },
+        {
+          "word": "scored",
+          "start": 146.229,
+          "end": 146.35,
+          "score": 0.0
+        },
+        {
+          "word": "higher",
+          "start": 146.37,
+          "end": 146.49,
+          "score": 0.0
+        },
+        {
+          "word": "or",
+          "start": 146.51,
+          "end": 146.55,
+          "score": 0.0
+        },
+        {
+          "word": "hit",
+          "start": 146.57,
+          "end": 146.63,
+          "score": 0.0
+        },
+        {
+          "word": "more",
+          "start": 146.65,
+          "end": 146.73,
+          "score": 0.0
+        },
+        {
+          "word": "than",
+          "start": 146.75,
+          "end": 146.83,
+          "score": 0.0
+        },
+        {
+          "word": "a",
+          "start": 146.85,
+          "end": 146.87,
+          "score": 0.0
+        },
+        {
+          "word": "year",
+          "start": 146.89,
+          "end": 146.971,
+          "score": 0.0
+        },
+        {
+          "word": "at",
+          "start": 146.991,
+          "end": 147.031,
+          "score": 0.0
+        },
+        {
+          "word": "the",
+          "start": 147.051,
+          "end": 147.111,
+          "score": 0.0
+        },
+        {
+          "word": "top",
+          "start": 147.131,
+          "end": 147.191,
+          "score": 0.0
+        },
+        {
+          "word": "than",
+          "start": 147.211,
+          "end": 147.291,
+          "score": 0.001
+        },
+        {
+          "word": "any",
+          "start": 147.311,
+          "end": 147.371,
+          "score": 0.0
+        },
+        {
+          "word": "of",
+          "start": 147.391,
+          "end": 147.431,
+          "score": 0.0
+        },
+        {
+          "word": "the",
+          "start": 147.451,
+          "end": 147.511,
+          "score": 0.0
+        },
+        {
+          "word": "others",
+          "start": 147.532,
+          "end": 147.652,
+          "score": 0.0
+        },
+        {
+          "word": "until",
+          "start": 147.672,
+          "end": 147.772,
+          "score": 0.0
+        },
+        {
+          "word": "Houston",
+          "start": 147.792,
+          "end": 147.932,
+          "score": 0.0
+        },
+        {
+          "word": "came",
+          "start": 147.952,
+          "end": 148.032,
+          "score": 0.0
+        },
+        {
+          "word": "in?",
+          "start": 148.052,
+          "end": 148.112,
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "start": 148.132,
+      "end": 149.074,
+      "text": "Or was there no clear dominant team in college?",
+      "words": [
+        {
+          "word": "Or",
+          "start": 148.132,
+          "end": 148.173,
+          "score": 0.0
+        },
+        {
+          "word": "was",
+          "start": 148.193,
+          "end": 148.253,
+          "score": 0.0
+        },
+        {
+          "word": "there",
+          "start": 148.273,
+          "end": 148.373,
+          "score": 0.0
+        },
+        {
+          "word": "no",
+          "start": 148.393,
+          "end": 148.433,
+          "score": 0.0
+        },
+        {
+          "word": "clear",
+          "start": 148.453,
+          "end": 148.553,
+          "score": 0.0
+        },
+        {
+          "word": "dominant",
+          "start": 148.573,
+          "end": 148.733,
+          "score": 0.0
+        },
+        {
+          "word": "team",
+          "start": 148.754,
+          "end": 148.834,
+          "score": 0.0
+        },
+        {
+          "word": "in",
+          "start": 148.854,
+          "end": 148.894,
+          "score": 0.0
+        },
+        {
+          "word": "college?",
+          "start": 148.914,
+          "end": 149.074,
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "start": 169.118,
+      "end": 174.555,
+      "text": " Okay.",
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 169.118,
+          "end": 174.555,
+          "score": 0.399
+        }
+      ]
+    },
+    {
+      "start": 335.236,
+      "end": 349.768,
+      "text": " ... ... ... ...",
+      "words": [
+        {
+          "word": "...",
+          "start": 335.236,
+          "end": 349.528,
+          "score": 0.332
+        },
+        {
+          "word": "...",
+          "start": 349.548,
+          "end": 349.608,
+          "score": 0.0
+        },
+        {
+          "word": "...",
+          "start": 349.628,
+          "end": 349.688,
+          "score": 0.0
+        },
+        {
+          "word": "...",
+          "start": 349.708,
+          "end": 349.768,
+          "score": 0.333
+        }
+      ]
+    },
+    {
+      "start": 369.931,
+      "end": 383.97,
+      "text": " But we would basically play against them, whatever it is, whatever side.",
+      "words": [
+        {
+          "word": "But",
+          "start": 369.931,
+          "end": 371.753,
+          "score": 0.763
+        },
+        {
+          "word": "we",
+          "start": 372.354,
+          "end": 372.534,
+          "score": 0.948
+        },
+        {
+          "word": "would",
+          "start": 372.595,
+          "end": 372.815,
+          "score": 0.702
+        },
+        {
+          "word": "basically",
+          "start": 374.417,
+          "end": 374.597,
+          "score": 0.093
+        },
+        {
+          "word": "play",
+          "start": 376.68,
+          "end": 376.76,
+          "score": 0.002
+        },
+        {
+          "word": "against",
+          "start": 376.78,
+          "end": 376.92,
+          "score": 0.079
+        },
+        {
+          "word": "them,",
+          "start": 377.381,
+          "end": 377.481,
+          "score": 0.248
+        },
+        {
+          "word": "whatever",
+          "start": 380.725,
+          "end": 381.066,
+          "score": 0.989
+        },
+        {
+          "word": "it",
+          "start": 381.086,
+          "end": 381.246,
+          "score": 0.348
+        },
+        {
+          "word": "is,",
+          "start": 381.266,
+          "end": 381.366,
+          "score": 0.607
+        },
+        {
+          "word": "whatever",
+          "start": 381.386,
+          "end": 381.747,
+          "score": 0.237
+        },
+        {
+          "word": "side.",
+          "start": 381.807,
+          "end": 383.97,
+          "score": 0.382
+        }
+      ]
+    },
+    {
+      "start": 383.99,
+      "end": 387.274,
+      "text": "That's it.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 383.99,
+          "end": 384.11,
+          "score": 0.007
+        },
+        {
+          "word": "it.",
+          "start": 384.13,
+          "end": 387.274,
+          "score": 0.51
+        }
+      ]
+    },
+    {
+      "start": 396.286,
+      "end": 399.33,
+      "text": "All right.",
+      "words": [
+        {
+          "word": "All",
+          "start": 396.286,
+          "end": 396.346,
+          "score": 0.263
+        },
+        {
+          "word": "right.",
+          "start": 399.21,
+          "end": 399.33,
+          "score": 0.167
+        }
+      ]
+    },
+    {
+      "start": 399.985,
+      "end": 427.697,
+      "text": " To this day, I don't.",
+      "words": [
+        {
+          "word": "To",
+          "start": 399.985,
+          "end": 402.348,
+          "score": 0.756
+        },
+        {
+          "word": "this",
+          "start": 406.633,
+          "end": 425.474,
+          "score": 0.799
+        },
+        {
+          "word": "day,",
+          "start": 426.676,
+          "end": 427.277,
+          "score": 0.893
+        },
+        {
+          "word": "I",
+          "start": 427.297,
+          "end": 427.317,
+          "score": 0.966
+        },
+        {
+          "word": "don't.",
+          "start": 427.577,
+          "end": 427.697,
+          "score": 0.167
+        }
+      ]
+    },
+    {
+      "start": 428.993,
+      "end": 442.69,
+      "text": " What was your, what were your rules in transit?",
+      "words": [
+        {
+          "word": "What",
+          "start": 428.993,
+          "end": 429.594,
+          "score": 0.556
+        },
+        {
+          "word": "was",
+          "start": 430.174,
+          "end": 430.515,
+          "score": 0.55
+        },
+        {
+          "word": "your,",
+          "start": 430.575,
+          "end": 430.995,
+          "score": 0.879
+        },
+        {
+          "word": "what",
+          "start": 431.196,
+          "end": 431.336,
+          "score": 0.922
+        },
+        {
+          "word": "were",
+          "start": 431.376,
+          "end": 431.536,
+          "score": 0.653
+        },
+        {
+          "word": "your",
+          "start": 431.556,
+          "end": 431.937,
+          "score": 0.701
+        },
+        {
+          "word": "rules",
+          "start": 432.037,
+          "end": 432.577,
+          "score": 0.762
+        },
+        {
+          "word": "in",
+          "start": 440.767,
+          "end": 440.867,
+          "score": 0.786
+        },
+        {
+          "word": "transit?",
+          "start": 440.908,
+          "end": 442.69,
+          "score": 0.651
+        }
+      ]
+    },
+    {
+      "start": 445.553,
+      "end": 451.06,
+      "text": "Basically, they wanted to listen to music or something like that when we were roughhousing, when I was driving.",
+      "words": [
+        {
+          "word": "Basically,",
+          "start": 445.553,
+          "end": 445.894,
+          "score": 0.168
+        },
+        {
+          "word": "they",
+          "start": 445.934,
+          "end": 446.074,
+          "score": 0.738
+        },
+        {
+          "word": "wanted",
+          "start": 446.394,
+          "end": 446.514,
+          "score": 0.144
+        },
+        {
+          "word": "to",
+          "start": 447.135,
+          "end": 447.175,
+          "score": 0.0
+        },
+        {
+          "word": "listen",
+          "start": 447.195,
+          "end": 447.315,
+          "score": 0.0
+        },
+        {
+          "word": "to",
+          "start": 447.335,
+          "end": 447.375,
+          "score": 0.297
+        },
+        {
+          "word": "music",
+          "start": 447.415,
+          "end": 447.596,
+          "score": 0.156
+        },
+        {
+          "word": "or",
+          "start": 447.616,
+          "end": 447.656,
+          "score": 0.346
+        },
+        {
+          "word": "something",
+          "start": 447.716,
+          "end": 447.916,
+          "score": 0.059
+        },
+        {
+          "word": "like",
+          "start": 447.936,
+          "end": 448.036,
+          "score": 0.323
+        },
+        {
+          "word": "that",
+          "start": 448.377,
+          "end": 448.457,
+          "score": 0.031
+        },
+        {
+          "word": "when",
+          "start": 448.477,
+          "end": 448.617,
+          "score": 0.688
+        },
+        {
+          "word": "we",
+          "start": 448.637,
+          "end": 448.697,
+          "score": 0.384
+        },
+        {
+          "word": "were",
+          "start": 448.717,
+          "end": 448.797,
+          "score": 0.109
+        },
+        {
+          "word": "roughhousing,",
+          "start": 448.817,
+          "end": 449.578,
+          "score": 0.545
+        },
+        {
+          "word": "when",
+          "start": 450.139,
+          "end": 450.279,
+          "score": 0.794
+        },
+        {
+          "word": "I",
+          "start": 450.339,
+          "end": 450.359,
+          "score": 0.171
+        },
+        {
+          "word": "was",
+          "start": 450.379,
+          "end": 450.459,
+          "score": 0.481
+        },
+        {
+          "word": "driving.",
+          "start": 450.499,
+          "end": 451.06,
+          "score": 0.724
+        }
+      ]
+    },
+    {
+      "start": 451.44,
+      "end": 454.444,
+      "text": "We'd talk all the time, sometimes.",
+      "words": [
+        {
+          "word": "We'd",
+          "start": 451.44,
+          "end": 451.601,
+          "score": 0.365
+        },
+        {
+          "word": "talk",
+          "start": 451.941,
+          "end": 452.141,
+          "score": 0.45
+        },
+        {
+          "word": "all",
+          "start": 452.281,
+          "end": 452.502,
+          "score": 0.675
+        },
+        {
+          "word": "the",
+          "start": 453.923,
+          "end": 453.983,
+          "score": 0.036
+        },
+        {
+          "word": "time,",
+          "start": 454.003,
+          "end": 454.104,
+          "score": 0.154
+        },
+        {
+          "word": "sometimes.",
+          "start": 454.124,
+          "end": 454.444,
+          "score": 0.269
+        }
+      ]
+    },
+    {
+      "start": 476.817,
+      "end": 485.528,
+      "text": " Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 476.817,
+          "end": 485.428,
+          "score": 0.192
+        },
+        {
+          "word": "you.",
+          "start": 485.448,
+          "end": 485.528,
+          "score": 0.238
+        }
+      ]
+    },
+    {
+      "start": 511.343,
+      "end": 513.591,
+      "text": " Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 511.343,
+          "end": 513.49,
+          "score": 0.198
+        },
+        {
+          "word": "you.",
+          "start": 513.51,
+          "end": 513.591,
+          "score": 0.25
+        }
+      ]
+    },
+    {
+      "start": 569.242,
+      "end": 569.377,
+      "text": " Thank you."
+    },
+    {
+      "start": 626.752,
+      "end": 628.881,
+      "text": " uh... stronger alcohol",
+      "words": [
+        {
+          "word": "uh...",
+          "start": 626.752,
+          "end": 627.462,
+          "score": 0.792
+        },
+        {
+          "word": "stronger",
+          "start": 627.705,
+          "end": 628.09,
+          "score": 0.73
+        },
+        {
+          "word": "alcohol",
+          "start": 628.192,
+          "end": 628.881,
+          "score": 0.919
+        }
+      ]
+    }
+  ]
+}

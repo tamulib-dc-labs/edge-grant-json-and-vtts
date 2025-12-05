@@ -1,0 +1,108 @@
+{
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 7.543,
+      "text": " Whatever men are here, to which ones would you most want to go?",
+      "words": [
+        {
+          "word": "Whatever",
+          "start": 0.031,
+          "end": 3.024,
+          "score": 0.971
+        },
+        {
+          "word": "men",
+          "start": 3.084,
+          "end": 3.305,
+          "score": 0.725
+        },
+        {
+          "word": "are",
+          "start": 3.365,
+          "end": 3.425,
+          "score": 0.218
+        },
+        {
+          "word": "here,",
+          "start": 3.506,
+          "end": 4.349,
+          "score": 0.506
+        },
+        {
+          "word": "to",
+          "start": 4.37,
+          "end": 4.47,
+          "score": 0.968
+        },
+        {
+          "word": "which",
+          "start": 4.51,
+          "end": 4.671,
+          "score": 0.957
+        },
+        {
+          "word": "ones",
+          "start": 4.811,
+          "end": 4.992,
+          "score": 0.828
+        },
+        {
+          "word": "would",
+          "start": 5.093,
+          "end": 5.293,
+          "score": 0.325
+        },
+        {
+          "word": "you",
+          "start": 5.374,
+          "end": 5.555,
+          "score": 0.315
+        },
+        {
+          "word": "most",
+          "start": 5.575,
+          "end": 5.956,
+          "score": 0.3
+        },
+        {
+          "word": "want",
+          "start": 5.976,
+          "end": 6.057,
+          "score": 0.148
+        },
+        {
+          "word": "to",
+          "start": 7.362,
+          "end": 7.402,
+          "score": 0.266
+        },
+        {
+          "word": "go?",
+          "start": 7.483,
+          "end": 7.543,
+          "score": 0.333
+        }
+      ]
+    },
+    {
+      "start": 124.298,
+      "end": 124.927,
+      "text": " Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 124.298,
+          "end": 124.822,
+          "score": 0.173
+        },
+        {
+          "word": "you.",
+          "start": 124.843,
+          "end": 124.927,
+          "score": 0.219
+        }
+      ]
+    }
+  ]
+}

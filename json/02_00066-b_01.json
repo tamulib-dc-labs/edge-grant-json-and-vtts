@@ -1,0 +1,1801 @@
+{
+  "segments": [
+    {
+      "start": 3.473,
+      "end": 8.119,
+      "text": " You were about to tell me about the Presbyterian Church at Northgate.",
+      "words": [
+        {
+          "word": "You",
+          "start": 3.473,
+          "end": 3.713,
+          "score": 0.939
+        },
+        {
+          "word": "were",
+          "start": 4.675,
+          "end": 4.815,
+          "score": 0.974
+        },
+        {
+          "word": "about",
+          "start": 4.855,
+          "end": 5.075,
+          "score": 0.822
+        },
+        {
+          "word": "to",
+          "start": 5.115,
+          "end": 5.195,
+          "score": 0.714
+        },
+        {
+          "word": "tell",
+          "start": 5.275,
+          "end": 5.476,
+          "score": 0.933
+        },
+        {
+          "word": "me",
+          "start": 5.516,
+          "end": 5.616,
+          "score": 0.83
+        },
+        {
+          "word": "about",
+          "start": 5.676,
+          "end": 5.916,
+          "score": 0.834
+        },
+        {
+          "word": "the",
+          "start": 6.056,
+          "end": 6.257,
+          "score": 0.673
+        },
+        {
+          "word": "Presbyterian",
+          "start": 6.437,
+          "end": 7.018,
+          "score": 0.64
+        },
+        {
+          "word": "Church",
+          "start": 7.078,
+          "end": 7.358,
+          "score": 0.87
+        },
+        {
+          "word": "at",
+          "start": 7.418,
+          "end": 7.478,
+          "score": 0.908
+        },
+        {
+          "word": "Northgate.",
+          "start": 7.538,
+          "end": 8.119,
+          "score": 0.799
+        }
+      ]
+    },
+    {
+      "start": 8.199,
+      "end": 9.18,
+      "text": "Yes.",
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 8.199,
+          "end": 9.18,
+          "score": 0.7
+        }
+      ]
+    },
+    {
+      "start": 9.2,
+      "end": 12.464,
+      "text": "The land was given by my father and Frank Anderson.",
+      "words": [
+        {
+          "word": "The",
+          "start": 9.2,
+          "end": 9.32,
+          "score": 0.966
+        },
+        {
+          "word": "land",
+          "start": 9.401,
+          "end": 9.721,
+          "score": 0.882
+        },
+        {
+          "word": "was",
+          "start": 9.821,
+          "end": 9.961,
+          "score": 0.858
+        },
+        {
+          "word": "given",
+          "start": 10.041,
+          "end": 10.342,
+          "score": 0.914
+        },
+        {
+          "word": "by",
+          "start": 10.442,
+          "end": 10.662,
+          "score": 0.874
+        },
+        {
+          "word": "my",
+          "start": 10.802,
+          "end": 10.943,
+          "score": 0.997
+        },
+        {
+          "word": "father",
+          "start": 11.023,
+          "end": 11.423,
+          "score": 0.863
+        },
+        {
+          "word": "and",
+          "start": 11.483,
+          "end": 11.563,
+          "score": 0.692
+        },
+        {
+          "word": "Frank",
+          "start": 11.623,
+          "end": 11.924,
+          "score": 0.837
+        },
+        {
+          "word": "Anderson.",
+          "start": 12.044,
+          "end": 12.464,
+          "score": 0.876
+        }
+      ]
+    },
+    {
+      "start": 12.504,
+      "end": 13.306,
+      "text": "They gave the land.",
+      "words": [
+        {
+          "word": "They",
+          "start": 12.504,
+          "end": 12.605,
+          "score": 0.903
+        },
+        {
+          "word": "gave",
+          "start": 12.665,
+          "end": 12.845,
+          "score": 0.72
+        },
+        {
+          "word": "the",
+          "start": 12.905,
+          "end": 13.025,
+          "score": 0.702
+        },
+        {
+          "word": "land.",
+          "start": 13.065,
+          "end": 13.306,
+          "score": 0.943
+        }
+      ]
+    },
+    {
+      "start": 13.766,
+      "end": 18.412,
+      "text": "The church, the first one, was brought from Victoria after World War II.",
+      "words": [
+        {
+          "word": "The",
+          "start": 13.766,
+          "end": 13.886,
+          "score": 0.977
+        },
+        {
+          "word": "church,",
+          "start": 13.966,
+          "end": 14.347,
+          "score": 0.859
+        },
+        {
+          "word": "the",
+          "start": 14.467,
+          "end": 14.567,
+          "score": 0.901
+        },
+        {
+          "word": "first",
+          "start": 14.627,
+          "end": 14.948,
+          "score": 0.88
+        },
+        {
+          "word": "one,",
+          "start": 15.128,
+          "end": 15.228,
+          "score": 0.964
+        },
+        {
+          "word": "was",
+          "start": 15.548,
+          "end": 15.689,
+          "score": 0.921
+        },
+        {
+          "word": "brought",
+          "start": 15.789,
+          "end": 16.069,
+          "score": 0.932
+        },
+        {
+          "word": "from",
+          "start": 16.149,
+          "end": 16.289,
+          "score": 0.979
+        },
+        {
+          "word": "Victoria",
+          "start": 16.409,
+          "end": 17.07,
+          "score": 0.86
+        },
+        {
+          "word": "after",
+          "start": 17.21,
+          "end": 17.451,
+          "score": 0.795
+        },
+        {
+          "word": "World",
+          "start": 17.511,
+          "end": 17.811,
+          "score": 0.672
+        },
+        {
+          "word": "War",
+          "start": 17.831,
+          "end": 18.092,
+          "score": 0.846
+        },
+        {
+          "word": "II.",
+          "start": 18.152,
+          "end": 18.412,
+          "score": 0.606
+        }
+      ]
+    },
+    {
+      "start": 18.752,
+      "end": 26.823,
+      "text": "They brought an old church from the military church and put there, and then it was built on from there.",
+      "words": [
+        {
+          "word": "They",
+          "start": 18.752,
+          "end": 18.893,
+          "score": 0.571
+        },
+        {
+          "word": "brought",
+          "start": 19.333,
+          "end": 19.774,
+          "score": 0.816
+        },
+        {
+          "word": "an",
+          "start": 19.814,
+          "end": 19.894,
+          "score": 0.714
+        },
+        {
+          "word": "old",
+          "start": 19.994,
+          "end": 20.134,
+          "score": 0.808
+        },
+        {
+          "word": "church",
+          "start": 20.234,
+          "end": 20.535,
+          "score": 0.807
+        },
+        {
+          "word": "from",
+          "start": 20.775,
+          "end": 20.955,
+          "score": 0.915
+        },
+        {
+          "word": "the",
+          "start": 21.476,
+          "end": 21.636,
+          "score": 0.74
+        },
+        {
+          "word": "military",
+          "start": 21.796,
+          "end": 23.138,
+          "score": 0.849
+        },
+        {
+          "word": "church",
+          "start": 23.218,
+          "end": 23.559,
+          "score": 0.777
+        },
+        {
+          "word": "and",
+          "start": 23.639,
+          "end": 23.719,
+          "score": 0.669
+        },
+        {
+          "word": "put",
+          "start": 23.799,
+          "end": 23.999,
+          "score": 0.886
+        },
+        {
+          "word": "there,",
+          "start": 24.119,
+          "end": 24.38,
+          "score": 0.841
+        },
+        {
+          "word": "and",
+          "start": 24.4,
+          "end": 24.48,
+          "score": 0.506
+        },
+        {
+          "word": "then",
+          "start": 24.54,
+          "end": 24.72,
+          "score": 0.983
+        },
+        {
+          "word": "it",
+          "start": 24.98,
+          "end": 25.04,
+          "score": 0.974
+        },
+        {
+          "word": "was",
+          "start": 25.101,
+          "end": 25.241,
+          "score": 0.722
+        },
+        {
+          "word": "built",
+          "start": 25.361,
+          "end": 25.621,
+          "score": 0.817
+        },
+        {
+          "word": "on",
+          "start": 26.062,
+          "end": 26.182,
+          "score": 0.938
+        },
+        {
+          "word": "from",
+          "start": 26.242,
+          "end": 26.402,
+          "score": 0.892
+        },
+        {
+          "word": "there.",
+          "start": 26.502,
+          "end": 26.823,
+          "score": 0.893
+        }
+      ]
+    },
+    {
+      "start": 27.544,
+      "end": 30.207,
+      "text": "How long had your father owned that land?",
+      "words": [
+        {
+          "word": "How",
+          "start": 27.544,
+          "end": 28.184,
+          "score": 0.919
+        },
+        {
+          "word": "long",
+          "start": 28.225,
+          "end": 28.465,
+          "score": 0.552
+        },
+        {
+          "word": "had",
+          "start": 28.545,
+          "end": 28.685,
+          "score": 0.978
+        },
+        {
+          "word": "your",
+          "start": 28.725,
+          "end": 28.905,
+          "score": 0.891
+        },
+        {
+          "word": "father",
+          "start": 28.965,
+          "end": 29.306,
+          "score": 0.854
+        },
+        {
+          "word": "owned",
+          "start": 29.446,
+          "end": 29.586,
+          "score": 0.715
+        },
+        {
+          "word": "that",
+          "start": 29.626,
+          "end": 29.786,
+          "score": 0.562
+        },
+        {
+          "word": "land?",
+          "start": 29.867,
+          "end": 30.207,
+          "score": 0.817
+        }
+      ]
+    },
+    {
+      "start": 30.473,
+      "end": 32.656,
+      "text": " Oh, he didn't own it.",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 30.473,
+          "end": 31.595,
+          "score": 0.687
+        },
+        {
+          "word": "he",
+          "start": 31.635,
+          "end": 31.715,
+          "score": 0.942
+        },
+        {
+          "word": "didn't",
+          "start": 31.755,
+          "end": 31.975,
+          "score": 0.795
+        },
+        {
+          "word": "own",
+          "start": 32.095,
+          "end": 32.195,
+          "score": 0.741
+        },
+        {
+          "word": "it.",
+          "start": 32.576,
+          "end": 32.656,
+          "score": 0.476
+        }
+      ]
+    },
+    {
+      "start": 32.676,
+      "end": 33.958,
+      "text": "They bought it to give to the church.",
+      "words": [
+        {
+          "word": "They",
+          "start": 32.676,
+          "end": 32.856,
+          "score": 0.72
+        },
+        {
+          "word": "bought",
+          "start": 32.896,
+          "end": 33.117,
+          "score": 0.825
+        },
+        {
+          "word": "it",
+          "start": 33.177,
+          "end": 33.217,
+          "score": 0.984
+        },
+        {
+          "word": "to",
+          "start": 33.237,
+          "end": 33.357,
+          "score": 0.768
+        },
+        {
+          "word": "give",
+          "start": 33.417,
+          "end": 33.577,
+          "score": 0.916
+        },
+        {
+          "word": "to",
+          "start": 33.597,
+          "end": 33.638,
+          "score": 0.4
+        },
+        {
+          "word": "the",
+          "start": 33.658,
+          "end": 33.758,
+          "score": 0.318
+        },
+        {
+          "word": "church.",
+          "start": 33.778,
+          "end": 33.958,
+          "score": 0.216
+        }
+      ]
+    },
+    {
+      "start": 33.978,
+      "end": 34.779,
+      "text": "Oh, they bought it.",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 33.978,
+          "end": 34.038,
+          "score": 0.548
+        },
+        {
+          "word": "they",
+          "start": 34.058,
+          "end": 34.198,
+          "score": 0.825
+        },
+        {
+          "word": "bought",
+          "start": 34.238,
+          "end": 34.439,
+          "score": 0.955
+        },
+        {
+          "word": "it.",
+          "start": 34.719,
+          "end": 34.779,
+          "score": 0.017
+        }
+      ]
+    },
+    {
+      "start": 34.799,
+      "end": 35.961,
+      "text": "They bought it for the church.",
+      "words": [
+        {
+          "word": "They",
+          "start": 34.799,
+          "end": 34.899,
+          "score": 0.602
+        },
+        {
+          "word": "bought",
+          "start": 34.919,
+          "end": 35.1,
+          "score": 0.942
+        },
+        {
+          "word": "it",
+          "start": 35.14,
+          "end": 35.2,
+          "score": 0.72
+        },
+        {
+          "word": "for",
+          "start": 35.28,
+          "end": 35.46,
+          "score": 0.881
+        },
+        {
+          "word": "the",
+          "start": 35.5,
+          "end": 35.62,
+          "score": 0.82
+        },
+        {
+          "word": "church.",
+          "start": 35.66,
+          "end": 35.961,
+          "score": 0.831
+        }
+      ]
+    },
+    {
+      "start": 36.061,
+      "end": 37.523,
+      "text": "Who'd they buy it from, do you know?",
+      "words": [
+        {
+          "word": "Who'd",
+          "start": 36.061,
+          "end": 36.241,
+          "score": 0.726
+        },
+        {
+          "word": "they",
+          "start": 36.281,
+          "end": 36.422,
+          "score": 0.963
+        },
+        {
+          "word": "buy",
+          "start": 36.462,
+          "end": 36.662,
+          "score": 0.731
+        },
+        {
+          "word": "it",
+          "start": 36.702,
+          "end": 36.742,
+          "score": 0.746
+        },
+        {
+          "word": "from,",
+          "start": 36.802,
+          "end": 37.082,
+          "score": 0.806
+        },
+        {
+          "word": "do",
+          "start": 37.123,
+          "end": 37.183,
+          "score": 0.953
+        },
+        {
+          "word": "you",
+          "start": 37.203,
+          "end": 37.283,
+          "score": 0.754
+        },
+        {
+          "word": "know?",
+          "start": 37.323,
+          "end": 37.523,
+          "score": 0.805
+        }
+      ]
+    },
+    {
+      "start": 37.603,
+      "end": 38.505,
+      "text": "Was it the Boyettes?",
+      "words": [
+        {
+          "word": "Was",
+          "start": 37.603,
+          "end": 37.763,
+          "score": 0.711
+        },
+        {
+          "word": "it",
+          "start": 37.804,
+          "end": 37.844,
+          "score": 0.906
+        },
+        {
+          "word": "the",
+          "start": 37.964,
+          "end": 38.024,
+          "score": 0.001
+        },
+        {
+          "word": "Boyettes?",
+          "start": 38.044,
+          "end": 38.505,
+          "score": 0.541
+        }
+      ]
+    },
+    {
+      "start": 38.845,
+      "end": 40.928,
+      "text": "I think Boyette, I guess.",
+      "words": [
+        {
+          "word": "I",
+          "start": 38.845,
+          "end": 38.905,
+          "score": 0.978
+        },
+        {
+          "word": "think",
+          "start": 39.005,
+          "end": 39.246,
+          "score": 0.947
+        },
+        {
+          "word": "Boyette,",
+          "start": 39.907,
+          "end": 40.347,
+          "score": 0.67
+        },
+        {
+          "word": "I",
+          "start": 40.427,
+          "end": 40.487,
+          "score": 0.947
+        },
+        {
+          "word": "guess.",
+          "start": 40.547,
+          "end": 40.928,
+          "score": 0.714
+        }
+      ]
+    },
+    {
+      "start": 41.589,
+      "end": 43.291,
+      "text": "Have any idea what they paid for it?",
+      "words": [
+        {
+          "word": "Have",
+          "start": 41.589,
+          "end": 41.749,
+          "score": 0.882
+        },
+        {
+          "word": "any",
+          "start": 41.809,
+          "end": 41.949,
+          "score": 0.903
+        },
+        {
+          "word": "idea",
+          "start": 42.05,
+          "end": 42.25,
+          "score": 0.903
+        },
+        {
+          "word": "what",
+          "start": 42.31,
+          "end": 42.41,
+          "score": 0.902
+        },
+        {
+          "word": "they",
+          "start": 42.45,
+          "end": 42.61,
+          "score": 0.67
+        },
+        {
+          "word": "paid",
+          "start": 42.671,
+          "end": 42.871,
+          "score": 0.818
+        },
+        {
+          "word": "for",
+          "start": 42.951,
+          "end": 43.151,
+          "score": 0.953
+        },
+        {
+          "word": "it?",
+          "start": 43.231,
+          "end": 43.291,
+          "score": 0.978
+        }
+      ]
+    },
+    {
+      "start": 43.311,
+      "end": 43.372,
+      "text": "No.",
+      "words": [
+        {
+          "word": "No.",
+          "start": 43.311,
+          "end": 43.372,
+          "score": 0.663
+        }
+      ]
+    },
+    {
+      "start": 44.613,
+      "end": 47.117,
+      "text": "But couldn't bid a lot because he didn't have that much.",
+      "words": [
+        {
+          "word": "But",
+          "start": 44.613,
+          "end": 44.733,
+          "score": 0.993
+        },
+        {
+          "word": "couldn't",
+          "start": 44.834,
+          "end": 45.094,
+          "score": 0.775
+        },
+        {
+          "word": "bid",
+          "start": 45.134,
+          "end": 45.254,
+          "score": 0.593
+        },
+        {
+          "word": "a",
+          "start": 45.314,
+          "end": 45.334,
+          "score": 0.858
+        },
+        {
+          "word": "lot",
+          "start": 45.414,
+          "end": 45.635,
+          "score": 0.888
+        },
+        {
+          "word": "because",
+          "start": 45.775,
+          "end": 45.915,
+          "score": 0.258
+        },
+        {
+          "word": "he",
+          "start": 45.975,
+          "end": 46.055,
+          "score": 0.948
+        },
+        {
+          "word": "didn't",
+          "start": 46.095,
+          "end": 46.296,
+          "score": 0.926
+        },
+        {
+          "word": "have",
+          "start": 46.376,
+          "end": 46.536,
+          "score": 0.958
+        },
+        {
+          "word": "that",
+          "start": 46.596,
+          "end": 46.736,
+          "score": 0.907
+        },
+        {
+          "word": "much.",
+          "start": 46.816,
+          "end": 47.117,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "start": 48.078,
+      "end": 48.279,
+      "text": "All right.",
+      "words": [
+        {
+          "word": "All",
+          "start": 48.078,
+          "end": 48.138,
+          "score": 0.0
+        },
+        {
+          "word": "right.",
+          "start": 48.158,
+          "end": 48.279,
+          "score": 0.281
+        }
+      ]
+    },
+    {
+      "start": 48.459,
+      "end": 53.426,
+      "text": "Was there a Presbyterian congregation in existence before that church?",
+      "words": [
+        {
+          "word": "Was",
+          "start": 48.459,
+          "end": 48.719,
+          "score": 0.894
+        },
+        {
+          "word": "there",
+          "start": 48.779,
+          "end": 49.0,
+          "score": 0.681
+        },
+        {
+          "word": "a",
+          "start": 49.16,
+          "end": 49.22,
+          "score": 0.597
+        },
+        {
+          "word": "Presbyterian",
+          "start": 49.34,
+          "end": 50.201,
+          "score": 0.908
+        },
+        {
+          "word": "congregation",
+          "start": 50.301,
+          "end": 51.203,
+          "score": 0.826
+        },
+        {
+          "word": "in",
+          "start": 51.383,
+          "end": 51.463,
+          "score": 0.965
+        },
+        {
+          "word": "existence",
+          "start": 51.543,
+          "end": 52.224,
+          "score": 0.943
+        },
+        {
+          "word": "before",
+          "start": 52.364,
+          "end": 52.745,
+          "score": 0.825
+        },
+        {
+          "word": "that",
+          "start": 52.785,
+          "end": 53.025,
+          "score": 0.756
+        },
+        {
+          "word": "church?",
+          "start": 53.085,
+          "end": 53.426,
+          "score": 0.759
+        }
+      ]
+    },
+    {
+      "start": 53.927,
+      "end": 54.187,
+      "text": "Yes.",
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 53.927,
+          "end": 54.187,
+          "score": 0.721
+        }
+      ]
+    },
+    {
+      "start": 54.848,
+      "end": 58.273,
+      "text": "We went to church in the YMCA.",
+      "words": [
+        {
+          "word": "We",
+          "start": 54.848,
+          "end": 55.068,
+          "score": 0.808
+        },
+        {
+          "word": "went",
+          "start": 55.168,
+          "end": 55.549,
+          "score": 0.78
+        },
+        {
+          "word": "to",
+          "start": 56.49,
+          "end": 56.631,
+          "score": 0.714
+        },
+        {
+          "word": "church",
+          "start": 56.691,
+          "end": 56.991,
+          "score": 0.779
+        },
+        {
+          "word": "in",
+          "start": 57.071,
+          "end": 57.171,
+          "score": 0.891
+        },
+        {
+          "word": "the",
+          "start": 57.191,
+          "end": 57.251,
+          "score": 0.879
+        },
+        {
+          "word": "YMCA.",
+          "start": 57.432,
+          "end": 58.273,
+          "score": 0.828
+        }
+      ]
+    },
+    {
+      "start": 58.974,
+      "end": 59.755,
+      "text": "And...",
+      "words": [
+        {
+          "word": "And...",
+          "start": 58.974,
+          "end": 59.755,
+          "score": 0.899
+        }
+      ]
+    },
+    {
+      "start": 62.384,
+      "end": 77.143,
+      "text": " I know we went and the Episcopalians went in the YMCA, but because Frank, my little brother, he always sat outside and read the funny papers while we were in the church.",
+      "words": [
+        {
+          "word": "I",
+          "start": 62.384,
+          "end": 62.544,
+          "score": 0.88
+        },
+        {
+          "word": "know",
+          "start": 62.584,
+          "end": 62.825,
+          "score": 0.781
+        },
+        {
+          "word": "we",
+          "start": 63.165,
+          "end": 63.305,
+          "score": 0.994
+        },
+        {
+          "word": "went",
+          "start": 63.365,
+          "end": 63.606,
+          "score": 0.919
+        },
+        {
+          "word": "and",
+          "start": 63.786,
+          "end": 63.886,
+          "score": 0.822
+        },
+        {
+          "word": "the",
+          "start": 64.326,
+          "end": 64.427,
+          "score": 0.937
+        },
+        {
+          "word": "Episcopalians",
+          "start": 64.487,
+          "end": 65.989,
+          "score": 0.738
+        },
+        {
+          "word": "went",
+          "start": 66.069,
+          "end": 66.269,
+          "score": 0.889
+        },
+        {
+          "word": "in",
+          "start": 66.429,
+          "end": 66.509,
+          "score": 0.845
+        },
+        {
+          "word": "the",
+          "start": 66.569,
+          "end": 66.629,
+          "score": 0.801
+        },
+        {
+          "word": "YMCA,",
+          "start": 66.87,
+          "end": 67.491,
+          "score": 0.861
+        },
+        {
+          "word": "but",
+          "start": 67.551,
+          "end": 67.691,
+          "score": 0.65
+        },
+        {
+          "word": "because",
+          "start": 68.472,
+          "end": 68.772,
+          "score": 0.846
+        },
+        {
+          "word": "Frank,",
+          "start": 68.852,
+          "end": 69.213,
+          "score": 0.952
+        },
+        {
+          "word": "my",
+          "start": 69.253,
+          "end": 69.493,
+          "score": 0.965
+        },
+        {
+          "word": "little",
+          "start": 70.174,
+          "end": 70.394,
+          "score": 0.927
+        },
+        {
+          "word": "brother,",
+          "start": 70.414,
+          "end": 70.735,
+          "score": 0.82
+        },
+        {
+          "word": "he",
+          "start": 71.355,
+          "end": 71.456,
+          "score": 0.99
+        },
+        {
+          "word": "always",
+          "start": 71.556,
+          "end": 71.816,
+          "score": 0.798
+        },
+        {
+          "word": "sat",
+          "start": 71.896,
+          "end": 72.116,
+          "score": 0.983
+        },
+        {
+          "word": "outside",
+          "start": 72.217,
+          "end": 72.937,
+          "score": 0.903
+        },
+        {
+          "word": "and",
+          "start": 73.278,
+          "end": 73.358,
+          "score": 0.804
+        },
+        {
+          "word": "read",
+          "start": 73.418,
+          "end": 73.618,
+          "score": 0.791
+        },
+        {
+          "word": "the",
+          "start": 73.658,
+          "end": 73.779,
+          "score": 0.721
+        },
+        {
+          "word": "funny",
+          "start": 73.899,
+          "end": 74.159,
+          "score": 0.994
+        },
+        {
+          "word": "papers",
+          "start": 74.219,
+          "end": 74.62,
+          "score": 0.836
+        },
+        {
+          "word": "while",
+          "start": 74.72,
+          "end": 74.94,
+          "score": 0.974
+        },
+        {
+          "word": "we",
+          "start": 75.0,
+          "end": 75.14,
+          "score": 0.98
+        },
+        {
+          "word": "were",
+          "start": 75.18,
+          "end": 75.421,
+          "score": 0.632
+        },
+        {
+          "word": "in",
+          "start": 76.142,
+          "end": 76.262,
+          "score": 0.662
+        },
+        {
+          "word": "the",
+          "start": 76.322,
+          "end": 76.442,
+          "score": 0.973
+        },
+        {
+          "word": "church.",
+          "start": 76.542,
+          "end": 77.143,
+          "score": 0.792
+        }
+      ]
+    },
+    {
+      "start": 78.825,
+      "end": 82.95,
+      "text": "About how big was the congregation when that new building got here?",
+      "words": [
+        {
+          "word": "About",
+          "start": 78.825,
+          "end": 79.145,
+          "score": 0.908
+        },
+        {
+          "word": "how",
+          "start": 79.245,
+          "end": 79.426,
+          "score": 0.94
+        },
+        {
+          "word": "big",
+          "start": 79.526,
+          "end": 79.786,
+          "score": 0.948
+        },
+        {
+          "word": "was",
+          "start": 79.866,
+          "end": 80.006,
+          "score": 0.793
+        },
+        {
+          "word": "the",
+          "start": 80.087,
+          "end": 80.167,
+          "score": 0.853
+        },
+        {
+          "word": "congregation",
+          "start": 80.227,
+          "end": 81.068,
+          "score": 0.714
+        },
+        {
+          "word": "when",
+          "start": 81.188,
+          "end": 81.368,
+          "score": 0.6
+        },
+        {
+          "word": "that",
+          "start": 81.428,
+          "end": 81.628,
+          "score": 0.852
+        },
+        {
+          "word": "new",
+          "start": 81.809,
+          "end": 81.989,
+          "score": 0.849
+        },
+        {
+          "word": "building",
+          "start": 82.049,
+          "end": 82.45,
+          "score": 0.783
+        },
+        {
+          "word": "got",
+          "start": 82.51,
+          "end": 82.71,
+          "score": 0.955
+        },
+        {
+          "word": "here?",
+          "start": 82.75,
+          "end": 82.95,
+          "score": 0.818
+        }
+      ]
+    },
+    {
+      "start": 83.271,
+      "end": 84.592,
+      "text": "I don't have any idea.",
+      "words": [
+        {
+          "word": "I",
+          "start": 83.271,
+          "end": 83.311,
+          "score": 0.998
+        },
+        {
+          "word": "don't",
+          "start": 83.351,
+          "end": 83.511,
+          "score": 0.868
+        },
+        {
+          "word": "have",
+          "start": 83.571,
+          "end": 83.771,
+          "score": 0.913
+        },
+        {
+          "word": "any",
+          "start": 83.871,
+          "end": 84.032,
+          "score": 0.897
+        },
+        {
+          "word": "idea.",
+          "start": 84.212,
+          "end": 84.592,
+          "score": 0.967
+        }
+      ]
+    },
+    {
+      "start": 85.413,
+      "end": 86.755,
+      "text": "Who was the first minister?",
+      "words": [
+        {
+          "word": "Who",
+          "start": 85.413,
+          "end": 85.533,
+          "score": 0.987
+        },
+        {
+          "word": "was",
+          "start": 85.574,
+          "end": 85.674,
+          "score": 0.947
+        },
+        {
+          "word": "the",
+          "start": 85.734,
+          "end": 85.794,
+          "score": 0.838
+        },
+        {
+          "word": "first",
+          "start": 85.854,
+          "end": 86.074,
+          "score": 0.735
+        },
+        {
+          "word": "minister?",
+          "start": 86.174,
+          "end": 86.755,
+          "score": 0.851
+        }
+      ]
+    },
+    {
+      "start": 90.025,
+      "end": 93.109,
+      "text": " I guess Mr. Anderson, I don't know.",
+      "words": [
+        {
+          "word": "I",
+          "start": 90.025,
+          "end": 91.427,
+          "score": 0.924
+        },
+        {
+          "word": "guess",
+          "start": 91.487,
+          "end": 91.727,
+          "score": 0.893
+        },
+        {
+          "word": "Mr.",
+          "start": 91.788,
+          "end": 91.968,
+          "score": 0.637
+        },
+        {
+          "word": "Anderson,",
+          "start": 92.208,
+          "end": 92.609,
+          "score": 0.952
+        },
+        {
+          "word": "I",
+          "start": 92.689,
+          "end": 92.769,
+          "score": 0.619
+        },
+        {
+          "word": "don't",
+          "start": 92.789,
+          "end": 92.909,
+          "score": 0.777
+        },
+        {
+          "word": "know.",
+          "start": 92.929,
+          "end": 93.109,
+          "score": 0.677
+        }
+      ]
+    },
+    {
+      "start": 93.129,
+      "end": 96.574,
+      "text": "He was there so long, but I'm not sure that he was.",
+      "words": [
+        {
+          "word": "He",
+          "start": 93.129,
+          "end": 93.23,
+          "score": 0.991
+        },
+        {
+          "word": "was",
+          "start": 93.27,
+          "end": 93.39,
+          "score": 0.996
+        },
+        {
+          "word": "there",
+          "start": 93.43,
+          "end": 93.63,
+          "score": 0.892
+        },
+        {
+          "word": "so",
+          "start": 93.69,
+          "end": 93.871,
+          "score": 0.888
+        },
+        {
+          "word": "long,",
+          "start": 93.911,
+          "end": 94.231,
+          "score": 0.93
+        },
+        {
+          "word": "but",
+          "start": 94.291,
+          "end": 94.411,
+          "score": 0.907
+        },
+        {
+          "word": "I'm",
+          "start": 94.491,
+          "end": 94.632,
+          "score": 0.842
+        },
+        {
+          "word": "not",
+          "start": 94.672,
+          "end": 94.852,
+          "score": 0.803
+        },
+        {
+          "word": "sure",
+          "start": 94.932,
+          "end": 95.152,
+          "score": 0.743
+        },
+        {
+          "word": "that",
+          "start": 95.192,
+          "end": 95.793,
+          "score": 0.624
+        },
+        {
+          "word": "he",
+          "start": 95.934,
+          "end": 96.054,
+          "score": 0.484
+        },
+        {
+          "word": "was.",
+          "start": 96.114,
+          "end": 96.574,
+          "score": 0.969
+        }
+      ]
+    },
+    {
+      "start": 98.037,
+      "end": 105.748,
+      "text": "Who were some of the other families other than the Boltons and the...",
+      "words": [
+        {
+          "word": "Who",
+          "start": 98.037,
+          "end": 98.397,
+          "score": 0.911
+        },
+        {
+          "word": "were",
+          "start": 99.639,
+          "end": 99.919,
+          "score": 0.749
+        },
+        {
+          "word": "some",
+          "start": 99.959,
+          "end": 100.1,
+          "score": 0.865
+        },
+        {
+          "word": "of",
+          "start": 100.14,
+          "end": 100.18,
+          "score": 0.976
+        },
+        {
+          "word": "the",
+          "start": 100.22,
+          "end": 100.28,
+          "score": 0.669
+        },
+        {
+          "word": "other",
+          "start": 100.38,
+          "end": 100.56,
+          "score": 0.794
+        },
+        {
+          "word": "families",
+          "start": 100.64,
+          "end": 101.141,
+          "score": 0.823
+        },
+        {
+          "word": "other",
+          "start": 101.181,
+          "end": 101.582,
+          "score": 0.545
+        },
+        {
+          "word": "than",
+          "start": 101.662,
+          "end": 101.942,
+          "score": 0.814
+        },
+        {
+          "word": "the",
+          "start": 101.962,
+          "end": 102.022,
+          "score": 0.332
+        },
+        {
+          "word": "Boltons",
+          "start": 104.025,
+          "end": 104.666,
+          "score": 0.852
+        },
+        {
+          "word": "and",
+          "start": 104.806,
+          "end": 104.926,
+          "score": 0.837
+        },
+        {
+          "word": "the...",
+          "start": 104.967,
+          "end": 105.748,
+          "score": 0.962
+        }
+      ]
+    },
+    {
+      "start": 106.108,
+      "end": 115.822,
+      "text": "The Adrenses and the... Well, I just don't know.",
+      "words": [
+        {
+          "word": "The",
+          "start": 106.108,
+          "end": 106.248,
+          "score": 0.83
+        },
+        {
+          "word": "Adrenses",
+          "start": 106.389,
+          "end": 107.31,
+          "score": 0.869
+        },
+        {
+          "word": "and",
+          "start": 107.33,
+          "end": 107.51,
+          "score": 0.868
+        },
+        {
+          "word": "the...",
+          "start": 107.57,
+          "end": 108.572,
+          "score": 0.885
+        },
+        {
+          "word": "Well,",
+          "start": 112.397,
+          "end": 112.618,
+          "score": 0.849
+        },
+        {
+          "word": "I",
+          "start": 112.658,
+          "end": 112.678,
+          "score": 0.493
+        },
+        {
+          "word": "just",
+          "start": 114.761,
+          "end": 114.941,
+          "score": 0.653
+        },
+        {
+          "word": "don't",
+          "start": 115.001,
+          "end": 115.221,
+          "score": 0.85
+        },
+        {
+          "word": "know.",
+          "start": 115.261,
+          "end": 115.822,
+          "score": 0.802
+        }
+      ]
+    },
+    {
+      "start": 115.842,
+      "end": 117.805,
+      "text": "I can't think of who that was from.",
+      "words": [
+        {
+          "word": "I",
+          "start": 115.842,
+          "end": 115.862,
+          "score": 0.0
+        },
+        {
+          "word": "can't",
+          "start": 115.882,
+          "end": 116.143,
+          "score": 0.807
+        },
+        {
+          "word": "think",
+          "start": 116.223,
+          "end": 116.443,
+          "score": 0.929
+        },
+        {
+          "word": "of",
+          "start": 116.583,
+          "end": 117.424,
+          "score": 0.478
+        },
+        {
+          "word": "who",
+          "start": 117.445,
+          "end": 117.505,
+          "score": 0.0
+        },
+        {
+          "word": "that",
+          "start": 117.525,
+          "end": 117.605,
+          "score": 0.0
+        },
+        {
+          "word": "was",
+          "start": 117.625,
+          "end": 117.685,
+          "score": 0.0
+        },
+        {
+          "word": "from.",
+          "start": 117.705,
+          "end": 117.805,
+          "score": 0.2
+        }
+      ]
+    },
+    {
+      "start": 118.527,
+      "end": 121.251,
+      "text": " There were quite a few, though.",
+      "words": [
+        {
+          "word": "There",
+          "start": 118.527,
+          "end": 119.859,
+          "score": 0.701
+        },
+        {
+          "word": "were",
+          "start": 119.98,
+          "end": 120.121,
+          "score": 0.414
+        },
+        {
+          "word": "quite",
+          "start": 120.242,
+          "end": 120.485,
+          "score": 0.902
+        },
+        {
+          "word": "a",
+          "start": 120.545,
+          "end": 120.565,
+          "score": 0.909
+        },
+        {
+          "word": "few,",
+          "start": 120.646,
+          "end": 120.929,
+          "score": 0.784
+        },
+        {
+          "word": "though.",
+          "start": 120.989,
+          "end": 121.251,
+          "score": 0.946
+        }
+      ]
+    },
+    {
+      "start": 121.716,
+      "end": 122.563,
+      "text": "Quite a few.",
+      "words": [
+        {
+          "word": "Quite",
+          "start": 121.716,
+          "end": 121.978,
+          "score": 0.685
+        },
+        {
+          "word": "a",
+          "start": 121.998,
+          "end": 122.059,
+          "score": 0.4
+        },
+        {
+          "word": "few.",
+          "start": 122.079,
+          "end": 122.563,
+          "score": 0.635
+        }
+      ]
+    }
+  ]
+}
