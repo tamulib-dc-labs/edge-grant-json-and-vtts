@@ -1,0 +1,4982 @@
+{
+  "segments": [
+    {
+      "start": 2.22,
+      "end": 8.18,
+      "text": " With Mr. Evans on the 11th of April, 1999,",
+      "words": [
+        {
+          "word": "With",
+          "start": 2.22,
+          "end": 2.925,
+          "score": 0.744
+        },
+        {
+          "word": "Mr.",
+          "start": 2.985,
+          "end": 3.267,
+          "score": 0.78
+        },
+        {
+          "word": "Evans",
+          "start": 3.408,
+          "end": 3.791,
+          "score": 0.875
+        },
+        {
+          "word": "on",
+          "start": 4.193,
+          "end": 4.314,
+          "score": 0.846
+        },
+        {
+          "word": "the",
+          "start": 4.435,
+          "end": 4.636,
+          "score": 0.726
+        },
+        {
+          "word": "11th",
+          "start": 4.656,
+          "end": 6.187,
+          "score": 0.697
+        },
+        {
+          "word": "of",
+          "start": 6.267,
+          "end": 6.308,
+          "score": 0.992
+        },
+        {
+          "word": "April,",
+          "start": 6.469,
+          "end": 6.932,
+          "score": 0.829
+        },
+        {
+          "word": "1999,",
+          "start": 6.952,
+          "end": 8.18,
+          "score": 0.876
+        }
+      ]
+    },
+    {
+      "start": 8.94,
+      "end": 13.42,
+      "text": " the anniversary of the first shots at Fort Sumter",
+      "words": [
+        {
+          "word": "the",
+          "start": 8.94,
+          "end": 9.808,
+          "score": 0.704
+        },
+        {
+          "word": "anniversary",
+          "start": 9.949,
+          "end": 10.776,
+          "score": 0.909
+        },
+        {
+          "word": "of",
+          "start": 10.958,
+          "end": 11.019,
+          "score": 0.998
+        },
+        {
+          "word": "the",
+          "start": 11.059,
+          "end": 11.18,
+          "score": 0.736
+        },
+        {
+          "word": "first",
+          "start": 11.301,
+          "end": 11.604,
+          "score": 0.805
+        },
+        {
+          "word": "shots",
+          "start": 11.765,
+          "end": 12.209,
+          "score": 0.994
+        },
+        {
+          "word": "at",
+          "start": 12.472,
+          "end": 12.552,
+          "score": 0.6
+        },
+        {
+          "word": "Fort",
+          "start": 12.673,
+          "end": 12.956,
+          "score": 0.929
+        },
+        {
+          "word": "Sumter",
+          "start": 13.037,
+          "end": 13.42,
+          "score": 0.509
+        }
+      ]
+    },
+    {
+      "start": 13.4,
+      "end": 18.37,
+      "text": " that started the Civil War in 1861.",
+      "words": [
+        {
+          "word": "that",
+          "start": 13.4,
+          "end": 14.245,
+          "score": 0.96
+        },
+        {
+          "word": "started",
+          "start": 14.326,
+          "end": 14.748,
+          "score": 0.842
+        },
+        {
+          "word": "the",
+          "start": 14.768,
+          "end": 14.829,
+          "score": 0.333
+        },
+        {
+          "word": "Civil",
+          "start": 14.99,
+          "end": 15.312,
+          "score": 0.878
+        },
+        {
+          "word": "War",
+          "start": 15.372,
+          "end": 15.714,
+          "score": 0.905
+        },
+        {
+          "word": "in",
+          "start": 17.102,
+          "end": 17.183,
+          "score": 0.984
+        },
+        {
+          "word": "1861.",
+          "start": 17.243,
+          "end": 18.37,
+          "score": 0.911
+        }
+      ]
+    },
+    {
+      "start": 19.47,
+      "end": 22.45,
+      "text": " Happened to read the paper today.",
+      "words": [
+        {
+          "word": "Happened",
+          "start": 19.47,
+          "end": 20.504,
+          "score": 0.776
+        },
+        {
+          "word": "to",
+          "start": 20.545,
+          "end": 20.585,
+          "score": 0.675
+        },
+        {
+          "word": "read",
+          "start": 20.666,
+          "end": 20.889,
+          "score": 0.833
+        },
+        {
+          "word": "the",
+          "start": 20.93,
+          "end": 21.254,
+          "score": 0.805
+        },
+        {
+          "word": "paper",
+          "start": 21.295,
+          "end": 22.045,
+          "score": 0.536
+        },
+        {
+          "word": "today.",
+          "start": 22.085,
+          "end": 22.45,
+          "score": 0.559
+        }
+      ]
+    },
+    {
+      "start": 23.59,
+      "end": 27.97,
+      "text": " The weather outside in Brackettville today is cloudy,",
+      "words": [
+        {
+          "word": "The",
+          "start": 23.59,
+          "end": 24.599,
+          "score": 0.735
+        },
+        {
+          "word": "weather",
+          "start": 24.66,
+          "end": 24.942,
+          "score": 0.918
+        },
+        {
+          "word": "outside",
+          "start": 25.064,
+          "end": 25.75,
+          "score": 0.885
+        },
+        {
+          "word": "in",
+          "start": 25.831,
+          "end": 25.891,
+          "score": 0.996
+        },
+        {
+          "word": "Brackettville",
+          "start": 25.952,
+          "end": 26.678,
+          "score": 0.861
+        },
+        {
+          "word": "today",
+          "start": 26.719,
+          "end": 27.244,
+          "score": 0.88
+        },
+        {
+          "word": "is",
+          "start": 27.264,
+          "end": 27.526,
+          "score": 0.666
+        },
+        {
+          "word": "cloudy,",
+          "start": 27.647,
+          "end": 27.97,
+          "score": 0.521
+        }
+      ]
+    },
+    {
+      "start": 27.95,
+      "end": 31.65,
+      "text": " but on the inside is bright and sunny.",
+      "words": [
+        {
+          "word": "but",
+          "start": 27.95,
+          "end": 29.325,
+          "score": 0.972
+        },
+        {
+          "word": "on",
+          "start": 29.426,
+          "end": 29.507,
+          "score": 0.824
+        },
+        {
+          "word": "the",
+          "start": 29.547,
+          "end": 29.628,
+          "score": 0.833
+        },
+        {
+          "word": "inside",
+          "start": 29.75,
+          "end": 30.336,
+          "score": 0.725
+        },
+        {
+          "word": "is",
+          "start": 30.376,
+          "end": 30.417,
+          "score": 0.5
+        },
+        {
+          "word": "bright",
+          "start": 30.659,
+          "end": 31.044,
+          "score": 0.838
+        },
+        {
+          "word": "and",
+          "start": 31.145,
+          "end": 31.246,
+          "score": 0.836
+        },
+        {
+          "word": "sunny.",
+          "start": 31.367,
+          "end": 31.65,
+          "score": 0.46
+        }
+      ]
+    },
+    {
+      "start": 32.47,
+      "end": 44.88,
+      "text": " Let's see, we were chatting about the beginning of your agricultural work",
+      "words": [
+        {
+          "word": "Let's",
+          "start": 32.47,
+          "end": 34.455,
+          "score": 0.58
+        },
+        {
+          "word": "see,",
+          "start": 34.515,
+          "end": 34.735,
+          "score": 0.968
+        },
+        {
+          "word": "we",
+          "start": 35.157,
+          "end": 35.277,
+          "score": 0.991
+        },
+        {
+          "word": "were",
+          "start": 35.317,
+          "end": 35.437,
+          "score": 0.917
+        },
+        {
+          "word": "chatting",
+          "start": 35.497,
+          "end": 35.878,
+          "score": 0.988
+        },
+        {
+          "word": "about",
+          "start": 35.958,
+          "end": 36.339,
+          "score": 0.928
+        },
+        {
+          "word": "the",
+          "start": 38.284,
+          "end": 38.745,
+          "score": 0.867
+        },
+        {
+          "word": "beginning",
+          "start": 39.928,
+          "end": 40.409,
+          "score": 0.906
+        },
+        {
+          "word": "of",
+          "start": 40.73,
+          "end": 40.79,
+          "score": 0.996
+        },
+        {
+          "word": "your",
+          "start": 40.83,
+          "end": 41.331,
+          "score": 0.833
+        },
+        {
+          "word": "agricultural",
+          "start": 42.414,
+          "end": 43.637,
+          "score": 0.837
+        },
+        {
+          "word": "work",
+          "start": 43.677,
+          "end": 44.88,
+          "score": 0.676
+        }
+      ]
+    },
+    {
+      "start": 44.86,
+      "end": 46.181,
+      "text": " and your ranching.",
+      "words": [
+        {
+          "word": "and",
+          "start": 44.86,
+          "end": 45.211,
+          "score": 0.88
+        },
+        {
+          "word": "your",
+          "start": 45.252,
+          "end": 45.52,
+          "score": 0.721
+        },
+        {
+          "word": "ranching.",
+          "start": 45.685,
+          "end": 46.181,
+          "score": 0.556
+        }
+      ]
+    },
+    {
+      "start": 47.1,
+      "end": 52.2,
+      "text": " When did you first go into the land business for yourself?",
+      "words": [
+        {
+          "word": "When",
+          "start": 47.1,
+          "end": 47.745,
+          "score": 0.855
+        },
+        {
+          "word": "did",
+          "start": 47.806,
+          "end": 47.947,
+          "score": 0.998
+        },
+        {
+          "word": "you",
+          "start": 47.987,
+          "end": 48.128,
+          "score": 0.638
+        },
+        {
+          "word": "first",
+          "start": 48.249,
+          "end": 48.551,
+          "score": 0.768
+        },
+        {
+          "word": "go",
+          "start": 48.652,
+          "end": 48.834,
+          "score": 0.98
+        },
+        {
+          "word": "into",
+          "start": 49.055,
+          "end": 49.62,
+          "score": 0.916
+        },
+        {
+          "word": "the",
+          "start": 49.64,
+          "end": 50.325,
+          "score": 0.803
+        },
+        {
+          "word": "land",
+          "start": 50.386,
+          "end": 50.668,
+          "score": 0.918
+        },
+        {
+          "word": "business",
+          "start": 50.729,
+          "end": 51.212,
+          "score": 0.868
+        },
+        {
+          "word": "for",
+          "start": 51.555,
+          "end": 51.696,
+          "score": 0.987
+        },
+        {
+          "word": "yourself?",
+          "start": 51.737,
+          "end": 52.2,
+          "score": 0.742
+        }
+      ]
+    },
+    {
+      "start": 96.02,
+      "end": 97.261,
+      "text": " Five dollars an acre?",
+      "words": [
+        {
+          "word": "Five",
+          "start": 96.02,
+          "end": 96.578,
+          "score": 0.729
+        },
+        {
+          "word": "dollars",
+          "start": 96.661,
+          "end": 96.951,
+          "score": 0.877
+        },
+        {
+          "word": "an",
+          "start": 96.992,
+          "end": 97.033,
+          "score": 0.864
+        },
+        {
+          "word": "acre?",
+          "start": 97.137,
+          "end": 97.261,
+          "score": 0.245
+        }
+      ]
+    },
+    {
+      "start": 125.03,
+      "end": 126.451,
+      "text": " Now you say the Brown brothers.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 125.03,
+          "end": 125.318,
+          "score": 0.491
+        },
+        {
+          "word": "you",
+          "start": 125.359,
+          "end": 125.483,
+          "score": 0.998
+        },
+        {
+          "word": "say",
+          "start": 125.524,
+          "end": 125.689,
+          "score": 0.933
+        },
+        {
+          "word": "the",
+          "start": 125.73,
+          "end": 125.812,
+          "score": 0.638
+        },
+        {
+          "word": "Brown",
+          "start": 125.874,
+          "end": 126.162,
+          "score": 0.937
+        },
+        {
+          "word": "brothers.",
+          "start": 126.204,
+          "end": 126.451,
+          "score": 0.385
+        }
+      ]
+    },
+    {
+      "start": 126.43,
+      "end": 128.91,
+      "text": " Is this Herman and George Brown in Houston?",
+      "words": [
+        {
+          "word": "Is",
+          "start": 126.43,
+          "end": 126.654,
+          "score": 0.504
+        },
+        {
+          "word": "this",
+          "start": 126.674,
+          "end": 126.796,
+          "score": 0.454
+        },
+        {
+          "word": "Herman",
+          "start": 126.837,
+          "end": 127.182,
+          "score": 0.877
+        },
+        {
+          "word": "and",
+          "start": 127.223,
+          "end": 127.304,
+          "score": 0.82
+        },
+        {
+          "word": "George",
+          "start": 127.345,
+          "end": 127.67,
+          "score": 0.949
+        },
+        {
+          "word": "Brown",
+          "start": 127.731,
+          "end": 128.077,
+          "score": 0.901
+        },
+        {
+          "word": "in",
+          "start": 128.524,
+          "end": 128.605,
+          "score": 0.938
+        },
+        {
+          "word": "Houston?",
+          "start": 128.707,
+          "end": 128.91,
+          "score": 0.336
+        }
+      ]
+    },
+    {
+      "start": 132.2,
+      "end": 133.641,
+      "text": " How long had you known them?",
+      "words": [
+        {
+          "word": "How",
+          "start": 132.2,
+          "end": 132.447,
+          "score": 0.926
+        },
+        {
+          "word": "long",
+          "start": 132.488,
+          "end": 132.673,
+          "score": 0.676
+        },
+        {
+          "word": "had",
+          "start": 132.735,
+          "end": 132.879,
+          "score": 0.917
+        },
+        {
+          "word": "you",
+          "start": 132.92,
+          "end": 133.044,
+          "score": 0.864
+        },
+        {
+          "word": "known",
+          "start": 133.106,
+          "end": 133.332,
+          "score": 0.938
+        },
+        {
+          "word": "them?",
+          "start": 133.414,
+          "end": 133.641,
+          "score": 0.677
+        }
+      ]
+    },
+    {
+      "start": 191.13,
+      "end": 192.211,
+      "text": " That land that...",
+      "words": [
+        {
+          "word": "That",
+          "start": 191.13,
+          "end": 191.379,
+          "score": 0.825
+        },
+        {
+          "word": "land",
+          "start": 191.463,
+          "end": 191.795,
+          "score": 0.801
+        },
+        {
+          "word": "that...",
+          "start": 191.837,
+          "end": 192.211,
+          "score": 0.935
+        }
+      ]
+    },
+    {
+      "start": 192.19,
+      "end": 193.451,
+      "text": " Up in the panhandle,",
+      "words": [
+        {
+          "word": "Up",
+          "start": 192.19,
+          "end": 192.438,
+          "score": 0.815
+        },
+        {
+          "word": "in",
+          "start": 192.5,
+          "end": 192.562,
+          "score": 0.847
+        },
+        {
+          "word": "the",
+          "start": 192.603,
+          "end": 192.686,
+          "score": 0.555
+        },
+        {
+          "word": "panhandle,",
+          "start": 192.727,
+          "end": 193.451,
+          "score": 0.74
+        }
+      ]
+    },
+    {
+      "start": 194.25,
+      "end": 198.9,
+      "text": " did it by chance have any oil underneath it?",
+      "words": [
+        {
+          "word": "did",
+          "start": 194.25,
+          "end": 196.505,
+          "score": 0.884
+        },
+        {
+          "word": "it",
+          "start": 196.565,
+          "end": 196.605,
+          "score": 1.0
+        },
+        {
+          "word": "by",
+          "start": 196.807,
+          "end": 196.947,
+          "score": 0.998
+        },
+        {
+          "word": "chance",
+          "start": 197.028,
+          "end": 197.33,
+          "score": 0.881
+        },
+        {
+          "word": "have",
+          "start": 197.39,
+          "end": 197.551,
+          "score": 0.826
+        },
+        {
+          "word": "any",
+          "start": 197.632,
+          "end": 197.773,
+          "score": 0.759
+        },
+        {
+          "word": "oil",
+          "start": 197.974,
+          "end": 198.155,
+          "score": 0.743
+        },
+        {
+          "word": "underneath",
+          "start": 198.316,
+          "end": 198.719,
+          "score": 0.888
+        },
+        {
+          "word": "it?",
+          "start": 198.82,
+          "end": 198.9,
+          "score": 0.833
+        }
+      ]
+    },
+    {
+      "start": 199.4,
+      "end": 427.58,
+      "text": " Thirteen years, never failed to make a profit.",
+      "words": [
+        {
+          "word": "Thirteen",
+          "start": 199.4,
+          "end": 426.82,
+          "score": 0.134
+        },
+        {
+          "word": "years,",
+          "start": 426.84,
+          "end": 426.96,
+          "score": 0.007
+        },
+        {
+          "word": "never",
+          "start": 426.98,
+          "end": 427.08,
+          "score": 0.002
+        },
+        {
+          "word": "failed",
+          "start": 427.1,
+          "end": 427.22,
+          "score": 0.006
+        },
+        {
+          "word": "to",
+          "start": 427.24,
+          "end": 427.28,
+          "score": 0.001
+        },
+        {
+          "word": "make",
+          "start": 427.3,
+          "end": 427.38,
+          "score": 0.0
+        },
+        {
+          "word": "a",
+          "start": 427.4,
+          "end": 427.42,
+          "score": 0.001
+        },
+        {
+          "word": "profit.",
+          "start": 427.44,
+          "end": 427.58,
+          "score": 0.143
+        }
+      ]
+    },
+    {
+      "start": 428.5,
+      "end": 429.721,
+      "text": " And what were you growing?",
+      "words": [
+        {
+          "word": "And",
+          "start": 428.5,
+          "end": 428.728,
+          "score": 0.944
+        },
+        {
+          "word": "what",
+          "start": 428.769,
+          "end": 429.183,
+          "score": 0.921
+        },
+        {
+          "word": "were",
+          "start": 429.224,
+          "end": 429.348,
+          "score": 0.43
+        },
+        {
+          "word": "you",
+          "start": 429.369,
+          "end": 429.452,
+          "score": 0.83
+        },
+        {
+          "word": "growing?",
+          "start": 429.493,
+          "end": 429.721,
+          "score": 0.351
+        }
+      ]
+    },
+    {
+      "start": 430.3,
+      "end": 466.04,
+      "text": " Now your favorite cattle are red.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 430.3,
+          "end": 464.298,
+          "score": 0.474
+        },
+        {
+          "word": "your",
+          "start": 464.318,
+          "end": 464.478,
+          "score": 0.808
+        },
+        {
+          "word": "favorite",
+          "start": 464.518,
+          "end": 465.019,
+          "score": 0.903
+        },
+        {
+          "word": "cattle",
+          "start": 465.199,
+          "end": 465.539,
+          "score": 0.957
+        },
+        {
+          "word": "are",
+          "start": 465.6,
+          "end": 465.68,
+          "score": 0.764
+        },
+        {
+          "word": "red.",
+          "start": 465.74,
+          "end": 466.04,
+          "score": 0.551
+        }
+      ]
+    },
+    {
+      "start": 554.82,
+      "end": 557.76,
+      "text": " Now you've been both in ranching and farming.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 554.82,
+          "end": 555.023,
+          "score": 0.709
+        },
+        {
+          "word": "you've",
+          "start": 555.043,
+          "end": 555.286,
+          "score": 0.749
+        },
+        {
+          "word": "been",
+          "start": 555.347,
+          "end": 555.509,
+          "score": 0.899
+        },
+        {
+          "word": "both",
+          "start": 555.55,
+          "end": 555.854,
+          "score": 0.771
+        },
+        {
+          "word": "in",
+          "start": 555.895,
+          "end": 556.118,
+          "score": 0.792
+        },
+        {
+          "word": "ranching",
+          "start": 556.26,
+          "end": 556.767,
+          "score": 0.884
+        },
+        {
+          "word": "and",
+          "start": 557.253,
+          "end": 557.355,
+          "score": 0.989
+        },
+        {
+          "word": "farming.",
+          "start": 557.395,
+          "end": 557.76,
+          "score": 0.272
+        }
+      ]
+    },
+    {
+      "start": 558.22,
+      "end": 561.72,
+      "text": " What was your favorite crop?",
+      "words": [
+        {
+          "word": "What",
+          "start": 558.22,
+          "end": 559.737,
+          "score": 0.856
+        },
+        {
+          "word": "was",
+          "start": 559.778,
+          "end": 559.899,
+          "score": 0.948
+        },
+        {
+          "word": "your",
+          "start": 559.94,
+          "end": 560.081,
+          "score": 0.895
+        },
+        {
+          "word": "favorite",
+          "start": 560.183,
+          "end": 560.709,
+          "score": 0.835
+        },
+        {
+          "word": "crop?",
+          "start": 561.376,
+          "end": 561.72,
+          "score": 0.685
+        }
+      ]
+    },
+    {
+      "start": 562.71,
+      "end": 564.95,
+      "text": " Which crop did you enjoy growing most?",
+      "words": [
+        {
+          "word": "Which",
+          "start": 562.71,
+          "end": 562.975,
+          "score": 0.806
+        },
+        {
+          "word": "crop",
+          "start": 563.056,
+          "end": 563.362,
+          "score": 0.829
+        },
+        {
+          "word": "did",
+          "start": 563.423,
+          "end": 563.545,
+          "score": 0.77
+        },
+        {
+          "word": "you",
+          "start": 563.586,
+          "end": 563.728,
+          "score": 0.886
+        },
+        {
+          "word": "enjoy",
+          "start": 563.81,
+          "end": 564.115,
+          "score": 0.999
+        },
+        {
+          "word": "growing",
+          "start": 564.156,
+          "end": 564.563,
+          "score": 0.876
+        },
+        {
+          "word": "most?",
+          "start": 564.665,
+          "end": 564.95,
+          "score": 0.63
+        }
+      ]
+    },
+    {
+      "start": 565.21,
+      "end": 801.53,
+      "text": " Now when did you acquire the Nine Bar Ranch?",
+      "words": [
+        {
+          "word": "Now",
+          "start": 565.21,
+          "end": 800.71,
+          "score": 0.334
+        },
+        {
+          "word": "when",
+          "start": 800.73,
+          "end": 800.81,
+          "score": 0.008
+        },
+        {
+          "word": "did",
+          "start": 800.83,
+          "end": 800.89,
+          "score": 0.007
+        },
+        {
+          "word": "you",
+          "start": 800.91,
+          "end": 800.97,
+          "score": 0.001
+        },
+        {
+          "word": "acquire",
+          "start": 800.99,
+          "end": 801.13,
+          "score": 0.0
+        },
+        {
+          "word": "the",
+          "start": 801.15,
+          "end": 801.21,
+          "score": 0.001
+        },
+        {
+          "word": "Nine",
+          "start": 801.23,
+          "end": 801.31,
+          "score": 0.008
+        },
+        {
+          "word": "Bar",
+          "start": 801.33,
+          "end": 801.39,
+          "score": 0.021
+        },
+        {
+          "word": "Ranch?",
+          "start": 801.41,
+          "end": 801.53,
+          "score": 0.169
+        }
+      ]
+    },
+    {
+      "start": 801.85,
+      "end": 802.384,
+      "text": "What year?",
+      "words": [
+        {
+          "word": "What",
+          "start": 801.85,
+          "end": 802.035,
+          "score": 0.832
+        },
+        {
+          "word": "year?",
+          "start": 802.097,
+          "end": 802.384,
+          "score": 0.948
+        }
+      ]
+    },
+    {
+      "start": 802.754,
+      "end": 803.351,
+      "text": "What time?",
+      "words": [
+        {
+          "word": "What",
+          "start": 802.754,
+          "end": 802.898,
+          "score": 0.996
+        },
+        {
+          "word": "time?",
+          "start": 802.96,
+          "end": 803.351,
+          "score": 0.894
+        }
+      ]
+    },
+    {
+      "start": 803.33,
+      "end": 805.22,
+      "text": "1950?",
+      "words": [
+        {
+          "word": "1950?",
+          "start": 803.33,
+          "end": 805.22,
+          "score": 0.792
+        }
+      ]
+    },
+    {
+      "start": 805.24,
+      "end": 809.28,
+      "text": "And kept it how long?",
+      "words": [
+        {
+          "word": "And",
+          "start": 805.24,
+          "end": 805.32,
+          "score": 0.811
+        },
+        {
+          "word": "kept",
+          "start": 805.521,
+          "end": 805.722,
+          "score": 0.448
+        },
+        {
+          "word": "it",
+          "start": 808.958,
+          "end": 809.039,
+          "score": 0.55
+        },
+        {
+          "word": "how",
+          "start": 809.099,
+          "end": 809.159,
+          "score": 0.0
+        },
+        {
+          "word": "long?",
+          "start": 809.18,
+          "end": 809.28,
+          "score": 0.122
+        }
+      ]
+    },
+    {
+      "start": 809.26,
+      "end": 992.2,
+      "text": " What were the joys of being in the farm and ranching business?",
+      "words": [
+        {
+          "word": "What",
+          "start": 809.26,
+          "end": 988.819,
+          "score": 0.255
+        },
+        {
+          "word": "were",
+          "start": 988.839,
+          "end": 988.919,
+          "score": 0.017
+        },
+        {
+          "word": "the",
+          "start": 988.939,
+          "end": 988.999,
+          "score": 0.0
+        },
+        {
+          "word": "joys",
+          "start": 989.019,
+          "end": 989.099,
+          "score": 0.184
+        },
+        {
+          "word": "of",
+          "start": 990.24,
+          "end": 990.28,
+          "score": 0.0
+        },
+        {
+          "word": "being",
+          "start": 990.3,
+          "end": 991.5,
+          "score": 0.382
+        },
+        {
+          "word": "in",
+          "start": 991.52,
+          "end": 991.56,
+          "score": 0.084
+        },
+        {
+          "word": "the",
+          "start": 991.58,
+          "end": 991.64,
+          "score": 0.003
+        },
+        {
+          "word": "farm",
+          "start": 991.66,
+          "end": 991.74,
+          "score": 0.014
+        },
+        {
+          "word": "and",
+          "start": 991.76,
+          "end": 991.82,
+          "score": 0.033
+        },
+        {
+          "word": "ranching",
+          "start": 991.84,
+          "end": 992.0,
+          "score": 0.009
+        },
+        {
+          "word": "business?",
+          "start": 992.02,
+          "end": 992.2,
+          "score": 0.081
+        }
+      ]
+    },
+    {
+      "start": 992.18,
+      "end": 994.2,
+      "text": " What did you enjoy most?",
+      "words": [
+        {
+          "word": "What",
+          "start": 992.18,
+          "end": 992.588,
+          "score": 0.932
+        },
+        {
+          "word": "did",
+          "start": 992.629,
+          "end": 992.792,
+          "score": 0.952
+        },
+        {
+          "word": "you",
+          "start": 992.833,
+          "end": 992.956,
+          "score": 0.999
+        },
+        {
+          "word": "enjoy",
+          "start": 993.037,
+          "end": 993.425,
+          "score": 0.928
+        },
+        {
+          "word": "most?",
+          "start": 993.527,
+          "end": 994.2,
+          "score": 0.932
+        }
+      ]
+    },
+    {
+      "start": 994.18,
+      "end": 1546.27,
+      "text": " If you were buying land today,",
+      "words": [
+        {
+          "word": "If",
+          "start": 994.18,
+          "end": 1545.71,
+          "score": 0.503
+        },
+        {
+          "word": "you",
+          "start": 1545.73,
+          "end": 1545.79,
+          "score": 0.007
+        },
+        {
+          "word": "were",
+          "start": 1545.81,
+          "end": 1545.89,
+          "score": 0.006
+        },
+        {
+          "word": "buying",
+          "start": 1545.91,
+          "end": 1546.03,
+          "score": 0.003
+        },
+        {
+          "word": "land",
+          "start": 1546.05,
+          "end": 1546.13,
+          "score": 0.007
+        },
+        {
+          "word": "today,",
+          "start": 1546.15,
+          "end": 1546.27,
+          "score": 0.173
+        }
+      ]
+    },
+    {
+      "start": 1546.25,
+      "end": 1550.77,
+      "text": " if I were buying land and came to you for advice,",
+      "words": [
+        {
+          "word": "if",
+          "start": 1546.25,
+          "end": 1546.371,
+          "score": 0.621
+        },
+        {
+          "word": "I",
+          "start": 1546.714,
+          "end": 1546.734,
+          "score": 0.997
+        },
+        {
+          "word": "were",
+          "start": 1546.815,
+          "end": 1548.732,
+          "score": 0.802
+        },
+        {
+          "word": "buying",
+          "start": 1548.793,
+          "end": 1549.095,
+          "score": 0.766
+        },
+        {
+          "word": "land",
+          "start": 1549.156,
+          "end": 1549.459,
+          "score": 0.972
+        },
+        {
+          "word": "and",
+          "start": 1549.519,
+          "end": 1549.62,
+          "score": 0.766
+        },
+        {
+          "word": "came",
+          "start": 1549.68,
+          "end": 1549.943,
+          "score": 0.981
+        },
+        {
+          "word": "to",
+          "start": 1549.983,
+          "end": 1550.024,
+          "score": 0.622
+        },
+        {
+          "word": "you",
+          "start": 1550.084,
+          "end": 1550.246,
+          "score": 0.661
+        },
+        {
+          "word": "for",
+          "start": 1550.326,
+          "end": 1550.467,
+          "score": 0.887
+        },
+        {
+          "word": "advice,",
+          "start": 1550.528,
+          "end": 1550.77,
+          "score": 0.517
+        }
+      ]
+    },
+    {
+      "start": 1550.75,
+      "end": 1554.77,
+      "text": " where would you tell me to look at land most closely?",
+      "words": [
+        {
+          "word": "where",
+          "start": 1550.75,
+          "end": 1552.083,
+          "score": 0.864
+        },
+        {
+          "word": "would",
+          "start": 1552.144,
+          "end": 1552.326,
+          "score": 0.864
+        },
+        {
+          "word": "you",
+          "start": 1552.366,
+          "end": 1552.548,
+          "score": 0.987
+        },
+        {
+          "word": "tell",
+          "start": 1552.588,
+          "end": 1552.952,
+          "score": 0.916
+        },
+        {
+          "word": "me",
+          "start": 1553.013,
+          "end": 1553.235,
+          "score": 0.882
+        },
+        {
+          "word": "to",
+          "start": 1553.275,
+          "end": 1553.316,
+          "score": 0.5
+        },
+        {
+          "word": "look",
+          "start": 1553.639,
+          "end": 1553.902,
+          "score": 0.863
+        },
+        {
+          "word": "at",
+          "start": 1554.063,
+          "end": 1554.124,
+          "score": 0.598
+        },
+        {
+          "word": "land",
+          "start": 1554.225,
+          "end": 1554.487,
+          "score": 0.374
+        },
+        {
+          "word": "most",
+          "start": 1554.508,
+          "end": 1554.588,
+          "score": 0.0
+        },
+        {
+          "word": "closely?",
+          "start": 1554.609,
+          "end": 1554.77,
+          "score": 0.126
+        }
+      ]
+    },
+    {
+      "start": 1554.75,
+      "end": 1556.77,
+      "text": " Where in Texas?",
+      "words": [
+        {
+          "word": "Where",
+          "start": 1554.75,
+          "end": 1556.24,
+          "score": 0.621
+        },
+        {
+          "word": "in",
+          "start": 1556.321,
+          "end": 1556.383,
+          "score": 0.988
+        },
+        {
+          "word": "Texas?",
+          "start": 1556.423,
+          "end": 1556.77,
+          "score": 0.538
+        }
+      ]
+    },
+    {
+      "start": 1556.75,
+      "end": 1577.636,
+      "text": "Out here?",
+      "words": [
+        {
+          "word": "Out",
+          "start": 1556.75,
+          "end": 1577.375,
+          "score": 0.94
+        },
+        {
+          "word": "here?",
+          "start": 1577.435,
+          "end": 1577.636,
+          "score": 0.835
+        }
+      ]
+    },
+    {
+      "start": 1579.638,
+      "end": 1581.2,
+      "text": "When did you buy this land?",
+      "words": [
+        {
+          "word": "When",
+          "start": 1579.638,
+          "end": 1579.818,
+          "score": 0.796
+        },
+        {
+          "word": "did",
+          "start": 1579.858,
+          "end": 1579.999,
+          "score": 0.991
+        },
+        {
+          "word": "you",
+          "start": 1580.039,
+          "end": 1580.179,
+          "score": 0.981
+        },
+        {
+          "word": "buy",
+          "start": 1580.639,
+          "end": 1580.82,
+          "score": 0.907
+        },
+        {
+          "word": "this",
+          "start": 1580.88,
+          "end": 1581.04,
+          "score": 0.801
+        },
+        {
+          "word": "land?",
+          "start": 1581.1,
+          "end": 1581.2,
+          "score": 0.367
+        }
+      ]
+    },
+    {
+      "start": 1581.18,
+      "end": 1644.23,
+      "text": "14,000 acres.",
+      "words": [
+        {
+          "word": "14,000",
+          "start": 1581.18,
+          "end": 1643.85,
+          "score": 0.249
+        },
+        {
+          "word": "acres.",
+          "start": 1643.87,
+          "end": 1644.23,
+          "score": 0.249
+        }
+      ]
+    },
+    {
+      "start": 1644.25,
+      "end": 1644.35,
+      "text": "Okay.",
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 1644.25,
+          "end": 1644.35,
+          "score": 0.2
+        }
+      ]
+    },
+    {
+      "start": 1644.33,
+      "end": 1660.77,
+      "text": " Do you run cattle on it?",
+      "words": [
+        {
+          "word": "Do",
+          "start": 1644.33,
+          "end": 1659.447,
+          "score": 0.76
+        },
+        {
+          "word": "you",
+          "start": 1659.467,
+          "end": 1659.567,
+          "score": 0.758
+        },
+        {
+          "word": "run",
+          "start": 1659.627,
+          "end": 1659.788,
+          "score": 0.913
+        },
+        {
+          "word": "cattle",
+          "start": 1659.848,
+          "end": 1660.169,
+          "score": 0.906
+        },
+        {
+          "word": "on",
+          "start": 1660.229,
+          "end": 1660.309,
+          "score": 0.918
+        },
+        {
+          "word": "it?",
+          "start": 1660.349,
+          "end": 1660.77,
+          "score": 0.826
+        }
+      ]
+    },
+    {
+      "start": 1660.75,
+      "end": 1663.606,
+      "text": "Sheep?",
+      "words": [
+        {
+          "word": "Sheep?",
+          "start": 1660.75,
+          "end": 1663.606,
+          "score": 0.876
+        }
+      ]
+    },
+    {
+      "start": 1665.918,
+      "end": 1668.05,
+      "text": "What kind of cattle?",
+      "words": [
+        {
+          "word": "What",
+          "start": 1665.918,
+          "end": 1666.039,
+          "score": 0.735
+        },
+        {
+          "word": "kind",
+          "start": 1666.099,
+          "end": 1666.321,
+          "score": 0.89
+        },
+        {
+          "word": "of",
+          "start": 1666.381,
+          "end": 1666.421,
+          "score": 0.992
+        },
+        {
+          "word": "cattle?",
+          "start": 1667.085,
+          "end": 1668.05,
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "start": 1668.03,
+      "end": 1772.98,
+      "text": "Senator Gertrude.",
+      "words": [
+        {
+          "word": "Senator",
+          "start": 1668.03,
+          "end": 1772.78,
+          "score": 0.151
+        },
+        {
+          "word": "Gertrude.",
+          "start": 1772.8,
+          "end": 1772.98,
+          "score": 0.007
+        }
+      ]
+    },
+    {
+      "start": 1773.0,
+      "end": 1773.54,
+      "text": "Let's go back to Texas A&M.",
+      "words": [
+        {
+          "word": "Let's",
+          "start": 1773.0,
+          "end": 1773.1,
+          "score": 0.002
+        },
+        {
+          "word": "go",
+          "start": 1773.12,
+          "end": 1773.16,
+          "score": 0.0
+        },
+        {
+          "word": "back",
+          "start": 1773.18,
+          "end": 1773.26,
+          "score": 0.0
+        },
+        {
+          "word": "to",
+          "start": 1773.28,
+          "end": 1773.32,
+          "score": 0.0
+        },
+        {
+          "word": "Texas",
+          "start": 1773.34,
+          "end": 1773.44,
+          "score": 0.0
+        },
+        {
+          "word": "A&M.",
+          "start": 1773.46,
+          "end": 1773.54,
+          "score": 0.25
+        }
+      ]
+    },
+    {
+      "start": 1777.55,
+      "end": 1782.33,
+      "text": " You worked with President Gilchrist.",
+      "words": [
+        {
+          "word": "You",
+          "start": 1777.55,
+          "end": 1777.853,
+          "score": 0.965
+        },
+        {
+          "word": "worked",
+          "start": 1777.893,
+          "end": 1778.195,
+          "score": 0.932
+        },
+        {
+          "word": "with",
+          "start": 1778.296,
+          "end": 1778.619,
+          "score": 0.657
+        },
+        {
+          "word": "President",
+          "start": 1781.16,
+          "end": 1781.564,
+          "score": 0.959
+        },
+        {
+          "word": "Gilchrist.",
+          "start": 1781.604,
+          "end": 1782.33,
+          "score": 0.808
+        }
+      ]
+    },
+    {
+      "start": 1786.12,
+      "end": 1815.28,
+      "text": " Describe his accomplishments, his goals in the highway department.",
+      "words": [
+        {
+          "word": "Describe",
+          "start": 1786.12,
+          "end": 1787.302,
+          "score": 0.814
+        },
+        {
+          "word": "his",
+          "start": 1787.742,
+          "end": 1788.083,
+          "score": 0.772
+        },
+        {
+          "word": "accomplishments,",
+          "start": 1788.123,
+          "end": 1790.226,
+          "score": 0.843
+        },
+        {
+          "word": "his",
+          "start": 1790.346,
+          "end": 1790.726,
+          "score": 0.807
+        },
+        {
+          "word": "goals",
+          "start": 1793.13,
+          "end": 1793.67,
+          "score": 0.811
+        },
+        {
+          "word": "in",
+          "start": 1800.039,
+          "end": 1800.099,
+          "score": 0.981
+        },
+        {
+          "word": "the",
+          "start": 1800.119,
+          "end": 1800.199,
+          "score": 0.781
+        },
+        {
+          "word": "highway",
+          "start": 1800.259,
+          "end": 1800.48,
+          "score": 0.419
+        },
+        {
+          "word": "department.",
+          "start": 1800.5,
+          "end": 1815.28,
+          "score": 0.539
+        }
+      ]
+    },
+    {
+      "start": 1815.26,
+      "end": 1817.28,
+      "text": " Was he a big man physically?",
+      "words": [
+        {
+          "word": "Was",
+          "start": 1815.26,
+          "end": 1815.464,
+          "score": 0.947
+        },
+        {
+          "word": "he",
+          "start": 1815.505,
+          "end": 1815.587,
+          "score": 0.927
+        },
+        {
+          "word": "a",
+          "start": 1815.648,
+          "end": 1815.668,
+          "score": 0.961
+        },
+        {
+          "word": "big",
+          "start": 1815.77,
+          "end": 1815.974,
+          "score": 0.997
+        },
+        {
+          "word": "man",
+          "start": 1816.036,
+          "end": 1816.301,
+          "score": 0.917
+        },
+        {
+          "word": "physically?",
+          "start": 1816.382,
+          "end": 1817.28,
+          "score": 0.941
+        }
+      ]
+    },
+    {
+      "start": 1817.26,
+      "end": 1829.25,
+      "text": " Who was it that decided he was the one to bring to A&M?",
+      "words": [
+        {
+          "word": "Who",
+          "start": 1817.26,
+          "end": 1824.037,
+          "score": 0.891
+        },
+        {
+          "word": "was",
+          "start": 1824.137,
+          "end": 1824.398,
+          "score": 0.898
+        },
+        {
+          "word": "it",
+          "start": 1824.538,
+          "end": 1824.618,
+          "score": 0.976
+        },
+        {
+          "word": "that",
+          "start": 1825.3,
+          "end": 1825.601,
+          "score": 0.865
+        },
+        {
+          "word": "decided",
+          "start": 1826.684,
+          "end": 1827.245,
+          "score": 0.91
+        },
+        {
+          "word": "he",
+          "start": 1827.265,
+          "end": 1827.305,
+          "score": 0.5
+        },
+        {
+          "word": "was",
+          "start": 1827.746,
+          "end": 1827.907,
+          "score": 0.845
+        },
+        {
+          "word": "the",
+          "start": 1827.967,
+          "end": 1828.047,
+          "score": 0.831
+        },
+        {
+          "word": "one",
+          "start": 1828.187,
+          "end": 1828.308,
+          "score": 0.681
+        },
+        {
+          "word": "to",
+          "start": 1828.428,
+          "end": 1828.508,
+          "score": 0.966
+        },
+        {
+          "word": "bring",
+          "start": 1828.548,
+          "end": 1828.809,
+          "score": 0.869
+        },
+        {
+          "word": "to",
+          "start": 1828.849,
+          "end": 1829.05,
+          "score": 0.754
+        },
+        {
+          "word": "A&M?",
+          "start": 1829.07,
+          "end": 1829.25,
+          "score": 0.631
+        }
+      ]
+    },
+    {
+      "start": 1829.23,
+      "end": 1830.251,
+      "text": " Do you know?",
+      "words": [
+        {
+          "word": "Do",
+          "start": 1829.23,
+          "end": 1829.522,
+          "score": 0.704
+        },
+        {
+          "word": "you",
+          "start": 1829.543,
+          "end": 1829.626,
+          "score": 0.862
+        },
+        {
+          "word": "know?",
+          "start": 1829.668,
+          "end": 1830.251,
+          "score": 0.81
+        }
+      ]
+    },
+    {
+      "start": 1830.23,
+      "end": 1835.36,
+      "text": " Because he came as dean of engineering and then became president.",
+      "words": [
+        {
+          "word": "Because",
+          "start": 1830.23,
+          "end": 1832.222,
+          "score": 0.877
+        },
+        {
+          "word": "he",
+          "start": 1832.262,
+          "end": 1832.322,
+          "score": 0.964
+        },
+        {
+          "word": "came",
+          "start": 1832.383,
+          "end": 1832.624,
+          "score": 0.922
+        },
+        {
+          "word": "as",
+          "start": 1832.705,
+          "end": 1832.765,
+          "score": 0.724
+        },
+        {
+          "word": "dean",
+          "start": 1832.845,
+          "end": 1833.087,
+          "score": 0.882
+        },
+        {
+          "word": "of",
+          "start": 1833.147,
+          "end": 1833.187,
+          "score": 0.999
+        },
+        {
+          "word": "engineering",
+          "start": 1833.228,
+          "end": 1833.972,
+          "score": 0.819
+        },
+        {
+          "word": "and",
+          "start": 1834.032,
+          "end": 1834.113,
+          "score": 0.795
+        },
+        {
+          "word": "then",
+          "start": 1834.153,
+          "end": 1834.314,
+          "score": 0.861
+        },
+        {
+          "word": "became",
+          "start": 1834.394,
+          "end": 1834.736,
+          "score": 0.991
+        },
+        {
+          "word": "president.",
+          "start": 1834.837,
+          "end": 1835.36,
+          "score": 0.944
+        }
+      ]
+    },
+    {
+      "start": 1835.34,
+      "end": 1849.55,
+      "text": " Was he easy to work with?",
+      "words": [
+        {
+          "word": "Was",
+          "start": 1835.34,
+          "end": 1842.355,
+          "score": 0.822
+        },
+        {
+          "word": "he",
+          "start": 1842.395,
+          "end": 1842.515,
+          "score": 0.966
+        },
+        {
+          "word": "easy",
+          "start": 1842.676,
+          "end": 1842.956,
+          "score": 0.806
+        },
+        {
+          "word": "to",
+          "start": 1843.016,
+          "end": 1843.096,
+          "score": 0.954
+        },
+        {
+          "word": "work",
+          "start": 1843.136,
+          "end": 1843.337,
+          "score": 0.866
+        },
+        {
+          "word": "with?",
+          "start": 1843.417,
+          "end": 1849.55,
+          "score": 0.854
+        }
+      ]
+    },
+    {
+      "start": 1849.53,
+      "end": 1857.29,
+      "text": " Who was the executive director of the former students then?",
+      "words": [
+        {
+          "word": "Who",
+          "start": 1849.53,
+          "end": 1849.972,
+          "score": 0.83
+        },
+        {
+          "word": "was",
+          "start": 1850.012,
+          "end": 1850.153,
+          "score": 0.806
+        },
+        {
+          "word": "the",
+          "start": 1850.254,
+          "end": 1850.455,
+          "score": 0.71
+        },
+        {
+          "word": "executive",
+          "start": 1850.495,
+          "end": 1851.4,
+          "score": 0.895
+        },
+        {
+          "word": "director",
+          "start": 1851.46,
+          "end": 1852.083,
+          "score": 0.893
+        },
+        {
+          "word": "of",
+          "start": 1852.284,
+          "end": 1852.365,
+          "score": 0.83
+        },
+        {
+          "word": "the",
+          "start": 1852.405,
+          "end": 1852.666,
+          "score": 0.779
+        },
+        {
+          "word": "former",
+          "start": 1852.847,
+          "end": 1853.189,
+          "score": 0.922
+        },
+        {
+          "word": "students",
+          "start": 1853.229,
+          "end": 1853.692,
+          "score": 0.824
+        },
+        {
+          "word": "then?",
+          "start": 1853.772,
+          "end": 1857.29,
+          "score": 0.973
+        }
+      ]
+    },
+    {
+      "start": 1857.27,
+      "end": 1862.29,
+      "text": " Trying to remember who was leading the former students in those years.",
+      "words": [
+        {
+          "word": "Trying",
+          "start": 1857.27,
+          "end": 1857.935,
+          "score": 0.853
+        },
+        {
+          "word": "to",
+          "start": 1857.955,
+          "end": 1858.016,
+          "score": 0.75
+        },
+        {
+          "word": "remember",
+          "start": 1858.056,
+          "end": 1858.5,
+          "score": 0.902
+        },
+        {
+          "word": "who",
+          "start": 1858.601,
+          "end": 1858.802,
+          "score": 0.76
+        },
+        {
+          "word": "was",
+          "start": 1858.903,
+          "end": 1859.085,
+          "score": 0.803
+        },
+        {
+          "word": "leading",
+          "start": 1859.125,
+          "end": 1859.972,
+          "score": 0.861
+        },
+        {
+          "word": "the",
+          "start": 1859.992,
+          "end": 1860.113,
+          "score": 0.745
+        },
+        {
+          "word": "former",
+          "start": 1860.153,
+          "end": 1860.476,
+          "score": 0.878
+        },
+        {
+          "word": "students",
+          "start": 1860.516,
+          "end": 1860.96,
+          "score": 0.826
+        },
+        {
+          "word": "in",
+          "start": 1861.04,
+          "end": 1861.101,
+          "score": 0.993
+        },
+        {
+          "word": "those",
+          "start": 1861.161,
+          "end": 1861.363,
+          "score": 0.771
+        },
+        {
+          "word": "years.",
+          "start": 1861.423,
+          "end": 1862.29,
+          "score": 0.851
+        }
+      ]
+    },
+    {
+      "start": 1862.27,
+      "end": 1865.24,
+      "text": " I don't either.",
+      "words": [
+        {
+          "word": "I",
+          "start": 1862.27,
+          "end": 1863.402,
+          "score": 0.966
+        },
+        {
+          "word": "don't",
+          "start": 1863.482,
+          "end": 1863.644,
+          "score": 0.719
+        },
+        {
+          "word": "either.",
+          "start": 1863.705,
+          "end": 1865.24,
+          "score": 0.805
+        }
+      ]
+    },
+    {
+      "start": 1865.22,
+      "end": 1868.61,
+      "text": " And let's see.",
+      "words": [
+        {
+          "word": "And",
+          "start": 1865.22,
+          "end": 1867.682,
+          "score": 0.929
+        },
+        {
+          "word": "let's",
+          "start": 1868.307,
+          "end": 1868.489,
+          "score": 0.407
+        },
+        {
+          "word": "see.",
+          "start": 1868.509,
+          "end": 1868.61,
+          "score": 0.347
+        }
+      ]
+    },
+    {
+      "start": 1868.59,
+      "end": 1875.82,
+      "text": " And Dr. Harrington was coming up on the faculty.",
+      "words": [
+        {
+          "word": "And",
+          "start": 1868.59,
+          "end": 1869.253,
+          "score": 0.892
+        },
+        {
+          "word": "Dr.",
+          "start": 1869.333,
+          "end": 1869.795,
+          "score": 0.898
+        },
+        {
+          "word": "Harrington",
+          "start": 1869.895,
+          "end": 1870.558,
+          "score": 0.923
+        },
+        {
+          "word": "was",
+          "start": 1870.639,
+          "end": 1870.819,
+          "score": 0.902
+        },
+        {
+          "word": "coming",
+          "start": 1870.92,
+          "end": 1871.261,
+          "score": 0.95
+        },
+        {
+          "word": "up",
+          "start": 1871.502,
+          "end": 1871.603,
+          "score": 0.92
+        },
+        {
+          "word": "on",
+          "start": 1872.667,
+          "end": 1872.767,
+          "score": 0.859
+        },
+        {
+          "word": "the",
+          "start": 1872.848,
+          "end": 1873.269,
+          "score": 0.698
+        },
+        {
+          "word": "faculty.",
+          "start": 1873.892,
+          "end": 1875.82,
+          "score": 0.927
+        }
+      ]
+    },
+    {
+      "start": 1875.8,
+      "end": 1880.82,
+      "text": " Did you remain in connection with him after you finished as a student?",
+      "words": [
+        {
+          "word": "Did",
+          "start": 1875.8,
+          "end": 1875.901,
+          "score": 0.988
+        },
+        {
+          "word": "you",
+          "start": 1875.941,
+          "end": 1876.123,
+          "score": 0.748
+        },
+        {
+          "word": "remain",
+          "start": 1876.203,
+          "end": 1876.687,
+          "score": 0.716
+        },
+        {
+          "word": "in",
+          "start": 1876.707,
+          "end": 1876.748,
+          "score": 0.5
+        },
+        {
+          "word": "connection",
+          "start": 1877.231,
+          "end": 1877.776,
+          "score": 0.927
+        },
+        {
+          "word": "with",
+          "start": 1877.877,
+          "end": 1878.058,
+          "score": 0.812
+        },
+        {
+          "word": "him",
+          "start": 1878.119,
+          "end": 1878.36,
+          "score": 0.858
+        },
+        {
+          "word": "after",
+          "start": 1878.381,
+          "end": 1878.865,
+          "score": 0.785
+        },
+        {
+          "word": "you",
+          "start": 1878.905,
+          "end": 1879.187,
+          "score": 0.77
+        },
+        {
+          "word": "finished",
+          "start": 1879.248,
+          "end": 1879.631,
+          "score": 0.906
+        },
+        {
+          "word": "as",
+          "start": 1880.437,
+          "end": 1880.538,
+          "score": 0.97
+        },
+        {
+          "word": "a",
+          "start": 1880.598,
+          "end": 1880.619,
+          "score": 0.646
+        },
+        {
+          "word": "student?",
+          "start": 1880.659,
+          "end": 1880.82,
+          "score": 0.117
+        }
+      ]
+    },
+    {
+      "start": 1880.8,
+      "end": 1892.9,
+      "text": " And did he and Ruth Harrington get married soon after his college days?",
+      "words": [
+        {
+          "word": "And",
+          "start": 1880.8,
+          "end": 1881.001,
+          "score": 0.457
+        },
+        {
+          "word": "did",
+          "start": 1886.138,
+          "end": 1888.004,
+          "score": 0.984
+        },
+        {
+          "word": "he",
+          "start": 1888.044,
+          "end": 1888.225,
+          "score": 0.86
+        },
+        {
+          "word": "and",
+          "start": 1888.265,
+          "end": 1888.345,
+          "score": 0.57
+        },
+        {
+          "word": "Ruth",
+          "start": 1888.746,
+          "end": 1888.947,
+          "score": 0.862
+        },
+        {
+          "word": "Harrington",
+          "start": 1889.007,
+          "end": 1889.449,
+          "score": 0.897
+        },
+        {
+          "word": "get",
+          "start": 1889.529,
+          "end": 1889.689,
+          "score": 0.839
+        },
+        {
+          "word": "married",
+          "start": 1889.77,
+          "end": 1890.151,
+          "score": 0.873
+        },
+        {
+          "word": "soon",
+          "start": 1890.191,
+          "end": 1890.552,
+          "score": 0.61
+        },
+        {
+          "word": "after",
+          "start": 1890.693,
+          "end": 1890.994,
+          "score": 0.901
+        },
+        {
+          "word": "his",
+          "start": 1891.014,
+          "end": 1891.074,
+          "score": 0.333
+        },
+        {
+          "word": "college",
+          "start": 1892.057,
+          "end": 1892.439,
+          "score": 0.956
+        },
+        {
+          "word": "days?",
+          "start": 1892.499,
+          "end": 1892.9,
+          "score": 0.625
+        }
+      ]
+    },
+    {
+      "start": 1892.88,
+      "end": 1901.28,
+      "text": " She's still living there in Bryan.",
+      "words": [
+        {
+          "word": "She's",
+          "start": 1892.88,
+          "end": 1898.748,
+          "score": 0.918
+        },
+        {
+          "word": "still",
+          "start": 1899.17,
+          "end": 1899.632,
+          "score": 0.836
+        },
+        {
+          "word": "living",
+          "start": 1899.713,
+          "end": 1899.994,
+          "score": 0.979
+        },
+        {
+          "word": "there",
+          "start": 1900.054,
+          "end": 1900.295,
+          "score": 0.852
+        },
+        {
+          "word": "in",
+          "start": 1900.356,
+          "end": 1900.456,
+          "score": 0.821
+        },
+        {
+          "word": "Bryan.",
+          "start": 1900.496,
+          "end": 1901.28,
+          "score": 0.864
+        }
+      ]
+    },
+    {
+      "start": 1901.26,
+      "end": 1903.056,
+      "text": "Okay.",
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 1901.26,
+          "end": 1903.056,
+          "score": 0.184
+        }
+      ]
+    },
+    {
+      "start": 1903.076,
+      "end": 1903.28,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 1903.076,
+          "end": 1903.178,
+          "score": 0.032
+        },
+        {
+          "word": "you.",
+          "start": 1903.199,
+          "end": 1903.28,
+          "score": 0.198
+        }
+      ]
+    },
+    {
+      "start": 1903.26,
+      "end": 1904.719,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 1903.26,
+          "end": 1904.449,
+          "score": 0.189
+        },
+        {
+          "word": "you.",
+          "start": 1904.503,
+          "end": 1904.719,
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "start": 1904.774,
+      "end": 1905.314,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 1904.774,
+          "end": 1905.044,
+          "score": 0.0
+        },
+        {
+          "word": "you.",
+          "start": 1905.098,
+          "end": 1905.314,
+          "score": 0.25
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "With",
+      "start": 2.22,
+      "end": 2.925,
+      "score": 0.744
+    },
+    {
+      "word": "Mr.",
+      "start": 2.985,
+      "end": 3.267,
+      "score": 0.78
+    },
+    {
+      "word": "Evans",
+      "start": 3.408,
+      "end": 3.791,
+      "score": 0.875
+    },
+    {
+      "word": "on",
+      "start": 4.193,
+      "end": 4.314,
+      "score": 0.846
+    },
+    {
+      "word": "the",
+      "start": 4.435,
+      "end": 4.636,
+      "score": 0.726
+    },
+    {
+      "word": "11th",
+      "start": 4.656,
+      "end": 6.187,
+      "score": 0.697
+    },
+    {
+      "word": "of",
+      "start": 6.267,
+      "end": 6.308,
+      "score": 0.992
+    },
+    {
+      "word": "April,",
+      "start": 6.469,
+      "end": 6.932,
+      "score": 0.829
+    },
+    {
+      "word": "1999,",
+      "start": 6.952,
+      "end": 8.18,
+      "score": 0.876
+    },
+    {
+      "word": "the",
+      "start": 8.94,
+      "end": 9.808,
+      "score": 0.704
+    },
+    {
+      "word": "anniversary",
+      "start": 9.949,
+      "end": 10.776,
+      "score": 0.909
+    },
+    {
+      "word": "of",
+      "start": 10.958,
+      "end": 11.019,
+      "score": 0.998
+    },
+    {
+      "word": "the",
+      "start": 11.059,
+      "end": 11.18,
+      "score": 0.736
+    },
+    {
+      "word": "first",
+      "start": 11.301,
+      "end": 11.604,
+      "score": 0.805
+    },
+    {
+      "word": "shots",
+      "start": 11.765,
+      "end": 12.209,
+      "score": 0.994
+    },
+    {
+      "word": "at",
+      "start": 12.472,
+      "end": 12.552,
+      "score": 0.6
+    },
+    {
+      "word": "Fort",
+      "start": 12.673,
+      "end": 12.956,
+      "score": 0.929
+    },
+    {
+      "word": "Sumter",
+      "start": 13.037,
+      "end": 13.42,
+      "score": 0.509
+    },
+    {
+      "word": "that",
+      "start": 13.4,
+      "end": 14.245,
+      "score": 0.96
+    },
+    {
+      "word": "started",
+      "start": 14.326,
+      "end": 14.748,
+      "score": 0.842
+    },
+    {
+      "word": "the",
+      "start": 14.768,
+      "end": 14.829,
+      "score": 0.333
+    },
+    {
+      "word": "Civil",
+      "start": 14.99,
+      "end": 15.312,
+      "score": 0.878
+    },
+    {
+      "word": "War",
+      "start": 15.372,
+      "end": 15.714,
+      "score": 0.905
+    },
+    {
+      "word": "in",
+      "start": 17.102,
+      "end": 17.183,
+      "score": 0.984
+    },
+    {
+      "word": "1861.",
+      "start": 17.243,
+      "end": 18.37,
+      "score": 0.911
+    },
+    {
+      "word": "Happened",
+      "start": 19.47,
+      "end": 20.504,
+      "score": 0.776
+    },
+    {
+      "word": "to",
+      "start": 20.545,
+      "end": 20.585,
+      "score": 0.675
+    },
+    {
+      "word": "read",
+      "start": 20.666,
+      "end": 20.889,
+      "score": 0.833
+    },
+    {
+      "word": "the",
+      "start": 20.93,
+      "end": 21.254,
+      "score": 0.805
+    },
+    {
+      "word": "paper",
+      "start": 21.295,
+      "end": 22.045,
+      "score": 0.536
+    },
+    {
+      "word": "today.",
+      "start": 22.085,
+      "end": 22.45,
+      "score": 0.559
+    },
+    {
+      "word": "The",
+      "start": 23.59,
+      "end": 24.599,
+      "score": 0.735
+    },
+    {
+      "word": "weather",
+      "start": 24.66,
+      "end": 24.942,
+      "score": 0.918
+    },
+    {
+      "word": "outside",
+      "start": 25.064,
+      "end": 25.75,
+      "score": 0.885
+    },
+    {
+      "word": "in",
+      "start": 25.831,
+      "end": 25.891,
+      "score": 0.996
+    },
+    {
+      "word": "Brackettville",
+      "start": 25.952,
+      "end": 26.678,
+      "score": 0.861
+    },
+    {
+      "word": "today",
+      "start": 26.719,
+      "end": 27.244,
+      "score": 0.88
+    },
+    {
+      "word": "is",
+      "start": 27.264,
+      "end": 27.526,
+      "score": 0.666
+    },
+    {
+      "word": "cloudy,",
+      "start": 27.647,
+      "end": 27.97,
+      "score": 0.521
+    },
+    {
+      "word": "but",
+      "start": 27.95,
+      "end": 29.325,
+      "score": 0.972
+    },
+    {
+      "word": "on",
+      "start": 29.426,
+      "end": 29.507,
+      "score": 0.824
+    },
+    {
+      "word": "the",
+      "start": 29.547,
+      "end": 29.628,
+      "score": 0.833
+    },
+    {
+      "word": "inside",
+      "start": 29.75,
+      "end": 30.336,
+      "score": 0.725
+    },
+    {
+      "word": "is",
+      "start": 30.376,
+      "end": 30.417,
+      "score": 0.5
+    },
+    {
+      "word": "bright",
+      "start": 30.659,
+      "end": 31.044,
+      "score": 0.838
+    },
+    {
+      "word": "and",
+      "start": 31.145,
+      "end": 31.246,
+      "score": 0.836
+    },
+    {
+      "word": "sunny.",
+      "start": 31.367,
+      "end": 31.65,
+      "score": 0.46
+    },
+    {
+      "word": "Let's",
+      "start": 32.47,
+      "end": 34.455,
+      "score": 0.58
+    },
+    {
+      "word": "see,",
+      "start": 34.515,
+      "end": 34.735,
+      "score": 0.968
+    },
+    {
+      "word": "we",
+      "start": 35.157,
+      "end": 35.277,
+      "score": 0.991
+    },
+    {
+      "word": "were",
+      "start": 35.317,
+      "end": 35.437,
+      "score": 0.917
+    },
+    {
+      "word": "chatting",
+      "start": 35.497,
+      "end": 35.878,
+      "score": 0.988
+    },
+    {
+      "word": "about",
+      "start": 35.958,
+      "end": 36.339,
+      "score": 0.928
+    },
+    {
+      "word": "the",
+      "start": 38.284,
+      "end": 38.745,
+      "score": 0.867
+    },
+    {
+      "word": "beginning",
+      "start": 39.928,
+      "end": 40.409,
+      "score": 0.906
+    },
+    {
+      "word": "of",
+      "start": 40.73,
+      "end": 40.79,
+      "score": 0.996
+    },
+    {
+      "word": "your",
+      "start": 40.83,
+      "end": 41.331,
+      "score": 0.833
+    },
+    {
+      "word": "agricultural",
+      "start": 42.414,
+      "end": 43.637,
+      "score": 0.837
+    },
+    {
+      "word": "work",
+      "start": 43.677,
+      "end": 44.88,
+      "score": 0.676
+    },
+    {
+      "word": "and",
+      "start": 44.86,
+      "end": 45.211,
+      "score": 0.88
+    },
+    {
+      "word": "your",
+      "start": 45.252,
+      "end": 45.52,
+      "score": 0.721
+    },
+    {
+      "word": "ranching.",
+      "start": 45.685,
+      "end": 46.181,
+      "score": 0.556
+    },
+    {
+      "word": "When",
+      "start": 47.1,
+      "end": 47.745,
+      "score": 0.855
+    },
+    {
+      "word": "did",
+      "start": 47.806,
+      "end": 47.947,
+      "score": 0.998
+    },
+    {
+      "word": "you",
+      "start": 47.987,
+      "end": 48.128,
+      "score": 0.638
+    },
+    {
+      "word": "first",
+      "start": 48.249,
+      "end": 48.551,
+      "score": 0.768
+    },
+    {
+      "word": "go",
+      "start": 48.652,
+      "end": 48.834,
+      "score": 0.98
+    },
+    {
+      "word": "into",
+      "start": 49.055,
+      "end": 49.62,
+      "score": 0.916
+    },
+    {
+      "word": "the",
+      "start": 49.64,
+      "end": 50.325,
+      "score": 0.803
+    },
+    {
+      "word": "land",
+      "start": 50.386,
+      "end": 50.668,
+      "score": 0.918
+    },
+    {
+      "word": "business",
+      "start": 50.729,
+      "end": 51.212,
+      "score": 0.868
+    },
+    {
+      "word": "for",
+      "start": 51.555,
+      "end": 51.696,
+      "score": 0.987
+    },
+    {
+      "word": "yourself?",
+      "start": 51.737,
+      "end": 52.2,
+      "score": 0.742
+    },
+    {
+      "word": "Five",
+      "start": 96.02,
+      "end": 96.578,
+      "score": 0.729
+    },
+    {
+      "word": "dollars",
+      "start": 96.661,
+      "end": 96.951,
+      "score": 0.877
+    },
+    {
+      "word": "an",
+      "start": 96.992,
+      "end": 97.033,
+      "score": 0.864
+    },
+    {
+      "word": "acre?",
+      "start": 97.137,
+      "end": 97.261,
+      "score": 0.245
+    },
+    {
+      "word": "Now",
+      "start": 125.03,
+      "end": 125.318,
+      "score": 0.491
+    },
+    {
+      "word": "you",
+      "start": 125.359,
+      "end": 125.483,
+      "score": 0.998
+    },
+    {
+      "word": "say",
+      "start": 125.524,
+      "end": 125.689,
+      "score": 0.933
+    },
+    {
+      "word": "the",
+      "start": 125.73,
+      "end": 125.812,
+      "score": 0.638
+    },
+    {
+      "word": "Brown",
+      "start": 125.874,
+      "end": 126.162,
+      "score": 0.937
+    },
+    {
+      "word": "brothers.",
+      "start": 126.204,
+      "end": 126.451,
+      "score": 0.385
+    },
+    {
+      "word": "Is",
+      "start": 126.43,
+      "end": 126.654,
+      "score": 0.504
+    },
+    {
+      "word": "this",
+      "start": 126.674,
+      "end": 126.796,
+      "score": 0.454
+    },
+    {
+      "word": "Herman",
+      "start": 126.837,
+      "end": 127.182,
+      "score": 0.877
+    },
+    {
+      "word": "and",
+      "start": 127.223,
+      "end": 127.304,
+      "score": 0.82
+    },
+    {
+      "word": "George",
+      "start": 127.345,
+      "end": 127.67,
+      "score": 0.949
+    },
+    {
+      "word": "Brown",
+      "start": 127.731,
+      "end": 128.077,
+      "score": 0.901
+    },
+    {
+      "word": "in",
+      "start": 128.524,
+      "end": 128.605,
+      "score": 0.938
+    },
+    {
+      "word": "Houston?",
+      "start": 128.707,
+      "end": 128.91,
+      "score": 0.336
+    },
+    {
+      "word": "How",
+      "start": 132.2,
+      "end": 132.447,
+      "score": 0.926
+    },
+    {
+      "word": "long",
+      "start": 132.488,
+      "end": 132.673,
+      "score": 0.676
+    },
+    {
+      "word": "had",
+      "start": 132.735,
+      "end": 132.879,
+      "score": 0.917
+    },
+    {
+      "word": "you",
+      "start": 132.92,
+      "end": 133.044,
+      "score": 0.864
+    },
+    {
+      "word": "known",
+      "start": 133.106,
+      "end": 133.332,
+      "score": 0.938
+    },
+    {
+      "word": "them?",
+      "start": 133.414,
+      "end": 133.641,
+      "score": 0.677
+    },
+    {
+      "word": "That",
+      "start": 191.13,
+      "end": 191.379,
+      "score": 0.825
+    },
+    {
+      "word": "land",
+      "start": 191.463,
+      "end": 191.795,
+      "score": 0.801
+    },
+    {
+      "word": "that...",
+      "start": 191.837,
+      "end": 192.211,
+      "score": 0.935
+    },
+    {
+      "word": "Up",
+      "start": 192.19,
+      "end": 192.438,
+      "score": 0.815
+    },
+    {
+      "word": "in",
+      "start": 192.5,
+      "end": 192.562,
+      "score": 0.847
+    },
+    {
+      "word": "the",
+      "start": 192.603,
+      "end": 192.686,
+      "score": 0.555
+    },
+    {
+      "word": "panhandle,",
+      "start": 192.727,
+      "end": 193.451,
+      "score": 0.74
+    },
+    {
+      "word": "did",
+      "start": 194.25,
+      "end": 196.505,
+      "score": 0.884
+    },
+    {
+      "word": "it",
+      "start": 196.565,
+      "end": 196.605,
+      "score": 1.0
+    },
+    {
+      "word": "by",
+      "start": 196.807,
+      "end": 196.947,
+      "score": 0.998
+    },
+    {
+      "word": "chance",
+      "start": 197.028,
+      "end": 197.33,
+      "score": 0.881
+    },
+    {
+      "word": "have",
+      "start": 197.39,
+      "end": 197.551,
+      "score": 0.826
+    },
+    {
+      "word": "any",
+      "start": 197.632,
+      "end": 197.773,
+      "score": 0.759
+    },
+    {
+      "word": "oil",
+      "start": 197.974,
+      "end": 198.155,
+      "score": 0.743
+    },
+    {
+      "word": "underneath",
+      "start": 198.316,
+      "end": 198.719,
+      "score": 0.888
+    },
+    {
+      "word": "it?",
+      "start": 198.82,
+      "end": 198.9,
+      "score": 0.833
+    },
+    {
+      "word": "Thirteen",
+      "start": 199.4,
+      "end": 426.82,
+      "score": 0.134
+    },
+    {
+      "word": "years,",
+      "start": 426.84,
+      "end": 426.96,
+      "score": 0.007
+    },
+    {
+      "word": "never",
+      "start": 426.98,
+      "end": 427.08,
+      "score": 0.002
+    },
+    {
+      "word": "failed",
+      "start": 427.1,
+      "end": 427.22,
+      "score": 0.006
+    },
+    {
+      "word": "to",
+      "start": 427.24,
+      "end": 427.28,
+      "score": 0.001
+    },
+    {
+      "word": "make",
+      "start": 427.3,
+      "end": 427.38,
+      "score": 0.0
+    },
+    {
+      "word": "a",
+      "start": 427.4,
+      "end": 427.42,
+      "score": 0.001
+    },
+    {
+      "word": "profit.",
+      "start": 427.44,
+      "end": 427.58,
+      "score": 0.143
+    },
+    {
+      "word": "And",
+      "start": 428.5,
+      "end": 428.728,
+      "score": 0.944
+    },
+    {
+      "word": "what",
+      "start": 428.769,
+      "end": 429.183,
+      "score": 0.921
+    },
+    {
+      "word": "were",
+      "start": 429.224,
+      "end": 429.348,
+      "score": 0.43
+    },
+    {
+      "word": "you",
+      "start": 429.369,
+      "end": 429.452,
+      "score": 0.83
+    },
+    {
+      "word": "growing?",
+      "start": 429.493,
+      "end": 429.721,
+      "score": 0.351
+    },
+    {
+      "word": "Now",
+      "start": 430.3,
+      "end": 464.298,
+      "score": 0.474
+    },
+    {
+      "word": "your",
+      "start": 464.318,
+      "end": 464.478,
+      "score": 0.808
+    },
+    {
+      "word": "favorite",
+      "start": 464.518,
+      "end": 465.019,
+      "score": 0.903
+    },
+    {
+      "word": "cattle",
+      "start": 465.199,
+      "end": 465.539,
+      "score": 0.957
+    },
+    {
+      "word": "are",
+      "start": 465.6,
+      "end": 465.68,
+      "score": 0.764
+    },
+    {
+      "word": "red.",
+      "start": 465.74,
+      "end": 466.04,
+      "score": 0.551
+    },
+    {
+      "word": "Now",
+      "start": 554.82,
+      "end": 555.023,
+      "score": 0.709
+    },
+    {
+      "word": "you've",
+      "start": 555.043,
+      "end": 555.286,
+      "score": 0.749
+    },
+    {
+      "word": "been",
+      "start": 555.347,
+      "end": 555.509,
+      "score": 0.899
+    },
+    {
+      "word": "both",
+      "start": 555.55,
+      "end": 555.854,
+      "score": 0.771
+    },
+    {
+      "word": "in",
+      "start": 555.895,
+      "end": 556.118,
+      "score": 0.792
+    },
+    {
+      "word": "ranching",
+      "start": 556.26,
+      "end": 556.767,
+      "score": 0.884
+    },
+    {
+      "word": "and",
+      "start": 557.253,
+      "end": 557.355,
+      "score": 0.989
+    },
+    {
+      "word": "farming.",
+      "start": 557.395,
+      "end": 557.76,
+      "score": 0.272
+    },
+    {
+      "word": "What",
+      "start": 558.22,
+      "end": 559.737,
+      "score": 0.856
+    },
+    {
+      "word": "was",
+      "start": 559.778,
+      "end": 559.899,
+      "score": 0.948
+    },
+    {
+      "word": "your",
+      "start": 559.94,
+      "end": 560.081,
+      "score": 0.895
+    },
+    {
+      "word": "favorite",
+      "start": 560.183,
+      "end": 560.709,
+      "score": 0.835
+    },
+    {
+      "word": "crop?",
+      "start": 561.376,
+      "end": 561.72,
+      "score": 0.685
+    },
+    {
+      "word": "Which",
+      "start": 562.71,
+      "end": 562.975,
+      "score": 0.806
+    },
+    {
+      "word": "crop",
+      "start": 563.056,
+      "end": 563.362,
+      "score": 0.829
+    },
+    {
+      "word": "did",
+      "start": 563.423,
+      "end": 563.545,
+      "score": 0.77
+    },
+    {
+      "word": "you",
+      "start": 563.586,
+      "end": 563.728,
+      "score": 0.886
+    },
+    {
+      "word": "enjoy",
+      "start": 563.81,
+      "end": 564.115,
+      "score": 0.999
+    },
+    {
+      "word": "growing",
+      "start": 564.156,
+      "end": 564.563,
+      "score": 0.876
+    },
+    {
+      "word": "most?",
+      "start": 564.665,
+      "end": 564.95,
+      "score": 0.63
+    },
+    {
+      "word": "Now",
+      "start": 565.21,
+      "end": 800.71,
+      "score": 0.334
+    },
+    {
+      "word": "when",
+      "start": 800.73,
+      "end": 800.81,
+      "score": 0.008
+    },
+    {
+      "word": "did",
+      "start": 800.83,
+      "end": 800.89,
+      "score": 0.007
+    },
+    {
+      "word": "you",
+      "start": 800.91,
+      "end": 800.97,
+      "score": 0.001
+    },
+    {
+      "word": "acquire",
+      "start": 800.99,
+      "end": 801.13,
+      "score": 0.0
+    },
+    {
+      "word": "the",
+      "start": 801.15,
+      "end": 801.21,
+      "score": 0.001
+    },
+    {
+      "word": "Nine",
+      "start": 801.23,
+      "end": 801.31,
+      "score": 0.008
+    },
+    {
+      "word": "Bar",
+      "start": 801.33,
+      "end": 801.39,
+      "score": 0.021
+    },
+    {
+      "word": "Ranch?",
+      "start": 801.41,
+      "end": 801.53,
+      "score": 0.169
+    },
+    {
+      "word": "What",
+      "start": 801.85,
+      "end": 802.035,
+      "score": 0.832
+    },
+    {
+      "word": "year?",
+      "start": 802.097,
+      "end": 802.384,
+      "score": 0.948
+    },
+    {
+      "word": "What",
+      "start": 802.754,
+      "end": 802.898,
+      "score": 0.996
+    },
+    {
+      "word": "time?",
+      "start": 802.96,
+      "end": 803.351,
+      "score": 0.894
+    },
+    {
+      "word": "1950?",
+      "start": 803.33,
+      "end": 805.22,
+      "score": 0.792
+    },
+    {
+      "word": "And",
+      "start": 805.24,
+      "end": 805.32,
+      "score": 0.811
+    },
+    {
+      "word": "kept",
+      "start": 805.521,
+      "end": 805.722,
+      "score": 0.448
+    },
+    {
+      "word": "it",
+      "start": 808.958,
+      "end": 809.039,
+      "score": 0.55
+    },
+    {
+      "word": "how",
+      "start": 809.099,
+      "end": 809.159,
+      "score": 0.0
+    },
+    {
+      "word": "long?",
+      "start": 809.18,
+      "end": 809.28,
+      "score": 0.122
+    },
+    {
+      "word": "What",
+      "start": 809.26,
+      "end": 988.819,
+      "score": 0.255
+    },
+    {
+      "word": "were",
+      "start": 988.839,
+      "end": 988.919,
+      "score": 0.017
+    },
+    {
+      "word": "the",
+      "start": 988.939,
+      "end": 988.999,
+      "score": 0.0
+    },
+    {
+      "word": "joys",
+      "start": 989.019,
+      "end": 989.099,
+      "score": 0.184
+    },
+    {
+      "word": "of",
+      "start": 990.24,
+      "end": 990.28,
+      "score": 0.0
+    },
+    {
+      "word": "being",
+      "start": 990.3,
+      "end": 991.5,
+      "score": 0.382
+    },
+    {
+      "word": "in",
+      "start": 991.52,
+      "end": 991.56,
+      "score": 0.084
+    },
+    {
+      "word": "the",
+      "start": 991.58,
+      "end": 991.64,
+      "score": 0.003
+    },
+    {
+      "word": "farm",
+      "start": 991.66,
+      "end": 991.74,
+      "score": 0.014
+    },
+    {
+      "word": "and",
+      "start": 991.76,
+      "end": 991.82,
+      "score": 0.033
+    },
+    {
+      "word": "ranching",
+      "start": 991.84,
+      "end": 992.0,
+      "score": 0.009
+    },
+    {
+      "word": "business?",
+      "start": 992.02,
+      "end": 992.2,
+      "score": 0.081
+    },
+    {
+      "word": "What",
+      "start": 992.18,
+      "end": 992.588,
+      "score": 0.932
+    },
+    {
+      "word": "did",
+      "start": 992.629,
+      "end": 992.792,
+      "score": 0.952
+    },
+    {
+      "word": "you",
+      "start": 992.833,
+      "end": 992.956,
+      "score": 0.999
+    },
+    {
+      "word": "enjoy",
+      "start": 993.037,
+      "end": 993.425,
+      "score": 0.928
+    },
+    {
+      "word": "most?",
+      "start": 993.527,
+      "end": 994.2,
+      "score": 0.932
+    },
+    {
+      "word": "If",
+      "start": 994.18,
+      "end": 1545.71,
+      "score": 0.503
+    },
+    {
+      "word": "you",
+      "start": 1545.73,
+      "end": 1545.79,
+      "score": 0.007
+    },
+    {
+      "word": "were",
+      "start": 1545.81,
+      "end": 1545.89,
+      "score": 0.006
+    },
+    {
+      "word": "buying",
+      "start": 1545.91,
+      "end": 1546.03,
+      "score": 0.003
+    },
+    {
+      "word": "land",
+      "start": 1546.05,
+      "end": 1546.13,
+      "score": 0.007
+    },
+    {
+      "word": "today,",
+      "start": 1546.15,
+      "end": 1546.27,
+      "score": 0.173
+    },
+    {
+      "word": "if",
+      "start": 1546.25,
+      "end": 1546.371,
+      "score": 0.621
+    },
+    {
+      "word": "I",
+      "start": 1546.714,
+      "end": 1546.734,
+      "score": 0.997
+    },
+    {
+      "word": "were",
+      "start": 1546.815,
+      "end": 1548.732,
+      "score": 0.802
+    },
+    {
+      "word": "buying",
+      "start": 1548.793,
+      "end": 1549.095,
+      "score": 0.766
+    },
+    {
+      "word": "land",
+      "start": 1549.156,
+      "end": 1549.459,
+      "score": 0.972
+    },
+    {
+      "word": "and",
+      "start": 1549.519,
+      "end": 1549.62,
+      "score": 0.766
+    },
+    {
+      "word": "came",
+      "start": 1549.68,
+      "end": 1549.943,
+      "score": 0.981
+    },
+    {
+      "word": "to",
+      "start": 1549.983,
+      "end": 1550.024,
+      "score": 0.622
+    },
+    {
+      "word": "you",
+      "start": 1550.084,
+      "end": 1550.246,
+      "score": 0.661
+    },
+    {
+      "word": "for",
+      "start": 1550.326,
+      "end": 1550.467,
+      "score": 0.887
+    },
+    {
+      "word": "advice,",
+      "start": 1550.528,
+      "end": 1550.77,
+      "score": 0.517
+    },
+    {
+      "word": "where",
+      "start": 1550.75,
+      "end": 1552.083,
+      "score": 0.864
+    },
+    {
+      "word": "would",
+      "start": 1552.144,
+      "end": 1552.326,
+      "score": 0.864
+    },
+    {
+      "word": "you",
+      "start": 1552.366,
+      "end": 1552.548,
+      "score": 0.987
+    },
+    {
+      "word": "tell",
+      "start": 1552.588,
+      "end": 1552.952,
+      "score": 0.916
+    },
+    {
+      "word": "me",
+      "start": 1553.013,
+      "end": 1553.235,
+      "score": 0.882
+    },
+    {
+      "word": "to",
+      "start": 1553.275,
+      "end": 1553.316,
+      "score": 0.5
+    },
+    {
+      "word": "look",
+      "start": 1553.639,
+      "end": 1553.902,
+      "score": 0.863
+    },
+    {
+      "word": "at",
+      "start": 1554.063,
+      "end": 1554.124,
+      "score": 0.598
+    },
+    {
+      "word": "land",
+      "start": 1554.225,
+      "end": 1554.487,
+      "score": 0.374
+    },
+    {
+      "word": "most",
+      "start": 1554.508,
+      "end": 1554.588,
+      "score": 0.0
+    },
+    {
+      "word": "closely?",
+      "start": 1554.609,
+      "end": 1554.77,
+      "score": 0.126
+    },
+    {
+      "word": "Where",
+      "start": 1554.75,
+      "end": 1556.24,
+      "score": 0.621
+    },
+    {
+      "word": "in",
+      "start": 1556.321,
+      "end": 1556.383,
+      "score": 0.988
+    },
+    {
+      "word": "Texas?",
+      "start": 1556.423,
+      "end": 1556.77,
+      "score": 0.538
+    },
+    {
+      "word": "Out",
+      "start": 1556.75,
+      "end": 1577.375,
+      "score": 0.94
+    },
+    {
+      "word": "here?",
+      "start": 1577.435,
+      "end": 1577.636,
+      "score": 0.835
+    },
+    {
+      "word": "When",
+      "start": 1579.638,
+      "end": 1579.818,
+      "score": 0.796
+    },
+    {
+      "word": "did",
+      "start": 1579.858,
+      "end": 1579.999,
+      "score": 0.991
+    },
+    {
+      "word": "you",
+      "start": 1580.039,
+      "end": 1580.179,
+      "score": 0.981
+    },
+    {
+      "word": "buy",
+      "start": 1580.639,
+      "end": 1580.82,
+      "score": 0.907
+    },
+    {
+      "word": "this",
+      "start": 1580.88,
+      "end": 1581.04,
+      "score": 0.801
+    },
+    {
+      "word": "land?",
+      "start": 1581.1,
+      "end": 1581.2,
+      "score": 0.367
+    },
+    {
+      "word": "14,000",
+      "start": 1581.18,
+      "end": 1643.85,
+      "score": 0.249
+    },
+    {
+      "word": "acres.",
+      "start": 1643.87,
+      "end": 1644.23,
+      "score": 0.249
+    },
+    {
+      "word": "Okay.",
+      "start": 1644.25,
+      "end": 1644.35,
+      "score": 0.2
+    },
+    {
+      "word": "Do",
+      "start": 1644.33,
+      "end": 1659.447,
+      "score": 0.76
+    },
+    {
+      "word": "you",
+      "start": 1659.467,
+      "end": 1659.567,
+      "score": 0.758
+    },
+    {
+      "word": "run",
+      "start": 1659.627,
+      "end": 1659.788,
+      "score": 0.913
+    },
+    {
+      "word": "cattle",
+      "start": 1659.848,
+      "end": 1660.169,
+      "score": 0.906
+    },
+    {
+      "word": "on",
+      "start": 1660.229,
+      "end": 1660.309,
+      "score": 0.918
+    },
+    {
+      "word": "it?",
+      "start": 1660.349,
+      "end": 1660.77,
+      "score": 0.826
+    },
+    {
+      "word": "Sheep?",
+      "start": 1660.75,
+      "end": 1663.606,
+      "score": 0.876
+    },
+    {
+      "word": "What",
+      "start": 1665.918,
+      "end": 1666.039,
+      "score": 0.735
+    },
+    {
+      "word": "kind",
+      "start": 1666.099,
+      "end": 1666.321,
+      "score": 0.89
+    },
+    {
+      "word": "of",
+      "start": 1666.381,
+      "end": 1666.421,
+      "score": 0.992
+    },
+    {
+      "word": "cattle?",
+      "start": 1667.085,
+      "end": 1668.05,
+      "score": 0.85
+    },
+    {
+      "word": "Senator",
+      "start": 1668.03,
+      "end": 1772.78,
+      "score": 0.151
+    },
+    {
+      "word": "Gertrude.",
+      "start": 1772.8,
+      "end": 1772.98,
+      "score": 0.007
+    },
+    {
+      "word": "Let's",
+      "start": 1773.0,
+      "end": 1773.1,
+      "score": 0.002
+    },
+    {
+      "word": "go",
+      "start": 1773.12,
+      "end": 1773.16,
+      "score": 0.0
+    },
+    {
+      "word": "back",
+      "start": 1773.18,
+      "end": 1773.26,
+      "score": 0.0
+    },
+    {
+      "word": "to",
+      "start": 1773.28,
+      "end": 1773.32,
+      "score": 0.0
+    },
+    {
+      "word": "Texas",
+      "start": 1773.34,
+      "end": 1773.44,
+      "score": 0.0
+    },
+    {
+      "word": "A&M.",
+      "start": 1773.46,
+      "end": 1773.54,
+      "score": 0.25
+    },
+    {
+      "word": "You",
+      "start": 1777.55,
+      "end": 1777.853,
+      "score": 0.965
+    },
+    {
+      "word": "worked",
+      "start": 1777.893,
+      "end": 1778.195,
+      "score": 0.932
+    },
+    {
+      "word": "with",
+      "start": 1778.296,
+      "end": 1778.619,
+      "score": 0.657
+    },
+    {
+      "word": "President",
+      "start": 1781.16,
+      "end": 1781.564,
+      "score": 0.959
+    },
+    {
+      "word": "Gilchrist.",
+      "start": 1781.604,
+      "end": 1782.33,
+      "score": 0.808
+    },
+    {
+      "word": "Describe",
+      "start": 1786.12,
+      "end": 1787.302,
+      "score": 0.814
+    },
+    {
+      "word": "his",
+      "start": 1787.742,
+      "end": 1788.083,
+      "score": 0.772
+    },
+    {
+      "word": "accomplishments,",
+      "start": 1788.123,
+      "end": 1790.226,
+      "score": 0.843
+    },
+    {
+      "word": "his",
+      "start": 1790.346,
+      "end": 1790.726,
+      "score": 0.807
+    },
+    {
+      "word": "goals",
+      "start": 1793.13,
+      "end": 1793.67,
+      "score": 0.811
+    },
+    {
+      "word": "in",
+      "start": 1800.039,
+      "end": 1800.099,
+      "score": 0.981
+    },
+    {
+      "word": "the",
+      "start": 1800.119,
+      "end": 1800.199,
+      "score": 0.781
+    },
+    {
+      "word": "highway",
+      "start": 1800.259,
+      "end": 1800.48,
+      "score": 0.419
+    },
+    {
+      "word": "department.",
+      "start": 1800.5,
+      "end": 1815.28,
+      "score": 0.539
+    },
+    {
+      "word": "Was",
+      "start": 1815.26,
+      "end": 1815.464,
+      "score": 0.947
+    },
+    {
+      "word": "he",
+      "start": 1815.505,
+      "end": 1815.587,
+      "score": 0.927
+    },
+    {
+      "word": "a",
+      "start": 1815.648,
+      "end": 1815.668,
+      "score": 0.961
+    },
+    {
+      "word": "big",
+      "start": 1815.77,
+      "end": 1815.974,
+      "score": 0.997
+    },
+    {
+      "word": "man",
+      "start": 1816.036,
+      "end": 1816.301,
+      "score": 0.917
+    },
+    {
+      "word": "physically?",
+      "start": 1816.382,
+      "end": 1817.28,
+      "score": 0.941
+    },
+    {
+      "word": "Who",
+      "start": 1817.26,
+      "end": 1824.037,
+      "score": 0.891
+    },
+    {
+      "word": "was",
+      "start": 1824.137,
+      "end": 1824.398,
+      "score": 0.898
+    },
+    {
+      "word": "it",
+      "start": 1824.538,
+      "end": 1824.618,
+      "score": 0.976
+    },
+    {
+      "word": "that",
+      "start": 1825.3,
+      "end": 1825.601,
+      "score": 0.865
+    },
+    {
+      "word": "decided",
+      "start": 1826.684,
+      "end": 1827.245,
+      "score": 0.91
+    },
+    {
+      "word": "he",
+      "start": 1827.265,
+      "end": 1827.305,
+      "score": 0.5
+    },
+    {
+      "word": "was",
+      "start": 1827.746,
+      "end": 1827.907,
+      "score": 0.845
+    },
+    {
+      "word": "the",
+      "start": 1827.967,
+      "end": 1828.047,
+      "score": 0.831
+    },
+    {
+      "word": "one",
+      "start": 1828.187,
+      "end": 1828.308,
+      "score": 0.681
+    },
+    {
+      "word": "to",
+      "start": 1828.428,
+      "end": 1828.508,
+      "score": 0.966
+    },
+    {
+      "word": "bring",
+      "start": 1828.548,
+      "end": 1828.809,
+      "score": 0.869
+    },
+    {
+      "word": "to",
+      "start": 1828.849,
+      "end": 1829.05,
+      "score": 0.754
+    },
+    {
+      "word": "A&M?",
+      "start": 1829.07,
+      "end": 1829.25,
+      "score": 0.631
+    },
+    {
+      "word": "Do",
+      "start": 1829.23,
+      "end": 1829.522,
+      "score": 0.704
+    },
+    {
+      "word": "you",
+      "start": 1829.543,
+      "end": 1829.626,
+      "score": 0.862
+    },
+    {
+      "word": "know?",
+      "start": 1829.668,
+      "end": 1830.251,
+      "score": 0.81
+    },
+    {
+      "word": "Because",
+      "start": 1830.23,
+      "end": 1832.222,
+      "score": 0.877
+    },
+    {
+      "word": "he",
+      "start": 1832.262,
+      "end": 1832.322,
+      "score": 0.964
+    },
+    {
+      "word": "came",
+      "start": 1832.383,
+      "end": 1832.624,
+      "score": 0.922
+    },
+    {
+      "word": "as",
+      "start": 1832.705,
+      "end": 1832.765,
+      "score": 0.724
+    },
+    {
+      "word": "dean",
+      "start": 1832.845,
+      "end": 1833.087,
+      "score": 0.882
+    },
+    {
+      "word": "of",
+      "start": 1833.147,
+      "end": 1833.187,
+      "score": 0.999
+    },
+    {
+      "word": "engineering",
+      "start": 1833.228,
+      "end": 1833.972,
+      "score": 0.819
+    },
+    {
+      "word": "and",
+      "start": 1834.032,
+      "end": 1834.113,
+      "score": 0.795
+    },
+    {
+      "word": "then",
+      "start": 1834.153,
+      "end": 1834.314,
+      "score": 0.861
+    },
+    {
+      "word": "became",
+      "start": 1834.394,
+      "end": 1834.736,
+      "score": 0.991
+    },
+    {
+      "word": "president.",
+      "start": 1834.837,
+      "end": 1835.36,
+      "score": 0.944
+    },
+    {
+      "word": "Was",
+      "start": 1835.34,
+      "end": 1842.355,
+      "score": 0.822
+    },
+    {
+      "word": "he",
+      "start": 1842.395,
+      "end": 1842.515,
+      "score": 0.966
+    },
+    {
+      "word": "easy",
+      "start": 1842.676,
+      "end": 1842.956,
+      "score": 0.806
+    },
+    {
+      "word": "to",
+      "start": 1843.016,
+      "end": 1843.096,
+      "score": 0.954
+    },
+    {
+      "word": "work",
+      "start": 1843.136,
+      "end": 1843.337,
+      "score": 0.866
+    },
+    {
+      "word": "with?",
+      "start": 1843.417,
+      "end": 1849.55,
+      "score": 0.854
+    },
+    {
+      "word": "Who",
+      "start": 1849.53,
+      "end": 1849.972,
+      "score": 0.83
+    },
+    {
+      "word": "was",
+      "start": 1850.012,
+      "end": 1850.153,
+      "score": 0.806
+    },
+    {
+      "word": "the",
+      "start": 1850.254,
+      "end": 1850.455,
+      "score": 0.71
+    },
+    {
+      "word": "executive",
+      "start": 1850.495,
+      "end": 1851.4,
+      "score": 0.895
+    },
+    {
+      "word": "director",
+      "start": 1851.46,
+      "end": 1852.083,
+      "score": 0.893
+    },
+    {
+      "word": "of",
+      "start": 1852.284,
+      "end": 1852.365,
+      "score": 0.83
+    },
+    {
+      "word": "the",
+      "start": 1852.405,
+      "end": 1852.666,
+      "score": 0.779
+    },
+    {
+      "word": "former",
+      "start": 1852.847,
+      "end": 1853.189,
+      "score": 0.922
+    },
+    {
+      "word": "students",
+      "start": 1853.229,
+      "end": 1853.692,
+      "score": 0.824
+    },
+    {
+      "word": "then?",
+      "start": 1853.772,
+      "end": 1857.29,
+      "score": 0.973
+    },
+    {
+      "word": "Trying",
+      "start": 1857.27,
+      "end": 1857.935,
+      "score": 0.853
+    },
+    {
+      "word": "to",
+      "start": 1857.955,
+      "end": 1858.016,
+      "score": 0.75
+    },
+    {
+      "word": "remember",
+      "start": 1858.056,
+      "end": 1858.5,
+      "score": 0.902
+    },
+    {
+      "word": "who",
+      "start": 1858.601,
+      "end": 1858.802,
+      "score": 0.76
+    },
+    {
+      "word": "was",
+      "start": 1858.903,
+      "end": 1859.085,
+      "score": 0.803
+    },
+    {
+      "word": "leading",
+      "start": 1859.125,
+      "end": 1859.972,
+      "score": 0.861
+    },
+    {
+      "word": "the",
+      "start": 1859.992,
+      "end": 1860.113,
+      "score": 0.745
+    },
+    {
+      "word": "former",
+      "start": 1860.153,
+      "end": 1860.476,
+      "score": 0.878
+    },
+    {
+      "word": "students",
+      "start": 1860.516,
+      "end": 1860.96,
+      "score": 0.826
+    },
+    {
+      "word": "in",
+      "start": 1861.04,
+      "end": 1861.101,
+      "score": 0.993
+    },
+    {
+      "word": "those",
+      "start": 1861.161,
+      "end": 1861.363,
+      "score": 0.771
+    },
+    {
+      "word": "years.",
+      "start": 1861.423,
+      "end": 1862.29,
+      "score": 0.851
+    },
+    {
+      "word": "I",
+      "start": 1862.27,
+      "end": 1863.402,
+      "score": 0.966
+    },
+    {
+      "word": "don't",
+      "start": 1863.482,
+      "end": 1863.644,
+      "score": 0.719
+    },
+    {
+      "word": "either.",
+      "start": 1863.705,
+      "end": 1865.24,
+      "score": 0.805
+    },
+    {
+      "word": "And",
+      "start": 1865.22,
+      "end": 1867.682,
+      "score": 0.929
+    },
+    {
+      "word": "let's",
+      "start": 1868.307,
+      "end": 1868.489,
+      "score": 0.407
+    },
+    {
+      "word": "see.",
+      "start": 1868.509,
+      "end": 1868.61,
+      "score": 0.347
+    },
+    {
+      "word": "And",
+      "start": 1868.59,
+      "end": 1869.253,
+      "score": 0.892
+    },
+    {
+      "word": "Dr.",
+      "start": 1869.333,
+      "end": 1869.795,
+      "score": 0.898
+    },
+    {
+      "word": "Harrington",
+      "start": 1869.895,
+      "end": 1870.558,
+      "score": 0.923
+    },
+    {
+      "word": "was",
+      "start": 1870.639,
+      "end": 1870.819,
+      "score": 0.902
+    },
+    {
+      "word": "coming",
+      "start": 1870.92,
+      "end": 1871.261,
+      "score": 0.95
+    },
+    {
+      "word": "up",
+      "start": 1871.502,
+      "end": 1871.603,
+      "score": 0.92
+    },
+    {
+      "word": "on",
+      "start": 1872.667,
+      "end": 1872.767,
+      "score": 0.859
+    },
+    {
+      "word": "the",
+      "start": 1872.848,
+      "end": 1873.269,
+      "score": 0.698
+    },
+    {
+      "word": "faculty.",
+      "start": 1873.892,
+      "end": 1875.82,
+      "score": 0.927
+    },
+    {
+      "word": "Did",
+      "start": 1875.8,
+      "end": 1875.901,
+      "score": 0.988
+    },
+    {
+      "word": "you",
+      "start": 1875.941,
+      "end": 1876.123,
+      "score": 0.748
+    },
+    {
+      "word": "remain",
+      "start": 1876.203,
+      "end": 1876.687,
+      "score": 0.716
+    },
+    {
+      "word": "in",
+      "start": 1876.707,
+      "end": 1876.748,
+      "score": 0.5
+    },
+    {
+      "word": "connection",
+      "start": 1877.231,
+      "end": 1877.776,
+      "score": 0.927
+    },
+    {
+      "word": "with",
+      "start": 1877.877,
+      "end": 1878.058,
+      "score": 0.812
+    },
+    {
+      "word": "him",
+      "start": 1878.119,
+      "end": 1878.36,
+      "score": 0.858
+    },
+    {
+      "word": "after",
+      "start": 1878.381,
+      "end": 1878.865,
+      "score": 0.785
+    },
+    {
+      "word": "you",
+      "start": 1878.905,
+      "end": 1879.187,
+      "score": 0.77
+    },
+    {
+      "word": "finished",
+      "start": 1879.248,
+      "end": 1879.631,
+      "score": 0.906
+    },
+    {
+      "word": "as",
+      "start": 1880.437,
+      "end": 1880.538,
+      "score": 0.97
+    },
+    {
+      "word": "a",
+      "start": 1880.598,
+      "end": 1880.619,
+      "score": 0.646
+    },
+    {
+      "word": "student?",
+      "start": 1880.659,
+      "end": 1880.82,
+      "score": 0.117
+    },
+    {
+      "word": "And",
+      "start": 1880.8,
+      "end": 1881.001,
+      "score": 0.457
+    },
+    {
+      "word": "did",
+      "start": 1886.138,
+      "end": 1888.004,
+      "score": 0.984
+    },
+    {
+      "word": "he",
+      "start": 1888.044,
+      "end": 1888.225,
+      "score": 0.86
+    },
+    {
+      "word": "and",
+      "start": 1888.265,
+      "end": 1888.345,
+      "score": 0.57
+    },
+    {
+      "word": "Ruth",
+      "start": 1888.746,
+      "end": 1888.947,
+      "score": 0.862
+    },
+    {
+      "word": "Harrington",
+      "start": 1889.007,
+      "end": 1889.449,
+      "score": 0.897
+    },
+    {
+      "word": "get",
+      "start": 1889.529,
+      "end": 1889.689,
+      "score": 0.839
+    },
+    {
+      "word": "married",
+      "start": 1889.77,
+      "end": 1890.151,
+      "score": 0.873
+    },
+    {
+      "word": "soon",
+      "start": 1890.191,
+      "end": 1890.552,
+      "score": 0.61
+    },
+    {
+      "word": "after",
+      "start": 1890.693,
+      "end": 1890.994,
+      "score": 0.901
+    },
+    {
+      "word": "his",
+      "start": 1891.014,
+      "end": 1891.074,
+      "score": 0.333
+    },
+    {
+      "word": "college",
+      "start": 1892.057,
+      "end": 1892.439,
+      "score": 0.956
+    },
+    {
+      "word": "days?",
+      "start": 1892.499,
+      "end": 1892.9,
+      "score": 0.625
+    },
+    {
+      "word": "She's",
+      "start": 1892.88,
+      "end": 1898.748,
+      "score": 0.918
+    },
+    {
+      "word": "still",
+      "start": 1899.17,
+      "end": 1899.632,
+      "score": 0.836
+    },
+    {
+      "word": "living",
+      "start": 1899.713,
+      "end": 1899.994,
+      "score": 0.979
+    },
+    {
+      "word": "there",
+      "start": 1900.054,
+      "end": 1900.295,
+      "score": 0.852
+    },
+    {
+      "word": "in",
+      "start": 1900.356,
+      "end": 1900.456,
+      "score": 0.821
+    },
+    {
+      "word": "Bryan.",
+      "start": 1900.496,
+      "end": 1901.28,
+      "score": 0.864
+    },
+    {
+      "word": "Okay.",
+      "start": 1901.26,
+      "end": 1903.056,
+      "score": 0.184
+    },
+    {
+      "word": "Thank",
+      "start": 1903.076,
+      "end": 1903.178,
+      "score": 0.032
+    },
+    {
+      "word": "you.",
+      "start": 1903.199,
+      "end": 1903.28,
+      "score": 0.198
+    },
+    {
+      "word": "Thank",
+      "start": 1903.26,
+      "end": 1904.449,
+      "score": 0.189
+    },
+    {
+      "word": "you.",
+      "start": 1904.503,
+      "end": 1904.719,
+      "score": 0.0
+    },
+    {
+      "word": "Thank",
+      "start": 1904.774,
+      "end": 1905.044,
+      "score": 0.0
+    },
+    {
+      "word": "you.",
+      "start": 1905.098,
+      "end": 1905.314,
+      "score": 0.25
+    }
+  ],
+  "language": "en",
+  "alignment_stats": {
+    "total_segments": 61,
+    "successful_alignments": 61,
+    "failed_alignments": 0,
+    "success_rate": 100.0,
+    "total_words": 378
+  },
+  "word_score_buckets": {
+    "Good": 1.0,
+    "Neutral": 0.907,
+    "Bad": 0.58
+  }
+}
