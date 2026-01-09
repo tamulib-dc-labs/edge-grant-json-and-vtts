@@ -1,0 +1,537 @@
+{
+  "segments": [
+    {
+      "start": 3.271,
+      "end": 15.033,
+      "text": " I feel that maybe I haven't hurt too many people too much and that maybe occasionally it's been positive.",
+      "words": [
+        {
+          "word": "I",
+          "start": 3.271,
+          "end": 3.511,
+          "score": 0.864
+        },
+        {
+          "word": "feel",
+          "start": 3.531,
+          "end": 3.792,
+          "score": 0.431
+        },
+        {
+          "word": "that",
+          "start": 3.832,
+          "end": 3.932,
+          "score": 0.501
+        },
+        {
+          "word": "maybe",
+          "start": 3.992,
+          "end": 4.373,
+          "score": 0.675
+        },
+        {
+          "word": "I",
+          "start": 4.393,
+          "end": 4.413,
+          "score": 0.993
+        },
+        {
+          "word": "haven't",
+          "start": 5.135,
+          "end": 5.475,
+          "score": 0.571
+        },
+        {
+          "word": "hurt",
+          "start": 5.535,
+          "end": 5.796,
+          "score": 0.847
+        },
+        {
+          "word": "too",
+          "start": 5.836,
+          "end": 5.996,
+          "score": 0.85
+        },
+        {
+          "word": "many",
+          "start": 6.036,
+          "end": 6.237,
+          "score": 0.633
+        },
+        {
+          "word": "people",
+          "start": 6.297,
+          "end": 6.657,
+          "score": 0.554
+        },
+        {
+          "word": "too",
+          "start": 6.798,
+          "end": 6.958,
+          "score": 0.896
+        },
+        {
+          "word": "much",
+          "start": 7.018,
+          "end": 7.319,
+          "score": 0.924
+        },
+        {
+          "word": "and",
+          "start": 8.28,
+          "end": 8.361,
+          "score": 0.831
+        },
+        {
+          "word": "that",
+          "start": 8.421,
+          "end": 8.541,
+          "score": 0.449
+        },
+        {
+          "word": "maybe",
+          "start": 9.082,
+          "end": 9.503,
+          "score": 0.609
+        },
+        {
+          "word": "occasionally",
+          "start": 9.883,
+          "end": 10.565,
+          "score": 0.633
+        },
+        {
+          "word": "it's",
+          "start": 10.685,
+          "end": 11.847,
+          "score": 0.686
+        },
+        {
+          "word": "been",
+          "start": 11.887,
+          "end": 12.068,
+          "score": 0.806
+        },
+        {
+          "word": "positive.",
+          "start": 12.148,
+          "end": 15.033,
+          "score": 0.591
+        }
+      ]
+    },
+    {
+      "start": 15.194,
+      "end": 19.942,
+      "text": "Fortunately the ones you hurt don't say much to you, they let it go.",
+      "words": [
+        {
+          "word": "Fortunately",
+          "start": 15.194,
+          "end": 15.694,
+          "score": 0.257
+        },
+        {
+          "word": "the",
+          "start": 15.755,
+          "end": 15.815,
+          "score": 0.286
+        },
+        {
+          "word": "ones",
+          "start": 15.875,
+          "end": 16.055,
+          "score": 0.627
+        },
+        {
+          "word": "you",
+          "start": 16.075,
+          "end": 16.135,
+          "score": 0.335
+        },
+        {
+          "word": "hurt",
+          "start": 16.175,
+          "end": 16.416,
+          "score": 0.826
+        },
+        {
+          "word": "don't",
+          "start": 16.516,
+          "end": 16.676,
+          "score": 0.441
+        },
+        {
+          "word": "say",
+          "start": 17.298,
+          "end": 17.498,
+          "score": 0.556
+        },
+        {
+          "word": "much",
+          "start": 17.538,
+          "end": 17.738,
+          "score": 0.62
+        },
+        {
+          "word": "to",
+          "start": 17.798,
+          "end": 18.119,
+          "score": 0.694
+        },
+        {
+          "word": "you,",
+          "start": 18.139,
+          "end": 18.219,
+          "score": 0.354
+        },
+        {
+          "word": "they",
+          "start": 18.279,
+          "end": 18.48,
+          "score": 0.66
+        },
+        {
+          "word": "let",
+          "start": 19.422,
+          "end": 19.582,
+          "score": 0.277
+        },
+        {
+          "word": "it",
+          "start": 19.602,
+          "end": 19.642,
+          "score": 0.382
+        },
+        {
+          "word": "go.",
+          "start": 19.702,
+          "end": 19.942,
+          "score": 0.788
+        }
+      ]
+    },
+    {
+      "start": 22.367,
+      "end": 24.992,
+      "text": "It's been a great ride, been a fun ride.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 22.367,
+          "end": 22.507,
+          "score": 0.624
+        },
+        {
+          "word": "been",
+          "start": 22.547,
+          "end": 22.708,
+          "score": 0.337
+        },
+        {
+          "word": "a",
+          "start": 22.728,
+          "end": 22.768,
+          "score": 0.682
+        },
+        {
+          "word": "great",
+          "start": 22.808,
+          "end": 23.008,
+          "score": 0.46
+        },
+        {
+          "word": "ride,",
+          "start": 23.088,
+          "end": 23.409,
+          "score": 0.767
+        },
+        {
+          "word": "been",
+          "start": 24.03,
+          "end": 24.251,
+          "score": 0.462
+        },
+        {
+          "word": "a",
+          "start": 24.271,
+          "end": 24.291,
+          "score": 0.677
+        },
+        {
+          "word": "fun",
+          "start": 24.311,
+          "end": 24.571,
+          "score": 0.738
+        },
+        {
+          "word": "ride.",
+          "start": 24.591,
+          "end": 24.992,
+          "score": 0.465
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "I",
+      "start": 3.271,
+      "end": 3.511,
+      "score": 0.864
+    },
+    {
+      "word": "feel",
+      "start": 3.531,
+      "end": 3.792,
+      "score": 0.431
+    },
+    {
+      "word": "that",
+      "start": 3.832,
+      "end": 3.932,
+      "score": 0.501
+    },
+    {
+      "word": "maybe",
+      "start": 3.992,
+      "end": 4.373,
+      "score": 0.675
+    },
+    {
+      "word": "I",
+      "start": 4.393,
+      "end": 4.413,
+      "score": 0.993
+    },
+    {
+      "word": "haven't",
+      "start": 5.135,
+      "end": 5.475,
+      "score": 0.571
+    },
+    {
+      "word": "hurt",
+      "start": 5.535,
+      "end": 5.796,
+      "score": 0.847
+    },
+    {
+      "word": "too",
+      "start": 5.836,
+      "end": 5.996,
+      "score": 0.85
+    },
+    {
+      "word": "many",
+      "start": 6.036,
+      "end": 6.237,
+      "score": 0.633
+    },
+    {
+      "word": "people",
+      "start": 6.297,
+      "end": 6.657,
+      "score": 0.554
+    },
+    {
+      "word": "too",
+      "start": 6.798,
+      "end": 6.958,
+      "score": 0.896
+    },
+    {
+      "word": "much",
+      "start": 7.018,
+      "end": 7.319,
+      "score": 0.924
+    },
+    {
+      "word": "and",
+      "start": 8.28,
+      "end": 8.361,
+      "score": 0.831
+    },
+    {
+      "word": "that",
+      "start": 8.421,
+      "end": 8.541,
+      "score": 0.449
+    },
+    {
+      "word": "maybe",
+      "start": 9.082,
+      "end": 9.503,
+      "score": 0.609
+    },
+    {
+      "word": "occasionally",
+      "start": 9.883,
+      "end": 10.565,
+      "score": 0.633
+    },
+    {
+      "word": "it's",
+      "start": 10.685,
+      "end": 11.847,
+      "score": 0.686
+    },
+    {
+      "word": "been",
+      "start": 11.887,
+      "end": 12.068,
+      "score": 0.806
+    },
+    {
+      "word": "positive.",
+      "start": 12.148,
+      "end": 15.033,
+      "score": 0.591
+    },
+    {
+      "word": "Fortunately",
+      "start": 15.194,
+      "end": 15.694,
+      "score": 0.257
+    },
+    {
+      "word": "the",
+      "start": 15.755,
+      "end": 15.815,
+      "score": 0.286
+    },
+    {
+      "word": "ones",
+      "start": 15.875,
+      "end": 16.055,
+      "score": 0.627
+    },
+    {
+      "word": "you",
+      "start": 16.075,
+      "end": 16.135,
+      "score": 0.335
+    },
+    {
+      "word": "hurt",
+      "start": 16.175,
+      "end": 16.416,
+      "score": 0.826
+    },
+    {
+      "word": "don't",
+      "start": 16.516,
+      "end": 16.676,
+      "score": 0.441
+    },
+    {
+      "word": "say",
+      "start": 17.298,
+      "end": 17.498,
+      "score": 0.556
+    },
+    {
+      "word": "much",
+      "start": 17.538,
+      "end": 17.738,
+      "score": 0.62
+    },
+    {
+      "word": "to",
+      "start": 17.798,
+      "end": 18.119,
+      "score": 0.694
+    },
+    {
+      "word": "you,",
+      "start": 18.139,
+      "end": 18.219,
+      "score": 0.354
+    },
+    {
+      "word": "they",
+      "start": 18.279,
+      "end": 18.48,
+      "score": 0.66
+    },
+    {
+      "word": "let",
+      "start": 19.422,
+      "end": 19.582,
+      "score": 0.277
+    },
+    {
+      "word": "it",
+      "start": 19.602,
+      "end": 19.642,
+      "score": 0.382
+    },
+    {
+      "word": "go.",
+      "start": 19.702,
+      "end": 19.942,
+      "score": 0.788
+    },
+    {
+      "word": "It's",
+      "start": 22.367,
+      "end": 22.507,
+      "score": 0.624
+    },
+    {
+      "word": "been",
+      "start": 22.547,
+      "end": 22.708,
+      "score": 0.337
+    },
+    {
+      "word": "a",
+      "start": 22.728,
+      "end": 22.768,
+      "score": 0.682
+    },
+    {
+      "word": "great",
+      "start": 22.808,
+      "end": 23.008,
+      "score": 0.46
+    },
+    {
+      "word": "ride,",
+      "start": 23.088,
+      "end": 23.409,
+      "score": 0.767
+    },
+    {
+      "word": "been",
+      "start": 24.03,
+      "end": 24.251,
+      "score": 0.462
+    },
+    {
+      "word": "a",
+      "start": 24.271,
+      "end": 24.291,
+      "score": 0.677
+    },
+    {
+      "word": "fun",
+      "start": 24.311,
+      "end": 24.571,
+      "score": 0.738
+    },
+    {
+      "word": "ride.",
+      "start": 24.591,
+      "end": 24.992,
+      "score": 0.465
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.767,
+    "Neutral": 0.627,
+    "Bad": 0.46
+  }
+}
