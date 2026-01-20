@@ -1,0 +1,6236 @@
+{
+  "segments": [
+    {
+      "start": 2.613,
+      "end": 4.575,
+      "text": " It was authorized in 1943.",
+      "words": [
+        {
+          "word": "It",
+          "start": 2.613,
+          "end": 2.693,
+          "score": 0.442
+        },
+        {
+          "word": "was",
+          "start": 2.753,
+          "end": 2.813,
+          "score": 0.0
+        },
+        {
+          "word": "authorized",
+          "start": 2.833,
+          "end": 3.494,
+          "score": 0.891
+        },
+        {
+          "word": "in",
+          "start": 3.534,
+          "end": 3.754,
+          "score": 0.855
+        },
+        {
+          "word": "1943.",
+          "start": 3.774,
+          "end": 4.575,
+          "score": 0.844
+        }
+      ]
+    },
+    {
+      "start": 4.756,
+      "end": 8.16,
+      "text": "We were talking about major gift.",
+      "words": [
+        {
+          "word": "We",
+          "start": 4.756,
+          "end": 4.896,
+          "score": 0.75
+        },
+        {
+          "word": "were",
+          "start": 4.936,
+          "end": 6.157,
+          "score": 0.7
+        },
+        {
+          "word": "talking",
+          "start": 6.177,
+          "end": 6.358,
+          "score": 0.154
+        },
+        {
+          "word": "about",
+          "start": 6.378,
+          "end": 6.518,
+          "score": 0.576
+        },
+        {
+          "word": "major",
+          "start": 6.598,
+          "end": 7.079,
+          "score": 0.861
+        },
+        {
+          "word": "gift.",
+          "start": 7.179,
+          "end": 8.16,
+          "score": 0.84
+        }
+      ]
+    },
+    {
+      "start": 8.18,
+      "end": 10.643,
+      "text": "And consultation.",
+      "words": [
+        {
+          "word": "And",
+          "start": 8.18,
+          "end": 8.6,
+          "score": 0.839
+        },
+        {
+          "word": "consultation.",
+          "start": 9.902,
+          "end": 10.643,
+          "score": 0.925
+        }
+      ]
+    },
+    {
+      "start": 11.123,
+      "end": 19.974,
+      "text": "Anything else that is dear to your heart that you wish you had the capability to help fund at A&M if you were a rich, rich, rich person?",
+      "words": [
+        {
+          "word": "Anything",
+          "start": 11.123,
+          "end": 11.604,
+          "score": 0.812
+        },
+        {
+          "word": "else",
+          "start": 11.624,
+          "end": 12.065,
+          "score": 0.844
+        },
+        {
+          "word": "that",
+          "start": 12.325,
+          "end": 13.086,
+          "score": 0.86
+        },
+        {
+          "word": "is",
+          "start": 13.206,
+          "end": 13.286,
+          "score": 0.752
+        },
+        {
+          "word": "dear",
+          "start": 13.346,
+          "end": 13.526,
+          "score": 0.779
+        },
+        {
+          "word": "to",
+          "start": 13.567,
+          "end": 13.607,
+          "score": 0.971
+        },
+        {
+          "word": "your",
+          "start": 13.647,
+          "end": 13.807,
+          "score": 0.722
+        },
+        {
+          "word": "heart",
+          "start": 13.867,
+          "end": 14.087,
+          "score": 0.704
+        },
+        {
+          "word": "that",
+          "start": 14.147,
+          "end": 14.307,
+          "score": 0.924
+        },
+        {
+          "word": "you",
+          "start": 14.367,
+          "end": 14.548,
+          "score": 0.695
+        },
+        {
+          "word": "wish",
+          "start": 14.608,
+          "end": 14.848,
+          "score": 0.934
+        },
+        {
+          "word": "you",
+          "start": 15.649,
+          "end": 15.789,
+          "score": 0.751
+        },
+        {
+          "word": "had",
+          "start": 15.829,
+          "end": 15.969,
+          "score": 0.814
+        },
+        {
+          "word": "the",
+          "start": 15.989,
+          "end": 16.07,
+          "score": 0.76
+        },
+        {
+          "word": "capability",
+          "start": 16.11,
+          "end": 16.851,
+          "score": 0.955
+        },
+        {
+          "word": "to",
+          "start": 16.931,
+          "end": 17.031,
+          "score": 0.924
+        },
+        {
+          "word": "help",
+          "start": 17.091,
+          "end": 17.271,
+          "score": 0.915
+        },
+        {
+          "word": "fund",
+          "start": 17.311,
+          "end": 17.652,
+          "score": 0.849
+        },
+        {
+          "word": "at",
+          "start": 17.752,
+          "end": 17.792,
+          "score": 0.767
+        },
+        {
+          "word": "A&M",
+          "start": 17.872,
+          "end": 18.272,
+          "score": 0.862
+        },
+        {
+          "word": "if",
+          "start": 18.352,
+          "end": 18.412,
+          "score": 0.95
+        },
+        {
+          "word": "you",
+          "start": 18.453,
+          "end": 18.553,
+          "score": 0.988
+        },
+        {
+          "word": "were",
+          "start": 18.593,
+          "end": 18.713,
+          "score": 0.963
+        },
+        {
+          "word": "a",
+          "start": 18.733,
+          "end": 18.753,
+          "score": 0.999
+        },
+        {
+          "word": "rich,",
+          "start": 18.893,
+          "end": 19.093,
+          "score": 0.914
+        },
+        {
+          "word": "rich,",
+          "start": 19.173,
+          "end": 19.354,
+          "score": 0.945
+        },
+        {
+          "word": "rich",
+          "start": 19.414,
+          "end": 19.594,
+          "score": 0.878
+        },
+        {
+          "word": "person?",
+          "start": 19.654,
+          "end": 19.974,
+          "score": 0.955
+        }
+      ]
+    },
+    {
+      "start": 22.037,
+      "end": 25.341,
+      "text": "Well, of course, athletics is dear to my heart.",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 22.037,
+          "end": 22.137,
+          "score": 0.012
+        },
+        {
+          "word": "of",
+          "start": 22.157,
+          "end": 22.237,
+          "score": 0.866
+        },
+        {
+          "word": "course,",
+          "start": 22.297,
+          "end": 22.498,
+          "score": 0.947
+        },
+        {
+          "word": "athletics",
+          "start": 22.618,
+          "end": 23.158,
+          "score": 0.888
+        },
+        {
+          "word": "is",
+          "start": 23.258,
+          "end": 23.339,
+          "score": 0.666
+        },
+        {
+          "word": "dear",
+          "start": 23.399,
+          "end": 23.599,
+          "score": 0.898
+        },
+        {
+          "word": "to",
+          "start": 23.639,
+          "end": 23.679,
+          "score": 0.992
+        },
+        {
+          "word": "my",
+          "start": 23.739,
+          "end": 23.899,
+          "score": 0.982
+        },
+        {
+          "word": "heart.",
+          "start": 23.959,
+          "end": 25.341,
+          "score": 0.792
+        }
+      ]
+    },
+    {
+      "start": 25.361,
+      "end": 30.207,
+      "text": "And we're going all out on the West Campus",
+      "words": [
+        {
+          "word": "And",
+          "start": 25.361,
+          "end": 25.521,
+          "score": 0.935
+        },
+        {
+          "word": "we're",
+          "start": 27.424,
+          "end": 27.724,
+          "score": 0.787
+        },
+        {
+          "word": "going",
+          "start": 28.305,
+          "end": 28.565,
+          "score": 0.888
+        },
+        {
+          "word": "all",
+          "start": 28.605,
+          "end": 28.885,
+          "score": 0.848
+        },
+        {
+          "word": "out",
+          "start": 29.026,
+          "end": 29.126,
+          "score": 0.98
+        },
+        {
+          "word": "on",
+          "start": 29.226,
+          "end": 29.286,
+          "score": 0.996
+        },
+        {
+          "word": "the",
+          "start": 29.326,
+          "end": 29.386,
+          "score": 0.979
+        },
+        {
+          "word": "West",
+          "start": 29.446,
+          "end": 29.686,
+          "score": 0.841
+        },
+        {
+          "word": "Campus",
+          "start": 29.726,
+          "end": 30.207,
+          "score": 0.712
+        }
+      ]
+    },
+    {
+      "start": 30.659,
+      "end": 32.682,
+      "text": " improving those facilities over there.",
+      "words": [
+        {
+          "word": "improving",
+          "start": 30.659,
+          "end": 31.22,
+          "score": 0.768
+        },
+        {
+          "word": "those",
+          "start": 31.26,
+          "end": 31.46,
+          "score": 0.948
+        },
+        {
+          "word": "facilities",
+          "start": 31.54,
+          "end": 32.081,
+          "score": 0.907
+        },
+        {
+          "word": "over",
+          "start": 32.181,
+          "end": 32.361,
+          "score": 0.967
+        },
+        {
+          "word": "there.",
+          "start": 32.401,
+          "end": 32.682,
+          "score": 0.805
+        }
+      ]
+    },
+    {
+      "start": 32.982,
+      "end": 35.145,
+      "text": "And they are sorely needed.",
+      "words": [
+        {
+          "word": "And",
+          "start": 32.982,
+          "end": 33.102,
+          "score": 0.764
+        },
+        {
+          "word": "they",
+          "start": 33.783,
+          "end": 34.023,
+          "score": 0.491
+        },
+        {
+          "word": "are",
+          "start": 34.043,
+          "end": 34.164,
+          "score": 0.818
+        },
+        {
+          "word": "sorely",
+          "start": 34.324,
+          "end": 34.744,
+          "score": 0.984
+        },
+        {
+          "word": "needed.",
+          "start": 34.845,
+          "end": 35.145,
+          "score": 0.933
+        }
+      ]
+    },
+    {
+      "start": 36.266,
+      "end": 49.103,
+      "text": "And I think the expansion of the south end zone at Kyle Field and all the things that it will do for the athletic department is a step in the right direction.",
+      "words": [
+        {
+          "word": "And",
+          "start": 36.266,
+          "end": 36.427,
+          "score": 0.931
+        },
+        {
+          "word": "I",
+          "start": 36.687,
+          "end": 37.608,
+          "score": 0.937
+        },
+        {
+          "word": "think",
+          "start": 37.688,
+          "end": 37.909,
+          "score": 0.989
+        },
+        {
+          "word": "the",
+          "start": 37.989,
+          "end": 38.129,
+          "score": 0.785
+        },
+        {
+          "word": "expansion",
+          "start": 38.209,
+          "end": 38.83,
+          "score": 0.8
+        },
+        {
+          "word": "of",
+          "start": 38.91,
+          "end": 38.95,
+          "score": 0.993
+        },
+        {
+          "word": "the",
+          "start": 39.03,
+          "end": 39.09,
+          "score": 0.901
+        },
+        {
+          "word": "south",
+          "start": 39.17,
+          "end": 39.471,
+          "score": 0.874
+        },
+        {
+          "word": "end",
+          "start": 39.571,
+          "end": 39.751,
+          "score": 0.748
+        },
+        {
+          "word": "zone",
+          "start": 39.831,
+          "end": 40.031,
+          "score": 0.668
+        },
+        {
+          "word": "at",
+          "start": 40.051,
+          "end": 40.092,
+          "score": 0.553
+        },
+        {
+          "word": "Kyle",
+          "start": 40.652,
+          "end": 40.993,
+          "score": 0.564
+        },
+        {
+          "word": "Field",
+          "start": 41.073,
+          "end": 41.433,
+          "score": 0.791
+        },
+        {
+          "word": "and",
+          "start": 42.314,
+          "end": 42.435,
+          "score": 0.933
+        },
+        {
+          "word": "all",
+          "start": 42.475,
+          "end": 42.835,
+          "score": 0.485
+        },
+        {
+          "word": "the",
+          "start": 42.875,
+          "end": 42.935,
+          "score": 0.733
+        },
+        {
+          "word": "things",
+          "start": 43.015,
+          "end": 43.316,
+          "score": 0.884
+        },
+        {
+          "word": "that",
+          "start": 43.356,
+          "end": 43.456,
+          "score": 0.438
+        },
+        {
+          "word": "it",
+          "start": 43.516,
+          "end": 43.576,
+          "score": 0.719
+        },
+        {
+          "word": "will",
+          "start": 43.616,
+          "end": 43.796,
+          "score": 0.869
+        },
+        {
+          "word": "do",
+          "start": 43.836,
+          "end": 44.057,
+          "score": 0.832
+        },
+        {
+          "word": "for",
+          "start": 44.237,
+          "end": 44.497,
+          "score": 0.783
+        },
+        {
+          "word": "the",
+          "start": 44.537,
+          "end": 44.698,
+          "score": 0.348
+        },
+        {
+          "word": "athletic",
+          "start": 44.778,
+          "end": 45.198,
+          "score": 0.812
+        },
+        {
+          "word": "department",
+          "start": 45.238,
+          "end": 45.759,
+          "score": 0.889
+        },
+        {
+          "word": "is",
+          "start": 46.8,
+          "end": 46.941,
+          "score": 0.932
+        },
+        {
+          "word": "a",
+          "start": 47.061,
+          "end": 47.161,
+          "score": 0.935
+        },
+        {
+          "word": "step",
+          "start": 47.922,
+          "end": 48.202,
+          "score": 0.883
+        },
+        {
+          "word": "in",
+          "start": 48.242,
+          "end": 48.282,
+          "score": 0.994
+        },
+        {
+          "word": "the",
+          "start": 48.322,
+          "end": 48.403,
+          "score": 0.832
+        },
+        {
+          "word": "right",
+          "start": 48.443,
+          "end": 48.623,
+          "score": 0.766
+        },
+        {
+          "word": "direction.",
+          "start": 48.683,
+          "end": 49.103,
+          "score": 0.83
+        }
+      ]
+    },
+    {
+      "start": 49.804,
+      "end": 51.527,
+      "text": "I don't know if it's enough of a step.",
+      "words": [
+        {
+          "word": "I",
+          "start": 49.804,
+          "end": 49.844,
+          "score": 0.988
+        },
+        {
+          "word": "don't",
+          "start": 49.885,
+          "end": 50.045,
+          "score": 0.764
+        },
+        {
+          "word": "know",
+          "start": 50.085,
+          "end": 50.225,
+          "score": 0.762
+        },
+        {
+          "word": "if",
+          "start": 50.265,
+          "end": 50.385,
+          "score": 0.723
+        },
+        {
+          "word": "it's",
+          "start": 50.445,
+          "end": 50.565,
+          "score": 0.697
+        },
+        {
+          "word": "enough",
+          "start": 50.646,
+          "end": 50.926,
+          "score": 0.76
+        },
+        {
+          "word": "of",
+          "start": 50.966,
+          "end": 51.006,
+          "score": 0.881
+        },
+        {
+          "word": "a",
+          "start": 51.106,
+          "end": 51.166,
+          "score": 0.667
+        },
+        {
+          "word": "step.",
+          "start": 51.226,
+          "end": 51.527,
+          "score": 0.769
+        }
+      ]
+    },
+    {
+      "start": 52.468,
+      "end": 58.636,
+      "text": "I'm not that familiar with all of the moving parts in all of that.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 52.468,
+          "end": 53.65,
+          "score": 0.818
+        },
+        {
+          "word": "not",
+          "start": 53.71,
+          "end": 53.89,
+          "score": 0.769
+        },
+        {
+          "word": "that",
+          "start": 53.93,
+          "end": 54.11,
+          "score": 0.715
+        },
+        {
+          "word": "familiar",
+          "start": 54.35,
+          "end": 54.851,
+          "score": 0.801
+        },
+        {
+          "word": "with",
+          "start": 54.911,
+          "end": 55.071,
+          "score": 0.887
+        },
+        {
+          "word": "all",
+          "start": 55.192,
+          "end": 55.372,
+          "score": 0.917
+        },
+        {
+          "word": "of",
+          "start": 55.412,
+          "end": 55.472,
+          "score": 0.606
+        },
+        {
+          "word": "the",
+          "start": 55.592,
+          "end": 56.734,
+          "score": 0.938
+        },
+        {
+          "word": "moving",
+          "start": 56.774,
+          "end": 57.114,
+          "score": 0.943
+        },
+        {
+          "word": "parts",
+          "start": 57.194,
+          "end": 57.575,
+          "score": 0.95
+        },
+        {
+          "word": "in",
+          "start": 57.995,
+          "end": 58.115,
+          "score": 0.846
+        },
+        {
+          "word": "all",
+          "start": 58.176,
+          "end": 58.316,
+          "score": 0.801
+        },
+        {
+          "word": "of",
+          "start": 58.336,
+          "end": 58.376,
+          "score": 0.498
+        },
+        {
+          "word": "that.",
+          "start": 58.436,
+          "end": 58.636,
+          "score": 0.951
+        }
+      ]
+    },
+    {
+      "start": 59.417,
+      "end": 60.058,
+      "text": "But...",
+      "words": [
+        {
+          "word": "But...",
+          "start": 59.417,
+          "end": 60.058,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "start": 62.772,
+      "end": 70.181,
+      "text": " You know, if you build a 105,000 seat stadium here in College Station, are you going to fill it?",
+      "words": [
+        {
+          "word": "You",
+          "start": 62.772,
+          "end": 62.892,
+          "score": 0.591
+        },
+        {
+          "word": "know,",
+          "start": 62.932,
+          "end": 63.092,
+          "score": 0.865
+        },
+        {
+          "word": "if",
+          "start": 63.413,
+          "end": 63.493,
+          "score": 0.826
+        },
+        {
+          "word": "you",
+          "start": 63.533,
+          "end": 63.673,
+          "score": 0.932
+        },
+        {
+          "word": "build",
+          "start": 63.713,
+          "end": 63.953,
+          "score": 0.641
+        },
+        {
+          "word": "a",
+          "start": 63.973,
+          "end": 63.993,
+          "score": 0.998
+        },
+        {
+          "word": "105,000",
+          "start": 64.013,
+          "end": 64.354,
+          "score": 0.891
+        },
+        {
+          "word": "seat",
+          "start": 64.694,
+          "end": 65.175,
+          "score": 0.424
+        },
+        {
+          "word": "stadium",
+          "start": 65.195,
+          "end": 66.737,
+          "score": 0.799
+        },
+        {
+          "word": "here",
+          "start": 66.777,
+          "end": 66.937,
+          "score": 0.856
+        },
+        {
+          "word": "in",
+          "start": 66.977,
+          "end": 67.037,
+          "score": 0.78
+        },
+        {
+          "word": "College",
+          "start": 67.117,
+          "end": 67.478,
+          "score": 0.796
+        },
+        {
+          "word": "Station,",
+          "start": 67.558,
+          "end": 68.018,
+          "score": 0.868
+        },
+        {
+          "word": "are",
+          "start": 69.24,
+          "end": 69.34,
+          "score": 0.397
+        },
+        {
+          "word": "you",
+          "start": 69.36,
+          "end": 69.46,
+          "score": 0.818
+        },
+        {
+          "word": "going",
+          "start": 69.48,
+          "end": 69.64,
+          "score": 0.458
+        },
+        {
+          "word": "to",
+          "start": 69.66,
+          "end": 69.7,
+          "score": 0.787
+        },
+        {
+          "word": "fill",
+          "start": 69.8,
+          "end": 70.021,
+          "score": 0.926
+        },
+        {
+          "word": "it?",
+          "start": 70.081,
+          "end": 70.181,
+          "score": 0.935
+        }
+      ]
+    },
+    {
+      "start": 72.303,
+      "end": 72.664,
+      "text": "Maybe.",
+      "words": [
+        {
+          "word": "Maybe.",
+          "start": 72.303,
+          "end": 72.664,
+          "score": 0.975
+        }
+      ]
+    },
+    {
+      "start": 74.125,
+      "end": 75.127,
+      "text": "But it's going to be a while.",
+      "words": [
+        {
+          "word": "But",
+          "start": 74.125,
+          "end": 74.246,
+          "score": 0.979
+        },
+        {
+          "word": "it's",
+          "start": 74.286,
+          "end": 74.386,
+          "score": 0.852
+        },
+        {
+          "word": "going",
+          "start": 74.426,
+          "end": 74.546,
+          "score": 0.531
+        },
+        {
+          "word": "to",
+          "start": 74.586,
+          "end": 74.626,
+          "score": 0.988
+        },
+        {
+          "word": "be",
+          "start": 74.666,
+          "end": 74.786,
+          "score": 0.898
+        },
+        {
+          "word": "a",
+          "start": 74.806,
+          "end": 74.846,
+          "score": 0.463
+        },
+        {
+          "word": "while.",
+          "start": 74.886,
+          "end": 75.127,
+          "score": 0.921
+        }
+      ]
+    },
+    {
+      "start": 77.289,
+      "end": 77.71,
+      "text": "Okay.",
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 77.289,
+          "end": 77.71,
+          "score": 0.753
+        }
+      ]
+    },
+    {
+      "start": 78.25,
+      "end": 82.976,
+      "text": "There's not enough motels and hotels in College Station to hold that many people.",
+      "words": [
+        {
+          "word": "There's",
+          "start": 78.25,
+          "end": 78.451,
+          "score": 0.896
+        },
+        {
+          "word": "not",
+          "start": 78.511,
+          "end": 78.631,
+          "score": 0.975
+        },
+        {
+          "word": "enough",
+          "start": 78.691,
+          "end": 78.931,
+          "score": 0.544
+        },
+        {
+          "word": "motels",
+          "start": 78.991,
+          "end": 79.572,
+          "score": 0.828
+        },
+        {
+          "word": "and",
+          "start": 80.253,
+          "end": 80.353,
+          "score": 0.552
+        },
+        {
+          "word": "hotels",
+          "start": 80.393,
+          "end": 80.853,
+          "score": 0.816
+        },
+        {
+          "word": "in",
+          "start": 80.934,
+          "end": 81.014,
+          "score": 0.79
+        },
+        {
+          "word": "College",
+          "start": 81.054,
+          "end": 81.394,
+          "score": 0.959
+        },
+        {
+          "word": "Station",
+          "start": 81.434,
+          "end": 81.815,
+          "score": 0.866
+        },
+        {
+          "word": "to",
+          "start": 81.855,
+          "end": 81.895,
+          "score": 0.365
+        },
+        {
+          "word": "hold",
+          "start": 81.955,
+          "end": 82.175,
+          "score": 0.723
+        },
+        {
+          "word": "that",
+          "start": 82.235,
+          "end": 82.375,
+          "score": 0.561
+        },
+        {
+          "word": "many",
+          "start": 82.515,
+          "end": 82.696,
+          "score": 0.215
+        },
+        {
+          "word": "people.",
+          "start": 82.716,
+          "end": 82.976,
+          "score": 0.335
+        }
+      ]
+    },
+    {
+      "start": 85.139,
+      "end": 86.1,
+      "text": "Can you think of anything?",
+      "words": [
+        {
+          "word": "Can",
+          "start": 85.139,
+          "end": 85.279,
+          "score": 0.897
+        },
+        {
+          "word": "you",
+          "start": 85.319,
+          "end": 85.419,
+          "score": 0.934
+        },
+        {
+          "word": "think",
+          "start": 85.439,
+          "end": 85.619,
+          "score": 0.74
+        },
+        {
+          "word": "of",
+          "start": 85.659,
+          "end": 85.719,
+          "score": 0.741
+        },
+        {
+          "word": "anything?",
+          "start": 85.779,
+          "end": 86.1,
+          "score": 0.842
+        }
+      ]
+    },
+    {
+      "start": 86.14,
+      "end": 89.263,
+      "text": "I've only got one more question, unless you can think of anything we've left out.",
+      "words": [
+        {
+          "word": "I've",
+          "start": 86.14,
+          "end": 86.24,
+          "score": 0.788
+        },
+        {
+          "word": "only",
+          "start": 86.3,
+          "end": 86.46,
+          "score": 0.86
+        },
+        {
+          "word": "got",
+          "start": 86.5,
+          "end": 86.6,
+          "score": 0.962
+        },
+        {
+          "word": "one",
+          "start": 86.68,
+          "end": 86.78,
+          "score": 0.846
+        },
+        {
+          "word": "more",
+          "start": 86.821,
+          "end": 86.941,
+          "score": 0.865
+        },
+        {
+          "word": "question,",
+          "start": 86.981,
+          "end": 87.381,
+          "score": 0.9
+        },
+        {
+          "word": "unless",
+          "start": 87.481,
+          "end": 87.722,
+          "score": 0.831
+        },
+        {
+          "word": "you",
+          "start": 87.742,
+          "end": 87.862,
+          "score": 0.585
+        },
+        {
+          "word": "can",
+          "start": 87.882,
+          "end": 88.002,
+          "score": 0.698
+        },
+        {
+          "word": "think",
+          "start": 88.022,
+          "end": 88.182,
+          "score": 0.768
+        },
+        {
+          "word": "of",
+          "start": 88.222,
+          "end": 88.262,
+          "score": 0.988
+        },
+        {
+          "word": "anything",
+          "start": 88.282,
+          "end": 88.583,
+          "score": 0.765
+        },
+        {
+          "word": "we've",
+          "start": 88.623,
+          "end": 88.783,
+          "score": 0.982
+        },
+        {
+          "word": "left",
+          "start": 88.823,
+          "end": 89.023,
+          "score": 0.925
+        },
+        {
+          "word": "out.",
+          "start": 89.143,
+          "end": 89.263,
+          "score": 0.988
+        }
+      ]
+    },
+    {
+      "start": 90.485,
+      "end": 92.307,
+      "text": "You've exhausted me already, Haskell.",
+      "words": [
+        {
+          "word": "You've",
+          "start": 90.485,
+          "end": 90.665,
+          "score": 0.786
+        },
+        {
+          "word": "exhausted",
+          "start": 90.725,
+          "end": 91.226,
+          "score": 0.838
+        },
+        {
+          "word": "me",
+          "start": 91.286,
+          "end": 91.366,
+          "score": 0.896
+        },
+        {
+          "word": "already,",
+          "start": 91.466,
+          "end": 91.867,
+          "score": 0.97
+        },
+        {
+          "word": "Haskell.",
+          "start": 91.987,
+          "end": 92.307,
+          "score": 0.578
+        }
+      ]
+    },
+    {
+      "start": 92.455,
+      "end": 93.576,
+      "text": " Alright, the last question.",
+      "words": [
+        {
+          "word": "Alright,",
+          "start": 92.455,
+          "end": 92.835,
+          "score": 0.752
+        },
+        {
+          "word": "the",
+          "start": 92.855,
+          "end": 92.915,
+          "score": 0.984
+        },
+        {
+          "word": "last",
+          "start": 92.955,
+          "end": 93.156,
+          "score": 0.953
+        },
+        {
+          "word": "question.",
+          "start": 93.196,
+          "end": 93.576,
+          "score": 0.88
+        }
+      ]
+    },
+    {
+      "start": 94.457,
+      "end": 98.0,
+      "text": "What feelings do you hold in your heart for Texas A&M today?",
+      "words": [
+        {
+          "word": "What",
+          "start": 94.457,
+          "end": 94.597,
+          "score": 0.897
+        },
+        {
+          "word": "feelings",
+          "start": 94.677,
+          "end": 95.078,
+          "score": 0.83
+        },
+        {
+          "word": "do",
+          "start": 95.138,
+          "end": 95.238,
+          "score": 0.908
+        },
+        {
+          "word": "you",
+          "start": 95.278,
+          "end": 95.418,
+          "score": 0.814
+        },
+        {
+          "word": "hold",
+          "start": 95.478,
+          "end": 95.758,
+          "score": 0.817
+        },
+        {
+          "word": "in",
+          "start": 95.778,
+          "end": 95.878,
+          "score": 0.624
+        },
+        {
+          "word": "your",
+          "start": 95.938,
+          "end": 96.119,
+          "score": 0.824
+        },
+        {
+          "word": "heart",
+          "start": 96.139,
+          "end": 96.419,
+          "score": 0.615
+        },
+        {
+          "word": "for",
+          "start": 96.519,
+          "end": 96.619,
+          "score": 0.977
+        },
+        {
+          "word": "Texas",
+          "start": 96.659,
+          "end": 97.039,
+          "score": 0.951
+        },
+        {
+          "word": "A&M",
+          "start": 97.099,
+          "end": 97.54,
+          "score": 0.826
+        },
+        {
+          "word": "today?",
+          "start": 97.68,
+          "end": 98.0,
+          "score": 0.892
+        }
+      ]
+    },
+    {
+      "start": 110.873,
+      "end": 112.094,
+      "text": "I bleed rude.",
+      "words": [
+        {
+          "word": "I",
+          "start": 110.873,
+          "end": 110.953,
+          "score": 0.994
+        },
+        {
+          "word": "bleed",
+          "start": 111.013,
+          "end": 111.373,
+          "score": 0.696
+        },
+        {
+          "word": "rude.",
+          "start": 111.753,
+          "end": 112.094,
+          "score": 0.705
+        }
+      ]
+    },
+    {
+      "start": 115.117,
+      "end": 119.321,
+      "text": "I do.",
+      "words": [
+        {
+          "word": "I",
+          "start": 115.117,
+          "end": 115.217,
+          "score": 0.719
+        },
+        {
+          "word": "do.",
+          "start": 115.477,
+          "end": 119.321,
+          "score": 0.619
+        }
+      ]
+    },
+    {
+      "start": 119.341,
+      "end": 121.703,
+      "text": "I feel strongly.",
+      "words": [
+        {
+          "word": "I",
+          "start": 119.341,
+          "end": 119.421,
+          "score": 0.943
+        },
+        {
+          "word": "feel",
+          "start": 119.521,
+          "end": 119.881,
+          "score": 0.925
+        },
+        {
+          "word": "strongly.",
+          "start": 120.722,
+          "end": 121.703,
+          "score": 0.48
+        }
+      ]
+    },
+    {
+      "start": 122.442,
+      "end": 128.91,
+      "text": " about Texas A&M as I do about my family.",
+      "words": [
+        {
+          "word": "about",
+          "start": 122.442,
+          "end": 122.722,
+          "score": 0.854
+        },
+        {
+          "word": "Texas",
+          "start": 122.762,
+          "end": 123.303,
+          "score": 0.492
+        },
+        {
+          "word": "A&M",
+          "start": 123.323,
+          "end": 123.804,
+          "score": 0.762
+        },
+        {
+          "word": "as",
+          "start": 124.925,
+          "end": 125.005,
+          "score": 0.756
+        },
+        {
+          "word": "I",
+          "start": 125.105,
+          "end": 125.145,
+          "score": 0.833
+        },
+        {
+          "word": "do",
+          "start": 125.185,
+          "end": 125.326,
+          "score": 0.822
+        },
+        {
+          "word": "about",
+          "start": 125.406,
+          "end": 125.606,
+          "score": 0.983
+        },
+        {
+          "word": "my",
+          "start": 125.646,
+          "end": 125.766,
+          "score": 0.98
+        },
+        {
+          "word": "family.",
+          "start": 125.866,
+          "end": 128.91,
+          "score": 0.913
+        }
+      ]
+    },
+    {
+      "start": 129.191,
+      "end": 134.818,
+      "text": "Because it is my family.",
+      "words": [
+        {
+          "word": "Because",
+          "start": 129.191,
+          "end": 129.651,
+          "score": 0.72
+        },
+        {
+          "word": "it",
+          "start": 131.253,
+          "end": 131.313,
+          "score": 0.933
+        },
+        {
+          "word": "is",
+          "start": 131.413,
+          "end": 131.514,
+          "score": 0.968
+        },
+        {
+          "word": "my",
+          "start": 131.594,
+          "end": 131.814,
+          "score": 0.628
+        },
+        {
+          "word": "family.",
+          "start": 131.854,
+          "end": 134.818,
+          "score": 0.619
+        }
+      ]
+    },
+    {
+      "start": 134.838,
+      "end": 138.102,
+      "text": "I was practically raised here for four years of my life.",
+      "words": [
+        {
+          "word": "I",
+          "start": 134.838,
+          "end": 135.018,
+          "score": 0.609
+        },
+        {
+          "word": "was",
+          "start": 135.038,
+          "end": 135.098,
+          "score": 0.296
+        },
+        {
+          "word": "practically",
+          "start": 135.619,
+          "end": 136.119,
+          "score": 0.741
+        },
+        {
+          "word": "raised",
+          "start": 136.26,
+          "end": 136.64,
+          "score": 0.656
+        },
+        {
+          "word": "here",
+          "start": 136.72,
+          "end": 137.061,
+          "score": 0.233
+        },
+        {
+          "word": "for",
+          "start": 137.081,
+          "end": 137.141,
+          "score": 0.0
+        },
+        {
+          "word": "four",
+          "start": 137.161,
+          "end": 137.381,
+          "score": 0.68
+        },
+        {
+          "word": "years",
+          "start": 137.441,
+          "end": 137.601,
+          "score": 0.494
+        },
+        {
+          "word": "of",
+          "start": 137.721,
+          "end": 137.922,
+          "score": 0.328
+        },
+        {
+          "word": "my",
+          "start": 137.942,
+          "end": 137.982,
+          "score": 0.004
+        },
+        {
+          "word": "life.",
+          "start": 138.002,
+          "end": 138.102,
+          "score": 0.299
+        }
+      ]
+    },
+    {
+      "start": 140.104,
+      "end": 150.778,
+      "text": "And all the ties that I have to Texas A&M, which is one of the primary reasons why we moved back here a year ago.",
+      "words": [
+        {
+          "word": "And",
+          "start": 140.104,
+          "end": 140.225,
+          "score": 0.773
+        },
+        {
+          "word": "all",
+          "start": 140.285,
+          "end": 140.405,
+          "score": 0.877
+        },
+        {
+          "word": "the",
+          "start": 140.465,
+          "end": 140.605,
+          "score": 0.69
+        },
+        {
+          "word": "ties",
+          "start": 140.665,
+          "end": 141.126,
+          "score": 0.863
+        },
+        {
+          "word": "that",
+          "start": 142.147,
+          "end": 142.267,
+          "score": 0.429
+        },
+        {
+          "word": "I",
+          "start": 142.327,
+          "end": 142.387,
+          "score": 0.983
+        },
+        {
+          "word": "have",
+          "start": 142.447,
+          "end": 142.628,
+          "score": 0.74
+        },
+        {
+          "word": "to",
+          "start": 142.668,
+          "end": 142.748,
+          "score": 0.605
+        },
+        {
+          "word": "Texas",
+          "start": 142.808,
+          "end": 143.208,
+          "score": 0.645
+        },
+        {
+          "word": "A&M,",
+          "start": 143.228,
+          "end": 144.83,
+          "score": 0.853
+        },
+        {
+          "word": "which",
+          "start": 144.85,
+          "end": 145.031,
+          "score": 0.974
+        },
+        {
+          "word": "is",
+          "start": 145.091,
+          "end": 145.131,
+          "score": 0.61
+        },
+        {
+          "word": "one",
+          "start": 145.151,
+          "end": 145.211,
+          "score": 0.266
+        },
+        {
+          "word": "of",
+          "start": 146.713,
+          "end": 146.833,
+          "score": 0.783
+        },
+        {
+          "word": "the",
+          "start": 146.853,
+          "end": 146.933,
+          "score": 0.947
+        },
+        {
+          "word": "primary",
+          "start": 147.013,
+          "end": 147.494,
+          "score": 0.726
+        },
+        {
+          "word": "reasons",
+          "start": 147.594,
+          "end": 147.914,
+          "score": 0.773
+        },
+        {
+          "word": "why",
+          "start": 147.994,
+          "end": 148.175,
+          "score": 0.92
+        },
+        {
+          "word": "we",
+          "start": 148.235,
+          "end": 148.415,
+          "score": 0.75
+        },
+        {
+          "word": "moved",
+          "start": 148.475,
+          "end": 148.715,
+          "score": 0.878
+        },
+        {
+          "word": "back",
+          "start": 148.796,
+          "end": 149.016,
+          "score": 0.848
+        },
+        {
+          "word": "here",
+          "start": 149.056,
+          "end": 149.256,
+          "score": 0.829
+        },
+        {
+          "word": "a",
+          "start": 149.276,
+          "end": 150.137,
+          "score": 0.953
+        },
+        {
+          "word": "year",
+          "start": 150.177,
+          "end": 150.337,
+          "score": 0.865
+        },
+        {
+          "word": "ago.",
+          "start": 150.418,
+          "end": 150.778,
+          "score": 0.726
+        }
+      ]
+    },
+    {
+      "start": 151.889,
+      "end": 154.272,
+      "text": " We had lived in Austin for 23 years.",
+      "words": [
+        {
+          "word": "We",
+          "start": 151.889,
+          "end": 152.049,
+          "score": 0.45
+        },
+        {
+          "word": "had",
+          "start": 152.069,
+          "end": 152.129,
+          "score": 0.336
+        },
+        {
+          "word": "lived",
+          "start": 152.189,
+          "end": 152.39,
+          "score": 0.769
+        },
+        {
+          "word": "in",
+          "start": 152.47,
+          "end": 152.53,
+          "score": 0.944
+        },
+        {
+          "word": "Austin",
+          "start": 152.65,
+          "end": 153.011,
+          "score": 0.798
+        },
+        {
+          "word": "for",
+          "start": 153.071,
+          "end": 153.211,
+          "score": 0.893
+        },
+        {
+          "word": "23",
+          "start": 153.231,
+          "end": 153.591,
+          "score": 0.603
+        },
+        {
+          "word": "years.",
+          "start": 153.912,
+          "end": 154.272,
+          "score": 0.686
+        }
+      ]
+    },
+    {
+      "start": 154.373,
+      "end": 160.001,
+      "text": "And my wife came in one day after having battled that traffic in Austin.",
+      "words": [
+        {
+          "word": "And",
+          "start": 154.373,
+          "end": 154.433,
+          "score": 0.942
+        },
+        {
+          "word": "my",
+          "start": 155.855,
+          "end": 156.035,
+          "score": 0.922
+        },
+        {
+          "word": "wife",
+          "start": 156.095,
+          "end": 156.335,
+          "score": 0.803
+        },
+        {
+          "word": "came",
+          "start": 156.776,
+          "end": 156.996,
+          "score": 0.716
+        },
+        {
+          "word": "in",
+          "start": 157.056,
+          "end": 157.156,
+          "score": 0.957
+        },
+        {
+          "word": "one",
+          "start": 157.297,
+          "end": 157.417,
+          "score": 0.749
+        },
+        {
+          "word": "day",
+          "start": 157.457,
+          "end": 157.657,
+          "score": 0.922
+        },
+        {
+          "word": "after",
+          "start": 157.777,
+          "end": 157.958,
+          "score": 0.755
+        },
+        {
+          "word": "having",
+          "start": 157.998,
+          "end": 158.298,
+          "score": 0.717
+        },
+        {
+          "word": "battled",
+          "start": 158.398,
+          "end": 158.739,
+          "score": 0.883
+        },
+        {
+          "word": "that",
+          "start": 158.799,
+          "end": 158.919,
+          "score": 0.599
+        },
+        {
+          "word": "traffic",
+          "start": 158.999,
+          "end": 159.4,
+          "score": 0.829
+        },
+        {
+          "word": "in",
+          "start": 159.46,
+          "end": 159.54,
+          "score": 0.744
+        },
+        {
+          "word": "Austin.",
+          "start": 159.64,
+          "end": 160.001,
+          "score": 0.824
+        }
+      ]
+    },
+    {
+      "start": 161.022,
+      "end": 163.766,
+      "text": "Austin was getting more and more uncivil.",
+      "words": [
+        {
+          "word": "Austin",
+          "start": 161.022,
+          "end": 161.342,
+          "score": 0.794
+        },
+        {
+          "word": "was",
+          "start": 161.382,
+          "end": 161.483,
+          "score": 0.805
+        },
+        {
+          "word": "getting",
+          "start": 161.543,
+          "end": 161.783,
+          "score": 0.793
+        },
+        {
+          "word": "more",
+          "start": 161.883,
+          "end": 162.063,
+          "score": 0.914
+        },
+        {
+          "word": "and",
+          "start": 162.124,
+          "end": 162.204,
+          "score": 0.785
+        },
+        {
+          "word": "more",
+          "start": 162.244,
+          "end": 162.424,
+          "score": 0.91
+        },
+        {
+          "word": "uncivil.",
+          "start": 163.185,
+          "end": 163.766,
+          "score": 0.965
+        }
+      ]
+    },
+    {
+      "start": 165.568,
+      "end": 173.44,
+      "text": "And she said, just came in off the street after she had nearly been rear-ended twice on Ben White Boulevard.",
+      "words": [
+        {
+          "word": "And",
+          "start": 165.568,
+          "end": 165.669,
+          "score": 0.869
+        },
+        {
+          "word": "she",
+          "start": 165.769,
+          "end": 165.929,
+          "score": 0.784
+        },
+        {
+          "word": "said,",
+          "start": 165.989,
+          "end": 166.209,
+          "score": 0.86
+        },
+        {
+          "word": "just",
+          "start": 167.191,
+          "end": 167.391,
+          "score": 0.803
+        },
+        {
+          "word": "came",
+          "start": 167.431,
+          "end": 167.631,
+          "score": 0.818
+        },
+        {
+          "word": "in",
+          "start": 167.691,
+          "end": 167.772,
+          "score": 0.77
+        },
+        {
+          "word": "off",
+          "start": 167.832,
+          "end": 167.992,
+          "score": 0.859
+        },
+        {
+          "word": "the",
+          "start": 168.032,
+          "end": 168.092,
+          "score": 0.972
+        },
+        {
+          "word": "street",
+          "start": 168.152,
+          "end": 168.432,
+          "score": 0.684
+        },
+        {
+          "word": "after",
+          "start": 168.533,
+          "end": 168.713,
+          "score": 0.955
+        },
+        {
+          "word": "she",
+          "start": 168.773,
+          "end": 168.853,
+          "score": 0.787
+        },
+        {
+          "word": "had",
+          "start": 168.893,
+          "end": 168.973,
+          "score": 0.988
+        },
+        {
+          "word": "nearly",
+          "start": 169.013,
+          "end": 169.254,
+          "score": 0.882
+        },
+        {
+          "word": "been",
+          "start": 169.294,
+          "end": 169.434,
+          "score": 0.96
+        },
+        {
+          "word": "rear-ended",
+          "start": 169.494,
+          "end": 170.656,
+          "score": 0.729
+        },
+        {
+          "word": "twice",
+          "start": 170.736,
+          "end": 171.116,
+          "score": 0.981
+        },
+        {
+          "word": "on",
+          "start": 171.216,
+          "end": 171.337,
+          "score": 0.924
+        },
+        {
+          "word": "Ben",
+          "start": 171.377,
+          "end": 171.557,
+          "score": 0.748
+        },
+        {
+          "word": "White",
+          "start": 171.577,
+          "end": 171.777,
+          "score": 0.66
+        },
+        {
+          "word": "Boulevard.",
+          "start": 171.817,
+          "end": 173.44,
+          "score": 0.481
+        }
+      ]
+    },
+    {
+      "start": 173.46,
+      "end": 177.525,
+      "text": "She said, have you ever thought about moving to Texas A&M?",
+      "words": [
+        {
+          "word": "She",
+          "start": 173.46,
+          "end": 173.6,
+          "score": 0.866
+        },
+        {
+          "word": "said,",
+          "start": 173.64,
+          "end": 173.86,
+          "score": 0.828
+        },
+        {
+          "word": "have",
+          "start": 173.88,
+          "end": 173.96,
+          "score": 0.25
+        },
+        {
+          "word": "you",
+          "start": 173.98,
+          "end": 174.101,
+          "score": 0.952
+        },
+        {
+          "word": "ever",
+          "start": 174.121,
+          "end": 174.341,
+          "score": 0.85
+        },
+        {
+          "word": "thought",
+          "start": 174.381,
+          "end": 174.581,
+          "score": 0.736
+        },
+        {
+          "word": "about",
+          "start": 174.661,
+          "end": 174.842,
+          "score": 0.668
+        },
+        {
+          "word": "moving",
+          "start": 174.902,
+          "end": 175.242,
+          "score": 0.727
+        },
+        {
+          "word": "to",
+          "start": 175.282,
+          "end": 175.382,
+          "score": 0.586
+        },
+        {
+          "word": "Texas",
+          "start": 175.402,
+          "end": 175.783,
+          "score": 0.602
+        },
+        {
+          "word": "A&M?",
+          "start": 175.863,
+          "end": 177.525,
+          "score": 0.807
+        }
+      ]
+    },
+    {
+      "start": 177.545,
+      "end": 179.388,
+      "text": "Or College Station, is the way she put it.",
+      "words": [
+        {
+          "word": "Or",
+          "start": 177.545,
+          "end": 177.606,
+          "score": 0.944
+        },
+        {
+          "word": "College",
+          "start": 177.646,
+          "end": 178.006,
+          "score": 0.878
+        },
+        {
+          "word": "Station,",
+          "start": 178.046,
+          "end": 178.467,
+          "score": 0.842
+        },
+        {
+          "word": "is",
+          "start": 178.587,
+          "end": 178.647,
+          "score": 0.827
+        },
+        {
+          "word": "the",
+          "start": 178.667,
+          "end": 178.727,
+          "score": 0.014
+        },
+        {
+          "word": "way",
+          "start": 178.787,
+          "end": 178.887,
+          "score": 0.888
+        },
+        {
+          "word": "she",
+          "start": 178.907,
+          "end": 179.068,
+          "score": 0.934
+        },
+        {
+          "word": "put",
+          "start": 179.128,
+          "end": 179.288,
+          "score": 0.864
+        },
+        {
+          "word": "it.",
+          "start": 179.328,
+          "end": 179.388,
+          "score": 0.912
+        }
+      ]
+    },
+    {
+      "start": 180.049,
+      "end": 181.491,
+      "text": "And I said, I thought you'd never",
+      "words": [
+        {
+          "word": "And",
+          "start": 180.049,
+          "end": 180.169,
+          "score": 0.911
+        },
+        {
+          "word": "I",
+          "start": 180.229,
+          "end": 180.309,
+          "score": 0.995
+        },
+        {
+          "word": "said,",
+          "start": 180.369,
+          "end": 180.57,
+          "score": 0.995
+        },
+        {
+          "word": "I",
+          "start": 180.61,
+          "end": 180.69,
+          "score": 0.996
+        },
+        {
+          "word": "thought",
+          "start": 180.77,
+          "end": 180.99,
+          "score": 0.859
+        },
+        {
+          "word": "you'd",
+          "start": 181.03,
+          "end": 181.191,
+          "score": 0.865
+        },
+        {
+          "word": "never",
+          "start": 181.251,
+          "end": 181.491,
+          "score": 0.736
+        }
+      ]
+    },
+    {
+      "start": 183.698,
+      "end": 185.6,
+      "text": " That was on a Thursday.",
+      "words": [
+        {
+          "word": "That",
+          "start": 183.698,
+          "end": 184.038,
+          "score": 0.86
+        },
+        {
+          "word": "was",
+          "start": 184.119,
+          "end": 184.299,
+          "score": 0.893
+        },
+        {
+          "word": "on",
+          "start": 184.339,
+          "end": 184.759,
+          "score": 0.828
+        },
+        {
+          "word": "a",
+          "start": 184.9,
+          "end": 184.96,
+          "score": 0.927
+        },
+        {
+          "word": "Thursday.",
+          "start": 185.12,
+          "end": 185.6,
+          "score": 0.851
+        }
+      ]
+    },
+    {
+      "start": 186.341,
+      "end": 192.87,
+      "text": "The next day, Friday, we got the car and came over here, contacted Phil Callahan down at Remax.",
+      "words": [
+        {
+          "word": "The",
+          "start": 186.341,
+          "end": 186.421,
+          "score": 0.911
+        },
+        {
+          "word": "next",
+          "start": 186.461,
+          "end": 186.682,
+          "score": 0.732
+        },
+        {
+          "word": "day,",
+          "start": 186.762,
+          "end": 187.002,
+          "score": 0.937
+        },
+        {
+          "word": "Friday,",
+          "start": 187.042,
+          "end": 187.603,
+          "score": 0.795
+        },
+        {
+          "word": "we",
+          "start": 188.224,
+          "end": 188.364,
+          "score": 0.855
+        },
+        {
+          "word": "got",
+          "start": 188.404,
+          "end": 188.544,
+          "score": 0.92
+        },
+        {
+          "word": "the",
+          "start": 188.584,
+          "end": 188.644,
+          "score": 0.403
+        },
+        {
+          "word": "car",
+          "start": 188.704,
+          "end": 188.945,
+          "score": 0.584
+        },
+        {
+          "word": "and",
+          "start": 188.965,
+          "end": 189.025,
+          "score": 0.333
+        },
+        {
+          "word": "came",
+          "start": 189.045,
+          "end": 189.245,
+          "score": 0.857
+        },
+        {
+          "word": "over",
+          "start": 189.325,
+          "end": 189.465,
+          "score": 0.879
+        },
+        {
+          "word": "here,",
+          "start": 189.525,
+          "end": 189.666,
+          "score": 0.508
+        },
+        {
+          "word": "contacted",
+          "start": 189.726,
+          "end": 190.326,
+          "score": 0.713
+        },
+        {
+          "word": "Phil",
+          "start": 190.366,
+          "end": 190.627,
+          "score": 0.759
+        },
+        {
+          "word": "Callahan",
+          "start": 190.647,
+          "end": 191.207,
+          "score": 0.92
+        },
+        {
+          "word": "down",
+          "start": 191.928,
+          "end": 192.129,
+          "score": 0.904
+        },
+        {
+          "word": "at",
+          "start": 192.189,
+          "end": 192.249,
+          "score": 0.921
+        },
+        {
+          "word": "Remax.",
+          "start": 192.349,
+          "end": 192.87,
+          "score": 0.802
+        }
+      ]
+    },
+    {
+      "start": 195.072,
+      "end": 206.867,
+      "text": "Phil showed us a few places in subdivisions, you know, with nice homes, but with 10-foot lot lines, 20-foot lot lines.",
+      "words": [
+        {
+          "word": "Phil",
+          "start": 195.072,
+          "end": 195.333,
+          "score": 0.718
+        },
+        {
+          "word": "showed",
+          "start": 195.373,
+          "end": 195.593,
+          "score": 0.775
+        },
+        {
+          "word": "us",
+          "start": 195.633,
+          "end": 195.713,
+          "score": 0.904
+        },
+        {
+          "word": "a",
+          "start": 195.773,
+          "end": 195.793,
+          "score": 0.987
+        },
+        {
+          "word": "few",
+          "start": 195.853,
+          "end": 196.014,
+          "score": 0.831
+        },
+        {
+          "word": "places",
+          "start": 196.074,
+          "end": 196.514,
+          "score": 0.863
+        },
+        {
+          "word": "in",
+          "start": 198.036,
+          "end": 198.176,
+          "score": 0.906
+        },
+        {
+          "word": "subdivisions,",
+          "start": 198.997,
+          "end": 200.339,
+          "score": 0.898
+        },
+        {
+          "word": "you",
+          "start": 201.32,
+          "end": 201.42,
+          "score": 0.875
+        },
+        {
+          "word": "know,",
+          "start": 201.44,
+          "end": 201.641,
+          "score": 0.728
+        },
+        {
+          "word": "with",
+          "start": 201.661,
+          "end": 202.221,
+          "score": 0.739
+        },
+        {
+          "word": "nice",
+          "start": 202.642,
+          "end": 202.882,
+          "score": 0.912
+        },
+        {
+          "word": "homes,",
+          "start": 202.942,
+          "end": 203.323,
+          "score": 0.846
+        },
+        {
+          "word": "but",
+          "start": 203.503,
+          "end": 203.643,
+          "score": 0.793
+        },
+        {
+          "word": "with",
+          "start": 203.723,
+          "end": 203.903,
+          "score": 0.933
+        },
+        {
+          "word": "10-foot",
+          "start": 203.923,
+          "end": 205.045,
+          "score": 0.8
+        },
+        {
+          "word": "lot",
+          "start": 205.065,
+          "end": 205.305,
+          "score": 0.849
+        },
+        {
+          "word": "lines,",
+          "start": 205.345,
+          "end": 205.706,
+          "score": 0.91
+        },
+        {
+          "word": "20-foot",
+          "start": 205.726,
+          "end": 206.246,
+          "score": 0.667
+        },
+        {
+          "word": "lot",
+          "start": 206.286,
+          "end": 206.507,
+          "score": 0.842
+        },
+        {
+          "word": "lines.",
+          "start": 206.527,
+          "end": 206.867,
+          "score": 0.831
+        }
+      ]
+    },
+    {
+      "start": 206.887,
+      "end": 213.115,
+      "text": "We'd been living on a four-acre place, and I just didn't want to be crowded up like that.",
+      "words": [
+        {
+          "word": "We'd",
+          "start": 206.887,
+          "end": 206.967,
+          "score": 0.261
+        },
+        {
+          "word": "been",
+          "start": 207.748,
+          "end": 207.888,
+          "score": 0.884
+        },
+        {
+          "word": "living",
+          "start": 207.969,
+          "end": 208.209,
+          "score": 0.741
+        },
+        {
+          "word": "on",
+          "start": 208.249,
+          "end": 208.329,
+          "score": 0.9
+        },
+        {
+          "word": "a",
+          "start": 208.409,
+          "end": 208.429,
+          "score": 0.911
+        },
+        {
+          "word": "four-acre",
+          "start": 208.469,
+          "end": 209.03,
+          "score": 0.65
+        },
+        {
+          "word": "place,",
+          "start": 209.07,
+          "end": 209.47,
+          "score": 0.886
+        },
+        {
+          "word": "and",
+          "start": 209.551,
+          "end": 209.651,
+          "score": 0.964
+        },
+        {
+          "word": "I",
+          "start": 209.671,
+          "end": 209.691,
+          "score": 0.997
+        },
+        {
+          "word": "just",
+          "start": 210.612,
+          "end": 210.792,
+          "score": 0.9
+        },
+        {
+          "word": "didn't",
+          "start": 210.852,
+          "end": 210.992,
+          "score": 0.368
+        },
+        {
+          "word": "want",
+          "start": 211.012,
+          "end": 211.253,
+          "score": 0.439
+        },
+        {
+          "word": "to",
+          "start": 211.273,
+          "end": 211.313,
+          "score": 0.001
+        },
+        {
+          "word": "be",
+          "start": 211.333,
+          "end": 211.453,
+          "score": 0.7
+        },
+        {
+          "word": "crowded",
+          "start": 211.873,
+          "end": 212.254,
+          "score": 0.809
+        },
+        {
+          "word": "up",
+          "start": 212.354,
+          "end": 212.434,
+          "score": 0.666
+        },
+        {
+          "word": "like",
+          "start": 212.514,
+          "end": 212.735,
+          "score": 0.646
+        },
+        {
+          "word": "that.",
+          "start": 212.775,
+          "end": 213.115,
+          "score": 0.531
+        }
+      ]
+    },
+    {
+      "start": 213.803,
+      "end": 243.102,
+      "text": " so we scattered around we found this lot it's one and a third acres and it was a beautiful tree lot and we said that's where we want to build our home and so we did that texas a m it it formed my military career i was in the air force for",
+      "words": [
+        {
+          "word": "so",
+          "start": 213.803,
+          "end": 214.123,
+          "score": 0.824
+        },
+        {
+          "word": "we",
+          "start": 214.184,
+          "end": 214.364,
+          "score": 0.958
+        },
+        {
+          "word": "scattered",
+          "start": 215.125,
+          "end": 215.565,
+          "score": 0.762
+        },
+        {
+          "word": "around",
+          "start": 215.625,
+          "end": 215.946,
+          "score": 0.784
+        },
+        {
+          "word": "we",
+          "start": 215.966,
+          "end": 216.186,
+          "score": 0.713
+        },
+        {
+          "word": "found",
+          "start": 216.306,
+          "end": 216.587,
+          "score": 0.667
+        },
+        {
+          "word": "this",
+          "start": 216.627,
+          "end": 216.787,
+          "score": 0.716
+        },
+        {
+          "word": "lot",
+          "start": 216.887,
+          "end": 217.188,
+          "score": 0.843
+        },
+        {
+          "word": "it's",
+          "start": 217.248,
+          "end": 217.368,
+          "score": 0.785
+        },
+        {
+          "word": "one",
+          "start": 217.628,
+          "end": 217.728,
+          "score": 0.808
+        },
+        {
+          "word": "and",
+          "start": 217.788,
+          "end": 217.848,
+          "score": 0.553
+        },
+        {
+          "word": "a",
+          "start": 217.868,
+          "end": 217.888,
+          "score": 0.949
+        },
+        {
+          "word": "third",
+          "start": 217.928,
+          "end": 218.169,
+          "score": 0.86
+        },
+        {
+          "word": "acres",
+          "start": 218.249,
+          "end": 218.549,
+          "score": 0.739
+        },
+        {
+          "word": "and",
+          "start": 219.591,
+          "end": 219.711,
+          "score": 0.663
+        },
+        {
+          "word": "it",
+          "start": 219.751,
+          "end": 219.851,
+          "score": 0.622
+        },
+        {
+          "word": "was",
+          "start": 219.911,
+          "end": 220.031,
+          "score": 0.903
+        },
+        {
+          "word": "a",
+          "start": 220.051,
+          "end": 220.071,
+          "score": 0.974
+        },
+        {
+          "word": "beautiful",
+          "start": 220.151,
+          "end": 220.592,
+          "score": 0.783
+        },
+        {
+          "word": "tree",
+          "start": 220.712,
+          "end": 220.993,
+          "score": 0.881
+        },
+        {
+          "word": "lot",
+          "start": 221.053,
+          "end": 221.353,
+          "score": 0.964
+        },
+        {
+          "word": "and",
+          "start": 221.653,
+          "end": 221.774,
+          "score": 0.934
+        },
+        {
+          "word": "we",
+          "start": 222.615,
+          "end": 222.715,
+          "score": 0.984
+        },
+        {
+          "word": "said",
+          "start": 222.755,
+          "end": 222.915,
+          "score": 0.956
+        },
+        {
+          "word": "that's",
+          "start": 222.955,
+          "end": 223.155,
+          "score": 0.923
+        },
+        {
+          "word": "where",
+          "start": 223.216,
+          "end": 223.396,
+          "score": 0.834
+        },
+        {
+          "word": "we",
+          "start": 223.456,
+          "end": 223.556,
+          "score": 0.975
+        },
+        {
+          "word": "want",
+          "start": 223.636,
+          "end": 223.756,
+          "score": 0.379
+        },
+        {
+          "word": "to",
+          "start": 223.776,
+          "end": 223.816,
+          "score": 0.493
+        },
+        {
+          "word": "build",
+          "start": 223.856,
+          "end": 224.077,
+          "score": 0.704
+        },
+        {
+          "word": "our",
+          "start": 224.177,
+          "end": 224.277,
+          "score": 0.996
+        },
+        {
+          "word": "home",
+          "start": 224.337,
+          "end": 224.577,
+          "score": 0.97
+        },
+        {
+          "word": "and",
+          "start": 226.3,
+          "end": 226.38,
+          "score": 0.925
+        },
+        {
+          "word": "so",
+          "start": 226.48,
+          "end": 226.7,
+          "score": 0.92
+        },
+        {
+          "word": "we",
+          "start": 227.201,
+          "end": 227.361,
+          "score": 0.987
+        },
+        {
+          "word": "did",
+          "start": 227.421,
+          "end": 227.621,
+          "score": 0.996
+        },
+        {
+          "word": "that",
+          "start": 227.681,
+          "end": 227.902,
+          "score": 0.948
+        },
+        {
+          "word": "texas",
+          "start": 227.922,
+          "end": 234.35,
+          "score": 0.514
+        },
+        {
+          "word": "a",
+          "start": 234.37,
+          "end": 234.591,
+          "score": 0.621
+        },
+        {
+          "word": "m",
+          "start": 234.731,
+          "end": 234.851,
+          "score": 0.943
+        },
+        {
+          "word": "it",
+          "start": 236.974,
+          "end": 237.134,
+          "score": 0.816
+        },
+        {
+          "word": "it",
+          "start": 238.756,
+          "end": 238.836,
+          "score": 0.796
+        },
+        {
+          "word": "formed",
+          "start": 238.916,
+          "end": 239.297,
+          "score": 0.986
+        },
+        {
+          "word": "my",
+          "start": 239.317,
+          "end": 239.357,
+          "score": 0.499
+        },
+        {
+          "word": "military",
+          "start": 239.697,
+          "end": 240.278,
+          "score": 0.902
+        },
+        {
+          "word": "career",
+          "start": 240.358,
+          "end": 240.739,
+          "score": 0.891
+        },
+        {
+          "word": "i",
+          "start": 241.8,
+          "end": 241.86,
+          "score": 0.898
+        },
+        {
+          "word": "was",
+          "start": 241.9,
+          "end": 242.041,
+          "score": 0.91
+        },
+        {
+          "word": "in",
+          "start": 242.101,
+          "end": 242.161,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "start": 242.201,
+          "end": 242.261,
+          "score": 0.894
+        },
+        {
+          "word": "air",
+          "start": 242.361,
+          "end": 242.501,
+          "score": 0.803
+        },
+        {
+          "word": "force",
+          "start": 242.581,
+          "end": 242.862,
+          "score": 0.873
+        },
+        {
+          "word": "for",
+          "start": 242.942,
+          "end": 243.102,
+          "score": 0.591
+        }
+      ]
+    },
+    {
+      "start": 243.453,
+      "end": 245.896,
+      "text": " 30 years, 5 months, and 29 days.",
+      "words": [
+        {
+          "word": "30",
+          "start": 243.453,
+          "end": 243.733,
+          "score": 0.386
+        },
+        {
+          "word": "years,",
+          "start": 243.753,
+          "end": 244.114,
+          "score": 0.871
+        },
+        {
+          "word": "5",
+          "start": 244.134,
+          "end": 244.454,
+          "score": 0.714
+        },
+        {
+          "word": "months,",
+          "start": 244.514,
+          "end": 244.755,
+          "score": 0.798
+        },
+        {
+          "word": "and",
+          "start": 244.815,
+          "end": 244.875,
+          "score": 0.882
+        },
+        {
+          "word": "29",
+          "start": 244.895,
+          "end": 245.195,
+          "score": 0.61
+        },
+        {
+          "word": "days.",
+          "start": 245.556,
+          "end": 245.896,
+          "score": 0.787
+        }
+      ]
+    },
+    {
+      "start": 248.6,
+      "end": 262.84,
+      "text": "Texas A&M got me my first job other than military when I went to work for Governor Bill Clements through Jarvis Miller.",
+      "words": [
+        {
+          "word": "Texas",
+          "start": 248.6,
+          "end": 248.961,
+          "score": 0.638
+        },
+        {
+          "word": "A&M",
+          "start": 249.041,
+          "end": 249.501,
+          "score": 0.799
+        },
+        {
+          "word": "got",
+          "start": 250.763,
+          "end": 250.983,
+          "score": 0.937
+        },
+        {
+          "word": "me",
+          "start": 251.023,
+          "end": 251.144,
+          "score": 0.907
+        },
+        {
+          "word": "my",
+          "start": 251.204,
+          "end": 251.344,
+          "score": 0.998
+        },
+        {
+          "word": "first",
+          "start": 251.424,
+          "end": 251.704,
+          "score": 0.828
+        },
+        {
+          "word": "job",
+          "start": 251.805,
+          "end": 252.205,
+          "score": 0.995
+        },
+        {
+          "word": "other",
+          "start": 252.245,
+          "end": 252.906,
+          "score": 0.644
+        },
+        {
+          "word": "than",
+          "start": 252.946,
+          "end": 253.347,
+          "score": 0.813
+        },
+        {
+          "word": "military",
+          "start": 254.208,
+          "end": 254.829,
+          "score": 0.897
+        },
+        {
+          "word": "when",
+          "start": 254.909,
+          "end": 255.069,
+          "score": 0.87
+        },
+        {
+          "word": "I",
+          "start": 255.109,
+          "end": 255.149,
+          "score": 0.495
+        },
+        {
+          "word": "went",
+          "start": 255.229,
+          "end": 255.389,
+          "score": 0.944
+        },
+        {
+          "word": "to",
+          "start": 255.43,
+          "end": 255.53,
+          "score": 0.829
+        },
+        {
+          "word": "work",
+          "start": 255.59,
+          "end": 255.81,
+          "score": 0.858
+        },
+        {
+          "word": "for",
+          "start": 255.93,
+          "end": 256.09,
+          "score": 0.957
+        },
+        {
+          "word": "Governor",
+          "start": 256.932,
+          "end": 257.252,
+          "score": 0.764
+        },
+        {
+          "word": "Bill",
+          "start": 257.312,
+          "end": 257.552,
+          "score": 0.937
+        },
+        {
+          "word": "Clements",
+          "start": 257.613,
+          "end": 258.013,
+          "score": 0.593
+        },
+        {
+          "word": "through",
+          "start": 259.375,
+          "end": 259.595,
+          "score": 0.782
+        },
+        {
+          "word": "Jarvis",
+          "start": 259.635,
+          "end": 260.056,
+          "score": 0.904
+        },
+        {
+          "word": "Miller.",
+          "start": 260.136,
+          "end": 262.84,
+          "score": 0.947
+        }
+      ]
+    },
+    {
+      "start": 262.86,
+      "end": 268.127,
+      "text": "And I don't know what else I",
+      "words": [
+        {
+          "word": "And",
+          "start": 262.86,
+          "end": 263.04,
+          "score": 0.942
+        },
+        {
+          "word": "I",
+          "start": 266.545,
+          "end": 266.625,
+          "score": 0.981
+        },
+        {
+          "word": "don't",
+          "start": 267.326,
+          "end": 267.506,
+          "score": 0.886
+        },
+        {
+          "word": "know",
+          "start": 267.546,
+          "end": 267.666,
+          "score": 0.961
+        },
+        {
+          "word": "what",
+          "start": 267.726,
+          "end": 267.867,
+          "score": 0.883
+        },
+        {
+          "word": "else",
+          "start": 267.927,
+          "end": 268.067,
+          "score": 0.932
+        },
+        {
+          "word": "I",
+          "start": 268.107,
+          "end": 268.127,
+          "score": 0.847
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "It",
+      "start": 2.613,
+      "end": 2.693,
+      "score": 0.442
+    },
+    {
+      "word": "was",
+      "start": 2.753,
+      "end": 2.813,
+      "score": 0.0
+    },
+    {
+      "word": "authorized",
+      "start": 2.833,
+      "end": 3.494,
+      "score": 0.891
+    },
+    {
+      "word": "in",
+      "start": 3.534,
+      "end": 3.754,
+      "score": 0.855
+    },
+    {
+      "word": "1943.",
+      "start": 3.774,
+      "end": 4.575,
+      "score": 0.844
+    },
+    {
+      "word": "We",
+      "start": 4.756,
+      "end": 4.896,
+      "score": 0.75
+    },
+    {
+      "word": "were",
+      "start": 4.936,
+      "end": 6.157,
+      "score": 0.7
+    },
+    {
+      "word": "talking",
+      "start": 6.177,
+      "end": 6.358,
+      "score": 0.154
+    },
+    {
+      "word": "about",
+      "start": 6.378,
+      "end": 6.518,
+      "score": 0.576
+    },
+    {
+      "word": "major",
+      "start": 6.598,
+      "end": 7.079,
+      "score": 0.861
+    },
+    {
+      "word": "gift.",
+      "start": 7.179,
+      "end": 8.16,
+      "score": 0.84
+    },
+    {
+      "word": "And",
+      "start": 8.18,
+      "end": 8.6,
+      "score": 0.839
+    },
+    {
+      "word": "consultation.",
+      "start": 9.902,
+      "end": 10.643,
+      "score": 0.925
+    },
+    {
+      "word": "Anything",
+      "start": 11.123,
+      "end": 11.604,
+      "score": 0.812
+    },
+    {
+      "word": "else",
+      "start": 11.624,
+      "end": 12.065,
+      "score": 0.844
+    },
+    {
+      "word": "that",
+      "start": 12.325,
+      "end": 13.086,
+      "score": 0.86
+    },
+    {
+      "word": "is",
+      "start": 13.206,
+      "end": 13.286,
+      "score": 0.752
+    },
+    {
+      "word": "dear",
+      "start": 13.346,
+      "end": 13.526,
+      "score": 0.779
+    },
+    {
+      "word": "to",
+      "start": 13.567,
+      "end": 13.607,
+      "score": 0.971
+    },
+    {
+      "word": "your",
+      "start": 13.647,
+      "end": 13.807,
+      "score": 0.722
+    },
+    {
+      "word": "heart",
+      "start": 13.867,
+      "end": 14.087,
+      "score": 0.704
+    },
+    {
+      "word": "that",
+      "start": 14.147,
+      "end": 14.307,
+      "score": 0.924
+    },
+    {
+      "word": "you",
+      "start": 14.367,
+      "end": 14.548,
+      "score": 0.695
+    },
+    {
+      "word": "wish",
+      "start": 14.608,
+      "end": 14.848,
+      "score": 0.934
+    },
+    {
+      "word": "you",
+      "start": 15.649,
+      "end": 15.789,
+      "score": 0.751
+    },
+    {
+      "word": "had",
+      "start": 15.829,
+      "end": 15.969,
+      "score": 0.814
+    },
+    {
+      "word": "the",
+      "start": 15.989,
+      "end": 16.07,
+      "score": 0.76
+    },
+    {
+      "word": "capability",
+      "start": 16.11,
+      "end": 16.851,
+      "score": 0.955
+    },
+    {
+      "word": "to",
+      "start": 16.931,
+      "end": 17.031,
+      "score": 0.924
+    },
+    {
+      "word": "help",
+      "start": 17.091,
+      "end": 17.271,
+      "score": 0.915
+    },
+    {
+      "word": "fund",
+      "start": 17.311,
+      "end": 17.652,
+      "score": 0.849
+    },
+    {
+      "word": "at",
+      "start": 17.752,
+      "end": 17.792,
+      "score": 0.767
+    },
+    {
+      "word": "A&M",
+      "start": 17.872,
+      "end": 18.272,
+      "score": 0.862
+    },
+    {
+      "word": "if",
+      "start": 18.352,
+      "end": 18.412,
+      "score": 0.95
+    },
+    {
+      "word": "you",
+      "start": 18.453,
+      "end": 18.553,
+      "score": 0.988
+    },
+    {
+      "word": "were",
+      "start": 18.593,
+      "end": 18.713,
+      "score": 0.963
+    },
+    {
+      "word": "a",
+      "start": 18.733,
+      "end": 18.753,
+      "score": 0.999
+    },
+    {
+      "word": "rich,",
+      "start": 18.893,
+      "end": 19.093,
+      "score": 0.914
+    },
+    {
+      "word": "rich,",
+      "start": 19.173,
+      "end": 19.354,
+      "score": 0.945
+    },
+    {
+      "word": "rich",
+      "start": 19.414,
+      "end": 19.594,
+      "score": 0.878
+    },
+    {
+      "word": "person?",
+      "start": 19.654,
+      "end": 19.974,
+      "score": 0.955
+    },
+    {
+      "word": "Well,",
+      "start": 22.037,
+      "end": 22.137,
+      "score": 0.012
+    },
+    {
+      "word": "of",
+      "start": 22.157,
+      "end": 22.237,
+      "score": 0.866
+    },
+    {
+      "word": "course,",
+      "start": 22.297,
+      "end": 22.498,
+      "score": 0.947
+    },
+    {
+      "word": "athletics",
+      "start": 22.618,
+      "end": 23.158,
+      "score": 0.888
+    },
+    {
+      "word": "is",
+      "start": 23.258,
+      "end": 23.339,
+      "score": 0.666
+    },
+    {
+      "word": "dear",
+      "start": 23.399,
+      "end": 23.599,
+      "score": 0.898
+    },
+    {
+      "word": "to",
+      "start": 23.639,
+      "end": 23.679,
+      "score": 0.992
+    },
+    {
+      "word": "my",
+      "start": 23.739,
+      "end": 23.899,
+      "score": 0.982
+    },
+    {
+      "word": "heart.",
+      "start": 23.959,
+      "end": 25.341,
+      "score": 0.792
+    },
+    {
+      "word": "And",
+      "start": 25.361,
+      "end": 25.521,
+      "score": 0.935
+    },
+    {
+      "word": "we're",
+      "start": 27.424,
+      "end": 27.724,
+      "score": 0.787
+    },
+    {
+      "word": "going",
+      "start": 28.305,
+      "end": 28.565,
+      "score": 0.888
+    },
+    {
+      "word": "all",
+      "start": 28.605,
+      "end": 28.885,
+      "score": 0.848
+    },
+    {
+      "word": "out",
+      "start": 29.026,
+      "end": 29.126,
+      "score": 0.98
+    },
+    {
+      "word": "on",
+      "start": 29.226,
+      "end": 29.286,
+      "score": 0.996
+    },
+    {
+      "word": "the",
+      "start": 29.326,
+      "end": 29.386,
+      "score": 0.979
+    },
+    {
+      "word": "West",
+      "start": 29.446,
+      "end": 29.686,
+      "score": 0.841
+    },
+    {
+      "word": "Campus",
+      "start": 29.726,
+      "end": 30.207,
+      "score": 0.712
+    },
+    {
+      "word": "improving",
+      "start": 30.659,
+      "end": 31.22,
+      "score": 0.768
+    },
+    {
+      "word": "those",
+      "start": 31.26,
+      "end": 31.46,
+      "score": 0.948
+    },
+    {
+      "word": "facilities",
+      "start": 31.54,
+      "end": 32.081,
+      "score": 0.907
+    },
+    {
+      "word": "over",
+      "start": 32.181,
+      "end": 32.361,
+      "score": 0.967
+    },
+    {
+      "word": "there.",
+      "start": 32.401,
+      "end": 32.682,
+      "score": 0.805
+    },
+    {
+      "word": "And",
+      "start": 32.982,
+      "end": 33.102,
+      "score": 0.764
+    },
+    {
+      "word": "they",
+      "start": 33.783,
+      "end": 34.023,
+      "score": 0.491
+    },
+    {
+      "word": "are",
+      "start": 34.043,
+      "end": 34.164,
+      "score": 0.818
+    },
+    {
+      "word": "sorely",
+      "start": 34.324,
+      "end": 34.744,
+      "score": 0.984
+    },
+    {
+      "word": "needed.",
+      "start": 34.845,
+      "end": 35.145,
+      "score": 0.933
+    },
+    {
+      "word": "And",
+      "start": 36.266,
+      "end": 36.427,
+      "score": 0.931
+    },
+    {
+      "word": "I",
+      "start": 36.687,
+      "end": 37.608,
+      "score": 0.937
+    },
+    {
+      "word": "think",
+      "start": 37.688,
+      "end": 37.909,
+      "score": 0.989
+    },
+    {
+      "word": "the",
+      "start": 37.989,
+      "end": 38.129,
+      "score": 0.785
+    },
+    {
+      "word": "expansion",
+      "start": 38.209,
+      "end": 38.83,
+      "score": 0.8
+    },
+    {
+      "word": "of",
+      "start": 38.91,
+      "end": 38.95,
+      "score": 0.993
+    },
+    {
+      "word": "the",
+      "start": 39.03,
+      "end": 39.09,
+      "score": 0.901
+    },
+    {
+      "word": "south",
+      "start": 39.17,
+      "end": 39.471,
+      "score": 0.874
+    },
+    {
+      "word": "end",
+      "start": 39.571,
+      "end": 39.751,
+      "score": 0.748
+    },
+    {
+      "word": "zone",
+      "start": 39.831,
+      "end": 40.031,
+      "score": 0.668
+    },
+    {
+      "word": "at",
+      "start": 40.051,
+      "end": 40.092,
+      "score": 0.553
+    },
+    {
+      "word": "Kyle",
+      "start": 40.652,
+      "end": 40.993,
+      "score": 0.564
+    },
+    {
+      "word": "Field",
+      "start": 41.073,
+      "end": 41.433,
+      "score": 0.791
+    },
+    {
+      "word": "and",
+      "start": 42.314,
+      "end": 42.435,
+      "score": 0.933
+    },
+    {
+      "word": "all",
+      "start": 42.475,
+      "end": 42.835,
+      "score": 0.485
+    },
+    {
+      "word": "the",
+      "start": 42.875,
+      "end": 42.935,
+      "score": 0.733
+    },
+    {
+      "word": "things",
+      "start": 43.015,
+      "end": 43.316,
+      "score": 0.884
+    },
+    {
+      "word": "that",
+      "start": 43.356,
+      "end": 43.456,
+      "score": 0.438
+    },
+    {
+      "word": "it",
+      "start": 43.516,
+      "end": 43.576,
+      "score": 0.719
+    },
+    {
+      "word": "will",
+      "start": 43.616,
+      "end": 43.796,
+      "score": 0.869
+    },
+    {
+      "word": "do",
+      "start": 43.836,
+      "end": 44.057,
+      "score": 0.832
+    },
+    {
+      "word": "for",
+      "start": 44.237,
+      "end": 44.497,
+      "score": 0.783
+    },
+    {
+      "word": "the",
+      "start": 44.537,
+      "end": 44.698,
+      "score": 0.348
+    },
+    {
+      "word": "athletic",
+      "start": 44.778,
+      "end": 45.198,
+      "score": 0.812
+    },
+    {
+      "word": "department",
+      "start": 45.238,
+      "end": 45.759,
+      "score": 0.889
+    },
+    {
+      "word": "is",
+      "start": 46.8,
+      "end": 46.941,
+      "score": 0.932
+    },
+    {
+      "word": "a",
+      "start": 47.061,
+      "end": 47.161,
+      "score": 0.935
+    },
+    {
+      "word": "step",
+      "start": 47.922,
+      "end": 48.202,
+      "score": 0.883
+    },
+    {
+      "word": "in",
+      "start": 48.242,
+      "end": 48.282,
+      "score": 0.994
+    },
+    {
+      "word": "the",
+      "start": 48.322,
+      "end": 48.403,
+      "score": 0.832
+    },
+    {
+      "word": "right",
+      "start": 48.443,
+      "end": 48.623,
+      "score": 0.766
+    },
+    {
+      "word": "direction.",
+      "start": 48.683,
+      "end": 49.103,
+      "score": 0.83
+    },
+    {
+      "word": "I",
+      "start": 49.804,
+      "end": 49.844,
+      "score": 0.988
+    },
+    {
+      "word": "don't",
+      "start": 49.885,
+      "end": 50.045,
+      "score": 0.764
+    },
+    {
+      "word": "know",
+      "start": 50.085,
+      "end": 50.225,
+      "score": 0.762
+    },
+    {
+      "word": "if",
+      "start": 50.265,
+      "end": 50.385,
+      "score": 0.723
+    },
+    {
+      "word": "it's",
+      "start": 50.445,
+      "end": 50.565,
+      "score": 0.697
+    },
+    {
+      "word": "enough",
+      "start": 50.646,
+      "end": 50.926,
+      "score": 0.76
+    },
+    {
+      "word": "of",
+      "start": 50.966,
+      "end": 51.006,
+      "score": 0.881
+    },
+    {
+      "word": "a",
+      "start": 51.106,
+      "end": 51.166,
+      "score": 0.667
+    },
+    {
+      "word": "step.",
+      "start": 51.226,
+      "end": 51.527,
+      "score": 0.769
+    },
+    {
+      "word": "I'm",
+      "start": 52.468,
+      "end": 53.65,
+      "score": 0.818
+    },
+    {
+      "word": "not",
+      "start": 53.71,
+      "end": 53.89,
+      "score": 0.769
+    },
+    {
+      "word": "that",
+      "start": 53.93,
+      "end": 54.11,
+      "score": 0.715
+    },
+    {
+      "word": "familiar",
+      "start": 54.35,
+      "end": 54.851,
+      "score": 0.801
+    },
+    {
+      "word": "with",
+      "start": 54.911,
+      "end": 55.071,
+      "score": 0.887
+    },
+    {
+      "word": "all",
+      "start": 55.192,
+      "end": 55.372,
+      "score": 0.917
+    },
+    {
+      "word": "of",
+      "start": 55.412,
+      "end": 55.472,
+      "score": 0.606
+    },
+    {
+      "word": "the",
+      "start": 55.592,
+      "end": 56.734,
+      "score": 0.938
+    },
+    {
+      "word": "moving",
+      "start": 56.774,
+      "end": 57.114,
+      "score": 0.943
+    },
+    {
+      "word": "parts",
+      "start": 57.194,
+      "end": 57.575,
+      "score": 0.95
+    },
+    {
+      "word": "in",
+      "start": 57.995,
+      "end": 58.115,
+      "score": 0.846
+    },
+    {
+      "word": "all",
+      "start": 58.176,
+      "end": 58.316,
+      "score": 0.801
+    },
+    {
+      "word": "of",
+      "start": 58.336,
+      "end": 58.376,
+      "score": 0.498
+    },
+    {
+      "word": "that.",
+      "start": 58.436,
+      "end": 58.636,
+      "score": 0.951
+    },
+    {
+      "word": "But...",
+      "start": 59.417,
+      "end": 60.058,
+      "score": 0.95
+    },
+    {
+      "word": "You",
+      "start": 62.772,
+      "end": 62.892,
+      "score": 0.591
+    },
+    {
+      "word": "know,",
+      "start": 62.932,
+      "end": 63.092,
+      "score": 0.865
+    },
+    {
+      "word": "if",
+      "start": 63.413,
+      "end": 63.493,
+      "score": 0.826
+    },
+    {
+      "word": "you",
+      "start": 63.533,
+      "end": 63.673,
+      "score": 0.932
+    },
+    {
+      "word": "build",
+      "start": 63.713,
+      "end": 63.953,
+      "score": 0.641
+    },
+    {
+      "word": "a",
+      "start": 63.973,
+      "end": 63.993,
+      "score": 0.998
+    },
+    {
+      "word": "105,000",
+      "start": 64.013,
+      "end": 64.354,
+      "score": 0.891
+    },
+    {
+      "word": "seat",
+      "start": 64.694,
+      "end": 65.175,
+      "score": 0.424
+    },
+    {
+      "word": "stadium",
+      "start": 65.195,
+      "end": 66.737,
+      "score": 0.799
+    },
+    {
+      "word": "here",
+      "start": 66.777,
+      "end": 66.937,
+      "score": 0.856
+    },
+    {
+      "word": "in",
+      "start": 66.977,
+      "end": 67.037,
+      "score": 0.78
+    },
+    {
+      "word": "College",
+      "start": 67.117,
+      "end": 67.478,
+      "score": 0.796
+    },
+    {
+      "word": "Station,",
+      "start": 67.558,
+      "end": 68.018,
+      "score": 0.868
+    },
+    {
+      "word": "are",
+      "start": 69.24,
+      "end": 69.34,
+      "score": 0.397
+    },
+    {
+      "word": "you",
+      "start": 69.36,
+      "end": 69.46,
+      "score": 0.818
+    },
+    {
+      "word": "going",
+      "start": 69.48,
+      "end": 69.64,
+      "score": 0.458
+    },
+    {
+      "word": "to",
+      "start": 69.66,
+      "end": 69.7,
+      "score": 0.787
+    },
+    {
+      "word": "fill",
+      "start": 69.8,
+      "end": 70.021,
+      "score": 0.926
+    },
+    {
+      "word": "it?",
+      "start": 70.081,
+      "end": 70.181,
+      "score": 0.935
+    },
+    {
+      "word": "Maybe.",
+      "start": 72.303,
+      "end": 72.664,
+      "score": 0.975
+    },
+    {
+      "word": "But",
+      "start": 74.125,
+      "end": 74.246,
+      "score": 0.979
+    },
+    {
+      "word": "it's",
+      "start": 74.286,
+      "end": 74.386,
+      "score": 0.852
+    },
+    {
+      "word": "going",
+      "start": 74.426,
+      "end": 74.546,
+      "score": 0.531
+    },
+    {
+      "word": "to",
+      "start": 74.586,
+      "end": 74.626,
+      "score": 0.988
+    },
+    {
+      "word": "be",
+      "start": 74.666,
+      "end": 74.786,
+      "score": 0.898
+    },
+    {
+      "word": "a",
+      "start": 74.806,
+      "end": 74.846,
+      "score": 0.463
+    },
+    {
+      "word": "while.",
+      "start": 74.886,
+      "end": 75.127,
+      "score": 0.921
+    },
+    {
+      "word": "Okay.",
+      "start": 77.289,
+      "end": 77.71,
+      "score": 0.753
+    },
+    {
+      "word": "There's",
+      "start": 78.25,
+      "end": 78.451,
+      "score": 0.896
+    },
+    {
+      "word": "not",
+      "start": 78.511,
+      "end": 78.631,
+      "score": 0.975
+    },
+    {
+      "word": "enough",
+      "start": 78.691,
+      "end": 78.931,
+      "score": 0.544
+    },
+    {
+      "word": "motels",
+      "start": 78.991,
+      "end": 79.572,
+      "score": 0.828
+    },
+    {
+      "word": "and",
+      "start": 80.253,
+      "end": 80.353,
+      "score": 0.552
+    },
+    {
+      "word": "hotels",
+      "start": 80.393,
+      "end": 80.853,
+      "score": 0.816
+    },
+    {
+      "word": "in",
+      "start": 80.934,
+      "end": 81.014,
+      "score": 0.79
+    },
+    {
+      "word": "College",
+      "start": 81.054,
+      "end": 81.394,
+      "score": 0.959
+    },
+    {
+      "word": "Station",
+      "start": 81.434,
+      "end": 81.815,
+      "score": 0.866
+    },
+    {
+      "word": "to",
+      "start": 81.855,
+      "end": 81.895,
+      "score": 0.365
+    },
+    {
+      "word": "hold",
+      "start": 81.955,
+      "end": 82.175,
+      "score": 0.723
+    },
+    {
+      "word": "that",
+      "start": 82.235,
+      "end": 82.375,
+      "score": 0.561
+    },
+    {
+      "word": "many",
+      "start": 82.515,
+      "end": 82.696,
+      "score": 0.215
+    },
+    {
+      "word": "people.",
+      "start": 82.716,
+      "end": 82.976,
+      "score": 0.335
+    },
+    {
+      "word": "Can",
+      "start": 85.139,
+      "end": 85.279,
+      "score": 0.897
+    },
+    {
+      "word": "you",
+      "start": 85.319,
+      "end": 85.419,
+      "score": 0.934
+    },
+    {
+      "word": "think",
+      "start": 85.439,
+      "end": 85.619,
+      "score": 0.74
+    },
+    {
+      "word": "of",
+      "start": 85.659,
+      "end": 85.719,
+      "score": 0.741
+    },
+    {
+      "word": "anything?",
+      "start": 85.779,
+      "end": 86.1,
+      "score": 0.842
+    },
+    {
+      "word": "I've",
+      "start": 86.14,
+      "end": 86.24,
+      "score": 0.788
+    },
+    {
+      "word": "only",
+      "start": 86.3,
+      "end": 86.46,
+      "score": 0.86
+    },
+    {
+      "word": "got",
+      "start": 86.5,
+      "end": 86.6,
+      "score": 0.962
+    },
+    {
+      "word": "one",
+      "start": 86.68,
+      "end": 86.78,
+      "score": 0.846
+    },
+    {
+      "word": "more",
+      "start": 86.821,
+      "end": 86.941,
+      "score": 0.865
+    },
+    {
+      "word": "question,",
+      "start": 86.981,
+      "end": 87.381,
+      "score": 0.9
+    },
+    {
+      "word": "unless",
+      "start": 87.481,
+      "end": 87.722,
+      "score": 0.831
+    },
+    {
+      "word": "you",
+      "start": 87.742,
+      "end": 87.862,
+      "score": 0.585
+    },
+    {
+      "word": "can",
+      "start": 87.882,
+      "end": 88.002,
+      "score": 0.698
+    },
+    {
+      "word": "think",
+      "start": 88.022,
+      "end": 88.182,
+      "score": 0.768
+    },
+    {
+      "word": "of",
+      "start": 88.222,
+      "end": 88.262,
+      "score": 0.988
+    },
+    {
+      "word": "anything",
+      "start": 88.282,
+      "end": 88.583,
+      "score": 0.765
+    },
+    {
+      "word": "we've",
+      "start": 88.623,
+      "end": 88.783,
+      "score": 0.982
+    },
+    {
+      "word": "left",
+      "start": 88.823,
+      "end": 89.023,
+      "score": 0.925
+    },
+    {
+      "word": "out.",
+      "start": 89.143,
+      "end": 89.263,
+      "score": 0.988
+    },
+    {
+      "word": "You've",
+      "start": 90.485,
+      "end": 90.665,
+      "score": 0.786
+    },
+    {
+      "word": "exhausted",
+      "start": 90.725,
+      "end": 91.226,
+      "score": 0.838
+    },
+    {
+      "word": "me",
+      "start": 91.286,
+      "end": 91.366,
+      "score": 0.896
+    },
+    {
+      "word": "already,",
+      "start": 91.466,
+      "end": 91.867,
+      "score": 0.97
+    },
+    {
+      "word": "Haskell.",
+      "start": 91.987,
+      "end": 92.307,
+      "score": 0.578
+    },
+    {
+      "word": "Alright,",
+      "start": 92.455,
+      "end": 92.835,
+      "score": 0.752
+    },
+    {
+      "word": "the",
+      "start": 92.855,
+      "end": 92.915,
+      "score": 0.984
+    },
+    {
+      "word": "last",
+      "start": 92.955,
+      "end": 93.156,
+      "score": 0.953
+    },
+    {
+      "word": "question.",
+      "start": 93.196,
+      "end": 93.576,
+      "score": 0.88
+    },
+    {
+      "word": "What",
+      "start": 94.457,
+      "end": 94.597,
+      "score": 0.897
+    },
+    {
+      "word": "feelings",
+      "start": 94.677,
+      "end": 95.078,
+      "score": 0.83
+    },
+    {
+      "word": "do",
+      "start": 95.138,
+      "end": 95.238,
+      "score": 0.908
+    },
+    {
+      "word": "you",
+      "start": 95.278,
+      "end": 95.418,
+      "score": 0.814
+    },
+    {
+      "word": "hold",
+      "start": 95.478,
+      "end": 95.758,
+      "score": 0.817
+    },
+    {
+      "word": "in",
+      "start": 95.778,
+      "end": 95.878,
+      "score": 0.624
+    },
+    {
+      "word": "your",
+      "start": 95.938,
+      "end": 96.119,
+      "score": 0.824
+    },
+    {
+      "word": "heart",
+      "start": 96.139,
+      "end": 96.419,
+      "score": 0.615
+    },
+    {
+      "word": "for",
+      "start": 96.519,
+      "end": 96.619,
+      "score": 0.977
+    },
+    {
+      "word": "Texas",
+      "start": 96.659,
+      "end": 97.039,
+      "score": 0.951
+    },
+    {
+      "word": "A&M",
+      "start": 97.099,
+      "end": 97.54,
+      "score": 0.826
+    },
+    {
+      "word": "today?",
+      "start": 97.68,
+      "end": 98.0,
+      "score": 0.892
+    },
+    {
+      "word": "I",
+      "start": 110.873,
+      "end": 110.953,
+      "score": 0.994
+    },
+    {
+      "word": "bleed",
+      "start": 111.013,
+      "end": 111.373,
+      "score": 0.696
+    },
+    {
+      "word": "rude.",
+      "start": 111.753,
+      "end": 112.094,
+      "score": 0.705
+    },
+    {
+      "word": "I",
+      "start": 115.117,
+      "end": 115.217,
+      "score": 0.719
+    },
+    {
+      "word": "do.",
+      "start": 115.477,
+      "end": 119.321,
+      "score": 0.619
+    },
+    {
+      "word": "I",
+      "start": 119.341,
+      "end": 119.421,
+      "score": 0.943
+    },
+    {
+      "word": "feel",
+      "start": 119.521,
+      "end": 119.881,
+      "score": 0.925
+    },
+    {
+      "word": "strongly.",
+      "start": 120.722,
+      "end": 121.703,
+      "score": 0.48
+    },
+    {
+      "word": "about",
+      "start": 122.442,
+      "end": 122.722,
+      "score": 0.854
+    },
+    {
+      "word": "Texas",
+      "start": 122.762,
+      "end": 123.303,
+      "score": 0.492
+    },
+    {
+      "word": "A&M",
+      "start": 123.323,
+      "end": 123.804,
+      "score": 0.762
+    },
+    {
+      "word": "as",
+      "start": 124.925,
+      "end": 125.005,
+      "score": 0.756
+    },
+    {
+      "word": "I",
+      "start": 125.105,
+      "end": 125.145,
+      "score": 0.833
+    },
+    {
+      "word": "do",
+      "start": 125.185,
+      "end": 125.326,
+      "score": 0.822
+    },
+    {
+      "word": "about",
+      "start": 125.406,
+      "end": 125.606,
+      "score": 0.983
+    },
+    {
+      "word": "my",
+      "start": 125.646,
+      "end": 125.766,
+      "score": 0.98
+    },
+    {
+      "word": "family.",
+      "start": 125.866,
+      "end": 128.91,
+      "score": 0.913
+    },
+    {
+      "word": "Because",
+      "start": 129.191,
+      "end": 129.651,
+      "score": 0.72
+    },
+    {
+      "word": "it",
+      "start": 131.253,
+      "end": 131.313,
+      "score": 0.933
+    },
+    {
+      "word": "is",
+      "start": 131.413,
+      "end": 131.514,
+      "score": 0.968
+    },
+    {
+      "word": "my",
+      "start": 131.594,
+      "end": 131.814,
+      "score": 0.628
+    },
+    {
+      "word": "family.",
+      "start": 131.854,
+      "end": 134.818,
+      "score": 0.619
+    },
+    {
+      "word": "I",
+      "start": 134.838,
+      "end": 135.018,
+      "score": 0.609
+    },
+    {
+      "word": "was",
+      "start": 135.038,
+      "end": 135.098,
+      "score": 0.296
+    },
+    {
+      "word": "practically",
+      "start": 135.619,
+      "end": 136.119,
+      "score": 0.741
+    },
+    {
+      "word": "raised",
+      "start": 136.26,
+      "end": 136.64,
+      "score": 0.656
+    },
+    {
+      "word": "here",
+      "start": 136.72,
+      "end": 137.061,
+      "score": 0.233
+    },
+    {
+      "word": "for",
+      "start": 137.081,
+      "end": 137.141,
+      "score": 0.0
+    },
+    {
+      "word": "four",
+      "start": 137.161,
+      "end": 137.381,
+      "score": 0.68
+    },
+    {
+      "word": "years",
+      "start": 137.441,
+      "end": 137.601,
+      "score": 0.494
+    },
+    {
+      "word": "of",
+      "start": 137.721,
+      "end": 137.922,
+      "score": 0.328
+    },
+    {
+      "word": "my",
+      "start": 137.942,
+      "end": 137.982,
+      "score": 0.004
+    },
+    {
+      "word": "life.",
+      "start": 138.002,
+      "end": 138.102,
+      "score": 0.299
+    },
+    {
+      "word": "And",
+      "start": 140.104,
+      "end": 140.225,
+      "score": 0.773
+    },
+    {
+      "word": "all",
+      "start": 140.285,
+      "end": 140.405,
+      "score": 0.877
+    },
+    {
+      "word": "the",
+      "start": 140.465,
+      "end": 140.605,
+      "score": 0.69
+    },
+    {
+      "word": "ties",
+      "start": 140.665,
+      "end": 141.126,
+      "score": 0.863
+    },
+    {
+      "word": "that",
+      "start": 142.147,
+      "end": 142.267,
+      "score": 0.429
+    },
+    {
+      "word": "I",
+      "start": 142.327,
+      "end": 142.387,
+      "score": 0.983
+    },
+    {
+      "word": "have",
+      "start": 142.447,
+      "end": 142.628,
+      "score": 0.74
+    },
+    {
+      "word": "to",
+      "start": 142.668,
+      "end": 142.748,
+      "score": 0.605
+    },
+    {
+      "word": "Texas",
+      "start": 142.808,
+      "end": 143.208,
+      "score": 0.645
+    },
+    {
+      "word": "A&M,",
+      "start": 143.228,
+      "end": 144.83,
+      "score": 0.853
+    },
+    {
+      "word": "which",
+      "start": 144.85,
+      "end": 145.031,
+      "score": 0.974
+    },
+    {
+      "word": "is",
+      "start": 145.091,
+      "end": 145.131,
+      "score": 0.61
+    },
+    {
+      "word": "one",
+      "start": 145.151,
+      "end": 145.211,
+      "score": 0.266
+    },
+    {
+      "word": "of",
+      "start": 146.713,
+      "end": 146.833,
+      "score": 0.783
+    },
+    {
+      "word": "the",
+      "start": 146.853,
+      "end": 146.933,
+      "score": 0.947
+    },
+    {
+      "word": "primary",
+      "start": 147.013,
+      "end": 147.494,
+      "score": 0.726
+    },
+    {
+      "word": "reasons",
+      "start": 147.594,
+      "end": 147.914,
+      "score": 0.773
+    },
+    {
+      "word": "why",
+      "start": 147.994,
+      "end": 148.175,
+      "score": 0.92
+    },
+    {
+      "word": "we",
+      "start": 148.235,
+      "end": 148.415,
+      "score": 0.75
+    },
+    {
+      "word": "moved",
+      "start": 148.475,
+      "end": 148.715,
+      "score": 0.878
+    },
+    {
+      "word": "back",
+      "start": 148.796,
+      "end": 149.016,
+      "score": 0.848
+    },
+    {
+      "word": "here",
+      "start": 149.056,
+      "end": 149.256,
+      "score": 0.829
+    },
+    {
+      "word": "a",
+      "start": 149.276,
+      "end": 150.137,
+      "score": 0.953
+    },
+    {
+      "word": "year",
+      "start": 150.177,
+      "end": 150.337,
+      "score": 0.865
+    },
+    {
+      "word": "ago.",
+      "start": 150.418,
+      "end": 150.778,
+      "score": 0.726
+    },
+    {
+      "word": "We",
+      "start": 151.889,
+      "end": 152.049,
+      "score": 0.45
+    },
+    {
+      "word": "had",
+      "start": 152.069,
+      "end": 152.129,
+      "score": 0.336
+    },
+    {
+      "word": "lived",
+      "start": 152.189,
+      "end": 152.39,
+      "score": 0.769
+    },
+    {
+      "word": "in",
+      "start": 152.47,
+      "end": 152.53,
+      "score": 0.944
+    },
+    {
+      "word": "Austin",
+      "start": 152.65,
+      "end": 153.011,
+      "score": 0.798
+    },
+    {
+      "word": "for",
+      "start": 153.071,
+      "end": 153.211,
+      "score": 0.893
+    },
+    {
+      "word": "23",
+      "start": 153.231,
+      "end": 153.591,
+      "score": 0.603
+    },
+    {
+      "word": "years.",
+      "start": 153.912,
+      "end": 154.272,
+      "score": 0.686
+    },
+    {
+      "word": "And",
+      "start": 154.373,
+      "end": 154.433,
+      "score": 0.942
+    },
+    {
+      "word": "my",
+      "start": 155.855,
+      "end": 156.035,
+      "score": 0.922
+    },
+    {
+      "word": "wife",
+      "start": 156.095,
+      "end": 156.335,
+      "score": 0.803
+    },
+    {
+      "word": "came",
+      "start": 156.776,
+      "end": 156.996,
+      "score": 0.716
+    },
+    {
+      "word": "in",
+      "start": 157.056,
+      "end": 157.156,
+      "score": 0.957
+    },
+    {
+      "word": "one",
+      "start": 157.297,
+      "end": 157.417,
+      "score": 0.749
+    },
+    {
+      "word": "day",
+      "start": 157.457,
+      "end": 157.657,
+      "score": 0.922
+    },
+    {
+      "word": "after",
+      "start": 157.777,
+      "end": 157.958,
+      "score": 0.755
+    },
+    {
+      "word": "having",
+      "start": 157.998,
+      "end": 158.298,
+      "score": 0.717
+    },
+    {
+      "word": "battled",
+      "start": 158.398,
+      "end": 158.739,
+      "score": 0.883
+    },
+    {
+      "word": "that",
+      "start": 158.799,
+      "end": 158.919,
+      "score": 0.599
+    },
+    {
+      "word": "traffic",
+      "start": 158.999,
+      "end": 159.4,
+      "score": 0.829
+    },
+    {
+      "word": "in",
+      "start": 159.46,
+      "end": 159.54,
+      "score": 0.744
+    },
+    {
+      "word": "Austin.",
+      "start": 159.64,
+      "end": 160.001,
+      "score": 0.824
+    },
+    {
+      "word": "Austin",
+      "start": 161.022,
+      "end": 161.342,
+      "score": 0.794
+    },
+    {
+      "word": "was",
+      "start": 161.382,
+      "end": 161.483,
+      "score": 0.805
+    },
+    {
+      "word": "getting",
+      "start": 161.543,
+      "end": 161.783,
+      "score": 0.793
+    },
+    {
+      "word": "more",
+      "start": 161.883,
+      "end": 162.063,
+      "score": 0.914
+    },
+    {
+      "word": "and",
+      "start": 162.124,
+      "end": 162.204,
+      "score": 0.785
+    },
+    {
+      "word": "more",
+      "start": 162.244,
+      "end": 162.424,
+      "score": 0.91
+    },
+    {
+      "word": "uncivil.",
+      "start": 163.185,
+      "end": 163.766,
+      "score": 0.965
+    },
+    {
+      "word": "And",
+      "start": 165.568,
+      "end": 165.669,
+      "score": 0.869
+    },
+    {
+      "word": "she",
+      "start": 165.769,
+      "end": 165.929,
+      "score": 0.784
+    },
+    {
+      "word": "said,",
+      "start": 165.989,
+      "end": 166.209,
+      "score": 0.86
+    },
+    {
+      "word": "just",
+      "start": 167.191,
+      "end": 167.391,
+      "score": 0.803
+    },
+    {
+      "word": "came",
+      "start": 167.431,
+      "end": 167.631,
+      "score": 0.818
+    },
+    {
+      "word": "in",
+      "start": 167.691,
+      "end": 167.772,
+      "score": 0.77
+    },
+    {
+      "word": "off",
+      "start": 167.832,
+      "end": 167.992,
+      "score": 0.859
+    },
+    {
+      "word": "the",
+      "start": 168.032,
+      "end": 168.092,
+      "score": 0.972
+    },
+    {
+      "word": "street",
+      "start": 168.152,
+      "end": 168.432,
+      "score": 0.684
+    },
+    {
+      "word": "after",
+      "start": 168.533,
+      "end": 168.713,
+      "score": 0.955
+    },
+    {
+      "word": "she",
+      "start": 168.773,
+      "end": 168.853,
+      "score": 0.787
+    },
+    {
+      "word": "had",
+      "start": 168.893,
+      "end": 168.973,
+      "score": 0.988
+    },
+    {
+      "word": "nearly",
+      "start": 169.013,
+      "end": 169.254,
+      "score": 0.882
+    },
+    {
+      "word": "been",
+      "start": 169.294,
+      "end": 169.434,
+      "score": 0.96
+    },
+    {
+      "word": "rear-ended",
+      "start": 169.494,
+      "end": 170.656,
+      "score": 0.729
+    },
+    {
+      "word": "twice",
+      "start": 170.736,
+      "end": 171.116,
+      "score": 0.981
+    },
+    {
+      "word": "on",
+      "start": 171.216,
+      "end": 171.337,
+      "score": 0.924
+    },
+    {
+      "word": "Ben",
+      "start": 171.377,
+      "end": 171.557,
+      "score": 0.748
+    },
+    {
+      "word": "White",
+      "start": 171.577,
+      "end": 171.777,
+      "score": 0.66
+    },
+    {
+      "word": "Boulevard.",
+      "start": 171.817,
+      "end": 173.44,
+      "score": 0.481
+    },
+    {
+      "word": "She",
+      "start": 173.46,
+      "end": 173.6,
+      "score": 0.866
+    },
+    {
+      "word": "said,",
+      "start": 173.64,
+      "end": 173.86,
+      "score": 0.828
+    },
+    {
+      "word": "have",
+      "start": 173.88,
+      "end": 173.96,
+      "score": 0.25
+    },
+    {
+      "word": "you",
+      "start": 173.98,
+      "end": 174.101,
+      "score": 0.952
+    },
+    {
+      "word": "ever",
+      "start": 174.121,
+      "end": 174.341,
+      "score": 0.85
+    },
+    {
+      "word": "thought",
+      "start": 174.381,
+      "end": 174.581,
+      "score": 0.736
+    },
+    {
+      "word": "about",
+      "start": 174.661,
+      "end": 174.842,
+      "score": 0.668
+    },
+    {
+      "word": "moving",
+      "start": 174.902,
+      "end": 175.242,
+      "score": 0.727
+    },
+    {
+      "word": "to",
+      "start": 175.282,
+      "end": 175.382,
+      "score": 0.586
+    },
+    {
+      "word": "Texas",
+      "start": 175.402,
+      "end": 175.783,
+      "score": 0.602
+    },
+    {
+      "word": "A&M?",
+      "start": 175.863,
+      "end": 177.525,
+      "score": 0.807
+    },
+    {
+      "word": "Or",
+      "start": 177.545,
+      "end": 177.606,
+      "score": 0.944
+    },
+    {
+      "word": "College",
+      "start": 177.646,
+      "end": 178.006,
+      "score": 0.878
+    },
+    {
+      "word": "Station,",
+      "start": 178.046,
+      "end": 178.467,
+      "score": 0.842
+    },
+    {
+      "word": "is",
+      "start": 178.587,
+      "end": 178.647,
+      "score": 0.827
+    },
+    {
+      "word": "the",
+      "start": 178.667,
+      "end": 178.727,
+      "score": 0.014
+    },
+    {
+      "word": "way",
+      "start": 178.787,
+      "end": 178.887,
+      "score": 0.888
+    },
+    {
+      "word": "she",
+      "start": 178.907,
+      "end": 179.068,
+      "score": 0.934
+    },
+    {
+      "word": "put",
+      "start": 179.128,
+      "end": 179.288,
+      "score": 0.864
+    },
+    {
+      "word": "it.",
+      "start": 179.328,
+      "end": 179.388,
+      "score": 0.912
+    },
+    {
+      "word": "And",
+      "start": 180.049,
+      "end": 180.169,
+      "score": 0.911
+    },
+    {
+      "word": "I",
+      "start": 180.229,
+      "end": 180.309,
+      "score": 0.995
+    },
+    {
+      "word": "said,",
+      "start": 180.369,
+      "end": 180.57,
+      "score": 0.995
+    },
+    {
+      "word": "I",
+      "start": 180.61,
+      "end": 180.69,
+      "score": 0.996
+    },
+    {
+      "word": "thought",
+      "start": 180.77,
+      "end": 180.99,
+      "score": 0.859
+    },
+    {
+      "word": "you'd",
+      "start": 181.03,
+      "end": 181.191,
+      "score": 0.865
+    },
+    {
+      "word": "never",
+      "start": 181.251,
+      "end": 181.491,
+      "score": 0.736
+    },
+    {
+      "word": "That",
+      "start": 183.698,
+      "end": 184.038,
+      "score": 0.86
+    },
+    {
+      "word": "was",
+      "start": 184.119,
+      "end": 184.299,
+      "score": 0.893
+    },
+    {
+      "word": "on",
+      "start": 184.339,
+      "end": 184.759,
+      "score": 0.828
+    },
+    {
+      "word": "a",
+      "start": 184.9,
+      "end": 184.96,
+      "score": 0.927
+    },
+    {
+      "word": "Thursday.",
+      "start": 185.12,
+      "end": 185.6,
+      "score": 0.851
+    },
+    {
+      "word": "The",
+      "start": 186.341,
+      "end": 186.421,
+      "score": 0.911
+    },
+    {
+      "word": "next",
+      "start": 186.461,
+      "end": 186.682,
+      "score": 0.732
+    },
+    {
+      "word": "day,",
+      "start": 186.762,
+      "end": 187.002,
+      "score": 0.937
+    },
+    {
+      "word": "Friday,",
+      "start": 187.042,
+      "end": 187.603,
+      "score": 0.795
+    },
+    {
+      "word": "we",
+      "start": 188.224,
+      "end": 188.364,
+      "score": 0.855
+    },
+    {
+      "word": "got",
+      "start": 188.404,
+      "end": 188.544,
+      "score": 0.92
+    },
+    {
+      "word": "the",
+      "start": 188.584,
+      "end": 188.644,
+      "score": 0.403
+    },
+    {
+      "word": "car",
+      "start": 188.704,
+      "end": 188.945,
+      "score": 0.584
+    },
+    {
+      "word": "and",
+      "start": 188.965,
+      "end": 189.025,
+      "score": 0.333
+    },
+    {
+      "word": "came",
+      "start": 189.045,
+      "end": 189.245,
+      "score": 0.857
+    },
+    {
+      "word": "over",
+      "start": 189.325,
+      "end": 189.465,
+      "score": 0.879
+    },
+    {
+      "word": "here,",
+      "start": 189.525,
+      "end": 189.666,
+      "score": 0.508
+    },
+    {
+      "word": "contacted",
+      "start": 189.726,
+      "end": 190.326,
+      "score": 0.713
+    },
+    {
+      "word": "Phil",
+      "start": 190.366,
+      "end": 190.627,
+      "score": 0.759
+    },
+    {
+      "word": "Callahan",
+      "start": 190.647,
+      "end": 191.207,
+      "score": 0.92
+    },
+    {
+      "word": "down",
+      "start": 191.928,
+      "end": 192.129,
+      "score": 0.904
+    },
+    {
+      "word": "at",
+      "start": 192.189,
+      "end": 192.249,
+      "score": 0.921
+    },
+    {
+      "word": "Remax.",
+      "start": 192.349,
+      "end": 192.87,
+      "score": 0.802
+    },
+    {
+      "word": "Phil",
+      "start": 195.072,
+      "end": 195.333,
+      "score": 0.718
+    },
+    {
+      "word": "showed",
+      "start": 195.373,
+      "end": 195.593,
+      "score": 0.775
+    },
+    {
+      "word": "us",
+      "start": 195.633,
+      "end": 195.713,
+      "score": 0.904
+    },
+    {
+      "word": "a",
+      "start": 195.773,
+      "end": 195.793,
+      "score": 0.987
+    },
+    {
+      "word": "few",
+      "start": 195.853,
+      "end": 196.014,
+      "score": 0.831
+    },
+    {
+      "word": "places",
+      "start": 196.074,
+      "end": 196.514,
+      "score": 0.863
+    },
+    {
+      "word": "in",
+      "start": 198.036,
+      "end": 198.176,
+      "score": 0.906
+    },
+    {
+      "word": "subdivisions,",
+      "start": 198.997,
+      "end": 200.339,
+      "score": 0.898
+    },
+    {
+      "word": "you",
+      "start": 201.32,
+      "end": 201.42,
+      "score": 0.875
+    },
+    {
+      "word": "know,",
+      "start": 201.44,
+      "end": 201.641,
+      "score": 0.728
+    },
+    {
+      "word": "with",
+      "start": 201.661,
+      "end": 202.221,
+      "score": 0.739
+    },
+    {
+      "word": "nice",
+      "start": 202.642,
+      "end": 202.882,
+      "score": 0.912
+    },
+    {
+      "word": "homes,",
+      "start": 202.942,
+      "end": 203.323,
+      "score": 0.846
+    },
+    {
+      "word": "but",
+      "start": 203.503,
+      "end": 203.643,
+      "score": 0.793
+    },
+    {
+      "word": "with",
+      "start": 203.723,
+      "end": 203.903,
+      "score": 0.933
+    },
+    {
+      "word": "10-foot",
+      "start": 203.923,
+      "end": 205.045,
+      "score": 0.8
+    },
+    {
+      "word": "lot",
+      "start": 205.065,
+      "end": 205.305,
+      "score": 0.849
+    },
+    {
+      "word": "lines,",
+      "start": 205.345,
+      "end": 205.706,
+      "score": 0.91
+    },
+    {
+      "word": "20-foot",
+      "start": 205.726,
+      "end": 206.246,
+      "score": 0.667
+    },
+    {
+      "word": "lot",
+      "start": 206.286,
+      "end": 206.507,
+      "score": 0.842
+    },
+    {
+      "word": "lines.",
+      "start": 206.527,
+      "end": 206.867,
+      "score": 0.831
+    },
+    {
+      "word": "We'd",
+      "start": 206.887,
+      "end": 206.967,
+      "score": 0.261
+    },
+    {
+      "word": "been",
+      "start": 207.748,
+      "end": 207.888,
+      "score": 0.884
+    },
+    {
+      "word": "living",
+      "start": 207.969,
+      "end": 208.209,
+      "score": 0.741
+    },
+    {
+      "word": "on",
+      "start": 208.249,
+      "end": 208.329,
+      "score": 0.9
+    },
+    {
+      "word": "a",
+      "start": 208.409,
+      "end": 208.429,
+      "score": 0.911
+    },
+    {
+      "word": "four-acre",
+      "start": 208.469,
+      "end": 209.03,
+      "score": 0.65
+    },
+    {
+      "word": "place,",
+      "start": 209.07,
+      "end": 209.47,
+      "score": 0.886
+    },
+    {
+      "word": "and",
+      "start": 209.551,
+      "end": 209.651,
+      "score": 0.964
+    },
+    {
+      "word": "I",
+      "start": 209.671,
+      "end": 209.691,
+      "score": 0.997
+    },
+    {
+      "word": "just",
+      "start": 210.612,
+      "end": 210.792,
+      "score": 0.9
+    },
+    {
+      "word": "didn't",
+      "start": 210.852,
+      "end": 210.992,
+      "score": 0.368
+    },
+    {
+      "word": "want",
+      "start": 211.012,
+      "end": 211.253,
+      "score": 0.439
+    },
+    {
+      "word": "to",
+      "start": 211.273,
+      "end": 211.313,
+      "score": 0.001
+    },
+    {
+      "word": "be",
+      "start": 211.333,
+      "end": 211.453,
+      "score": 0.7
+    },
+    {
+      "word": "crowded",
+      "start": 211.873,
+      "end": 212.254,
+      "score": 0.809
+    },
+    {
+      "word": "up",
+      "start": 212.354,
+      "end": 212.434,
+      "score": 0.666
+    },
+    {
+      "word": "like",
+      "start": 212.514,
+      "end": 212.735,
+      "score": 0.646
+    },
+    {
+      "word": "that.",
+      "start": 212.775,
+      "end": 213.115,
+      "score": 0.531
+    },
+    {
+      "word": "so",
+      "start": 213.803,
+      "end": 214.123,
+      "score": 0.824
+    },
+    {
+      "word": "we",
+      "start": 214.184,
+      "end": 214.364,
+      "score": 0.958
+    },
+    {
+      "word": "scattered",
+      "start": 215.125,
+      "end": 215.565,
+      "score": 0.762
+    },
+    {
+      "word": "around",
+      "start": 215.625,
+      "end": 215.946,
+      "score": 0.784
+    },
+    {
+      "word": "we",
+      "start": 215.966,
+      "end": 216.186,
+      "score": 0.713
+    },
+    {
+      "word": "found",
+      "start": 216.306,
+      "end": 216.587,
+      "score": 0.667
+    },
+    {
+      "word": "this",
+      "start": 216.627,
+      "end": 216.787,
+      "score": 0.716
+    },
+    {
+      "word": "lot",
+      "start": 216.887,
+      "end": 217.188,
+      "score": 0.843
+    },
+    {
+      "word": "it's",
+      "start": 217.248,
+      "end": 217.368,
+      "score": 0.785
+    },
+    {
+      "word": "one",
+      "start": 217.628,
+      "end": 217.728,
+      "score": 0.808
+    },
+    {
+      "word": "and",
+      "start": 217.788,
+      "end": 217.848,
+      "score": 0.553
+    },
+    {
+      "word": "a",
+      "start": 217.868,
+      "end": 217.888,
+      "score": 0.949
+    },
+    {
+      "word": "third",
+      "start": 217.928,
+      "end": 218.169,
+      "score": 0.86
+    },
+    {
+      "word": "acres",
+      "start": 218.249,
+      "end": 218.549,
+      "score": 0.739
+    },
+    {
+      "word": "and",
+      "start": 219.591,
+      "end": 219.711,
+      "score": 0.663
+    },
+    {
+      "word": "it",
+      "start": 219.751,
+      "end": 219.851,
+      "score": 0.622
+    },
+    {
+      "word": "was",
+      "start": 219.911,
+      "end": 220.031,
+      "score": 0.903
+    },
+    {
+      "word": "a",
+      "start": 220.051,
+      "end": 220.071,
+      "score": 0.974
+    },
+    {
+      "word": "beautiful",
+      "start": 220.151,
+      "end": 220.592,
+      "score": 0.783
+    },
+    {
+      "word": "tree",
+      "start": 220.712,
+      "end": 220.993,
+      "score": 0.881
+    },
+    {
+      "word": "lot",
+      "start": 221.053,
+      "end": 221.353,
+      "score": 0.964
+    },
+    {
+      "word": "and",
+      "start": 221.653,
+      "end": 221.774,
+      "score": 0.934
+    },
+    {
+      "word": "we",
+      "start": 222.615,
+      "end": 222.715,
+      "score": 0.984
+    },
+    {
+      "word": "said",
+      "start": 222.755,
+      "end": 222.915,
+      "score": 0.956
+    },
+    {
+      "word": "that's",
+      "start": 222.955,
+      "end": 223.155,
+      "score": 0.923
+    },
+    {
+      "word": "where",
+      "start": 223.216,
+      "end": 223.396,
+      "score": 0.834
+    },
+    {
+      "word": "we",
+      "start": 223.456,
+      "end": 223.556,
+      "score": 0.975
+    },
+    {
+      "word": "want",
+      "start": 223.636,
+      "end": 223.756,
+      "score": 0.379
+    },
+    {
+      "word": "to",
+      "start": 223.776,
+      "end": 223.816,
+      "score": 0.493
+    },
+    {
+      "word": "build",
+      "start": 223.856,
+      "end": 224.077,
+      "score": 0.704
+    },
+    {
+      "word": "our",
+      "start": 224.177,
+      "end": 224.277,
+      "score": 0.996
+    },
+    {
+      "word": "home",
+      "start": 224.337,
+      "end": 224.577,
+      "score": 0.97
+    },
+    {
+      "word": "and",
+      "start": 226.3,
+      "end": 226.38,
+      "score": 0.925
+    },
+    {
+      "word": "so",
+      "start": 226.48,
+      "end": 226.7,
+      "score": 0.92
+    },
+    {
+      "word": "we",
+      "start": 227.201,
+      "end": 227.361,
+      "score": 0.987
+    },
+    {
+      "word": "did",
+      "start": 227.421,
+      "end": 227.621,
+      "score": 0.996
+    },
+    {
+      "word": "that",
+      "start": 227.681,
+      "end": 227.902,
+      "score": 0.948
+    },
+    {
+      "word": "texas",
+      "start": 227.922,
+      "end": 234.35,
+      "score": 0.514
+    },
+    {
+      "word": "a",
+      "start": 234.37,
+      "end": 234.591,
+      "score": 0.621
+    },
+    {
+      "word": "m",
+      "start": 234.731,
+      "end": 234.851,
+      "score": 0.943
+    },
+    {
+      "word": "it",
+      "start": 236.974,
+      "end": 237.134,
+      "score": 0.816
+    },
+    {
+      "word": "it",
+      "start": 238.756,
+      "end": 238.836,
+      "score": 0.796
+    },
+    {
+      "word": "formed",
+      "start": 238.916,
+      "end": 239.297,
+      "score": 0.986
+    },
+    {
+      "word": "my",
+      "start": 239.317,
+      "end": 239.357,
+      "score": 0.499
+    },
+    {
+      "word": "military",
+      "start": 239.697,
+      "end": 240.278,
+      "score": 0.902
+    },
+    {
+      "word": "career",
+      "start": 240.358,
+      "end": 240.739,
+      "score": 0.891
+    },
+    {
+      "word": "i",
+      "start": 241.8,
+      "end": 241.86,
+      "score": 0.898
+    },
+    {
+      "word": "was",
+      "start": 241.9,
+      "end": 242.041,
+      "score": 0.91
+    },
+    {
+      "word": "in",
+      "start": 242.101,
+      "end": 242.161,
+      "score": 0.98
+    },
+    {
+      "word": "the",
+      "start": 242.201,
+      "end": 242.261,
+      "score": 0.894
+    },
+    {
+      "word": "air",
+      "start": 242.361,
+      "end": 242.501,
+      "score": 0.803
+    },
+    {
+      "word": "force",
+      "start": 242.581,
+      "end": 242.862,
+      "score": 0.873
+    },
+    {
+      "word": "for",
+      "start": 242.942,
+      "end": 243.102,
+      "score": 0.591
+    },
+    {
+      "word": "30",
+      "start": 243.453,
+      "end": 243.733,
+      "score": 0.386
+    },
+    {
+      "word": "years,",
+      "start": 243.753,
+      "end": 244.114,
+      "score": 0.871
+    },
+    {
+      "word": "5",
+      "start": 244.134,
+      "end": 244.454,
+      "score": 0.714
+    },
+    {
+      "word": "months,",
+      "start": 244.514,
+      "end": 244.755,
+      "score": 0.798
+    },
+    {
+      "word": "and",
+      "start": 244.815,
+      "end": 244.875,
+      "score": 0.882
+    },
+    {
+      "word": "29",
+      "start": 244.895,
+      "end": 245.195,
+      "score": 0.61
+    },
+    {
+      "word": "days.",
+      "start": 245.556,
+      "end": 245.896,
+      "score": 0.787
+    },
+    {
+      "word": "Texas",
+      "start": 248.6,
+      "end": 248.961,
+      "score": 0.638
+    },
+    {
+      "word": "A&M",
+      "start": 249.041,
+      "end": 249.501,
+      "score": 0.799
+    },
+    {
+      "word": "got",
+      "start": 250.763,
+      "end": 250.983,
+      "score": 0.937
+    },
+    {
+      "word": "me",
+      "start": 251.023,
+      "end": 251.144,
+      "score": 0.907
+    },
+    {
+      "word": "my",
+      "start": 251.204,
+      "end": 251.344,
+      "score": 0.998
+    },
+    {
+      "word": "first",
+      "start": 251.424,
+      "end": 251.704,
+      "score": 0.828
+    },
+    {
+      "word": "job",
+      "start": 251.805,
+      "end": 252.205,
+      "score": 0.995
+    },
+    {
+      "word": "other",
+      "start": 252.245,
+      "end": 252.906,
+      "score": 0.644
+    },
+    {
+      "word": "than",
+      "start": 252.946,
+      "end": 253.347,
+      "score": 0.813
+    },
+    {
+      "word": "military",
+      "start": 254.208,
+      "end": 254.829,
+      "score": 0.897
+    },
+    {
+      "word": "when",
+      "start": 254.909,
+      "end": 255.069,
+      "score": 0.87
+    },
+    {
+      "word": "I",
+      "start": 255.109,
+      "end": 255.149,
+      "score": 0.495
+    },
+    {
+      "word": "went",
+      "start": 255.229,
+      "end": 255.389,
+      "score": 0.944
+    },
+    {
+      "word": "to",
+      "start": 255.43,
+      "end": 255.53,
+      "score": 0.829
+    },
+    {
+      "word": "work",
+      "start": 255.59,
+      "end": 255.81,
+      "score": 0.858
+    },
+    {
+      "word": "for",
+      "start": 255.93,
+      "end": 256.09,
+      "score": 0.957
+    },
+    {
+      "word": "Governor",
+      "start": 256.932,
+      "end": 257.252,
+      "score": 0.764
+    },
+    {
+      "word": "Bill",
+      "start": 257.312,
+      "end": 257.552,
+      "score": 0.937
+    },
+    {
+      "word": "Clements",
+      "start": 257.613,
+      "end": 258.013,
+      "score": 0.593
+    },
+    {
+      "word": "through",
+      "start": 259.375,
+      "end": 259.595,
+      "score": 0.782
+    },
+    {
+      "word": "Jarvis",
+      "start": 259.635,
+      "end": 260.056,
+      "score": 0.904
+    },
+    {
+      "word": "Miller.",
+      "start": 260.136,
+      "end": 262.84,
+      "score": 0.947
+    },
+    {
+      "word": "And",
+      "start": 262.86,
+      "end": 263.04,
+      "score": 0.942
+    },
+    {
+      "word": "I",
+      "start": 266.545,
+      "end": 266.625,
+      "score": 0.981
+    },
+    {
+      "word": "don't",
+      "start": 267.326,
+      "end": 267.506,
+      "score": 0.886
+    },
+    {
+      "word": "know",
+      "start": 267.546,
+      "end": 267.666,
+      "score": 0.961
+    },
+    {
+      "word": "what",
+      "start": 267.726,
+      "end": 267.867,
+      "score": 0.883
+    },
+    {
+      "word": "else",
+      "start": 267.927,
+      "end": 268.067,
+      "score": 0.932
+    },
+    {
+      "word": "I",
+      "start": 268.107,
+      "end": 268.127,
+      "score": 0.847
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.92,
+    "Neutral": 0.834,
+    "Bad": 0.728
+  }
+}
