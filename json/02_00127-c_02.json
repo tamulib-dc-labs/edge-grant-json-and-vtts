@@ -1,0 +1,309 @@
+{
+  "segments": [
+    {
+      "start": 4.098,
+      "end": 8.228,
+      "text": " institutions of something rather than building its own course.",
+      "words": [
+        {
+          "word": "institutions",
+          "start": 4.098,
+          "end": 4.86,
+          "score": 0.84
+        },
+        {
+          "word": "of",
+          "start": 4.94,
+          "end": 4.98,
+          "score": 0.93
+        },
+        {
+          "word": "something",
+          "start": 5.542,
+          "end": 5.862,
+          "score": 0.853
+        },
+        {
+          "word": "rather",
+          "start": 5.923,
+          "end": 6.484,
+          "score": 0.784
+        },
+        {
+          "word": "than",
+          "start": 6.544,
+          "end": 6.664,
+          "score": 0.978
+        },
+        {
+          "word": "building",
+          "start": 7.206,
+          "end": 7.507,
+          "score": 0.442
+        },
+        {
+          "word": "its",
+          "start": 7.567,
+          "end": 7.687,
+          "score": 0.595
+        },
+        {
+          "word": "own",
+          "start": 7.767,
+          "end": 7.867,
+          "score": 0.76
+        },
+        {
+          "word": "course.",
+          "start": 7.948,
+          "end": 8.228,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "start": 9.692,
+      "end": 11.737,
+      "text": "And I would rather see it build its own course.",
+      "words": [
+        {
+          "word": "And",
+          "start": 9.692,
+          "end": 9.772,
+          "score": 0.619
+        },
+        {
+          "word": "I",
+          "start": 9.852,
+          "end": 9.893,
+          "score": 0.995
+        },
+        {
+          "word": "would",
+          "start": 9.933,
+          "end": 10.093,
+          "score": 0.995
+        },
+        {
+          "word": "rather",
+          "start": 10.133,
+          "end": 10.414,
+          "score": 0.893
+        },
+        {
+          "word": "see",
+          "start": 10.434,
+          "end": 10.655,
+          "score": 0.692
+        },
+        {
+          "word": "it",
+          "start": 10.715,
+          "end": 10.775,
+          "score": 0.978
+        },
+        {
+          "word": "build",
+          "start": 10.815,
+          "end": 11.035,
+          "score": 0.744
+        },
+        {
+          "word": "its",
+          "start": 11.096,
+          "end": 11.196,
+          "score": 0.793
+        },
+        {
+          "word": "own",
+          "start": 11.276,
+          "end": 11.396,
+          "score": 0.839
+        },
+        {
+          "word": "course.",
+          "start": 11.477,
+          "end": 11.737,
+          "score": 0.922
+        }
+      ]
+    },
+    {
+      "start": 14.444,
+      "end": 15.627,
+      "text": "That's a good conclusion.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 14.444,
+          "end": 14.625,
+          "score": 0.253
+        },
+        {
+          "word": "a",
+          "start": 14.645,
+          "end": 14.665,
+          "score": 0.089
+        },
+        {
+          "word": "good",
+          "start": 14.685,
+          "end": 14.865,
+          "score": 0.352
+        },
+        {
+          "word": "conclusion.",
+          "start": 14.905,
+          "end": 15.627,
+          "score": 0.912
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "institutions",
+      "start": 4.098,
+      "end": 4.86,
+      "score": 0.84
+    },
+    {
+      "word": "of",
+      "start": 4.94,
+      "end": 4.98,
+      "score": 0.93
+    },
+    {
+      "word": "something",
+      "start": 5.542,
+      "end": 5.862,
+      "score": 0.853
+    },
+    {
+      "word": "rather",
+      "start": 5.923,
+      "end": 6.484,
+      "score": 0.784
+    },
+    {
+      "word": "than",
+      "start": 6.544,
+      "end": 6.664,
+      "score": 0.978
+    },
+    {
+      "word": "building",
+      "start": 7.206,
+      "end": 7.507,
+      "score": 0.442
+    },
+    {
+      "word": "its",
+      "start": 7.567,
+      "end": 7.687,
+      "score": 0.595
+    },
+    {
+      "word": "own",
+      "start": 7.767,
+      "end": 7.867,
+      "score": 0.76
+    },
+    {
+      "word": "course.",
+      "start": 7.948,
+      "end": 8.228,
+      "score": 0.93
+    },
+    {
+      "word": "And",
+      "start": 9.692,
+      "end": 9.772,
+      "score": 0.619
+    },
+    {
+      "word": "I",
+      "start": 9.852,
+      "end": 9.893,
+      "score": 0.995
+    },
+    {
+      "word": "would",
+      "start": 9.933,
+      "end": 10.093,
+      "score": 0.995
+    },
+    {
+      "word": "rather",
+      "start": 10.133,
+      "end": 10.414,
+      "score": 0.893
+    },
+    {
+      "word": "see",
+      "start": 10.434,
+      "end": 10.655,
+      "score": 0.692
+    },
+    {
+      "word": "it",
+      "start": 10.715,
+      "end": 10.775,
+      "score": 0.978
+    },
+    {
+      "word": "build",
+      "start": 10.815,
+      "end": 11.035,
+      "score": 0.744
+    },
+    {
+      "word": "its",
+      "start": 11.096,
+      "end": 11.196,
+      "score": 0.793
+    },
+    {
+      "word": "own",
+      "start": 11.276,
+      "end": 11.396,
+      "score": 0.839
+    },
+    {
+      "word": "course.",
+      "start": 11.477,
+      "end": 11.737,
+      "score": 0.922
+    },
+    {
+      "word": "That's",
+      "start": 14.444,
+      "end": 14.625,
+      "score": 0.253
+    },
+    {
+      "word": "a",
+      "start": 14.645,
+      "end": 14.665,
+      "score": 0.089
+    },
+    {
+      "word": "good",
+      "start": 14.685,
+      "end": 14.865,
+      "score": 0.352
+    },
+    {
+      "word": "conclusion.",
+      "start": 14.905,
+      "end": 15.627,
+      "score": 0.912
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.93,
+    "Neutral": 0.839,
+    "Bad": 0.619
+  }
+}
