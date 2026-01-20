@@ -1,0 +1,1330 @@
+{
+  "segments": [
+    {
+      "start": 4.283,
+      "end": 11.293,
+      "text": " I just, I cared, let's see, where was I?",
+      "words": [
+        {
+          "word": "I",
+          "start": 4.283,
+          "end": 4.844,
+          "score": 0.788
+        },
+        {
+          "word": "just,",
+          "start": 4.864,
+          "end": 5.685,
+          "score": 0.666
+        },
+        {
+          "word": "I",
+          "start": 8.809,
+          "end": 8.889,
+          "score": 0.992
+        },
+        {
+          "word": "cared,",
+          "start": 9.029,
+          "end": 9.45,
+          "score": 0.855
+        },
+        {
+          "word": "let's",
+          "start": 9.851,
+          "end": 10.011,
+          "score": 0.271
+        },
+        {
+          "word": "see,",
+          "start": 10.051,
+          "end": 10.271,
+          "score": 0.87
+        },
+        {
+          "word": "where",
+          "start": 10.712,
+          "end": 10.952,
+          "score": 0.375
+        },
+        {
+          "word": "was",
+          "start": 10.992,
+          "end": 11.192,
+          "score": 0.903
+        },
+        {
+          "word": "I?",
+          "start": 11.253,
+          "end": 11.293,
+          "score": 0.912
+        }
+      ]
+    },
+    {
+      "start": 16.76,
+      "end": 18.583,
+      "text": "No, it's just very close to me.",
+      "words": [
+        {
+          "word": "No,",
+          "start": 16.76,
+          "end": 16.98,
+          "score": 0.689
+        },
+        {
+          "word": "it's",
+          "start": 17.0,
+          "end": 17.301,
+          "score": 0.695
+        },
+        {
+          "word": "just",
+          "start": 17.361,
+          "end": 17.561,
+          "score": 0.86
+        },
+        {
+          "word": "very",
+          "start": 17.661,
+          "end": 17.902,
+          "score": 0.882
+        },
+        {
+          "word": "close",
+          "start": 18.002,
+          "end": 18.302,
+          "score": 0.85
+        },
+        {
+          "word": "to",
+          "start": 18.342,
+          "end": 18.422,
+          "score": 0.563
+        },
+        {
+          "word": "me.",
+          "start": 18.462,
+          "end": 18.583,
+          "score": 0.901
+        }
+      ]
+    },
+    {
+      "start": 18.643,
+      "end": 21.046,
+      "text": "This place has been a part of my family.",
+      "words": [
+        {
+          "word": "This",
+          "start": 18.643,
+          "end": 18.783,
+          "score": 0.935
+        },
+        {
+          "word": "place",
+          "start": 18.943,
+          "end": 19.243,
+          "score": 0.977
+        },
+        {
+          "word": "has",
+          "start": 19.263,
+          "end": 19.324,
+          "score": 0.61
+        },
+        {
+          "word": "been",
+          "start": 19.924,
+          "end": 20.065,
+          "score": 0.869
+        },
+        {
+          "word": "a",
+          "start": 20.105,
+          "end": 20.125,
+          "score": 0.99
+        },
+        {
+          "word": "part",
+          "start": 20.185,
+          "end": 20.345,
+          "score": 0.956
+        },
+        {
+          "word": "of",
+          "start": 20.385,
+          "end": 20.425,
+          "score": 0.99
+        },
+        {
+          "word": "my",
+          "start": 20.485,
+          "end": 20.565,
+          "score": 0.91
+        },
+        {
+          "word": "family.",
+          "start": 20.665,
+          "end": 21.046,
+          "score": 0.972
+        }
+      ]
+    },
+    {
+      "start": 21.066,
+      "end": 22.768,
+      "text": "It is my family, so to speak.",
+      "words": [
+        {
+          "word": "It",
+          "start": 21.066,
+          "end": 21.106,
+          "score": 0.5
+        },
+        {
+          "word": "is",
+          "start": 21.246,
+          "end": 21.466,
+          "score": 0.584
+        },
+        {
+          "word": "my",
+          "start": 21.507,
+          "end": 21.667,
+          "score": 0.701
+        },
+        {
+          "word": "family,",
+          "start": 21.747,
+          "end": 22.127,
+          "score": 0.91
+        },
+        {
+          "word": "so",
+          "start": 22.187,
+          "end": 22.308,
+          "score": 0.888
+        },
+        {
+          "word": "to",
+          "start": 22.348,
+          "end": 22.428,
+          "score": 0.736
+        },
+        {
+          "word": "speak.",
+          "start": 22.468,
+          "end": 22.768,
+          "score": 0.872
+        }
+      ]
+    },
+    {
+      "start": 23.609,
+      "end": 29.177,
+      "text": "And I care very much what happens to it and I watch things as time goes by.",
+      "words": [
+        {
+          "word": "And",
+          "start": 23.609,
+          "end": 23.71,
+          "score": 0.982
+        },
+        {
+          "word": "I",
+          "start": 23.77,
+          "end": 23.83,
+          "score": 0.889
+        },
+        {
+          "word": "care",
+          "start": 23.91,
+          "end": 24.13,
+          "score": 0.815
+        },
+        {
+          "word": "very",
+          "start": 24.27,
+          "end": 24.451,
+          "score": 0.862
+        },
+        {
+          "word": "much",
+          "start": 24.531,
+          "end": 24.711,
+          "score": 0.845
+        },
+        {
+          "word": "what",
+          "start": 24.811,
+          "end": 24.951,
+          "score": 0.923
+        },
+        {
+          "word": "happens",
+          "start": 25.011,
+          "end": 25.352,
+          "score": 0.9
+        },
+        {
+          "word": "to",
+          "start": 25.452,
+          "end": 25.612,
+          "score": 0.88
+        },
+        {
+          "word": "it",
+          "start": 25.692,
+          "end": 25.732,
+          "score": 0.987
+        },
+        {
+          "word": "and",
+          "start": 25.812,
+          "end": 25.893,
+          "score": 0.738
+        },
+        {
+          "word": "I",
+          "start": 25.953,
+          "end": 26.093,
+          "score": 0.617
+        },
+        {
+          "word": "watch",
+          "start": 26.593,
+          "end": 26.954,
+          "score": 0.865
+        },
+        {
+          "word": "things",
+          "start": 27.054,
+          "end": 27.375,
+          "score": 0.863
+        },
+        {
+          "word": "as",
+          "start": 27.495,
+          "end": 28.256,
+          "score": 0.712
+        },
+        {
+          "word": "time",
+          "start": 28.336,
+          "end": 28.516,
+          "score": 0.862
+        },
+        {
+          "word": "goes",
+          "start": 28.576,
+          "end": 28.736,
+          "score": 0.702
+        },
+        {
+          "word": "by.",
+          "start": 28.817,
+          "end": 29.177,
+          "score": 0.79
+        }
+      ]
+    },
+    {
+      "start": 29.9,
+      "end": 39.658,
+      "text": " I felt like we lost a little bit of the personal touch during the last maybe five years of my tenure.",
+      "words": [
+        {
+          "word": "I",
+          "start": 29.9,
+          "end": 30.02,
+          "score": 0.677
+        },
+        {
+          "word": "felt",
+          "start": 30.08,
+          "end": 30.281,
+          "score": 0.924
+        },
+        {
+          "word": "like",
+          "start": 30.321,
+          "end": 30.481,
+          "score": 0.883
+        },
+        {
+          "word": "we",
+          "start": 30.541,
+          "end": 30.661,
+          "score": 0.944
+        },
+        {
+          "word": "lost",
+          "start": 30.702,
+          "end": 30.962,
+          "score": 0.901
+        },
+        {
+          "word": "a",
+          "start": 30.982,
+          "end": 31.002,
+          "score": 1.0
+        },
+        {
+          "word": "little",
+          "start": 31.142,
+          "end": 31.363,
+          "score": 0.943
+        },
+        {
+          "word": "bit",
+          "start": 31.403,
+          "end": 31.563,
+          "score": 0.988
+        },
+        {
+          "word": "of",
+          "start": 31.643,
+          "end": 31.703,
+          "score": 0.966
+        },
+        {
+          "word": "the",
+          "start": 31.944,
+          "end": 32.505,
+          "score": 0.798
+        },
+        {
+          "word": "personal",
+          "start": 32.565,
+          "end": 33.006,
+          "score": 0.867
+        },
+        {
+          "word": "touch",
+          "start": 33.707,
+          "end": 34.008,
+          "score": 0.827
+        },
+        {
+          "word": "during",
+          "start": 34.789,
+          "end": 35.01,
+          "score": 0.659
+        },
+        {
+          "word": "the",
+          "start": 35.03,
+          "end": 35.09,
+          "score": 0.919
+        },
+        {
+          "word": "last",
+          "start": 35.15,
+          "end": 35.471,
+          "score": 0.939
+        },
+        {
+          "word": "maybe",
+          "start": 37.574,
+          "end": 37.815,
+          "score": 0.853
+        },
+        {
+          "word": "five",
+          "start": 37.855,
+          "end": 38.095,
+          "score": 0.968
+        },
+        {
+          "word": "years",
+          "start": 38.156,
+          "end": 38.396,
+          "score": 0.86
+        },
+        {
+          "word": "of",
+          "start": 38.416,
+          "end": 38.456,
+          "score": 0.5
+        },
+        {
+          "word": "my",
+          "start": 38.877,
+          "end": 39.037,
+          "score": 0.993
+        },
+        {
+          "word": "tenure.",
+          "start": 39.278,
+          "end": 39.658,
+          "score": 0.717
+        }
+      ]
+    },
+    {
+      "start": 40.119,
+      "end": 41.081,
+      "text": "It was slipping away.",
+      "words": [
+        {
+          "word": "It",
+          "start": 40.119,
+          "end": 40.179,
+          "score": 0.95
+        },
+        {
+          "word": "was",
+          "start": 40.219,
+          "end": 40.32,
+          "score": 0.916
+        },
+        {
+          "word": "slipping",
+          "start": 40.36,
+          "end": 40.7,
+          "score": 0.972
+        },
+        {
+          "word": "away.",
+          "start": 40.781,
+          "end": 41.081,
+          "score": 0.973
+        }
+      ]
+    },
+    {
+      "start": 42.183,
+      "end": 46.311,
+      "text": "People were changing, things were changing, and it just wasn't the same.",
+      "words": [
+        {
+          "word": "People",
+          "start": 42.183,
+          "end": 42.464,
+          "score": 0.928
+        },
+        {
+          "word": "were",
+          "start": 42.504,
+          "end": 42.644,
+          "score": 0.799
+        },
+        {
+          "word": "changing,",
+          "start": 42.684,
+          "end": 43.205,
+          "score": 0.755
+        },
+        {
+          "word": "things",
+          "start": 43.345,
+          "end": 43.566,
+          "score": 0.902
+        },
+        {
+          "word": "were",
+          "start": 43.626,
+          "end": 43.766,
+          "score": 0.978
+        },
+        {
+          "word": "changing,",
+          "start": 43.806,
+          "end": 44.307,
+          "score": 0.869
+        },
+        {
+          "word": "and",
+          "start": 44.407,
+          "end": 44.508,
+          "score": 0.873
+        },
+        {
+          "word": "it",
+          "start": 44.548,
+          "end": 45.209,
+          "score": 0.884
+        },
+        {
+          "word": "just",
+          "start": 45.269,
+          "end": 45.409,
+          "score": 0.87
+        },
+        {
+          "word": "wasn't",
+          "start": 45.469,
+          "end": 45.77,
+          "score": 0.909
+        },
+        {
+          "word": "the",
+          "start": 45.85,
+          "end": 45.95,
+          "score": 0.973
+        },
+        {
+          "word": "same.",
+          "start": 46.01,
+          "end": 46.311,
+          "score": 0.995
+        }
+      ]
+    },
+    {
+      "start": 47.493,
+      "end": 51.02,
+      "text": "But all in all, I think it's a university to be proud of.",
+      "words": [
+        {
+          "word": "But",
+          "start": 47.493,
+          "end": 47.694,
+          "score": 0.716
+        },
+        {
+          "word": "all",
+          "start": 47.974,
+          "end": 48.114,
+          "score": 0.992
+        },
+        {
+          "word": "in",
+          "start": 48.175,
+          "end": 48.255,
+          "score": 0.956
+        },
+        {
+          "word": "all,",
+          "start": 48.435,
+          "end": 48.595,
+          "score": 0.964
+        },
+        {
+          "word": "I",
+          "start": 48.776,
+          "end": 48.856,
+          "score": 0.91
+        },
+        {
+          "word": "think",
+          "start": 48.916,
+          "end": 49.076,
+          "score": 0.987
+        },
+        {
+          "word": "it's",
+          "start": 49.116,
+          "end": 49.237,
+          "score": 0.72
+        },
+        {
+          "word": "a",
+          "start": 49.277,
+          "end": 49.297,
+          "score": 0.565
+        },
+        {
+          "word": "university",
+          "start": 49.657,
+          "end": 50.198,
+          "score": 0.795
+        },
+        {
+          "word": "to",
+          "start": 50.218,
+          "end": 50.258,
+          "score": 0.462
+        },
+        {
+          "word": "be",
+          "start": 50.299,
+          "end": 50.439,
+          "score": 0.966
+        },
+        {
+          "word": "proud",
+          "start": 50.559,
+          "end": 50.84,
+          "score": 0.916
+        },
+        {
+          "word": "of.",
+          "start": 50.94,
+          "end": 51.02,
+          "score": 0.974
+        }
+      ]
+    },
+    {
+      "start": 52.282,
+      "end": 53.224,
+      "text": "And I wish it well.",
+      "words": [
+        {
+          "word": "And",
+          "start": 52.282,
+          "end": 52.382,
+          "score": 0.633
+        },
+        {
+          "word": "I",
+          "start": 52.463,
+          "end": 52.503,
+          "score": 0.917
+        },
+        {
+          "word": "wish",
+          "start": 52.543,
+          "end": 52.683,
+          "score": 0.854
+        },
+        {
+          "word": "it",
+          "start": 52.743,
+          "end": 52.823,
+          "score": 0.944
+        },
+        {
+          "word": "well.",
+          "start": 52.863,
+          "end": 53.224,
+          "score": 0.844
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "I",
+      "start": 4.283,
+      "end": 4.844,
+      "score": 0.788
+    },
+    {
+      "word": "just,",
+      "start": 4.864,
+      "end": 5.685,
+      "score": 0.666
+    },
+    {
+      "word": "I",
+      "start": 8.809,
+      "end": 8.889,
+      "score": 0.992
+    },
+    {
+      "word": "cared,",
+      "start": 9.029,
+      "end": 9.45,
+      "score": 0.855
+    },
+    {
+      "word": "let's",
+      "start": 9.851,
+      "end": 10.011,
+      "score": 0.271
+    },
+    {
+      "word": "see,",
+      "start": 10.051,
+      "end": 10.271,
+      "score": 0.87
+    },
+    {
+      "word": "where",
+      "start": 10.712,
+      "end": 10.952,
+      "score": 0.375
+    },
+    {
+      "word": "was",
+      "start": 10.992,
+      "end": 11.192,
+      "score": 0.903
+    },
+    {
+      "word": "I?",
+      "start": 11.253,
+      "end": 11.293,
+      "score": 0.912
+    },
+    {
+      "word": "No,",
+      "start": 16.76,
+      "end": 16.98,
+      "score": 0.689
+    },
+    {
+      "word": "it's",
+      "start": 17.0,
+      "end": 17.301,
+      "score": 0.695
+    },
+    {
+      "word": "just",
+      "start": 17.361,
+      "end": 17.561,
+      "score": 0.86
+    },
+    {
+      "word": "very",
+      "start": 17.661,
+      "end": 17.902,
+      "score": 0.882
+    },
+    {
+      "word": "close",
+      "start": 18.002,
+      "end": 18.302,
+      "score": 0.85
+    },
+    {
+      "word": "to",
+      "start": 18.342,
+      "end": 18.422,
+      "score": 0.563
+    },
+    {
+      "word": "me.",
+      "start": 18.462,
+      "end": 18.583,
+      "score": 0.901
+    },
+    {
+      "word": "This",
+      "start": 18.643,
+      "end": 18.783,
+      "score": 0.935
+    },
+    {
+      "word": "place",
+      "start": 18.943,
+      "end": 19.243,
+      "score": 0.977
+    },
+    {
+      "word": "has",
+      "start": 19.263,
+      "end": 19.324,
+      "score": 0.61
+    },
+    {
+      "word": "been",
+      "start": 19.924,
+      "end": 20.065,
+      "score": 0.869
+    },
+    {
+      "word": "a",
+      "start": 20.105,
+      "end": 20.125,
+      "score": 0.99
+    },
+    {
+      "word": "part",
+      "start": 20.185,
+      "end": 20.345,
+      "score": 0.956
+    },
+    {
+      "word": "of",
+      "start": 20.385,
+      "end": 20.425,
+      "score": 0.99
+    },
+    {
+      "word": "my",
+      "start": 20.485,
+      "end": 20.565,
+      "score": 0.91
+    },
+    {
+      "word": "family.",
+      "start": 20.665,
+      "end": 21.046,
+      "score": 0.972
+    },
+    {
+      "word": "It",
+      "start": 21.066,
+      "end": 21.106,
+      "score": 0.5
+    },
+    {
+      "word": "is",
+      "start": 21.246,
+      "end": 21.466,
+      "score": 0.584
+    },
+    {
+      "word": "my",
+      "start": 21.507,
+      "end": 21.667,
+      "score": 0.701
+    },
+    {
+      "word": "family,",
+      "start": 21.747,
+      "end": 22.127,
+      "score": 0.91
+    },
+    {
+      "word": "so",
+      "start": 22.187,
+      "end": 22.308,
+      "score": 0.888
+    },
+    {
+      "word": "to",
+      "start": 22.348,
+      "end": 22.428,
+      "score": 0.736
+    },
+    {
+      "word": "speak.",
+      "start": 22.468,
+      "end": 22.768,
+      "score": 0.872
+    },
+    {
+      "word": "And",
+      "start": 23.609,
+      "end": 23.71,
+      "score": 0.982
+    },
+    {
+      "word": "I",
+      "start": 23.77,
+      "end": 23.83,
+      "score": 0.889
+    },
+    {
+      "word": "care",
+      "start": 23.91,
+      "end": 24.13,
+      "score": 0.815
+    },
+    {
+      "word": "very",
+      "start": 24.27,
+      "end": 24.451,
+      "score": 0.862
+    },
+    {
+      "word": "much",
+      "start": 24.531,
+      "end": 24.711,
+      "score": 0.845
+    },
+    {
+      "word": "what",
+      "start": 24.811,
+      "end": 24.951,
+      "score": 0.923
+    },
+    {
+      "word": "happens",
+      "start": 25.011,
+      "end": 25.352,
+      "score": 0.9
+    },
+    {
+      "word": "to",
+      "start": 25.452,
+      "end": 25.612,
+      "score": 0.88
+    },
+    {
+      "word": "it",
+      "start": 25.692,
+      "end": 25.732,
+      "score": 0.987
+    },
+    {
+      "word": "and",
+      "start": 25.812,
+      "end": 25.893,
+      "score": 0.738
+    },
+    {
+      "word": "I",
+      "start": 25.953,
+      "end": 26.093,
+      "score": 0.617
+    },
+    {
+      "word": "watch",
+      "start": 26.593,
+      "end": 26.954,
+      "score": 0.865
+    },
+    {
+      "word": "things",
+      "start": 27.054,
+      "end": 27.375,
+      "score": 0.863
+    },
+    {
+      "word": "as",
+      "start": 27.495,
+      "end": 28.256,
+      "score": 0.712
+    },
+    {
+      "word": "time",
+      "start": 28.336,
+      "end": 28.516,
+      "score": 0.862
+    },
+    {
+      "word": "goes",
+      "start": 28.576,
+      "end": 28.736,
+      "score": 0.702
+    },
+    {
+      "word": "by.",
+      "start": 28.817,
+      "end": 29.177,
+      "score": 0.79
+    },
+    {
+      "word": "I",
+      "start": 29.9,
+      "end": 30.02,
+      "score": 0.677
+    },
+    {
+      "word": "felt",
+      "start": 30.08,
+      "end": 30.281,
+      "score": 0.924
+    },
+    {
+      "word": "like",
+      "start": 30.321,
+      "end": 30.481,
+      "score": 0.883
+    },
+    {
+      "word": "we",
+      "start": 30.541,
+      "end": 30.661,
+      "score": 0.944
+    },
+    {
+      "word": "lost",
+      "start": 30.702,
+      "end": 30.962,
+      "score": 0.901
+    },
+    {
+      "word": "a",
+      "start": 30.982,
+      "end": 31.002,
+      "score": 1.0
+    },
+    {
+      "word": "little",
+      "start": 31.142,
+      "end": 31.363,
+      "score": 0.943
+    },
+    {
+      "word": "bit",
+      "start": 31.403,
+      "end": 31.563,
+      "score": 0.988
+    },
+    {
+      "word": "of",
+      "start": 31.643,
+      "end": 31.703,
+      "score": 0.966
+    },
+    {
+      "word": "the",
+      "start": 31.944,
+      "end": 32.505,
+      "score": 0.798
+    },
+    {
+      "word": "personal",
+      "start": 32.565,
+      "end": 33.006,
+      "score": 0.867
+    },
+    {
+      "word": "touch",
+      "start": 33.707,
+      "end": 34.008,
+      "score": 0.827
+    },
+    {
+      "word": "during",
+      "start": 34.789,
+      "end": 35.01,
+      "score": 0.659
+    },
+    {
+      "word": "the",
+      "start": 35.03,
+      "end": 35.09,
+      "score": 0.919
+    },
+    {
+      "word": "last",
+      "start": 35.15,
+      "end": 35.471,
+      "score": 0.939
+    },
+    {
+      "word": "maybe",
+      "start": 37.574,
+      "end": 37.815,
+      "score": 0.853
+    },
+    {
+      "word": "five",
+      "start": 37.855,
+      "end": 38.095,
+      "score": 0.968
+    },
+    {
+      "word": "years",
+      "start": 38.156,
+      "end": 38.396,
+      "score": 0.86
+    },
+    {
+      "word": "of",
+      "start": 38.416,
+      "end": 38.456,
+      "score": 0.5
+    },
+    {
+      "word": "my",
+      "start": 38.877,
+      "end": 39.037,
+      "score": 0.993
+    },
+    {
+      "word": "tenure.",
+      "start": 39.278,
+      "end": 39.658,
+      "score": 0.717
+    },
+    {
+      "word": "It",
+      "start": 40.119,
+      "end": 40.179,
+      "score": 0.95
+    },
+    {
+      "word": "was",
+      "start": 40.219,
+      "end": 40.32,
+      "score": 0.916
+    },
+    {
+      "word": "slipping",
+      "start": 40.36,
+      "end": 40.7,
+      "score": 0.972
+    },
+    {
+      "word": "away.",
+      "start": 40.781,
+      "end": 41.081,
+      "score": 0.973
+    },
+    {
+      "word": "People",
+      "start": 42.183,
+      "end": 42.464,
+      "score": 0.928
+    },
+    {
+      "word": "were",
+      "start": 42.504,
+      "end": 42.644,
+      "score": 0.799
+    },
+    {
+      "word": "changing,",
+      "start": 42.684,
+      "end": 43.205,
+      "score": 0.755
+    },
+    {
+      "word": "things",
+      "start": 43.345,
+      "end": 43.566,
+      "score": 0.902
+    },
+    {
+      "word": "were",
+      "start": 43.626,
+      "end": 43.766,
+      "score": 0.978
+    },
+    {
+      "word": "changing,",
+      "start": 43.806,
+      "end": 44.307,
+      "score": 0.869
+    },
+    {
+      "word": "and",
+      "start": 44.407,
+      "end": 44.508,
+      "score": 0.873
+    },
+    {
+      "word": "it",
+      "start": 44.548,
+      "end": 45.209,
+      "score": 0.884
+    },
+    {
+      "word": "just",
+      "start": 45.269,
+      "end": 45.409,
+      "score": 0.87
+    },
+    {
+      "word": "wasn't",
+      "start": 45.469,
+      "end": 45.77,
+      "score": 0.909
+    },
+    {
+      "word": "the",
+      "start": 45.85,
+      "end": 45.95,
+      "score": 0.973
+    },
+    {
+      "word": "same.",
+      "start": 46.01,
+      "end": 46.311,
+      "score": 0.995
+    },
+    {
+      "word": "But",
+      "start": 47.493,
+      "end": 47.694,
+      "score": 0.716
+    },
+    {
+      "word": "all",
+      "start": 47.974,
+      "end": 48.114,
+      "score": 0.992
+    },
+    {
+      "word": "in",
+      "start": 48.175,
+      "end": 48.255,
+      "score": 0.956
+    },
+    {
+      "word": "all,",
+      "start": 48.435,
+      "end": 48.595,
+      "score": 0.964
+    },
+    {
+      "word": "I",
+      "start": 48.776,
+      "end": 48.856,
+      "score": 0.91
+    },
+    {
+      "word": "think",
+      "start": 48.916,
+      "end": 49.076,
+      "score": 0.987
+    },
+    {
+      "word": "it's",
+      "start": 49.116,
+      "end": 49.237,
+      "score": 0.72
+    },
+    {
+      "word": "a",
+      "start": 49.277,
+      "end": 49.297,
+      "score": 0.565
+    },
+    {
+      "word": "university",
+      "start": 49.657,
+      "end": 50.198,
+      "score": 0.795
+    },
+    {
+      "word": "to",
+      "start": 50.218,
+      "end": 50.258,
+      "score": 0.462
+    },
+    {
+      "word": "be",
+      "start": 50.299,
+      "end": 50.439,
+      "score": 0.966
+    },
+    {
+      "word": "proud",
+      "start": 50.559,
+      "end": 50.84,
+      "score": 0.916
+    },
+    {
+      "word": "of.",
+      "start": 50.94,
+      "end": 51.02,
+      "score": 0.974
+    },
+    {
+      "word": "And",
+      "start": 52.282,
+      "end": 52.382,
+      "score": 0.633
+    },
+    {
+      "word": "I",
+      "start": 52.463,
+      "end": 52.503,
+      "score": 0.917
+    },
+    {
+      "word": "wish",
+      "start": 52.543,
+      "end": 52.683,
+      "score": 0.854
+    },
+    {
+      "word": "it",
+      "start": 52.743,
+      "end": 52.823,
+      "score": 0.944
+    },
+    {
+      "word": "well.",
+      "start": 52.863,
+      "end": 53.224,
+      "score": 0.844
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.944,
+    "Neutral": 0.882,
+    "Bad": 0.79
+  }
+}

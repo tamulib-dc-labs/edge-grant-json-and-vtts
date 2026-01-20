@@ -1,0 +1,134 @@
+{
+  "segments": [
+    {
+      "start": 3.828,
+      "end": 5.701,
+      "text": " A&M was very democratic.",
+      "words": [
+        {
+          "word": "A&M",
+          "start": 3.828,
+          "end": 4.775,
+          "score": 0.553
+        },
+        {
+          "word": "was",
+          "start": 4.815,
+          "end": 4.916,
+          "score": 0.988
+        },
+        {
+          "word": "very",
+          "start": 4.976,
+          "end": 5.198,
+          "score": 0.95
+        },
+        {
+          "word": "democratic.",
+          "start": 5.258,
+          "end": 5.701,
+          "score": 0.507
+        }
+      ]
+    },
+    {
+      "start": 6.446,
+      "end": 8.944,
+      "text": "There was no class distinction.",
+      "words": [
+        {
+          "word": "There",
+          "start": 6.446,
+          "end": 6.628,
+          "score": 0.877
+        },
+        {
+          "word": "was",
+          "start": 6.708,
+          "end": 6.809,
+          "score": 0.988
+        },
+        {
+          "word": "no",
+          "start": 7.01,
+          "end": 7.313,
+          "score": 0.842
+        },
+        {
+          "word": "class",
+          "start": 7.675,
+          "end": 8.179,
+          "score": 0.823
+        },
+        {
+          "word": "distinction.",
+          "start": 8.239,
+          "end": 8.944,
+          "score": 0.93
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "A&M",
+      "start": 3.828,
+      "end": 4.775,
+      "score": 0.553
+    },
+    {
+      "word": "was",
+      "start": 4.815,
+      "end": 4.916,
+      "score": 0.988
+    },
+    {
+      "word": "very",
+      "start": 4.976,
+      "end": 5.198,
+      "score": 0.95
+    },
+    {
+      "word": "democratic.",
+      "start": 5.258,
+      "end": 5.701,
+      "score": 0.507
+    },
+    {
+      "word": "There",
+      "start": 6.446,
+      "end": 6.628,
+      "score": 0.877
+    },
+    {
+      "word": "was",
+      "start": 6.708,
+      "end": 6.809,
+      "score": 0.988
+    },
+    {
+      "word": "no",
+      "start": 7.01,
+      "end": 7.313,
+      "score": 0.842
+    },
+    {
+      "word": "class",
+      "start": 7.675,
+      "end": 8.179,
+      "score": 0.823
+    },
+    {
+      "word": "distinction.",
+      "start": 8.239,
+      "end": 8.944,
+      "score": 0.93
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.95,
+    "Neutral": 0.877,
+    "Bad": 0.823
+  }
+}

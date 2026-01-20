@@ -1,0 +1,4603 @@
+{
+  "segments": [
+    {
+      "start": 1.499,
+      "end": 10.83,
+      "text": " When the abortion came out, it was when Obregón was deposed from the government and the persecution against us began.",
+      "words": [
+        {
+          "word": "When",
+          "start": 1.499,
+          "end": 1.739,
+          "score": 0.59
+        },
+        {
+          "word": "the",
+          "start": 2.02,
+          "end": 2.22,
+          "score": 0.346
+        },
+        {
+          "word": "abortion",
+          "start": 2.26,
+          "end": 2.901,
+          "score": 0.582
+        },
+        {
+          "word": "came",
+          "start": 2.921,
+          "end": 3.001,
+          "score": 0.244
+        },
+        {
+          "word": "out,",
+          "start": 3.081,
+          "end": 3.301,
+          "score": 0.487
+        },
+        {
+          "word": "it",
+          "start": 3.321,
+          "end": 3.441,
+          "score": 0.64
+        },
+        {
+          "word": "was",
+          "start": 3.521,
+          "end": 3.621,
+          "score": 0.395
+        },
+        {
+          "word": "when",
+          "start": 3.662,
+          "end": 3.742,
+          "score": 0.676
+        },
+        {
+          "word": "Obregón",
+          "start": 3.842,
+          "end": 4.603,
+          "score": 0.638
+        },
+        {
+          "word": "was",
+          "start": 4.703,
+          "end": 4.823,
+          "score": 0.338
+        },
+        {
+          "word": "deposed",
+          "start": 4.843,
+          "end": 5.384,
+          "score": 0.378
+        },
+        {
+          "word": "from",
+          "start": 5.444,
+          "end": 5.604,
+          "score": 0.61
+        },
+        {
+          "word": "the",
+          "start": 5.644,
+          "end": 5.744,
+          "score": 0.669
+        },
+        {
+          "word": "government",
+          "start": 5.844,
+          "end": 6.605,
+          "score": 0.425
+        },
+        {
+          "word": "and",
+          "start": 7.146,
+          "end": 7.346,
+          "score": 0.567
+        },
+        {
+          "word": "the",
+          "start": 7.386,
+          "end": 7.546,
+          "score": 0.373
+        },
+        {
+          "word": "persecution",
+          "start": 7.726,
+          "end": 8.527,
+          "score": 0.445
+        },
+        {
+          "word": "against",
+          "start": 8.547,
+          "end": 9.288,
+          "score": 0.543
+        },
+        {
+          "word": "us",
+          "start": 9.308,
+          "end": 10.149,
+          "score": 0.776
+        },
+        {
+          "word": "began.",
+          "start": 10.429,
+          "end": 10.83,
+          "score": 0.48
+        }
+      ]
+    },
+    {
+      "start": 10.85,
+      "end": 15.776,
+      "text": "So I, Rolando, went to Cuba.",
+      "words": [
+        {
+          "word": "So",
+          "start": 10.85,
+          "end": 11.13,
+          "score": 0.432
+        },
+        {
+          "word": "I,",
+          "start": 11.15,
+          "end": 11.35,
+          "score": 0.885
+        },
+        {
+          "word": "Rolando,",
+          "start": 11.871,
+          "end": 13.072,
+          "score": 0.657
+        },
+        {
+          "word": "went",
+          "start": 13.092,
+          "end": 13.933,
+          "score": 0.423
+        },
+        {
+          "word": "to",
+          "start": 13.953,
+          "end": 14.134,
+          "score": 0.473
+        },
+        {
+          "word": "Cuba.",
+          "start": 14.454,
+          "end": 15.776,
+          "score": 0.631
+        }
+      ]
+    },
+    {
+      "start": 15.996,
+      "end": 16.697,
+      "text": "Yes.",
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 15.996,
+          "end": 16.697,
+          "score": 0.633
+        }
+      ]
+    },
+    {
+      "start": 16.717,
+      "end": 25.667,
+      "text": "And I stayed in Puebla, publishing my newspaper, fighting",
+      "words": [
+        {
+          "word": "And",
+          "start": 16.717,
+          "end": 16.777,
+          "score": 0.239
+        },
+        {
+          "word": "I",
+          "start": 17.137,
+          "end": 17.157,
+          "score": 0.535
+        },
+        {
+          "word": "stayed",
+          "start": 19.44,
+          "end": 20.621,
+          "score": 0.474
+        },
+        {
+          "word": "in",
+          "start": 20.721,
+          "end": 20.821,
+          "score": 0.492
+        },
+        {
+          "word": "Puebla,",
+          "start": 20.841,
+          "end": 21.322,
+          "score": 0.521
+        },
+        {
+          "word": "publishing",
+          "start": 22.083,
+          "end": 22.784,
+          "score": 0.332
+        },
+        {
+          "word": "my",
+          "start": 22.804,
+          "end": 23.044,
+          "score": 0.812
+        },
+        {
+          "word": "newspaper,",
+          "start": 23.264,
+          "end": 24.706,
+          "score": 0.258
+        },
+        {
+          "word": "fighting",
+          "start": 24.846,
+          "end": 25.667,
+          "score": 0.434
+        }
+      ]
+    },
+    {
+      "start": 26.542,
+      "end": 29.365,
+      "text": " Practically with Morones, right?",
+      "words": [
+        {
+          "word": "Practically",
+          "start": 26.542,
+          "end": 27.703,
+          "score": 0.542
+        },
+        {
+          "word": "with",
+          "start": 27.723,
+          "end": 27.803,
+          "score": 0.198
+        },
+        {
+          "word": "Morones,",
+          "start": 27.903,
+          "end": 29.185,
+          "score": 0.647
+        },
+        {
+          "word": "right?",
+          "start": 29.245,
+          "end": 29.365,
+          "score": 0.265
+        }
+      ]
+    },
+    {
+      "start": 29.545,
+      "end": 37.854,
+      "text": "But then Morones put all the strength of the Red Syndicates on me and that's when it all started.",
+      "words": [
+        {
+          "word": "But",
+          "start": 29.545,
+          "end": 29.906,
+          "score": 0.635
+        },
+        {
+          "word": "then",
+          "start": 30.466,
+          "end": 30.706,
+          "score": 0.58
+        },
+        {
+          "word": "Morones",
+          "start": 30.826,
+          "end": 31.467,
+          "score": 0.716
+        },
+        {
+          "word": "put",
+          "start": 31.868,
+          "end": 32.188,
+          "score": 0.326
+        },
+        {
+          "word": "all",
+          "start": 32.328,
+          "end": 32.468,
+          "score": 0.482
+        },
+        {
+          "word": "the",
+          "start": 32.628,
+          "end": 32.688,
+          "score": 0.324
+        },
+        {
+          "word": "strength",
+          "start": 33.329,
+          "end": 33.669,
+          "score": 0.385
+        },
+        {
+          "word": "of",
+          "start": 33.75,
+          "end": 33.85,
+          "score": 0.528
+        },
+        {
+          "word": "the",
+          "start": 33.91,
+          "end": 34.07,
+          "score": 0.295
+        },
+        {
+          "word": "Red",
+          "start": 34.29,
+          "end": 34.51,
+          "score": 0.357
+        },
+        {
+          "word": "Syndicates",
+          "start": 34.55,
+          "end": 35.171,
+          "score": 0.493
+        },
+        {
+          "word": "on",
+          "start": 35.291,
+          "end": 35.591,
+          "score": 0.768
+        },
+        {
+          "word": "me",
+          "start": 35.672,
+          "end": 35.852,
+          "score": 0.642
+        },
+        {
+          "word": "and",
+          "start": 35.992,
+          "end": 36.132,
+          "score": 0.441
+        },
+        {
+          "word": "that's",
+          "start": 36.593,
+          "end": 36.793,
+          "score": 0.217
+        },
+        {
+          "word": "when",
+          "start": 36.833,
+          "end": 36.993,
+          "score": 0.364
+        },
+        {
+          "word": "it",
+          "start": 37.013,
+          "end": 37.053,
+          "score": 0.002
+        },
+        {
+          "word": "all",
+          "start": 37.073,
+          "end": 37.133,
+          "score": 0.229
+        },
+        {
+          "word": "started.",
+          "start": 37.173,
+          "end": 37.854,
+          "score": 0.479
+        }
+      ]
+    },
+    {
+      "start": 40.016,
+      "end": 51.368,
+      "text": "And do you make visits or holidays in Mexico since you went to Texas?",
+      "words": [
+        {
+          "word": "And",
+          "start": 40.016,
+          "end": 40.617,
+          "score": 0.377
+        },
+        {
+          "word": "do",
+          "start": 40.637,
+          "end": 40.677,
+          "score": 0.324
+        },
+        {
+          "word": "you",
+          "start": 42.559,
+          "end": 42.799,
+          "score": 0.801
+        },
+        {
+          "word": "make",
+          "start": 46.103,
+          "end": 46.803,
+          "score": 0.583
+        },
+        {
+          "word": "visits",
+          "start": 46.823,
+          "end": 47.804,
+          "score": 0.815
+        },
+        {
+          "word": "or",
+          "start": 47.904,
+          "end": 48.285,
+          "score": 0.664
+        },
+        {
+          "word": "holidays",
+          "start": 48.305,
+          "end": 48.525,
+          "score": 0.4
+        },
+        {
+          "word": "in",
+          "start": 48.625,
+          "end": 48.705,
+          "score": 0.69
+        },
+        {
+          "word": "Mexico",
+          "start": 48.745,
+          "end": 49.346,
+          "score": 0.568
+        },
+        {
+          "word": "since",
+          "start": 49.546,
+          "end": 50.007,
+          "score": 0.376
+        },
+        {
+          "word": "you",
+          "start": 50.027,
+          "end": 50.087,
+          "score": 0.324
+        },
+        {
+          "word": "went",
+          "start": 50.307,
+          "end": 50.567,
+          "score": 0.563
+        },
+        {
+          "word": "to",
+          "start": 50.607,
+          "end": 50.687,
+          "score": 0.41
+        },
+        {
+          "word": "Texas?",
+          "start": 50.727,
+          "end": 51.368,
+          "score": 0.422
+        }
+      ]
+    },
+    {
+      "start": 52.546,
+      "end": 53.168,
+      "text": " ¿Cómo?",
+      "words": [
+        {
+          "word": "¿Cómo?",
+          "start": 52.546,
+          "end": 53.168,
+          "score": 0.745
+        }
+      ]
+    },
+    {
+      "start": 53.188,
+      "end": 57.563,
+      "text": "¿Usted hacía vacaciones en México en estos años pasados?",
+      "words": [
+        {
+          "word": "¿Usted",
+          "start": 53.188,
+          "end": 53.73,
+          "score": 0.676
+        },
+        {
+          "word": "hacía",
+          "start": 53.77,
+          "end": 54.673,
+          "score": 0.792
+        },
+        {
+          "word": "vacaciones",
+          "start": 54.693,
+          "end": 55.456,
+          "score": 0.848
+        },
+        {
+          "word": "en",
+          "start": 55.476,
+          "end": 55.536,
+          "score": 0.744
+        },
+        {
+          "word": "México",
+          "start": 55.596,
+          "end": 56.198,
+          "score": 0.629
+        },
+        {
+          "word": "en",
+          "start": 56.279,
+          "end": 56.359,
+          "score": 0.938
+        },
+        {
+          "word": "estos",
+          "start": 56.419,
+          "end": 56.74,
+          "score": 0.671
+        },
+        {
+          "word": "años",
+          "start": 56.76,
+          "end": 57.001,
+          "score": 0.564
+        },
+        {
+          "word": "pasados?",
+          "start": 57.061,
+          "end": 57.563,
+          "score": 0.799
+        }
+      ]
+    },
+    {
+      "start": 58.807,
+      "end": 59.63,
+      "text": "No, no.",
+      "words": [
+        {
+          "word": "No,",
+          "start": 58.807,
+          "end": 59.088,
+          "score": 0.926
+        },
+        {
+          "word": "no.",
+          "start": 59.369,
+          "end": 59.63,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "start": 59.971,
+      "end": 61.797,
+      "text": "Voy y vengo.",
+      "words": [
+        {
+          "word": "Voy",
+          "start": 59.971,
+          "end": 60.131,
+          "score": 0.867
+        },
+        {
+          "word": "y",
+          "start": 60.252,
+          "end": 60.332,
+          "score": 0.47
+        },
+        {
+          "word": "vengo.",
+          "start": 60.352,
+          "end": 61.797,
+          "score": 0.712
+        }
+      ]
+    },
+    {
+      "start": 62.468,
+      "end": 67.153,
+      "text": " I have family, I go, I stay there for a few days, and then I come back here.",
+      "words": [
+        {
+          "word": "I",
+          "start": 62.468,
+          "end": 62.548,
+          "score": 0.471
+        },
+        {
+          "word": "have",
+          "start": 62.568,
+          "end": 62.949,
+          "score": 0.567
+        },
+        {
+          "word": "family,",
+          "start": 63.129,
+          "end": 63.689,
+          "score": 0.674
+        },
+        {
+          "word": "I",
+          "start": 63.709,
+          "end": 63.83,
+          "score": 0.868
+        },
+        {
+          "word": "go,",
+          "start": 64.03,
+          "end": 64.29,
+          "score": 0.79
+        },
+        {
+          "word": "I",
+          "start": 64.63,
+          "end": 64.731,
+          "score": 0.624
+        },
+        {
+          "word": "stay",
+          "start": 64.751,
+          "end": 64.951,
+          "score": 0.589
+        },
+        {
+          "word": "there",
+          "start": 65.011,
+          "end": 65.171,
+          "score": 0.316
+        },
+        {
+          "word": "for",
+          "start": 65.451,
+          "end": 65.612,
+          "score": 0.615
+        },
+        {
+          "word": "a",
+          "start": 65.772,
+          "end": 65.952,
+          "score": 0.623
+        },
+        {
+          "word": "few",
+          "start": 65.972,
+          "end": 66.092,
+          "score": 0.293
+        },
+        {
+          "word": "days,",
+          "start": 66.112,
+          "end": 66.212,
+          "score": 0.363
+        },
+        {
+          "word": "and",
+          "start": 66.332,
+          "end": 66.473,
+          "score": 0.158
+        },
+        {
+          "word": "then",
+          "start": 66.493,
+          "end": 66.573,
+          "score": 0.008
+        },
+        {
+          "word": "I",
+          "start": 66.593,
+          "end": 66.613,
+          "score": 0.917
+        },
+        {
+          "word": "come",
+          "start": 66.633,
+          "end": 66.713,
+          "score": 0.0
+        },
+        {
+          "word": "back",
+          "start": 66.733,
+          "end": 66.873,
+          "score": 0.326
+        },
+        {
+          "word": "here.",
+          "start": 66.973,
+          "end": 67.153,
+          "score": 0.729
+        }
+      ]
+    },
+    {
+      "start": 67.253,
+      "end": 72.74,
+      "text": "But I don't get involved in politics anymore.",
+      "words": [
+        {
+          "word": "But",
+          "start": 67.253,
+          "end": 67.394,
+          "score": 0.687
+        },
+        {
+          "word": "I",
+          "start": 67.454,
+          "end": 67.494,
+          "score": 0.699
+        },
+        {
+          "word": "don't",
+          "start": 67.554,
+          "end": 67.854,
+          "score": 0.559
+        },
+        {
+          "word": "get",
+          "start": 69.676,
+          "end": 69.956,
+          "score": 0.791
+        },
+        {
+          "word": "involved",
+          "start": 70.237,
+          "end": 70.397,
+          "score": 0.123
+        },
+        {
+          "word": "in",
+          "start": 70.878,
+          "end": 70.958,
+          "score": 0.579
+        },
+        {
+          "word": "politics",
+          "start": 70.978,
+          "end": 71.779,
+          "score": 0.613
+        },
+        {
+          "word": "anymore.",
+          "start": 71.799,
+          "end": 72.74,
+          "score": 0.533
+        }
+      ]
+    },
+    {
+      "start": 72.76,
+      "end": 75.202,
+      "text": "I have friends with all of them.",
+      "words": [
+        {
+          "word": "I",
+          "start": 72.76,
+          "end": 72.78,
+          "score": 0.981
+        },
+        {
+          "word": "have",
+          "start": 72.92,
+          "end": 73.28,
+          "score": 0.646
+        },
+        {
+          "word": "friends",
+          "start": 73.38,
+          "end": 73.981,
+          "score": 0.559
+        },
+        {
+          "word": "with",
+          "start": 74.181,
+          "end": 74.341,
+          "score": 0.546
+        },
+        {
+          "word": "all",
+          "start": 74.442,
+          "end": 74.782,
+          "score": 0.401
+        },
+        {
+          "word": "of",
+          "start": 74.862,
+          "end": 74.922,
+          "score": 0.496
+        },
+        {
+          "word": "them.",
+          "start": 74.962,
+          "end": 75.202,
+          "score": 0.551
+        }
+      ]
+    },
+    {
+      "start": 75.823,
+      "end": 80.528,
+      "text": "Wherever I go, I have friends, but I don't get involved anymore.",
+      "words": [
+        {
+          "word": "Wherever",
+          "start": 75.823,
+          "end": 76.844,
+          "score": 0.465
+        },
+        {
+          "word": "I",
+          "start": 76.864,
+          "end": 76.984,
+          "score": 0.841
+        },
+        {
+          "word": "go,",
+          "start": 77.004,
+          "end": 77.185,
+          "score": 0.784
+        },
+        {
+          "word": "I",
+          "start": 77.285,
+          "end": 77.305,
+          "score": 0.724
+        },
+        {
+          "word": "have",
+          "start": 77.325,
+          "end": 77.505,
+          "score": 0.668
+        },
+        {
+          "word": "friends,",
+          "start": 77.685,
+          "end": 78.446,
+          "score": 0.21
+        },
+        {
+          "word": "but",
+          "start": 78.526,
+          "end": 78.646,
+          "score": 0.464
+        },
+        {
+          "word": "I",
+          "start": 78.706,
+          "end": 78.807,
+          "score": 0.777
+        },
+        {
+          "word": "don't",
+          "start": 79.207,
+          "end": 79.387,
+          "score": 0.481
+        },
+        {
+          "word": "get",
+          "start": 79.507,
+          "end": 79.848,
+          "score": 0.749
+        },
+        {
+          "word": "involved",
+          "start": 79.908,
+          "end": 80.188,
+          "score": 0.232
+        },
+        {
+          "word": "anymore.",
+          "start": 80.268,
+          "end": 80.528,
+          "score": 0.409
+        }
+      ]
+    },
+    {
+      "start": 81.129,
+      "end": 82.731,
+      "text": "Here, I am a consul.",
+      "words": [
+        {
+          "word": "Here,",
+          "start": 81.129,
+          "end": 81.83,
+          "score": 0.522
+        },
+        {
+          "word": "I",
+          "start": 81.95,
+          "end": 82.05,
+          "score": 0.839
+        },
+        {
+          "word": "am",
+          "start": 82.11,
+          "end": 82.15,
+          "score": 0.0
+        },
+        {
+          "word": "a",
+          "start": 82.17,
+          "end": 82.19,
+          "score": 0.881
+        },
+        {
+          "word": "consul.",
+          "start": 82.23,
+          "end": 82.731,
+          "score": 0.696
+        }
+      ]
+    },
+    {
+      "start": 83.412,
+      "end": 85.754,
+      "text": "I am an honorary consul.",
+      "words": [
+        {
+          "word": "I",
+          "start": 83.412,
+          "end": 83.552,
+          "score": 0.898
+        },
+        {
+          "word": "am",
+          "start": 84.233,
+          "end": 84.473,
+          "score": 0.734
+        },
+        {
+          "word": "an",
+          "start": 84.573,
+          "end": 84.713,
+          "score": 0.692
+        },
+        {
+          "word": "honorary",
+          "start": 84.753,
+          "end": 85.494,
+          "score": 0.476
+        },
+        {
+          "word": "consul.",
+          "start": 85.594,
+          "end": 85.754,
+          "score": 0.393
+        }
+      ]
+    },
+    {
+      "start": 85.855,
+      "end": 90.72,
+      "text": "But with the condition that I don't get involved anymore.",
+      "words": [
+        {
+          "word": "But",
+          "start": 85.855,
+          "end": 86.035,
+          "score": 0.893
+        },
+        {
+          "word": "with",
+          "start": 86.175,
+          "end": 86.255,
+          "score": 0.248
+        },
+        {
+          "word": "the",
+          "start": 86.776,
+          "end": 87.096,
+          "score": 0.715
+        },
+        {
+          "word": "condition",
+          "start": 87.116,
+          "end": 87.576,
+          "score": 0.476
+        },
+        {
+          "word": "that",
+          "start": 87.596,
+          "end": 87.977,
+          "score": 0.399
+        },
+        {
+          "word": "I",
+          "start": 87.997,
+          "end": 88.237,
+          "score": 0.629
+        },
+        {
+          "word": "don't",
+          "start": 88.317,
+          "end": 88.938,
+          "score": 0.56
+        },
+        {
+          "word": "get",
+          "start": 88.998,
+          "end": 89.078,
+          "score": 0.378
+        },
+        {
+          "word": "involved",
+          "start": 89.138,
+          "end": 89.399,
+          "score": 0.292
+        },
+        {
+          "word": "anymore.",
+          "start": 89.419,
+          "end": 90.72,
+          "score": 0.367
+        }
+      ]
+    },
+    {
+      "start": 90.802,
+      "end": 96.107,
+      "text": " It's a title like all of those.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 90.802,
+          "end": 91.262,
+          "score": 0.41
+        },
+        {
+          "word": "a",
+          "start": 91.363,
+          "end": 91.483,
+          "score": 0.747
+        },
+        {
+          "word": "title",
+          "start": 91.503,
+          "end": 91.923,
+          "score": 0.524
+        },
+        {
+          "word": "like",
+          "start": 92.103,
+          "end": 93.064,
+          "score": 0.556
+        },
+        {
+          "word": "all",
+          "start": 93.224,
+          "end": 93.705,
+          "score": 0.482
+        },
+        {
+          "word": "of",
+          "start": 93.785,
+          "end": 94.205,
+          "score": 0.802
+        },
+        {
+          "word": "those.",
+          "start": 95.287,
+          "end": 96.107,
+          "score": 0.669
+        }
+      ]
+    },
+    {
+      "start": 98.81,
+      "end": 100.192,
+      "text": "All of those.",
+      "words": [
+        {
+          "word": "All",
+          "start": 98.81,
+          "end": 99.05,
+          "score": 0.624
+        },
+        {
+          "word": "of",
+          "start": 99.251,
+          "end": 99.291,
+          "score": 0.262
+        },
+        {
+          "word": "those.",
+          "start": 99.451,
+          "end": 100.192,
+          "score": 0.722
+        }
+      ]
+    },
+    {
+      "start": 100.492,
+      "end": 102.013,
+      "text": "Oh, this.",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 100.492,
+          "end": 101.092,
+          "score": 0.789
+        },
+        {
+          "word": "this.",
+          "start": 101.813,
+          "end": 102.013,
+          "score": 0.565
+        }
+      ]
+    },
+    {
+      "start": 102.053,
+      "end": 105.697,
+      "text": "The National University.",
+      "words": [
+        {
+          "word": "The",
+          "start": 102.053,
+          "end": 102.254,
+          "score": 0.562
+        },
+        {
+          "word": "National",
+          "start": 102.894,
+          "end": 103.695,
+          "score": 0.535
+        },
+        {
+          "word": "University.",
+          "start": 103.835,
+          "end": 105.697,
+          "score": 0.301
+        }
+      ]
+    },
+    {
+      "start": 105.757,
+      "end": 106.017,
+      "text": "Yes.",
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 105.757,
+          "end": 106.017,
+          "score": 0.64
+        }
+      ]
+    },
+    {
+      "start": 108.2,
+      "end": 111.163,
+      "text": "Well, your life was very interesting.",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 108.2,
+          "end": 109.141,
+          "score": 0.718
+        },
+        {
+          "word": "your",
+          "start": 109.221,
+          "end": 109.301,
+          "score": 0.238
+        },
+        {
+          "word": "life",
+          "start": 109.421,
+          "end": 109.521,
+          "score": 0.25
+        },
+        {
+          "word": "was",
+          "start": 109.561,
+          "end": 109.741,
+          "score": 0.575
+        },
+        {
+          "word": "very",
+          "start": 109.881,
+          "end": 110.022,
+          "score": 0.555
+        },
+        {
+          "word": "interesting.",
+          "start": 110.082,
+          "end": 111.163,
+          "score": 0.788
+        }
+      ]
+    },
+    {
+      "start": 111.463,
+      "end": 115.547,
+      "text": "Yes, but in a word, it's very difficult.",
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 111.463,
+          "end": 111.583,
+          "score": 0.551
+        },
+        {
+          "word": "but",
+          "start": 111.603,
+          "end": 111.923,
+          "score": 0.653
+        },
+        {
+          "word": "in",
+          "start": 111.943,
+          "end": 112.064,
+          "score": 0.744
+        },
+        {
+          "word": "a",
+          "start": 112.704,
+          "end": 112.804,
+          "score": 0.75
+        },
+        {
+          "word": "word,",
+          "start": 112.924,
+          "end": 113.085,
+          "score": 0.821
+        },
+        {
+          "word": "it's",
+          "start": 113.986,
+          "end": 114.126,
+          "score": 0.796
+        },
+        {
+          "word": "very",
+          "start": 114.326,
+          "end": 114.466,
+          "score": 0.536
+        },
+        {
+          "word": "difficult.",
+          "start": 114.526,
+          "end": 115.547,
+          "score": 0.475
+        }
+      ]
+    },
+    {
+      "start": 115.907,
+      "end": 119.391,
+      "text": "I have a lot, but...",
+      "words": [
+        {
+          "word": "I",
+          "start": 115.907,
+          "end": 116.088,
+          "score": 0.721
+        },
+        {
+          "word": "have",
+          "start": 116.108,
+          "end": 116.188,
+          "score": 0.252
+        },
+        {
+          "word": "a",
+          "start": 116.488,
+          "end": 116.508,
+          "score": 0.001
+        },
+        {
+          "word": "lot,",
+          "start": 116.528,
+          "end": 117.029,
+          "score": 0.665
+        },
+        {
+          "word": "but...",
+          "start": 117.189,
+          "end": 119.391,
+          "score": 0.723
+        }
+      ]
+    },
+    {
+      "start": 119.843,
+      "end": 126.754,
+      "text": " A pesar de que tengo imprenta, no puedo hacer mis memorias.",
+      "words": [
+        {
+          "word": "A",
+          "start": 119.843,
+          "end": 120.464,
+          "score": 0.801
+        },
+        {
+          "word": "pesar",
+          "start": 120.484,
+          "end": 120.905,
+          "score": 0.544
+        },
+        {
+          "word": "de",
+          "start": 120.925,
+          "end": 120.965,
+          "score": 0.488
+        },
+        {
+          "word": "que",
+          "start": 121.105,
+          "end": 121.165,
+          "score": 0.526
+        },
+        {
+          "word": "tengo",
+          "start": 121.345,
+          "end": 121.746,
+          "score": 0.746
+        },
+        {
+          "word": "imprenta,",
+          "start": 121.786,
+          "end": 122.287,
+          "score": 0.638
+        },
+        {
+          "word": "no",
+          "start": 122.307,
+          "end": 123.429,
+          "score": 0.888
+        },
+        {
+          "word": "puedo",
+          "start": 123.469,
+          "end": 124.19,
+          "score": 0.603
+        },
+        {
+          "word": "hacer",
+          "start": 124.931,
+          "end": 125.772,
+          "score": 0.568
+        },
+        {
+          "word": "mis",
+          "start": 125.813,
+          "end": 126.033,
+          "score": 0.807
+        },
+        {
+          "word": "memorias.",
+          "start": 126.113,
+          "end": 126.754,
+          "score": 0.852
+        }
+      ]
+    },
+    {
+      "start": 127.876,
+      "end": 143.1,
+      "text": "Tengo conferencias y declaraciones y trabajos y todo, sobre todo las cuestiones de los cursos, que para mí, pues, es un verdadero...",
+      "words": [
+        {
+          "word": "Tengo",
+          "start": 127.876,
+          "end": 128.437,
+          "score": 0.805
+        },
+        {
+          "word": "conferencias",
+          "start": 129.358,
+          "end": 130.76,
+          "score": 0.733
+        },
+        {
+          "word": "y",
+          "start": 130.8,
+          "end": 130.961,
+          "score": 0.749
+        },
+        {
+          "word": "declaraciones",
+          "start": 131.061,
+          "end": 132.223,
+          "score": 0.754
+        },
+        {
+          "word": "y",
+          "start": 132.403,
+          "end": 132.423,
+          "score": 0.08
+        },
+        {
+          "word": "trabajos",
+          "start": 132.443,
+          "end": 133.264,
+          "score": 0.349
+        },
+        {
+          "word": "y",
+          "start": 133.284,
+          "end": 133.304,
+          "score": 0.656
+        },
+        {
+          "word": "todo,",
+          "start": 133.344,
+          "end": 133.565,
+          "score": 0.557
+        },
+        {
+          "word": "sobre",
+          "start": 134.126,
+          "end": 134.546,
+          "score": 0.317
+        },
+        {
+          "word": "todo",
+          "start": 134.566,
+          "end": 134.887,
+          "score": 0.672
+        },
+        {
+          "word": "las",
+          "start": 134.907,
+          "end": 135.087,
+          "score": 0.582
+        },
+        {
+          "word": "cuestiones",
+          "start": 135.248,
+          "end": 136.129,
+          "score": 0.528
+        },
+        {
+          "word": "de",
+          "start": 136.329,
+          "end": 136.59,
+          "score": 0.69
+        },
+        {
+          "word": "los",
+          "start": 136.61,
+          "end": 136.71,
+          "score": 0.298
+        },
+        {
+          "word": "cursos,",
+          "start": 136.73,
+          "end": 138.032,
+          "score": 0.756
+        },
+        {
+          "word": "que",
+          "start": 138.052,
+          "end": 138.192,
+          "score": 0.354
+        },
+        {
+          "word": "para",
+          "start": 138.252,
+          "end": 138.573,
+          "score": 0.548
+        },
+        {
+          "word": "mí,",
+          "start": 138.593,
+          "end": 138.813,
+          "score": 0.757
+        },
+        {
+          "word": "pues,",
+          "start": 138.833,
+          "end": 140.195,
+          "score": 0.712
+        },
+        {
+          "word": "es",
+          "start": 140.215,
+          "end": 140.396,
+          "score": 0.63
+        },
+        {
+          "word": "un",
+          "start": 140.496,
+          "end": 140.596,
+          "score": 0.698
+        },
+        {
+          "word": "verdadero...",
+          "start": 140.616,
+          "end": 143.1,
+          "score": 0.728
+        }
+      ]
+    },
+    {
+      "start": 143.485,
+      "end": 157.199,
+      "text": " una verdadera satisfacción haber logrado que México tuviera aquí una representación como latino.",
+      "words": [
+        {
+          "word": "una",
+          "start": 143.485,
+          "end": 144.066,
+          "score": 0.65
+        },
+        {
+          "word": "verdadera",
+          "start": 144.086,
+          "end": 144.866,
+          "score": 0.508
+        },
+        {
+          "word": "satisfacción",
+          "start": 144.927,
+          "end": 145.747,
+          "score": 0.575
+        },
+        {
+          "word": "haber",
+          "start": 146.348,
+          "end": 146.829,
+          "score": 0.677
+        },
+        {
+          "word": "logrado",
+          "start": 146.869,
+          "end": 148.35,
+          "score": 0.66
+        },
+        {
+          "word": "que",
+          "start": 148.67,
+          "end": 148.731,
+          "score": 0.328
+        },
+        {
+          "word": "México",
+          "start": 149.171,
+          "end": 149.752,
+          "score": 0.388
+        },
+        {
+          "word": "tuviera",
+          "start": 149.892,
+          "end": 150.212,
+          "score": 0.274
+        },
+        {
+          "word": "aquí",
+          "start": 150.312,
+          "end": 150.653,
+          "score": 0.338
+        },
+        {
+          "word": "una",
+          "start": 150.673,
+          "end": 150.793,
+          "score": 0.164
+        },
+        {
+          "word": "representación",
+          "start": 150.813,
+          "end": 151.654,
+          "score": 0.439
+        },
+        {
+          "word": "como",
+          "start": 152.795,
+          "end": 153.115,
+          "score": 0.799
+        },
+        {
+          "word": "latino.",
+          "start": 153.215,
+          "end": 157.199,
+          "score": 0.536
+        }
+      ]
+    },
+    {
+      "start": 157.219,
+      "end": 159.642,
+      "text": "Bueno, muchísimas gracias para todo.",
+      "words": [
+        {
+          "word": "Bueno,",
+          "start": 157.219,
+          "end": 157.56,
+          "score": 0.296
+        },
+        {
+          "word": "muchísimas",
+          "start": 157.58,
+          "end": 158.14,
+          "score": 0.645
+        },
+        {
+          "word": "gracias",
+          "start": 158.181,
+          "end": 158.821,
+          "score": 0.706
+        },
+        {
+          "word": "para",
+          "start": 159.021,
+          "end": 159.442,
+          "score": 0.732
+        },
+        {
+          "word": "todo.",
+          "start": 159.462,
+          "end": 159.642,
+          "score": 0.443
+        }
+      ]
+    },
+    {
+      "start": 160.423,
+      "end": 170.033,
+      "text": "Pues, si alguna vez puedo",
+      "words": [
+        {
+          "word": "Pues,",
+          "start": 160.423,
+          "end": 160.663,
+          "score": 0.68
+        },
+        {
+          "word": "si",
+          "start": 161.965,
+          "end": 162.385,
+          "score": 0.724
+        },
+        {
+          "word": "alguna",
+          "start": 162.605,
+          "end": 163.446,
+          "score": 0.616
+        },
+        {
+          "word": "vez",
+          "start": 166.649,
+          "end": 166.91,
+          "score": 0.722
+        },
+        {
+          "word": "puedo",
+          "start": 169.412,
+          "end": 170.033,
+          "score": 0.349
+        }
+      ]
+    },
+    {
+      "start": 170.57,
+      "end": 176.339,
+      "text": " to provide you with a copy of my work.",
+      "words": [
+        {
+          "word": "to",
+          "start": 170.57,
+          "end": 170.83,
+          "score": 0.522
+        },
+        {
+          "word": "provide",
+          "start": 171.091,
+          "end": 171.652,
+          "score": 0.382
+        },
+        {
+          "word": "you",
+          "start": 171.752,
+          "end": 172.092,
+          "score": 0.52
+        },
+        {
+          "word": "with",
+          "start": 172.152,
+          "end": 172.333,
+          "score": 0.45
+        },
+        {
+          "word": "a",
+          "start": 172.413,
+          "end": 172.493,
+          "score": 0.786
+        },
+        {
+          "word": "copy",
+          "start": 172.573,
+          "end": 173.034,
+          "score": 0.416
+        },
+        {
+          "word": "of",
+          "start": 173.334,
+          "end": 173.414,
+          "score": 0.571
+        },
+        {
+          "word": "my",
+          "start": 173.915,
+          "end": 173.955,
+          "score": 0.492
+        },
+        {
+          "word": "work.",
+          "start": 175.758,
+          "end": 176.339,
+          "score": 0.506
+        }
+      ]
+    },
+    {
+      "start": 176.359,
+      "end": 176.439,
+      "text": "Yes.",
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 176.359,
+          "end": 176.439,
+          "score": 0.49
+        }
+      ]
+    },
+    {
+      "start": 176.699,
+      "end": 181.606,
+      "text": "You can send it to your address, I don't know where.",
+      "words": [
+        {
+          "word": "You",
+          "start": 176.699,
+          "end": 176.839,
+          "score": 0.469
+        },
+        {
+          "word": "can",
+          "start": 176.879,
+          "end": 177.16,
+          "score": 0.705
+        },
+        {
+          "word": "send",
+          "start": 177.22,
+          "end": 177.981,
+          "score": 0.584
+        },
+        {
+          "word": "it",
+          "start": 178.101,
+          "end": 178.161,
+          "score": 0.589
+        },
+        {
+          "word": "to",
+          "start": 178.241,
+          "end": 178.342,
+          "score": 0.418
+        },
+        {
+          "word": "your",
+          "start": 178.382,
+          "end": 178.642,
+          "score": 0.371
+        },
+        {
+          "word": "address,",
+          "start": 178.662,
+          "end": 178.962,
+          "score": 0.207
+        },
+        {
+          "word": "I",
+          "start": 178.982,
+          "end": 179.143,
+          "score": 0.525
+        },
+        {
+          "word": "don't",
+          "start": 179.163,
+          "end": 179.403,
+          "score": 0.285
+        },
+        {
+          "word": "know",
+          "start": 179.423,
+          "end": 179.503,
+          "score": 0.23
+        },
+        {
+          "word": "where.",
+          "start": 181.146,
+          "end": 181.606,
+          "score": 0.702
+        }
+      ]
+    },
+    {
+      "start": 181.626,
+      "end": 181.707,
+      "text": "Yes.",
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 181.626,
+          "end": 181.707,
+          "score": 0.486
+        }
+      ]
+    },
+    {
+      "start": 182.307,
+      "end": 198.231,
+      "text": "I have several conferences that I have printed, although I don't have them in print yet, but I can send you copies of what I have, of the most important articles.",
+      "words": [
+        {
+          "word": "I",
+          "start": 182.307,
+          "end": 182.327,
+          "score": 0.063
+        },
+        {
+          "word": "have",
+          "start": 182.347,
+          "end": 182.428,
+          "score": 0.235
+        },
+        {
+          "word": "several",
+          "start": 182.508,
+          "end": 182.648,
+          "score": 0.141
+        },
+        {
+          "word": "conferences",
+          "start": 182.688,
+          "end": 183.529,
+          "score": 0.578
+        },
+        {
+          "word": "that",
+          "start": 183.81,
+          "end": 183.99,
+          "score": 0.42
+        },
+        {
+          "word": "I",
+          "start": 184.01,
+          "end": 184.09,
+          "score": 0.362
+        },
+        {
+          "word": "have",
+          "start": 184.15,
+          "end": 184.29,
+          "score": 0.4
+        },
+        {
+          "word": "printed,",
+          "start": 184.391,
+          "end": 185.011,
+          "score": 0.484
+        },
+        {
+          "word": "although",
+          "start": 185.092,
+          "end": 185.452,
+          "score": 0.408
+        },
+        {
+          "word": "I",
+          "start": 185.472,
+          "end": 185.572,
+          "score": 0.485
+        },
+        {
+          "word": "don't",
+          "start": 186.554,
+          "end": 186.714,
+          "score": 0.481
+        },
+        {
+          "word": "have",
+          "start": 186.794,
+          "end": 186.894,
+          "score": 0.317
+        },
+        {
+          "word": "them",
+          "start": 186.914,
+          "end": 187.095,
+          "score": 0.668
+        },
+        {
+          "word": "in",
+          "start": 187.215,
+          "end": 187.295,
+          "score": 0.906
+        },
+        {
+          "word": "print",
+          "start": 187.335,
+          "end": 187.515,
+          "score": 0.309
+        },
+        {
+          "word": "yet,",
+          "start": 187.535,
+          "end": 189.017,
+          "score": 0.741
+        },
+        {
+          "word": "but",
+          "start": 190.199,
+          "end": 190.66,
+          "score": 0.674
+        },
+        {
+          "word": "I",
+          "start": 190.68,
+          "end": 190.7,
+          "score": 0.984
+        },
+        {
+          "word": "can",
+          "start": 191.0,
+          "end": 191.12,
+          "score": 0.57
+        },
+        {
+          "word": "send",
+          "start": 191.181,
+          "end": 191.461,
+          "score": 0.348
+        },
+        {
+          "word": "you",
+          "start": 191.481,
+          "end": 191.641,
+          "score": 0.52
+        },
+        {
+          "word": "copies",
+          "start": 191.701,
+          "end": 192.563,
+          "score": 0.496
+        },
+        {
+          "word": "of",
+          "start": 192.583,
+          "end": 192.623,
+          "score": 0.491
+        },
+        {
+          "word": "what",
+          "start": 194.225,
+          "end": 194.526,
+          "score": 0.25
+        },
+        {
+          "word": "I",
+          "start": 194.546,
+          "end": 194.666,
+          "score": 0.762
+        },
+        {
+          "word": "have,",
+          "start": 194.786,
+          "end": 195.427,
+          "score": 0.58
+        },
+        {
+          "word": "of",
+          "start": 195.827,
+          "end": 195.928,
+          "score": 0.597
+        },
+        {
+          "word": "the",
+          "start": 195.968,
+          "end": 196.088,
+          "score": 0.652
+        },
+        {
+          "word": "most",
+          "start": 196.268,
+          "end": 196.488,
+          "score": 0.754
+        },
+        {
+          "word": "important",
+          "start": 196.829,
+          "end": 197.47,
+          "score": 0.573
+        },
+        {
+          "word": "articles.",
+          "start": 197.63,
+          "end": 198.231,
+          "score": 0.354
+        }
+      ]
+    },
+    {
+      "start": 200.32,
+      "end": 211.937,
+      "text": " Because it's very difficult to condense a work that is at least 35 or 40 years old.",
+      "words": [
+        {
+          "word": "Because",
+          "start": 200.32,
+          "end": 200.901,
+          "score": 0.578
+        },
+        {
+          "word": "it's",
+          "start": 201.141,
+          "end": 201.482,
+          "score": 0.596
+        },
+        {
+          "word": "very",
+          "start": 202.343,
+          "end": 202.904,
+          "score": 0.675
+        },
+        {
+          "word": "difficult",
+          "start": 202.964,
+          "end": 203.605,
+          "score": 0.285
+        },
+        {
+          "word": "to",
+          "start": 204.887,
+          "end": 204.927,
+          "score": 0.006
+        },
+        {
+          "word": "condense",
+          "start": 204.947,
+          "end": 205.788,
+          "score": 0.696
+        },
+        {
+          "word": "a",
+          "start": 206.83,
+          "end": 206.85,
+          "score": 0.0
+        },
+        {
+          "word": "work",
+          "start": 206.87,
+          "end": 207.17,
+          "score": 0.504
+        },
+        {
+          "word": "that",
+          "start": 207.35,
+          "end": 207.471,
+          "score": 0.801
+        },
+        {
+          "word": "is",
+          "start": 207.511,
+          "end": 207.571,
+          "score": 0.707
+        },
+        {
+          "word": "at",
+          "start": 207.711,
+          "end": 207.931,
+          "score": 0.392
+        },
+        {
+          "word": "least",
+          "start": 209.113,
+          "end": 209.734,
+          "score": 0.618
+        },
+        {
+          "word": "35",
+          "start": 209.814,
+          "end": 209.954,
+          "score": 0.542
+        },
+        {
+          "word": "or",
+          "start": 209.974,
+          "end": 210.135,
+          "score": 0.45
+        },
+        {
+          "word": "40",
+          "start": 210.155,
+          "end": 211.076,
+          "score": 0.7
+        },
+        {
+          "word": "years",
+          "start": 211.116,
+          "end": 211.497,
+          "score": 0.606
+        },
+        {
+          "word": "old.",
+          "start": 211.657,
+          "end": 211.937,
+          "score": 0.408
+        }
+      ]
+    },
+    {
+      "start": 212.318,
+      "end": 217.586,
+      "text": "It's a series.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 212.318,
+          "end": 212.418,
+          "score": 0.196
+        },
+        {
+          "word": "a",
+          "start": 212.538,
+          "end": 212.618,
+          "score": 0.638
+        },
+        {
+          "word": "series.",
+          "start": 212.999,
+          "end": 217.586,
+          "score": 0.593
+        }
+      ]
+    },
+    {
+      "start": 217.846,
+      "end": 226.058,
+      "text": "But I think the main works can be used",
+      "words": [
+        {
+          "word": "But",
+          "start": 217.846,
+          "end": 217.966,
+          "score": 0.511
+        },
+        {
+          "word": "I",
+          "start": 218.106,
+          "end": 218.427,
+          "score": 0.754
+        },
+        {
+          "word": "think",
+          "start": 219.468,
+          "end": 223.334,
+          "score": 0.627
+        },
+        {
+          "word": "the",
+          "start": 223.494,
+          "end": 223.554,
+          "score": 0.406
+        },
+        {
+          "word": "main",
+          "start": 223.695,
+          "end": 224.215,
+          "score": 0.507
+        },
+        {
+          "word": "works",
+          "start": 224.396,
+          "end": 224.896,
+          "score": 0.572
+        },
+        {
+          "word": "can",
+          "start": 225.117,
+          "end": 225.397,
+          "score": 0.528
+        },
+        {
+          "word": "be",
+          "start": 225.477,
+          "end": 225.597,
+          "score": 0.404
+        },
+        {
+          "word": "used",
+          "start": 225.978,
+          "end": 226.058,
+          "score": 0.25
+        }
+      ]
+    },
+    {
+      "start": 228.113,
+      "end": 229.938,
+      "text": " El reconocimiento es.",
+      "words": [
+        {
+          "word": "El",
+          "start": 228.113,
+          "end": 228.374,
+          "score": 0.427
+        },
+        {
+          "word": "reconocimiento",
+          "start": 228.394,
+          "end": 229.496,
+          "score": 0.635
+        },
+        {
+          "word": "es.",
+          "start": 229.577,
+          "end": 229.938,
+          "score": 0.784
+        }
+      ]
+    },
+    {
+      "start": 229.958,
+      "end": 233.426,
+      "text": "Ah, ¿quiere para mí leer esto?",
+      "words": [
+        {
+          "word": "Ah,",
+          "start": 229.958,
+          "end": 230.238,
+          "score": 0.69
+        },
+        {
+          "word": "¿quiere",
+          "start": 230.258,
+          "end": 232.123,
+          "score": 0.383
+        },
+        {
+          "word": "para",
+          "start": 232.223,
+          "end": 232.384,
+          "score": 0.49
+        },
+        {
+          "word": "mí",
+          "start": 232.424,
+          "end": 232.564,
+          "score": 0.786
+        },
+        {
+          "word": "leer",
+          "start": 232.584,
+          "end": 232.885,
+          "score": 0.694
+        },
+        {
+          "word": "esto?",
+          "start": 233.085,
+          "end": 233.426,
+          "score": 0.538
+        }
+      ]
+    },
+    {
+      "start": 233.887,
+      "end": 234.769,
+      "text": "It's for usted.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 233.887,
+          "end": 234.028,
+          "score": 0.673
+        },
+        {
+          "word": "for",
+          "start": 234.108,
+          "end": 234.388,
+          "score": 0.368
+        },
+        {
+          "word": "usted.",
+          "start": 234.649,
+          "end": 234.769,
+          "score": 0.334
+        }
+      ]
+    },
+    {
+      "start": 235.09,
+      "end": 236.393,
+      "text": "Sí, bueno.",
+      "words": [
+        {
+          "word": "Sí,",
+          "start": 235.09,
+          "end": 235.772,
+          "score": 0.789
+        },
+        {
+          "word": "bueno.",
+          "start": 236.273,
+          "end": 236.393,
+          "score": 0.262
+        }
+      ]
+    },
+    {
+      "start": 236.995,
+      "end": 238.078,
+      "text": "Muchas gracias.",
+      "words": [
+        {
+          "word": "Muchas",
+          "start": 236.995,
+          "end": 237.316,
+          "score": 0.322
+        },
+        {
+          "word": "gracias.",
+          "start": 237.376,
+          "end": 238.078,
+          "score": 0.581
+        }
+      ]
+    },
+    {
+      "start": 238.098,
+      "end": 238.779,
+      "text": "¿Y esto no?",
+      "words": [
+        {
+          "word": "¿Y",
+          "start": 238.098,
+          "end": 238.198,
+          "score": 0.514
+        },
+        {
+          "word": "esto",
+          "start": 238.278,
+          "end": 238.539,
+          "score": 0.644
+        },
+        {
+          "word": "no?",
+          "start": 238.579,
+          "end": 238.779,
+          "score": 0.831
+        }
+      ]
+    },
+    {
+      "start": 239.0,
+      "end": 239.441,
+      "text": "También.",
+      "words": [
+        {
+          "word": "También.",
+          "start": 239.0,
+          "end": 239.441,
+          "score": 0.909
+        }
+      ]
+    },
+    {
+      "start": 239.581,
+      "end": 240.283,
+      "text": "Oh, también.",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 239.581,
+          "end": 239.762,
+          "score": 0.557
+        },
+        {
+          "word": "también.",
+          "start": 239.782,
+          "end": 240.283,
+          "score": 0.702
+        }
+      ]
+    },
+    {
+      "start": 240.564,
+      "end": 242.408,
+      "text": "Pues muchas gracias, señor.",
+      "words": [
+        {
+          "word": "Pues",
+          "start": 240.564,
+          "end": 240.965,
+          "score": 0.474
+        },
+        {
+          "word": "muchas",
+          "start": 241.005,
+          "end": 241.185,
+          "score": 0.256
+        },
+        {
+          "word": "gracias,",
+          "start": 241.225,
+          "end": 241.847,
+          "score": 0.644
+        },
+        {
+          "word": "señor.",
+          "start": 241.867,
+          "end": 242.408,
+          "score": 0.665
+        }
+      ]
+    },
+    {
+      "start": 243.351,
+      "end": 244.333,
+      "text": "Muchísimas gracias.",
+      "words": [
+        {
+          "word": "Muchísimas",
+          "start": 243.351,
+          "end": 243.932,
+          "score": 0.623
+        },
+        {
+          "word": "gracias.",
+          "start": 243.972,
+          "end": 244.333,
+          "score": 0.393
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "When",
+      "start": 1.499,
+      "end": 1.739,
+      "score": 0.59
+    },
+    {
+      "word": "the",
+      "start": 2.02,
+      "end": 2.22,
+      "score": 0.346
+    },
+    {
+      "word": "abortion",
+      "start": 2.26,
+      "end": 2.901,
+      "score": 0.582
+    },
+    {
+      "word": "came",
+      "start": 2.921,
+      "end": 3.001,
+      "score": 0.244
+    },
+    {
+      "word": "out,",
+      "start": 3.081,
+      "end": 3.301,
+      "score": 0.487
+    },
+    {
+      "word": "it",
+      "start": 3.321,
+      "end": 3.441,
+      "score": 0.64
+    },
+    {
+      "word": "was",
+      "start": 3.521,
+      "end": 3.621,
+      "score": 0.395
+    },
+    {
+      "word": "when",
+      "start": 3.662,
+      "end": 3.742,
+      "score": 0.676
+    },
+    {
+      "word": "Obregón",
+      "start": 3.842,
+      "end": 4.603,
+      "score": 0.638
+    },
+    {
+      "word": "was",
+      "start": 4.703,
+      "end": 4.823,
+      "score": 0.338
+    },
+    {
+      "word": "deposed",
+      "start": 4.843,
+      "end": 5.384,
+      "score": 0.378
+    },
+    {
+      "word": "from",
+      "start": 5.444,
+      "end": 5.604,
+      "score": 0.61
+    },
+    {
+      "word": "the",
+      "start": 5.644,
+      "end": 5.744,
+      "score": 0.669
+    },
+    {
+      "word": "government",
+      "start": 5.844,
+      "end": 6.605,
+      "score": 0.425
+    },
+    {
+      "word": "and",
+      "start": 7.146,
+      "end": 7.346,
+      "score": 0.567
+    },
+    {
+      "word": "the",
+      "start": 7.386,
+      "end": 7.546,
+      "score": 0.373
+    },
+    {
+      "word": "persecution",
+      "start": 7.726,
+      "end": 8.527,
+      "score": 0.445
+    },
+    {
+      "word": "against",
+      "start": 8.547,
+      "end": 9.288,
+      "score": 0.543
+    },
+    {
+      "word": "us",
+      "start": 9.308,
+      "end": 10.149,
+      "score": 0.776
+    },
+    {
+      "word": "began.",
+      "start": 10.429,
+      "end": 10.83,
+      "score": 0.48
+    },
+    {
+      "word": "So",
+      "start": 10.85,
+      "end": 11.13,
+      "score": 0.432
+    },
+    {
+      "word": "I,",
+      "start": 11.15,
+      "end": 11.35,
+      "score": 0.885
+    },
+    {
+      "word": "Rolando,",
+      "start": 11.871,
+      "end": 13.072,
+      "score": 0.657
+    },
+    {
+      "word": "went",
+      "start": 13.092,
+      "end": 13.933,
+      "score": 0.423
+    },
+    {
+      "word": "to",
+      "start": 13.953,
+      "end": 14.134,
+      "score": 0.473
+    },
+    {
+      "word": "Cuba.",
+      "start": 14.454,
+      "end": 15.776,
+      "score": 0.631
+    },
+    {
+      "word": "Yes.",
+      "start": 15.996,
+      "end": 16.697,
+      "score": 0.633
+    },
+    {
+      "word": "And",
+      "start": 16.717,
+      "end": 16.777,
+      "score": 0.239
+    },
+    {
+      "word": "I",
+      "start": 17.137,
+      "end": 17.157,
+      "score": 0.535
+    },
+    {
+      "word": "stayed",
+      "start": 19.44,
+      "end": 20.621,
+      "score": 0.474
+    },
+    {
+      "word": "in",
+      "start": 20.721,
+      "end": 20.821,
+      "score": 0.492
+    },
+    {
+      "word": "Puebla,",
+      "start": 20.841,
+      "end": 21.322,
+      "score": 0.521
+    },
+    {
+      "word": "publishing",
+      "start": 22.083,
+      "end": 22.784,
+      "score": 0.332
+    },
+    {
+      "word": "my",
+      "start": 22.804,
+      "end": 23.044,
+      "score": 0.812
+    },
+    {
+      "word": "newspaper,",
+      "start": 23.264,
+      "end": 24.706,
+      "score": 0.258
+    },
+    {
+      "word": "fighting",
+      "start": 24.846,
+      "end": 25.667,
+      "score": 0.434
+    },
+    {
+      "word": "Practically",
+      "start": 26.542,
+      "end": 27.703,
+      "score": 0.542
+    },
+    {
+      "word": "with",
+      "start": 27.723,
+      "end": 27.803,
+      "score": 0.198
+    },
+    {
+      "word": "Morones,",
+      "start": 27.903,
+      "end": 29.185,
+      "score": 0.647
+    },
+    {
+      "word": "right?",
+      "start": 29.245,
+      "end": 29.365,
+      "score": 0.265
+    },
+    {
+      "word": "But",
+      "start": 29.545,
+      "end": 29.906,
+      "score": 0.635
+    },
+    {
+      "word": "then",
+      "start": 30.466,
+      "end": 30.706,
+      "score": 0.58
+    },
+    {
+      "word": "Morones",
+      "start": 30.826,
+      "end": 31.467,
+      "score": 0.716
+    },
+    {
+      "word": "put",
+      "start": 31.868,
+      "end": 32.188,
+      "score": 0.326
+    },
+    {
+      "word": "all",
+      "start": 32.328,
+      "end": 32.468,
+      "score": 0.482
+    },
+    {
+      "word": "the",
+      "start": 32.628,
+      "end": 32.688,
+      "score": 0.324
+    },
+    {
+      "word": "strength",
+      "start": 33.329,
+      "end": 33.669,
+      "score": 0.385
+    },
+    {
+      "word": "of",
+      "start": 33.75,
+      "end": 33.85,
+      "score": 0.528
+    },
+    {
+      "word": "the",
+      "start": 33.91,
+      "end": 34.07,
+      "score": 0.295
+    },
+    {
+      "word": "Red",
+      "start": 34.29,
+      "end": 34.51,
+      "score": 0.357
+    },
+    {
+      "word": "Syndicates",
+      "start": 34.55,
+      "end": 35.171,
+      "score": 0.493
+    },
+    {
+      "word": "on",
+      "start": 35.291,
+      "end": 35.591,
+      "score": 0.768
+    },
+    {
+      "word": "me",
+      "start": 35.672,
+      "end": 35.852,
+      "score": 0.642
+    },
+    {
+      "word": "and",
+      "start": 35.992,
+      "end": 36.132,
+      "score": 0.441
+    },
+    {
+      "word": "that's",
+      "start": 36.593,
+      "end": 36.793,
+      "score": 0.217
+    },
+    {
+      "word": "when",
+      "start": 36.833,
+      "end": 36.993,
+      "score": 0.364
+    },
+    {
+      "word": "it",
+      "start": 37.013,
+      "end": 37.053,
+      "score": 0.002
+    },
+    {
+      "word": "all",
+      "start": 37.073,
+      "end": 37.133,
+      "score": 0.229
+    },
+    {
+      "word": "started.",
+      "start": 37.173,
+      "end": 37.854,
+      "score": 0.479
+    },
+    {
+      "word": "And",
+      "start": 40.016,
+      "end": 40.617,
+      "score": 0.377
+    },
+    {
+      "word": "do",
+      "start": 40.637,
+      "end": 40.677,
+      "score": 0.324
+    },
+    {
+      "word": "you",
+      "start": 42.559,
+      "end": 42.799,
+      "score": 0.801
+    },
+    {
+      "word": "make",
+      "start": 46.103,
+      "end": 46.803,
+      "score": 0.583
+    },
+    {
+      "word": "visits",
+      "start": 46.823,
+      "end": 47.804,
+      "score": 0.815
+    },
+    {
+      "word": "or",
+      "start": 47.904,
+      "end": 48.285,
+      "score": 0.664
+    },
+    {
+      "word": "holidays",
+      "start": 48.305,
+      "end": 48.525,
+      "score": 0.4
+    },
+    {
+      "word": "in",
+      "start": 48.625,
+      "end": 48.705,
+      "score": 0.69
+    },
+    {
+      "word": "Mexico",
+      "start": 48.745,
+      "end": 49.346,
+      "score": 0.568
+    },
+    {
+      "word": "since",
+      "start": 49.546,
+      "end": 50.007,
+      "score": 0.376
+    },
+    {
+      "word": "you",
+      "start": 50.027,
+      "end": 50.087,
+      "score": 0.324
+    },
+    {
+      "word": "went",
+      "start": 50.307,
+      "end": 50.567,
+      "score": 0.563
+    },
+    {
+      "word": "to",
+      "start": 50.607,
+      "end": 50.687,
+      "score": 0.41
+    },
+    {
+      "word": "Texas?",
+      "start": 50.727,
+      "end": 51.368,
+      "score": 0.422
+    },
+    {
+      "word": "¿Cómo?",
+      "start": 52.546,
+      "end": 53.168,
+      "score": 0.745
+    },
+    {
+      "word": "¿Usted",
+      "start": 53.188,
+      "end": 53.73,
+      "score": 0.676
+    },
+    {
+      "word": "hacía",
+      "start": 53.77,
+      "end": 54.673,
+      "score": 0.792
+    },
+    {
+      "word": "vacaciones",
+      "start": 54.693,
+      "end": 55.456,
+      "score": 0.848
+    },
+    {
+      "word": "en",
+      "start": 55.476,
+      "end": 55.536,
+      "score": 0.744
+    },
+    {
+      "word": "México",
+      "start": 55.596,
+      "end": 56.198,
+      "score": 0.629
+    },
+    {
+      "word": "en",
+      "start": 56.279,
+      "end": 56.359,
+      "score": 0.938
+    },
+    {
+      "word": "estos",
+      "start": 56.419,
+      "end": 56.74,
+      "score": 0.671
+    },
+    {
+      "word": "años",
+      "start": 56.76,
+      "end": 57.001,
+      "score": 0.564
+    },
+    {
+      "word": "pasados?",
+      "start": 57.061,
+      "end": 57.563,
+      "score": 0.799
+    },
+    {
+      "word": "No,",
+      "start": 58.807,
+      "end": 59.088,
+      "score": 0.926
+    },
+    {
+      "word": "no.",
+      "start": 59.369,
+      "end": 59.63,
+      "score": 0.92
+    },
+    {
+      "word": "Voy",
+      "start": 59.971,
+      "end": 60.131,
+      "score": 0.867
+    },
+    {
+      "word": "y",
+      "start": 60.252,
+      "end": 60.332,
+      "score": 0.47
+    },
+    {
+      "word": "vengo.",
+      "start": 60.352,
+      "end": 61.797,
+      "score": 0.712
+    },
+    {
+      "word": "I",
+      "start": 62.468,
+      "end": 62.548,
+      "score": 0.471
+    },
+    {
+      "word": "have",
+      "start": 62.568,
+      "end": 62.949,
+      "score": 0.567
+    },
+    {
+      "word": "family,",
+      "start": 63.129,
+      "end": 63.689,
+      "score": 0.674
+    },
+    {
+      "word": "I",
+      "start": 63.709,
+      "end": 63.83,
+      "score": 0.868
+    },
+    {
+      "word": "go,",
+      "start": 64.03,
+      "end": 64.29,
+      "score": 0.79
+    },
+    {
+      "word": "I",
+      "start": 64.63,
+      "end": 64.731,
+      "score": 0.624
+    },
+    {
+      "word": "stay",
+      "start": 64.751,
+      "end": 64.951,
+      "score": 0.589
+    },
+    {
+      "word": "there",
+      "start": 65.011,
+      "end": 65.171,
+      "score": 0.316
+    },
+    {
+      "word": "for",
+      "start": 65.451,
+      "end": 65.612,
+      "score": 0.615
+    },
+    {
+      "word": "a",
+      "start": 65.772,
+      "end": 65.952,
+      "score": 0.623
+    },
+    {
+      "word": "few",
+      "start": 65.972,
+      "end": 66.092,
+      "score": 0.293
+    },
+    {
+      "word": "days,",
+      "start": 66.112,
+      "end": 66.212,
+      "score": 0.363
+    },
+    {
+      "word": "and",
+      "start": 66.332,
+      "end": 66.473,
+      "score": 0.158
+    },
+    {
+      "word": "then",
+      "start": 66.493,
+      "end": 66.573,
+      "score": 0.008
+    },
+    {
+      "word": "I",
+      "start": 66.593,
+      "end": 66.613,
+      "score": 0.917
+    },
+    {
+      "word": "come",
+      "start": 66.633,
+      "end": 66.713,
+      "score": 0.0
+    },
+    {
+      "word": "back",
+      "start": 66.733,
+      "end": 66.873,
+      "score": 0.326
+    },
+    {
+      "word": "here.",
+      "start": 66.973,
+      "end": 67.153,
+      "score": 0.729
+    },
+    {
+      "word": "But",
+      "start": 67.253,
+      "end": 67.394,
+      "score": 0.687
+    },
+    {
+      "word": "I",
+      "start": 67.454,
+      "end": 67.494,
+      "score": 0.699
+    },
+    {
+      "word": "don't",
+      "start": 67.554,
+      "end": 67.854,
+      "score": 0.559
+    },
+    {
+      "word": "get",
+      "start": 69.676,
+      "end": 69.956,
+      "score": 0.791
+    },
+    {
+      "word": "involved",
+      "start": 70.237,
+      "end": 70.397,
+      "score": 0.123
+    },
+    {
+      "word": "in",
+      "start": 70.878,
+      "end": 70.958,
+      "score": 0.579
+    },
+    {
+      "word": "politics",
+      "start": 70.978,
+      "end": 71.779,
+      "score": 0.613
+    },
+    {
+      "word": "anymore.",
+      "start": 71.799,
+      "end": 72.74,
+      "score": 0.533
+    },
+    {
+      "word": "I",
+      "start": 72.76,
+      "end": 72.78,
+      "score": 0.981
+    },
+    {
+      "word": "have",
+      "start": 72.92,
+      "end": 73.28,
+      "score": 0.646
+    },
+    {
+      "word": "friends",
+      "start": 73.38,
+      "end": 73.981,
+      "score": 0.559
+    },
+    {
+      "word": "with",
+      "start": 74.181,
+      "end": 74.341,
+      "score": 0.546
+    },
+    {
+      "word": "all",
+      "start": 74.442,
+      "end": 74.782,
+      "score": 0.401
+    },
+    {
+      "word": "of",
+      "start": 74.862,
+      "end": 74.922,
+      "score": 0.496
+    },
+    {
+      "word": "them.",
+      "start": 74.962,
+      "end": 75.202,
+      "score": 0.551
+    },
+    {
+      "word": "Wherever",
+      "start": 75.823,
+      "end": 76.844,
+      "score": 0.465
+    },
+    {
+      "word": "I",
+      "start": 76.864,
+      "end": 76.984,
+      "score": 0.841
+    },
+    {
+      "word": "go,",
+      "start": 77.004,
+      "end": 77.185,
+      "score": 0.784
+    },
+    {
+      "word": "I",
+      "start": 77.285,
+      "end": 77.305,
+      "score": 0.724
+    },
+    {
+      "word": "have",
+      "start": 77.325,
+      "end": 77.505,
+      "score": 0.668
+    },
+    {
+      "word": "friends,",
+      "start": 77.685,
+      "end": 78.446,
+      "score": 0.21
+    },
+    {
+      "word": "but",
+      "start": 78.526,
+      "end": 78.646,
+      "score": 0.464
+    },
+    {
+      "word": "I",
+      "start": 78.706,
+      "end": 78.807,
+      "score": 0.777
+    },
+    {
+      "word": "don't",
+      "start": 79.207,
+      "end": 79.387,
+      "score": 0.481
+    },
+    {
+      "word": "get",
+      "start": 79.507,
+      "end": 79.848,
+      "score": 0.749
+    },
+    {
+      "word": "involved",
+      "start": 79.908,
+      "end": 80.188,
+      "score": 0.232
+    },
+    {
+      "word": "anymore.",
+      "start": 80.268,
+      "end": 80.528,
+      "score": 0.409
+    },
+    {
+      "word": "Here,",
+      "start": 81.129,
+      "end": 81.83,
+      "score": 0.522
+    },
+    {
+      "word": "I",
+      "start": 81.95,
+      "end": 82.05,
+      "score": 0.839
+    },
+    {
+      "word": "am",
+      "start": 82.11,
+      "end": 82.15,
+      "score": 0.0
+    },
+    {
+      "word": "a",
+      "start": 82.17,
+      "end": 82.19,
+      "score": 0.881
+    },
+    {
+      "word": "consul.",
+      "start": 82.23,
+      "end": 82.731,
+      "score": 0.696
+    },
+    {
+      "word": "I",
+      "start": 83.412,
+      "end": 83.552,
+      "score": 0.898
+    },
+    {
+      "word": "am",
+      "start": 84.233,
+      "end": 84.473,
+      "score": 0.734
+    },
+    {
+      "word": "an",
+      "start": 84.573,
+      "end": 84.713,
+      "score": 0.692
+    },
+    {
+      "word": "honorary",
+      "start": 84.753,
+      "end": 85.494,
+      "score": 0.476
+    },
+    {
+      "word": "consul.",
+      "start": 85.594,
+      "end": 85.754,
+      "score": 0.393
+    },
+    {
+      "word": "But",
+      "start": 85.855,
+      "end": 86.035,
+      "score": 0.893
+    },
+    {
+      "word": "with",
+      "start": 86.175,
+      "end": 86.255,
+      "score": 0.248
+    },
+    {
+      "word": "the",
+      "start": 86.776,
+      "end": 87.096,
+      "score": 0.715
+    },
+    {
+      "word": "condition",
+      "start": 87.116,
+      "end": 87.576,
+      "score": 0.476
+    },
+    {
+      "word": "that",
+      "start": 87.596,
+      "end": 87.977,
+      "score": 0.399
+    },
+    {
+      "word": "I",
+      "start": 87.997,
+      "end": 88.237,
+      "score": 0.629
+    },
+    {
+      "word": "don't",
+      "start": 88.317,
+      "end": 88.938,
+      "score": 0.56
+    },
+    {
+      "word": "get",
+      "start": 88.998,
+      "end": 89.078,
+      "score": 0.378
+    },
+    {
+      "word": "involved",
+      "start": 89.138,
+      "end": 89.399,
+      "score": 0.292
+    },
+    {
+      "word": "anymore.",
+      "start": 89.419,
+      "end": 90.72,
+      "score": 0.367
+    },
+    {
+      "word": "It's",
+      "start": 90.802,
+      "end": 91.262,
+      "score": 0.41
+    },
+    {
+      "word": "a",
+      "start": 91.363,
+      "end": 91.483,
+      "score": 0.747
+    },
+    {
+      "word": "title",
+      "start": 91.503,
+      "end": 91.923,
+      "score": 0.524
+    },
+    {
+      "word": "like",
+      "start": 92.103,
+      "end": 93.064,
+      "score": 0.556
+    },
+    {
+      "word": "all",
+      "start": 93.224,
+      "end": 93.705,
+      "score": 0.482
+    },
+    {
+      "word": "of",
+      "start": 93.785,
+      "end": 94.205,
+      "score": 0.802
+    },
+    {
+      "word": "those.",
+      "start": 95.287,
+      "end": 96.107,
+      "score": 0.669
+    },
+    {
+      "word": "All",
+      "start": 98.81,
+      "end": 99.05,
+      "score": 0.624
+    },
+    {
+      "word": "of",
+      "start": 99.251,
+      "end": 99.291,
+      "score": 0.262
+    },
+    {
+      "word": "those.",
+      "start": 99.451,
+      "end": 100.192,
+      "score": 0.722
+    },
+    {
+      "word": "Oh,",
+      "start": 100.492,
+      "end": 101.092,
+      "score": 0.789
+    },
+    {
+      "word": "this.",
+      "start": 101.813,
+      "end": 102.013,
+      "score": 0.565
+    },
+    {
+      "word": "The",
+      "start": 102.053,
+      "end": 102.254,
+      "score": 0.562
+    },
+    {
+      "word": "National",
+      "start": 102.894,
+      "end": 103.695,
+      "score": 0.535
+    },
+    {
+      "word": "University.",
+      "start": 103.835,
+      "end": 105.697,
+      "score": 0.301
+    },
+    {
+      "word": "Yes.",
+      "start": 105.757,
+      "end": 106.017,
+      "score": 0.64
+    },
+    {
+      "word": "Well,",
+      "start": 108.2,
+      "end": 109.141,
+      "score": 0.718
+    },
+    {
+      "word": "your",
+      "start": 109.221,
+      "end": 109.301,
+      "score": 0.238
+    },
+    {
+      "word": "life",
+      "start": 109.421,
+      "end": 109.521,
+      "score": 0.25
+    },
+    {
+      "word": "was",
+      "start": 109.561,
+      "end": 109.741,
+      "score": 0.575
+    },
+    {
+      "word": "very",
+      "start": 109.881,
+      "end": 110.022,
+      "score": 0.555
+    },
+    {
+      "word": "interesting.",
+      "start": 110.082,
+      "end": 111.163,
+      "score": 0.788
+    },
+    {
+      "word": "Yes,",
+      "start": 111.463,
+      "end": 111.583,
+      "score": 0.551
+    },
+    {
+      "word": "but",
+      "start": 111.603,
+      "end": 111.923,
+      "score": 0.653
+    },
+    {
+      "word": "in",
+      "start": 111.943,
+      "end": 112.064,
+      "score": 0.744
+    },
+    {
+      "word": "a",
+      "start": 112.704,
+      "end": 112.804,
+      "score": 0.75
+    },
+    {
+      "word": "word,",
+      "start": 112.924,
+      "end": 113.085,
+      "score": 0.821
+    },
+    {
+      "word": "it's",
+      "start": 113.986,
+      "end": 114.126,
+      "score": 0.796
+    },
+    {
+      "word": "very",
+      "start": 114.326,
+      "end": 114.466,
+      "score": 0.536
+    },
+    {
+      "word": "difficult.",
+      "start": 114.526,
+      "end": 115.547,
+      "score": 0.475
+    },
+    {
+      "word": "I",
+      "start": 115.907,
+      "end": 116.088,
+      "score": 0.721
+    },
+    {
+      "word": "have",
+      "start": 116.108,
+      "end": 116.188,
+      "score": 0.252
+    },
+    {
+      "word": "a",
+      "start": 116.488,
+      "end": 116.508,
+      "score": 0.001
+    },
+    {
+      "word": "lot,",
+      "start": 116.528,
+      "end": 117.029,
+      "score": 0.665
+    },
+    {
+      "word": "but...",
+      "start": 117.189,
+      "end": 119.391,
+      "score": 0.723
+    },
+    {
+      "word": "A",
+      "start": 119.843,
+      "end": 120.464,
+      "score": 0.801
+    },
+    {
+      "word": "pesar",
+      "start": 120.484,
+      "end": 120.905,
+      "score": 0.544
+    },
+    {
+      "word": "de",
+      "start": 120.925,
+      "end": 120.965,
+      "score": 0.488
+    },
+    {
+      "word": "que",
+      "start": 121.105,
+      "end": 121.165,
+      "score": 0.526
+    },
+    {
+      "word": "tengo",
+      "start": 121.345,
+      "end": 121.746,
+      "score": 0.746
+    },
+    {
+      "word": "imprenta,",
+      "start": 121.786,
+      "end": 122.287,
+      "score": 0.638
+    },
+    {
+      "word": "no",
+      "start": 122.307,
+      "end": 123.429,
+      "score": 0.888
+    },
+    {
+      "word": "puedo",
+      "start": 123.469,
+      "end": 124.19,
+      "score": 0.603
+    },
+    {
+      "word": "hacer",
+      "start": 124.931,
+      "end": 125.772,
+      "score": 0.568
+    },
+    {
+      "word": "mis",
+      "start": 125.813,
+      "end": 126.033,
+      "score": 0.807
+    },
+    {
+      "word": "memorias.",
+      "start": 126.113,
+      "end": 126.754,
+      "score": 0.852
+    },
+    {
+      "word": "Tengo",
+      "start": 127.876,
+      "end": 128.437,
+      "score": 0.805
+    },
+    {
+      "word": "conferencias",
+      "start": 129.358,
+      "end": 130.76,
+      "score": 0.733
+    },
+    {
+      "word": "y",
+      "start": 130.8,
+      "end": 130.961,
+      "score": 0.749
+    },
+    {
+      "word": "declaraciones",
+      "start": 131.061,
+      "end": 132.223,
+      "score": 0.754
+    },
+    {
+      "word": "y",
+      "start": 132.403,
+      "end": 132.423,
+      "score": 0.08
+    },
+    {
+      "word": "trabajos",
+      "start": 132.443,
+      "end": 133.264,
+      "score": 0.349
+    },
+    {
+      "word": "y",
+      "start": 133.284,
+      "end": 133.304,
+      "score": 0.656
+    },
+    {
+      "word": "todo,",
+      "start": 133.344,
+      "end": 133.565,
+      "score": 0.557
+    },
+    {
+      "word": "sobre",
+      "start": 134.126,
+      "end": 134.546,
+      "score": 0.317
+    },
+    {
+      "word": "todo",
+      "start": 134.566,
+      "end": 134.887,
+      "score": 0.672
+    },
+    {
+      "word": "las",
+      "start": 134.907,
+      "end": 135.087,
+      "score": 0.582
+    },
+    {
+      "word": "cuestiones",
+      "start": 135.248,
+      "end": 136.129,
+      "score": 0.528
+    },
+    {
+      "word": "de",
+      "start": 136.329,
+      "end": 136.59,
+      "score": 0.69
+    },
+    {
+      "word": "los",
+      "start": 136.61,
+      "end": 136.71,
+      "score": 0.298
+    },
+    {
+      "word": "cursos,",
+      "start": 136.73,
+      "end": 138.032,
+      "score": 0.756
+    },
+    {
+      "word": "que",
+      "start": 138.052,
+      "end": 138.192,
+      "score": 0.354
+    },
+    {
+      "word": "para",
+      "start": 138.252,
+      "end": 138.573,
+      "score": 0.548
+    },
+    {
+      "word": "mí,",
+      "start": 138.593,
+      "end": 138.813,
+      "score": 0.757
+    },
+    {
+      "word": "pues,",
+      "start": 138.833,
+      "end": 140.195,
+      "score": 0.712
+    },
+    {
+      "word": "es",
+      "start": 140.215,
+      "end": 140.396,
+      "score": 0.63
+    },
+    {
+      "word": "un",
+      "start": 140.496,
+      "end": 140.596,
+      "score": 0.698
+    },
+    {
+      "word": "verdadero...",
+      "start": 140.616,
+      "end": 143.1,
+      "score": 0.728
+    },
+    {
+      "word": "una",
+      "start": 143.485,
+      "end": 144.066,
+      "score": 0.65
+    },
+    {
+      "word": "verdadera",
+      "start": 144.086,
+      "end": 144.866,
+      "score": 0.508
+    },
+    {
+      "word": "satisfacción",
+      "start": 144.927,
+      "end": 145.747,
+      "score": 0.575
+    },
+    {
+      "word": "haber",
+      "start": 146.348,
+      "end": 146.829,
+      "score": 0.677
+    },
+    {
+      "word": "logrado",
+      "start": 146.869,
+      "end": 148.35,
+      "score": 0.66
+    },
+    {
+      "word": "que",
+      "start": 148.67,
+      "end": 148.731,
+      "score": 0.328
+    },
+    {
+      "word": "México",
+      "start": 149.171,
+      "end": 149.752,
+      "score": 0.388
+    },
+    {
+      "word": "tuviera",
+      "start": 149.892,
+      "end": 150.212,
+      "score": 0.274
+    },
+    {
+      "word": "aquí",
+      "start": 150.312,
+      "end": 150.653,
+      "score": 0.338
+    },
+    {
+      "word": "una",
+      "start": 150.673,
+      "end": 150.793,
+      "score": 0.164
+    },
+    {
+      "word": "representación",
+      "start": 150.813,
+      "end": 151.654,
+      "score": 0.439
+    },
+    {
+      "word": "como",
+      "start": 152.795,
+      "end": 153.115,
+      "score": 0.799
+    },
+    {
+      "word": "latino.",
+      "start": 153.215,
+      "end": 157.199,
+      "score": 0.536
+    },
+    {
+      "word": "Bueno,",
+      "start": 157.219,
+      "end": 157.56,
+      "score": 0.296
+    },
+    {
+      "word": "muchísimas",
+      "start": 157.58,
+      "end": 158.14,
+      "score": 0.645
+    },
+    {
+      "word": "gracias",
+      "start": 158.181,
+      "end": 158.821,
+      "score": 0.706
+    },
+    {
+      "word": "para",
+      "start": 159.021,
+      "end": 159.442,
+      "score": 0.732
+    },
+    {
+      "word": "todo.",
+      "start": 159.462,
+      "end": 159.642,
+      "score": 0.443
+    },
+    {
+      "word": "Pues,",
+      "start": 160.423,
+      "end": 160.663,
+      "score": 0.68
+    },
+    {
+      "word": "si",
+      "start": 161.965,
+      "end": 162.385,
+      "score": 0.724
+    },
+    {
+      "word": "alguna",
+      "start": 162.605,
+      "end": 163.446,
+      "score": 0.616
+    },
+    {
+      "word": "vez",
+      "start": 166.649,
+      "end": 166.91,
+      "score": 0.722
+    },
+    {
+      "word": "puedo",
+      "start": 169.412,
+      "end": 170.033,
+      "score": 0.349
+    },
+    {
+      "word": "to",
+      "start": 170.57,
+      "end": 170.83,
+      "score": 0.522
+    },
+    {
+      "word": "provide",
+      "start": 171.091,
+      "end": 171.652,
+      "score": 0.382
+    },
+    {
+      "word": "you",
+      "start": 171.752,
+      "end": 172.092,
+      "score": 0.52
+    },
+    {
+      "word": "with",
+      "start": 172.152,
+      "end": 172.333,
+      "score": 0.45
+    },
+    {
+      "word": "a",
+      "start": 172.413,
+      "end": 172.493,
+      "score": 0.786
+    },
+    {
+      "word": "copy",
+      "start": 172.573,
+      "end": 173.034,
+      "score": 0.416
+    },
+    {
+      "word": "of",
+      "start": 173.334,
+      "end": 173.414,
+      "score": 0.571
+    },
+    {
+      "word": "my",
+      "start": 173.915,
+      "end": 173.955,
+      "score": 0.492
+    },
+    {
+      "word": "work.",
+      "start": 175.758,
+      "end": 176.339,
+      "score": 0.506
+    },
+    {
+      "word": "Yes.",
+      "start": 176.359,
+      "end": 176.439,
+      "score": 0.49
+    },
+    {
+      "word": "You",
+      "start": 176.699,
+      "end": 176.839,
+      "score": 0.469
+    },
+    {
+      "word": "can",
+      "start": 176.879,
+      "end": 177.16,
+      "score": 0.705
+    },
+    {
+      "word": "send",
+      "start": 177.22,
+      "end": 177.981,
+      "score": 0.584
+    },
+    {
+      "word": "it",
+      "start": 178.101,
+      "end": 178.161,
+      "score": 0.589
+    },
+    {
+      "word": "to",
+      "start": 178.241,
+      "end": 178.342,
+      "score": 0.418
+    },
+    {
+      "word": "your",
+      "start": 178.382,
+      "end": 178.642,
+      "score": 0.371
+    },
+    {
+      "word": "address,",
+      "start": 178.662,
+      "end": 178.962,
+      "score": 0.207
+    },
+    {
+      "word": "I",
+      "start": 178.982,
+      "end": 179.143,
+      "score": 0.525
+    },
+    {
+      "word": "don't",
+      "start": 179.163,
+      "end": 179.403,
+      "score": 0.285
+    },
+    {
+      "word": "know",
+      "start": 179.423,
+      "end": 179.503,
+      "score": 0.23
+    },
+    {
+      "word": "where.",
+      "start": 181.146,
+      "end": 181.606,
+      "score": 0.702
+    },
+    {
+      "word": "Yes.",
+      "start": 181.626,
+      "end": 181.707,
+      "score": 0.486
+    },
+    {
+      "word": "I",
+      "start": 182.307,
+      "end": 182.327,
+      "score": 0.063
+    },
+    {
+      "word": "have",
+      "start": 182.347,
+      "end": 182.428,
+      "score": 0.235
+    },
+    {
+      "word": "several",
+      "start": 182.508,
+      "end": 182.648,
+      "score": 0.141
+    },
+    {
+      "word": "conferences",
+      "start": 182.688,
+      "end": 183.529,
+      "score": 0.578
+    },
+    {
+      "word": "that",
+      "start": 183.81,
+      "end": 183.99,
+      "score": 0.42
+    },
+    {
+      "word": "I",
+      "start": 184.01,
+      "end": 184.09,
+      "score": 0.362
+    },
+    {
+      "word": "have",
+      "start": 184.15,
+      "end": 184.29,
+      "score": 0.4
+    },
+    {
+      "word": "printed,",
+      "start": 184.391,
+      "end": 185.011,
+      "score": 0.484
+    },
+    {
+      "word": "although",
+      "start": 185.092,
+      "end": 185.452,
+      "score": 0.408
+    },
+    {
+      "word": "I",
+      "start": 185.472,
+      "end": 185.572,
+      "score": 0.485
+    },
+    {
+      "word": "don't",
+      "start": 186.554,
+      "end": 186.714,
+      "score": 0.481
+    },
+    {
+      "word": "have",
+      "start": 186.794,
+      "end": 186.894,
+      "score": 0.317
+    },
+    {
+      "word": "them",
+      "start": 186.914,
+      "end": 187.095,
+      "score": 0.668
+    },
+    {
+      "word": "in",
+      "start": 187.215,
+      "end": 187.295,
+      "score": 0.906
+    },
+    {
+      "word": "print",
+      "start": 187.335,
+      "end": 187.515,
+      "score": 0.309
+    },
+    {
+      "word": "yet,",
+      "start": 187.535,
+      "end": 189.017,
+      "score": 0.741
+    },
+    {
+      "word": "but",
+      "start": 190.199,
+      "end": 190.66,
+      "score": 0.674
+    },
+    {
+      "word": "I",
+      "start": 190.68,
+      "end": 190.7,
+      "score": 0.984
+    },
+    {
+      "word": "can",
+      "start": 191.0,
+      "end": 191.12,
+      "score": 0.57
+    },
+    {
+      "word": "send",
+      "start": 191.181,
+      "end": 191.461,
+      "score": 0.348
+    },
+    {
+      "word": "you",
+      "start": 191.481,
+      "end": 191.641,
+      "score": 0.52
+    },
+    {
+      "word": "copies",
+      "start": 191.701,
+      "end": 192.563,
+      "score": 0.496
+    },
+    {
+      "word": "of",
+      "start": 192.583,
+      "end": 192.623,
+      "score": 0.491
+    },
+    {
+      "word": "what",
+      "start": 194.225,
+      "end": 194.526,
+      "score": 0.25
+    },
+    {
+      "word": "I",
+      "start": 194.546,
+      "end": 194.666,
+      "score": 0.762
+    },
+    {
+      "word": "have,",
+      "start": 194.786,
+      "end": 195.427,
+      "score": 0.58
+    },
+    {
+      "word": "of",
+      "start": 195.827,
+      "end": 195.928,
+      "score": 0.597
+    },
+    {
+      "word": "the",
+      "start": 195.968,
+      "end": 196.088,
+      "score": 0.652
+    },
+    {
+      "word": "most",
+      "start": 196.268,
+      "end": 196.488,
+      "score": 0.754
+    },
+    {
+      "word": "important",
+      "start": 196.829,
+      "end": 197.47,
+      "score": 0.573
+    },
+    {
+      "word": "articles.",
+      "start": 197.63,
+      "end": 198.231,
+      "score": 0.354
+    },
+    {
+      "word": "Because",
+      "start": 200.32,
+      "end": 200.901,
+      "score": 0.578
+    },
+    {
+      "word": "it's",
+      "start": 201.141,
+      "end": 201.482,
+      "score": 0.596
+    },
+    {
+      "word": "very",
+      "start": 202.343,
+      "end": 202.904,
+      "score": 0.675
+    },
+    {
+      "word": "difficult",
+      "start": 202.964,
+      "end": 203.605,
+      "score": 0.285
+    },
+    {
+      "word": "to",
+      "start": 204.887,
+      "end": 204.927,
+      "score": 0.006
+    },
+    {
+      "word": "condense",
+      "start": 204.947,
+      "end": 205.788,
+      "score": 0.696
+    },
+    {
+      "word": "a",
+      "start": 206.83,
+      "end": 206.85,
+      "score": 0.0
+    },
+    {
+      "word": "work",
+      "start": 206.87,
+      "end": 207.17,
+      "score": 0.504
+    },
+    {
+      "word": "that",
+      "start": 207.35,
+      "end": 207.471,
+      "score": 0.801
+    },
+    {
+      "word": "is",
+      "start": 207.511,
+      "end": 207.571,
+      "score": 0.707
+    },
+    {
+      "word": "at",
+      "start": 207.711,
+      "end": 207.931,
+      "score": 0.392
+    },
+    {
+      "word": "least",
+      "start": 209.113,
+      "end": 209.734,
+      "score": 0.618
+    },
+    {
+      "word": "35",
+      "start": 209.814,
+      "end": 209.954,
+      "score": 0.542
+    },
+    {
+      "word": "or",
+      "start": 209.974,
+      "end": 210.135,
+      "score": 0.45
+    },
+    {
+      "word": "40",
+      "start": 210.155,
+      "end": 211.076,
+      "score": 0.7
+    },
+    {
+      "word": "years",
+      "start": 211.116,
+      "end": 211.497,
+      "score": 0.606
+    },
+    {
+      "word": "old.",
+      "start": 211.657,
+      "end": 211.937,
+      "score": 0.408
+    },
+    {
+      "word": "It's",
+      "start": 212.318,
+      "end": 212.418,
+      "score": 0.196
+    },
+    {
+      "word": "a",
+      "start": 212.538,
+      "end": 212.618,
+      "score": 0.638
+    },
+    {
+      "word": "series.",
+      "start": 212.999,
+      "end": 217.586,
+      "score": 0.593
+    },
+    {
+      "word": "But",
+      "start": 217.846,
+      "end": 217.966,
+      "score": 0.511
+    },
+    {
+      "word": "I",
+      "start": 218.106,
+      "end": 218.427,
+      "score": 0.754
+    },
+    {
+      "word": "think",
+      "start": 219.468,
+      "end": 223.334,
+      "score": 0.627
+    },
+    {
+      "word": "the",
+      "start": 223.494,
+      "end": 223.554,
+      "score": 0.406
+    },
+    {
+      "word": "main",
+      "start": 223.695,
+      "end": 224.215,
+      "score": 0.507
+    },
+    {
+      "word": "works",
+      "start": 224.396,
+      "end": 224.896,
+      "score": 0.572
+    },
+    {
+      "word": "can",
+      "start": 225.117,
+      "end": 225.397,
+      "score": 0.528
+    },
+    {
+      "word": "be",
+      "start": 225.477,
+      "end": 225.597,
+      "score": 0.404
+    },
+    {
+      "word": "used",
+      "start": 225.978,
+      "end": 226.058,
+      "score": 0.25
+    },
+    {
+      "word": "El",
+      "start": 228.113,
+      "end": 228.374,
+      "score": 0.427
+    },
+    {
+      "word": "reconocimiento",
+      "start": 228.394,
+      "end": 229.496,
+      "score": 0.635
+    },
+    {
+      "word": "es.",
+      "start": 229.577,
+      "end": 229.938,
+      "score": 0.784
+    },
+    {
+      "word": "Ah,",
+      "start": 229.958,
+      "end": 230.238,
+      "score": 0.69
+    },
+    {
+      "word": "¿quiere",
+      "start": 230.258,
+      "end": 232.123,
+      "score": 0.383
+    },
+    {
+      "word": "para",
+      "start": 232.223,
+      "end": 232.384,
+      "score": 0.49
+    },
+    {
+      "word": "mí",
+      "start": 232.424,
+      "end": 232.564,
+      "score": 0.786
+    },
+    {
+      "word": "leer",
+      "start": 232.584,
+      "end": 232.885,
+      "score": 0.694
+    },
+    {
+      "word": "esto?",
+      "start": 233.085,
+      "end": 233.426,
+      "score": 0.538
+    },
+    {
+      "word": "It's",
+      "start": 233.887,
+      "end": 234.028,
+      "score": 0.673
+    },
+    {
+      "word": "for",
+      "start": 234.108,
+      "end": 234.388,
+      "score": 0.368
+    },
+    {
+      "word": "usted.",
+      "start": 234.649,
+      "end": 234.769,
+      "score": 0.334
+    },
+    {
+      "word": "Sí,",
+      "start": 235.09,
+      "end": 235.772,
+      "score": 0.789
+    },
+    {
+      "word": "bueno.",
+      "start": 236.273,
+      "end": 236.393,
+      "score": 0.262
+    },
+    {
+      "word": "Muchas",
+      "start": 236.995,
+      "end": 237.316,
+      "score": 0.322
+    },
+    {
+      "word": "gracias.",
+      "start": 237.376,
+      "end": 238.078,
+      "score": 0.581
+    },
+    {
+      "word": "¿Y",
+      "start": 238.098,
+      "end": 238.198,
+      "score": 0.514
+    },
+    {
+      "word": "esto",
+      "start": 238.278,
+      "end": 238.539,
+      "score": 0.644
+    },
+    {
+      "word": "no?",
+      "start": 238.579,
+      "end": 238.779,
+      "score": 0.831
+    },
+    {
+      "word": "También.",
+      "start": 239.0,
+      "end": 239.441,
+      "score": 0.909
+    },
+    {
+      "word": "Oh,",
+      "start": 239.581,
+      "end": 239.762,
+      "score": 0.557
+    },
+    {
+      "word": "también.",
+      "start": 239.782,
+      "end": 240.283,
+      "score": 0.702
+    },
+    {
+      "word": "Pues",
+      "start": 240.564,
+      "end": 240.965,
+      "score": 0.474
+    },
+    {
+      "word": "muchas",
+      "start": 241.005,
+      "end": 241.185,
+      "score": 0.256
+    },
+    {
+      "word": "gracias,",
+      "start": 241.225,
+      "end": 241.847,
+      "score": 0.644
+    },
+    {
+      "word": "señor.",
+      "start": 241.867,
+      "end": 242.408,
+      "score": 0.665
+    },
+    {
+      "word": "Muchísimas",
+      "start": 243.351,
+      "end": 243.932,
+      "score": 0.623
+    },
+    {
+      "word": "gracias.",
+      "start": 243.972,
+      "end": 244.333,
+      "score": 0.393
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.69,
+    "Neutral": 0.559,
+    "Bad": 0.401
+  }
+}

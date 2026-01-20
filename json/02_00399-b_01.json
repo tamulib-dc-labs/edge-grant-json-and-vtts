@@ -1,0 +1,3741 @@
+{
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 10.409,
+      "text": " This is Marilee Nolan interviewing Frank Galvan.",
+      "words": [
+        {
+          "word": "This",
+          "start": 1.6,
+          "end": 4.483,
+          "score": 0.738
+        },
+        {
+          "word": "is",
+          "start": 4.643,
+          "end": 4.743,
+          "score": 0.973
+        },
+        {
+          "word": "Marilee",
+          "start": 5.084,
+          "end": 5.884,
+          "score": 0.716
+        },
+        {
+          "word": "Nolan",
+          "start": 5.965,
+          "end": 6.665,
+          "score": 0.72
+        },
+        {
+          "word": "interviewing",
+          "start": 6.725,
+          "end": 8.868,
+          "score": 0.531
+        },
+        {
+          "word": "Frank",
+          "start": 8.928,
+          "end": 9.368,
+          "score": 0.624
+        },
+        {
+          "word": "Galvan.",
+          "start": 9.408,
+          "end": 10.409,
+          "score": 0.854
+        }
+      ]
+    },
+    {
+      "start": 13.172,
+      "end": 13.893,
+      "text": "Where is your mic?",
+      "words": [
+        {
+          "word": "Where",
+          "start": 13.172,
+          "end": 13.352,
+          "score": 0.495
+        },
+        {
+          "word": "is",
+          "start": 13.372,
+          "end": 13.412,
+          "score": 0.243
+        },
+        {
+          "word": "your",
+          "start": 13.432,
+          "end": 13.693,
+          "score": 0.435
+        },
+        {
+          "word": "mic?",
+          "start": 13.713,
+          "end": 13.893,
+          "score": 0.736
+        }
+      ]
+    },
+    {
+      "start": 14.493,
+      "end": 16.596,
+      "text": "You don't need one.",
+      "words": [
+        {
+          "word": "You",
+          "start": 14.493,
+          "end": 14.553,
+          "score": 0.0
+        },
+        {
+          "word": "don't",
+          "start": 14.574,
+          "end": 14.754,
+          "score": 0.895
+        },
+        {
+          "word": "need",
+          "start": 14.794,
+          "end": 14.954,
+          "score": 0.7
+        },
+        {
+          "word": "one.",
+          "start": 15.074,
+          "end": 16.596,
+          "score": 0.638
+        }
+      ]
+    },
+    {
+      "start": 16.616,
+      "end": 17.036,
+      "text": "It's right there.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 16.616,
+          "end": 16.696,
+          "score": 0.002
+        },
+        {
+          "word": "right",
+          "start": 16.716,
+          "end": 16.816,
+          "score": 0.015
+        },
+        {
+          "word": "there.",
+          "start": 16.836,
+          "end": 17.036,
+          "score": 0.452
+        }
+      ]
+    },
+    {
+      "start": 18.277,
+      "end": 19.098,
+      "text": "Very sensitive.",
+      "words": [
+        {
+          "word": "Very",
+          "start": 18.277,
+          "end": 18.438,
+          "score": 0.664
+        },
+        {
+          "word": "sensitive.",
+          "start": 18.478,
+          "end": 19.098,
+          "score": 0.576
+        }
+      ]
+    },
+    {
+      "start": 21.06,
+      "end": 25.445,
+      "text": "All right, if you could begin with your name and where you were born, your age.",
+      "words": [
+        {
+          "word": "All",
+          "start": 21.06,
+          "end": 21.12,
+          "score": 0.016
+        },
+        {
+          "word": "right,",
+          "start": 21.14,
+          "end": 21.341,
+          "score": 0.366
+        },
+        {
+          "word": "if",
+          "start": 21.361,
+          "end": 21.401,
+          "score": 0.32
+        },
+        {
+          "word": "you",
+          "start": 21.441,
+          "end": 21.621,
+          "score": 0.763
+        },
+        {
+          "word": "could",
+          "start": 21.661,
+          "end": 21.861,
+          "score": 0.526
+        },
+        {
+          "word": "begin",
+          "start": 21.921,
+          "end": 22.282,
+          "score": 0.922
+        },
+        {
+          "word": "with",
+          "start": 22.362,
+          "end": 22.502,
+          "score": 0.984
+        },
+        {
+          "word": "your",
+          "start": 22.542,
+          "end": 22.682,
+          "score": 0.854
+        },
+        {
+          "word": "name",
+          "start": 22.742,
+          "end": 23.042,
+          "score": 0.823
+        },
+        {
+          "word": "and",
+          "start": 23.062,
+          "end": 23.122,
+          "score": 0.333
+        },
+        {
+          "word": "where",
+          "start": 23.283,
+          "end": 23.483,
+          "score": 0.885
+        },
+        {
+          "word": "you",
+          "start": 23.503,
+          "end": 23.603,
+          "score": 0.874
+        },
+        {
+          "word": "were",
+          "start": 23.643,
+          "end": 23.783,
+          "score": 0.886
+        },
+        {
+          "word": "born,",
+          "start": 23.823,
+          "end": 24.164,
+          "score": 0.869
+        },
+        {
+          "word": "your",
+          "start": 24.204,
+          "end": 25.024,
+          "score": 0.684
+        },
+        {
+          "word": "age.",
+          "start": 25.225,
+          "end": 25.445,
+          "score": 0.894
+        }
+      ]
+    },
+    {
+      "start": 28.388,
+      "end": 31.371,
+      "text": "My name is Frank J. Galvan, Jr.",
+      "words": [
+        {
+          "word": "My",
+          "start": 28.388,
+          "end": 28.508,
+          "score": 0.986
+        },
+        {
+          "word": "name",
+          "start": 28.568,
+          "end": 28.748,
+          "score": 0.704
+        },
+        {
+          "word": "is",
+          "start": 28.868,
+          "end": 28.928,
+          "score": 0.88
+        },
+        {
+          "word": "Frank",
+          "start": 29.029,
+          "end": 29.329,
+          "score": 0.973
+        },
+        {
+          "word": "J.",
+          "start": 29.789,
+          "end": 30.09,
+          "score": 0.698
+        },
+        {
+          "word": "Galvan,",
+          "start": 30.11,
+          "end": 30.911,
+          "score": 0.774
+        },
+        {
+          "word": "Jr.",
+          "start": 31.311,
+          "end": 31.371,
+          "score": 0.333
+        }
+      ]
+    },
+    {
+      "start": 32.313,
+      "end": 43.045,
+      "text": " I was born in Santa Barbara, Chihuahua, Mexico on February the 8th, the 11th, 1908.",
+      "words": [
+        {
+          "word": "I",
+          "start": 32.313,
+          "end": 32.453,
+          "score": 0.857
+        },
+        {
+          "word": "was",
+          "start": 32.493,
+          "end": 32.613,
+          "score": 0.884
+        },
+        {
+          "word": "born",
+          "start": 32.693,
+          "end": 33.054,
+          "score": 0.836
+        },
+        {
+          "word": "in",
+          "start": 33.174,
+          "end": 33.254,
+          "score": 0.98
+        },
+        {
+          "word": "Santa",
+          "start": 33.354,
+          "end": 33.715,
+          "score": 0.943
+        },
+        {
+          "word": "Barbara,",
+          "start": 33.755,
+          "end": 34.275,
+          "score": 0.845
+        },
+        {
+          "word": "Chihuahua,",
+          "start": 34.495,
+          "end": 35.076,
+          "score": 0.609
+        },
+        {
+          "word": "Mexico",
+          "start": 35.096,
+          "end": 35.677,
+          "score": 0.747
+        },
+        {
+          "word": "on",
+          "start": 35.697,
+          "end": 35.737,
+          "score": 0.5
+        },
+        {
+          "word": "February",
+          "start": 36.878,
+          "end": 37.639,
+          "score": 0.845
+        },
+        {
+          "word": "the",
+          "start": 37.779,
+          "end": 37.999,
+          "score": 0.961
+        },
+        {
+          "word": "8th,",
+          "start": 38.34,
+          "end": 40.582,
+          "score": 0.869
+        },
+        {
+          "word": "the",
+          "start": 40.602,
+          "end": 40.763,
+          "score": 0.645
+        },
+        {
+          "word": "11th,",
+          "start": 40.783,
+          "end": 41.163,
+          "score": 0.723
+        },
+        {
+          "word": "1908.",
+          "start": 41.804,
+          "end": 43.045,
+          "score": 0.829
+        }
+      ]
+    },
+    {
+      "start": 44.987,
+      "end": 47.971,
+      "text": "And I am 65 years of age.",
+      "words": [
+        {
+          "word": "And",
+          "start": 44.987,
+          "end": 45.108,
+          "score": 0.87
+        },
+        {
+          "word": "I",
+          "start": 45.288,
+          "end": 45.388,
+          "score": 0.905
+        },
+        {
+          "word": "am",
+          "start": 45.528,
+          "end": 45.628,
+          "score": 0.663
+        },
+        {
+          "word": "65",
+          "start": 45.648,
+          "end": 46.87,
+          "score": 0.748
+        },
+        {
+          "word": "years",
+          "start": 47.27,
+          "end": 47.57,
+          "score": 0.694
+        },
+        {
+          "word": "of",
+          "start": 47.631,
+          "end": 47.671,
+          "score": 0.995
+        },
+        {
+          "word": "age.",
+          "start": 47.751,
+          "end": 47.971,
+          "score": 0.568
+        }
+      ]
+    },
+    {
+      "start": 50.434,
+      "end": 51.835,
+      "text": "And when did you leave Mexico?",
+      "words": [
+        {
+          "word": "And",
+          "start": 50.434,
+          "end": 50.514,
+          "score": 0.762
+        },
+        {
+          "word": "when",
+          "start": 50.554,
+          "end": 50.714,
+          "score": 0.717
+        },
+        {
+          "word": "did",
+          "start": 50.734,
+          "end": 50.874,
+          "score": 0.787
+        },
+        {
+          "word": "you",
+          "start": 50.914,
+          "end": 51.014,
+          "score": 0.919
+        },
+        {
+          "word": "leave",
+          "start": 51.074,
+          "end": 51.235,
+          "score": 0.671
+        },
+        {
+          "word": "Mexico?",
+          "start": 51.275,
+          "end": 51.835,
+          "score": 0.842
+        }
+      ]
+    },
+    {
+      "start": 52.476,
+      "end": 61.206,
+      "text": "We left Mexico sometime in the middle of 1913.",
+      "words": [
+        {
+          "word": "We",
+          "start": 52.476,
+          "end": 52.816,
+          "score": 0.944
+        },
+        {
+          "word": "left",
+          "start": 53.197,
+          "end": 53.437,
+          "score": 0.956
+        },
+        {
+          "word": "Mexico",
+          "start": 53.577,
+          "end": 54.298,
+          "score": 0.93
+        },
+        {
+          "word": "sometime",
+          "start": 55.52,
+          "end": 56.28,
+          "score": 0.954
+        },
+        {
+          "word": "in",
+          "start": 56.501,
+          "end": 56.601,
+          "score": 0.704
+        },
+        {
+          "word": "the",
+          "start": 56.681,
+          "end": 56.761,
+          "score": 0.972
+        },
+        {
+          "word": "middle",
+          "start": 56.821,
+          "end": 57.141,
+          "score": 0.851
+        },
+        {
+          "word": "of",
+          "start": 57.542,
+          "end": 59.484,
+          "score": 0.945
+        },
+        {
+          "word": "1913.",
+          "start": 59.504,
+          "end": 61.206,
+          "score": 0.904
+        }
+      ]
+    },
+    {
+      "start": 64.105,
+      "end": 77.142,
+      "text": " We left Mexico from our point of origin, which was Santa Barbara, Chihuahua, Mexico.",
+      "words": [
+        {
+          "word": "We",
+          "start": 64.105,
+          "end": 67.67,
+          "score": 0.87
+        },
+        {
+          "word": "left",
+          "start": 67.85,
+          "end": 68.11,
+          "score": 0.863
+        },
+        {
+          "word": "Mexico",
+          "start": 68.551,
+          "end": 69.252,
+          "score": 0.96
+        },
+        {
+          "word": "from",
+          "start": 69.432,
+          "end": 69.692,
+          "score": 0.954
+        },
+        {
+          "word": "our",
+          "start": 69.712,
+          "end": 70.153,
+          "score": 0.798
+        },
+        {
+          "word": "point",
+          "start": 70.333,
+          "end": 70.713,
+          "score": 0.948
+        },
+        {
+          "word": "of",
+          "start": 70.854,
+          "end": 70.934,
+          "score": 0.964
+        },
+        {
+          "word": "origin,",
+          "start": 71.214,
+          "end": 71.715,
+          "score": 0.876
+        },
+        {
+          "word": "which",
+          "start": 71.835,
+          "end": 72.055,
+          "score": 0.766
+        },
+        {
+          "word": "was",
+          "start": 72.135,
+          "end": 72.275,
+          "score": 0.861
+        },
+        {
+          "word": "Santa",
+          "start": 72.356,
+          "end": 72.776,
+          "score": 0.95
+        },
+        {
+          "word": "Barbara,",
+          "start": 72.836,
+          "end": 73.397,
+          "score": 0.875
+        },
+        {
+          "word": "Chihuahua,",
+          "start": 74.118,
+          "end": 74.699,
+          "score": 0.422
+        },
+        {
+          "word": "Mexico.",
+          "start": 74.719,
+          "end": 77.142,
+          "score": 0.909
+        }
+      ]
+    },
+    {
+      "start": 77.162,
+      "end": 89.978,
+      "text": "My father had been a government, federal employee in the city of Santa Barbara.",
+      "words": [
+        {
+          "word": "My",
+          "start": 77.162,
+          "end": 77.322,
+          "score": 0.847
+        },
+        {
+          "word": "father",
+          "start": 77.442,
+          "end": 77.843,
+          "score": 0.925
+        },
+        {
+          "word": "had",
+          "start": 77.883,
+          "end": 78.063,
+          "score": 0.738
+        },
+        {
+          "word": "been",
+          "start": 78.163,
+          "end": 78.383,
+          "score": 0.743
+        },
+        {
+          "word": "a",
+          "start": 78.423,
+          "end": 78.443,
+          "score": 0.999
+        },
+        {
+          "word": "government,",
+          "start": 80.846,
+          "end": 81.387,
+          "score": 0.897
+        },
+        {
+          "word": "federal",
+          "start": 81.948,
+          "end": 82.468,
+          "score": 0.932
+        },
+        {
+          "word": "employee",
+          "start": 83.35,
+          "end": 84.191,
+          "score": 0.598
+        },
+        {
+          "word": "in",
+          "start": 87.815,
+          "end": 87.895,
+          "score": 0.932
+        },
+        {
+          "word": "the",
+          "start": 87.955,
+          "end": 88.056,
+          "score": 0.903
+        },
+        {
+          "word": "city",
+          "start": 88.116,
+          "end": 88.496,
+          "score": 0.934
+        },
+        {
+          "word": "of",
+          "start": 88.736,
+          "end": 88.817,
+          "score": 0.96
+        },
+        {
+          "word": "Santa",
+          "start": 88.937,
+          "end": 89.317,
+          "score": 0.95
+        },
+        {
+          "word": "Barbara.",
+          "start": 89.357,
+          "end": 89.978,
+          "score": 0.825
+        }
+      ]
+    },
+    {
+      "start": 91.645,
+      "end": 120.64,
+      "text": " and at the outbreak of the revolution he was branded as a uh things got a little dangerous for him so he fled from santa barbara to chihuahua incognito and from chihuahua it is",
+      "words": [
+        {
+          "word": "and",
+          "start": 91.645,
+          "end": 91.865,
+          "score": 0.702
+        },
+        {
+          "word": "at",
+          "start": 92.005,
+          "end": 92.106,
+          "score": 0.956
+        },
+        {
+          "word": "the",
+          "start": 92.146,
+          "end": 92.266,
+          "score": 0.904
+        },
+        {
+          "word": "outbreak",
+          "start": 92.406,
+          "end": 92.886,
+          "score": 0.944
+        },
+        {
+          "word": "of",
+          "start": 93.007,
+          "end": 93.127,
+          "score": 0.778
+        },
+        {
+          "word": "the",
+          "start": 93.167,
+          "end": 93.227,
+          "score": 0.177
+        },
+        {
+          "word": "revolution",
+          "start": 93.247,
+          "end": 94.088,
+          "score": 0.911
+        },
+        {
+          "word": "he",
+          "start": 95.369,
+          "end": 95.53,
+          "score": 0.885
+        },
+        {
+          "word": "was",
+          "start": 95.57,
+          "end": 95.73,
+          "score": 0.866
+        },
+        {
+          "word": "branded",
+          "start": 95.87,
+          "end": 96.391,
+          "score": 0.925
+        },
+        {
+          "word": "as",
+          "start": 96.671,
+          "end": 96.771,
+          "score": 0.898
+        },
+        {
+          "word": "a",
+          "start": 96.911,
+          "end": 96.991,
+          "score": 0.928
+        },
+        {
+          "word": "uh",
+          "start": 97.212,
+          "end": 98.393,
+          "score": 0.824
+        },
+        {
+          "word": "things",
+          "start": 103.519,
+          "end": 103.82,
+          "score": 0.804
+        },
+        {
+          "word": "got",
+          "start": 103.9,
+          "end": 104.14,
+          "score": 0.869
+        },
+        {
+          "word": "a",
+          "start": 104.26,
+          "end": 104.3,
+          "score": 0.878
+        },
+        {
+          "word": "little",
+          "start": 104.34,
+          "end": 104.641,
+          "score": 0.783
+        },
+        {
+          "word": "dangerous",
+          "start": 106.303,
+          "end": 106.943,
+          "score": 0.824
+        },
+        {
+          "word": "for",
+          "start": 107.104,
+          "end": 107.384,
+          "score": 0.899
+        },
+        {
+          "word": "him",
+          "start": 107.444,
+          "end": 107.724,
+          "score": 0.962
+        },
+        {
+          "word": "so",
+          "start": 109.346,
+          "end": 109.547,
+          "score": 0.995
+        },
+        {
+          "word": "he",
+          "start": 109.667,
+          "end": 109.807,
+          "score": 0.94
+        },
+        {
+          "word": "fled",
+          "start": 109.947,
+          "end": 110.328,
+          "score": 0.806
+        },
+        {
+          "word": "from",
+          "start": 110.368,
+          "end": 111.749,
+          "score": 0.861
+        },
+        {
+          "word": "santa",
+          "start": 111.869,
+          "end": 112.33,
+          "score": 0.917
+        },
+        {
+          "word": "barbara",
+          "start": 112.37,
+          "end": 112.871,
+          "score": 0.776
+        },
+        {
+          "word": "to",
+          "start": 113.672,
+          "end": 113.892,
+          "score": 0.944
+        },
+        {
+          "word": "chihuahua",
+          "start": 113.952,
+          "end": 114.713,
+          "score": 0.519
+        },
+        {
+          "word": "incognito",
+          "start": 115.434,
+          "end": 117.396,
+          "score": 0.516
+        },
+        {
+          "word": "and",
+          "start": 117.416,
+          "end": 117.516,
+          "score": 0.843
+        },
+        {
+          "word": "from",
+          "start": 117.616,
+          "end": 117.917,
+          "score": 0.85
+        },
+        {
+          "word": "chihuahua",
+          "start": 117.937,
+          "end": 118.658,
+          "score": 0.498
+        },
+        {
+          "word": "it",
+          "start": 120.34,
+          "end": 120.4,
+          "score": 0.908
+        },
+        {
+          "word": "is",
+          "start": 120.48,
+          "end": 120.64,
+          "score": 0.665
+        }
+      ]
+    },
+    {
+      "start": 120.957,
+      "end": 143.129,
+      "text": " believe that he left as far from Mexico as possible and I am under the impression that he finally reached his destination somewhere in Canada.",
+      "words": [
+        {
+          "word": "believe",
+          "start": 120.957,
+          "end": 121.438,
+          "score": 0.748
+        },
+        {
+          "word": "that",
+          "start": 121.738,
+          "end": 121.958,
+          "score": 0.814
+        },
+        {
+          "word": "he",
+          "start": 122.019,
+          "end": 122.179,
+          "score": 0.841
+        },
+        {
+          "word": "left",
+          "start": 122.219,
+          "end": 123.12,
+          "score": 0.641
+        },
+        {
+          "word": "as",
+          "start": 124.622,
+          "end": 124.682,
+          "score": 0.895
+        },
+        {
+          "word": "far",
+          "start": 124.783,
+          "end": 125.063,
+          "score": 0.896
+        },
+        {
+          "word": "from",
+          "start": 125.143,
+          "end": 126.064,
+          "score": 0.693
+        },
+        {
+          "word": "Mexico",
+          "start": 126.125,
+          "end": 126.645,
+          "score": 0.934
+        },
+        {
+          "word": "as",
+          "start": 126.806,
+          "end": 126.886,
+          "score": 0.56
+        },
+        {
+          "word": "possible",
+          "start": 127.006,
+          "end": 127.527,
+          "score": 0.818
+        },
+        {
+          "word": "and",
+          "start": 128.368,
+          "end": 128.468,
+          "score": 0.893
+        },
+        {
+          "word": "I",
+          "start": 128.508,
+          "end": 128.568,
+          "score": 0.045
+        },
+        {
+          "word": "am",
+          "start": 129.429,
+          "end": 129.509,
+          "score": 0.84
+        },
+        {
+          "word": "under",
+          "start": 129.59,
+          "end": 129.81,
+          "score": 0.916
+        },
+        {
+          "word": "the",
+          "start": 129.85,
+          "end": 129.95,
+          "score": 0.977
+        },
+        {
+          "word": "impression",
+          "start": 130.03,
+          "end": 130.631,
+          "score": 0.872
+        },
+        {
+          "word": "that",
+          "start": 130.671,
+          "end": 131.372,
+          "score": 0.947
+        },
+        {
+          "word": "he",
+          "start": 131.432,
+          "end": 131.592,
+          "score": 0.848
+        },
+        {
+          "word": "finally",
+          "start": 131.633,
+          "end": 132.454,
+          "score": 0.577
+        },
+        {
+          "word": "reached",
+          "start": 132.814,
+          "end": 133.115,
+          "score": 0.841
+        },
+        {
+          "word": "his",
+          "start": 133.175,
+          "end": 133.315,
+          "score": 0.715
+        },
+        {
+          "word": "destination",
+          "start": 133.375,
+          "end": 134.136,
+          "score": 0.935
+        },
+        {
+          "word": "somewhere",
+          "start": 134.236,
+          "end": 134.877,
+          "score": 0.42
+        },
+        {
+          "word": "in",
+          "start": 134.897,
+          "end": 134.937,
+          "score": 0.474
+        },
+        {
+          "word": "Canada.",
+          "start": 135.078,
+          "end": 143.129,
+          "score": 0.531
+        }
+      ]
+    },
+    {
+      "start": 143.149,
+      "end": 146.955,
+      "text": "Go on.",
+      "words": [
+        {
+          "word": "Go",
+          "start": 143.149,
+          "end": 143.189,
+          "score": 0.001
+        },
+        {
+          "word": "on.",
+          "start": 143.209,
+          "end": 146.955,
+          "score": 0.625
+        }
+      ]
+    },
+    {
+      "start": 147.155,
+      "end": 149.158,
+      "text": "Did you and your family go with him then?",
+      "words": [
+        {
+          "word": "Did",
+          "start": 147.155,
+          "end": 147.275,
+          "score": 0.699
+        },
+        {
+          "word": "you",
+          "start": 147.295,
+          "end": 147.456,
+          "score": 0.953
+        },
+        {
+          "word": "and",
+          "start": 147.496,
+          "end": 147.556,
+          "score": 0.688
+        },
+        {
+          "word": "your",
+          "start": 147.616,
+          "end": 147.736,
+          "score": 0.843
+        },
+        {
+          "word": "family",
+          "start": 147.776,
+          "end": 148.177,
+          "score": 0.567
+        },
+        {
+          "word": "go",
+          "start": 148.217,
+          "end": 148.357,
+          "score": 0.868
+        },
+        {
+          "word": "with",
+          "start": 148.397,
+          "end": 148.517,
+          "score": 0.43
+        },
+        {
+          "word": "him",
+          "start": 148.557,
+          "end": 148.998,
+          "score": 0.665
+        },
+        {
+          "word": "then?",
+          "start": 149.038,
+          "end": 149.158,
+          "score": 0.2
+        }
+      ]
+    },
+    {
+      "start": 149.375,
+      "end": 149.895,
+      "text": " No.",
+      "words": [
+        {
+          "word": "No.",
+          "start": 149.375,
+          "end": 149.895,
+          "score": 0.871
+        }
+      ]
+    },
+    {
+      "start": 152.458,
+      "end": 164.83,
+      "text": "He left the family all in the city of the town of Santa Barbara, Chihuahua.",
+      "words": [
+        {
+          "word": "He",
+          "start": 152.458,
+          "end": 152.598,
+          "score": 0.77
+        },
+        {
+          "word": "left",
+          "start": 152.678,
+          "end": 152.998,
+          "score": 0.886
+        },
+        {
+          "word": "the",
+          "start": 154.78,
+          "end": 154.9,
+          "score": 0.913
+        },
+        {
+          "word": "family",
+          "start": 154.94,
+          "end": 155.501,
+          "score": 0.927
+        },
+        {
+          "word": "all",
+          "start": 157.483,
+          "end": 157.683,
+          "score": 0.872
+        },
+        {
+          "word": "in",
+          "start": 157.863,
+          "end": 158.003,
+          "score": 0.98
+        },
+        {
+          "word": "the",
+          "start": 158.063,
+          "end": 158.143,
+          "score": 0.962
+        },
+        {
+          "word": "city",
+          "start": 158.243,
+          "end": 158.584,
+          "score": 0.926
+        },
+        {
+          "word": "of",
+          "start": 158.984,
+          "end": 159.084,
+          "score": 0.982
+        },
+        {
+          "word": "the",
+          "start": 159.144,
+          "end": 159.204,
+          "score": 0.835
+        },
+        {
+          "word": "town",
+          "start": 159.284,
+          "end": 159.605,
+          "score": 0.885
+        },
+        {
+          "word": "of",
+          "start": 159.725,
+          "end": 159.845,
+          "score": 0.934
+        },
+        {
+          "word": "Santa",
+          "start": 160.045,
+          "end": 160.385,
+          "score": 0.915
+        },
+        {
+          "word": "Barbara,",
+          "start": 160.425,
+          "end": 160.846,
+          "score": 0.804
+        },
+        {
+          "word": "Chihuahua.",
+          "start": 162.387,
+          "end": 164.83,
+          "score": 0.33
+        }
+      ]
+    },
+    {
+      "start": 165.07,
+      "end": 171.816,
+      "text": "And we had a home, a two-story home.",
+      "words": [
+        {
+          "word": "And",
+          "start": 165.07,
+          "end": 165.23,
+          "score": 0.571
+        },
+        {
+          "word": "we",
+          "start": 166.731,
+          "end": 166.871,
+          "score": 0.96
+        },
+        {
+          "word": "had",
+          "start": 166.932,
+          "end": 167.092,
+          "score": 0.805
+        },
+        {
+          "word": "a",
+          "start": 167.172,
+          "end": 167.212,
+          "score": 0.974
+        },
+        {
+          "word": "home,",
+          "start": 167.412,
+          "end": 167.712,
+          "score": 0.919
+        },
+        {
+          "word": "a",
+          "start": 169.013,
+          "end": 169.034,
+          "score": 0.0
+        },
+        {
+          "word": "two-story",
+          "start": 169.054,
+          "end": 169.714,
+          "score": 0.772
+        },
+        {
+          "word": "home.",
+          "start": 169.814,
+          "end": 171.816,
+          "score": 0.947
+        }
+      ]
+    },
+    {
+      "start": 171.836,
+      "end": 178.082,
+      "text": "And while he was away for some, it looked to me like it was years,",
+      "words": [
+        {
+          "word": "And",
+          "start": 171.836,
+          "end": 171.936,
+          "score": 0.876
+        },
+        {
+          "word": "while",
+          "start": 172.657,
+          "end": 172.857,
+          "score": 0.795
+        },
+        {
+          "word": "he",
+          "start": 172.917,
+          "end": 173.037,
+          "score": 0.938
+        },
+        {
+          "word": "was",
+          "start": 173.097,
+          "end": 173.318,
+          "score": 0.828
+        },
+        {
+          "word": "away",
+          "start": 173.358,
+          "end": 173.838,
+          "score": 0.859
+        },
+        {
+          "word": "for",
+          "start": 174.058,
+          "end": 174.178,
+          "score": 0.881
+        },
+        {
+          "word": "some,",
+          "start": 174.338,
+          "end": 175.5,
+          "score": 0.978
+        },
+        {
+          "word": "it",
+          "start": 175.52,
+          "end": 175.58,
+          "score": 0.73
+        },
+        {
+          "word": "looked",
+          "start": 175.64,
+          "end": 175.92,
+          "score": 0.851
+        },
+        {
+          "word": "to",
+          "start": 175.98,
+          "end": 176.12,
+          "score": 0.838
+        },
+        {
+          "word": "me",
+          "start": 176.16,
+          "end": 176.34,
+          "score": 0.994
+        },
+        {
+          "word": "like",
+          "start": 176.38,
+          "end": 176.561,
+          "score": 0.754
+        },
+        {
+          "word": "it",
+          "start": 176.641,
+          "end": 176.741,
+          "score": 0.776
+        },
+        {
+          "word": "was",
+          "start": 176.861,
+          "end": 176.921,
+          "score": 0.0
+        },
+        {
+          "word": "years,",
+          "start": 176.941,
+          "end": 178.082,
+          "score": 0.87
+        }
+      ]
+    },
+    {
+      "start": 178.703,
+      "end": 199.165,
+      "text": " We were penniless, poverty-stricken, and had to exist by converting the upper story of the house into a rooming house.",
+      "words": [
+        {
+          "word": "We",
+          "start": 178.703,
+          "end": 179.504,
+          "score": 0.916
+        },
+        {
+          "word": "were",
+          "start": 180.405,
+          "end": 180.845,
+          "score": 0.767
+        },
+        {
+          "word": "penniless,",
+          "start": 181.906,
+          "end": 182.467,
+          "score": 0.86
+        },
+        {
+          "word": "poverty-stricken,",
+          "start": 183.328,
+          "end": 185.31,
+          "score": 0.94
+        },
+        {
+          "word": "and",
+          "start": 185.33,
+          "end": 185.43,
+          "score": 0.99
+        },
+        {
+          "word": "had",
+          "start": 185.51,
+          "end": 185.771,
+          "score": 0.826
+        },
+        {
+          "word": "to",
+          "start": 185.851,
+          "end": 186.311,
+          "score": 0.906
+        },
+        {
+          "word": "exist",
+          "start": 190.676,
+          "end": 191.196,
+          "score": 0.962
+        },
+        {
+          "word": "by",
+          "start": 191.997,
+          "end": 192.217,
+          "score": 0.993
+        },
+        {
+          "word": "converting",
+          "start": 192.698,
+          "end": 193.379,
+          "score": 0.819
+        },
+        {
+          "word": "the",
+          "start": 193.399,
+          "end": 193.539,
+          "score": 0.805
+        },
+        {
+          "word": "upper",
+          "start": 193.759,
+          "end": 194.119,
+          "score": 0.746
+        },
+        {
+          "word": "story",
+          "start": 194.219,
+          "end": 194.78,
+          "score": 0.932
+        },
+        {
+          "word": "of",
+          "start": 195.941,
+          "end": 196.061,
+          "score": 0.981
+        },
+        {
+          "word": "the",
+          "start": 196.142,
+          "end": 196.242,
+          "score": 0.969
+        },
+        {
+          "word": "house",
+          "start": 196.322,
+          "end": 196.682,
+          "score": 0.898
+        },
+        {
+          "word": "into",
+          "start": 196.862,
+          "end": 197.303,
+          "score": 0.984
+        },
+        {
+          "word": "a",
+          "start": 198.204,
+          "end": 198.224,
+          "score": 0.001
+        },
+        {
+          "word": "rooming",
+          "start": 198.244,
+          "end": 198.724,
+          "score": 0.865
+        },
+        {
+          "word": "house.",
+          "start": 198.824,
+          "end": 199.165,
+          "score": 0.964
+        }
+      ]
+    },
+    {
+      "start": 200.526,
+      "end": 207.934,
+      "text": "There was a yard in the center of the house and a second yard",
+      "words": [
+        {
+          "word": "There",
+          "start": 200.526,
+          "end": 200.686,
+          "score": 0.897
+        },
+        {
+          "word": "was",
+          "start": 200.726,
+          "end": 200.907,
+          "score": 0.808
+        },
+        {
+          "word": "a",
+          "start": 200.927,
+          "end": 200.947,
+          "score": 1.0
+        },
+        {
+          "word": "yard",
+          "start": 201.307,
+          "end": 203.409,
+          "score": 0.942
+        },
+        {
+          "word": "in",
+          "start": 203.509,
+          "end": 203.589,
+          "score": 0.929
+        },
+        {
+          "word": "the",
+          "start": 203.629,
+          "end": 203.71,
+          "score": 0.961
+        },
+        {
+          "word": "center",
+          "start": 203.79,
+          "end": 204.19,
+          "score": 0.858
+        },
+        {
+          "word": "of",
+          "start": 204.35,
+          "end": 204.43,
+          "score": 0.998
+        },
+        {
+          "word": "the",
+          "start": 204.49,
+          "end": 204.61,
+          "score": 0.914
+        },
+        {
+          "word": "house",
+          "start": 204.811,
+          "end": 205.251,
+          "score": 0.908
+        },
+        {
+          "word": "and",
+          "start": 206.332,
+          "end": 206.452,
+          "score": 0.848
+        },
+        {
+          "word": "a",
+          "start": 206.813,
+          "end": 206.873,
+          "score": 0.905
+        },
+        {
+          "word": "second",
+          "start": 207.033,
+          "end": 207.454,
+          "score": 0.905
+        },
+        {
+          "word": "yard",
+          "start": 207.494,
+          "end": 207.934,
+          "score": 0.851
+        }
+      ]
+    },
+    {
+      "start": 208.336,
+      "end": 212.562,
+      "text": " to the rear that used to be called two patios.",
+      "words": [
+        {
+          "word": "to",
+          "start": 208.336,
+          "end": 208.556,
+          "score": 0.794
+        },
+        {
+          "word": "the",
+          "start": 208.616,
+          "end": 208.697,
+          "score": 0.961
+        },
+        {
+          "word": "rear",
+          "start": 208.777,
+          "end": 209.097,
+          "score": 0.913
+        },
+        {
+          "word": "that",
+          "start": 210.439,
+          "end": 210.559,
+          "score": 0.448
+        },
+        {
+          "word": "used",
+          "start": 210.66,
+          "end": 210.8,
+          "score": 0.902
+        },
+        {
+          "word": "to",
+          "start": 210.84,
+          "end": 210.9,
+          "score": 0.744
+        },
+        {
+          "word": "be",
+          "start": 210.96,
+          "end": 211.08,
+          "score": 0.99
+        },
+        {
+          "word": "called",
+          "start": 211.22,
+          "end": 211.521,
+          "score": 0.921
+        },
+        {
+          "word": "two",
+          "start": 211.641,
+          "end": 211.821,
+          "score": 0.885
+        },
+        {
+          "word": "patios.",
+          "start": 211.962,
+          "end": 212.562,
+          "score": 0.941
+        }
+      ]
+    },
+    {
+      "start": 213.804,
+      "end": 219.493,
+      "text": "One for the servants and the other ones for the members of the household.",
+      "words": [
+        {
+          "word": "One",
+          "start": 213.804,
+          "end": 213.925,
+          "score": 0.741
+        },
+        {
+          "word": "for",
+          "start": 213.985,
+          "end": 214.225,
+          "score": 0.875
+        },
+        {
+          "word": "the",
+          "start": 214.245,
+          "end": 214.305,
+          "score": 0.333
+        },
+        {
+          "word": "servants",
+          "start": 215.647,
+          "end": 216.108,
+          "score": 0.924
+        },
+        {
+          "word": "and",
+          "start": 216.228,
+          "end": 216.328,
+          "score": 0.819
+        },
+        {
+          "word": "the",
+          "start": 216.368,
+          "end": 216.448,
+          "score": 0.857
+        },
+        {
+          "word": "other",
+          "start": 216.569,
+          "end": 216.809,
+          "score": 0.689
+        },
+        {
+          "word": "ones",
+          "start": 216.829,
+          "end": 216.989,
+          "score": 0.708
+        },
+        {
+          "word": "for",
+          "start": 217.069,
+          "end": 217.29,
+          "score": 0.909
+        },
+        {
+          "word": "the",
+          "start": 217.35,
+          "end": 217.55,
+          "score": 0.827
+        },
+        {
+          "word": "members",
+          "start": 218.091,
+          "end": 218.451,
+          "score": 0.877
+        },
+        {
+          "word": "of",
+          "start": 218.552,
+          "end": 218.632,
+          "score": 0.89
+        },
+        {
+          "word": "the",
+          "start": 218.672,
+          "end": 218.752,
+          "score": 0.929
+        },
+        {
+          "word": "household.",
+          "start": 218.812,
+          "end": 219.493,
+          "score": 0.923
+        }
+      ]
+    },
+    {
+      "start": 223.219,
+      "end": 234.015,
+      "text": "Anyway, we managed to exist during the revolution by selling hierba buena.",
+      "words": [
+        {
+          "word": "Anyway,",
+          "start": 223.219,
+          "end": 223.74,
+          "score": 0.862
+        },
+        {
+          "word": "we",
+          "start": 223.78,
+          "end": 224.781,
+          "score": 0.943
+        },
+        {
+          "word": "managed",
+          "start": 224.821,
+          "end": 225.222,
+          "score": 0.794
+        },
+        {
+          "word": "to",
+          "start": 225.302,
+          "end": 225.422,
+          "score": 0.971
+        },
+        {
+          "word": "exist",
+          "start": 225.462,
+          "end": 226.003,
+          "score": 0.823
+        },
+        {
+          "word": "during",
+          "start": 226.083,
+          "end": 226.263,
+          "score": 0.462
+        },
+        {
+          "word": "the",
+          "start": 226.304,
+          "end": 226.364,
+          "score": 0.912
+        },
+        {
+          "word": "revolution",
+          "start": 226.444,
+          "end": 227.185,
+          "score": 0.937
+        },
+        {
+          "word": "by",
+          "start": 227.285,
+          "end": 227.565,
+          "score": 0.782
+        },
+        {
+          "word": "selling",
+          "start": 228.347,
+          "end": 228.807,
+          "score": 0.969
+        },
+        {
+          "word": "hierba",
+          "start": 230.53,
+          "end": 232.112,
+          "score": 0.692
+        },
+        {
+          "word": "buena.",
+          "start": 232.333,
+          "end": 234.015,
+          "score": 0.762
+        }
+      ]
+    },
+    {
+      "start": 234.035,
+      "end": 236.419,
+      "text": "We used to, there was a farm nearby",
+      "words": [
+        {
+          "word": "We",
+          "start": 234.035,
+          "end": 234.216,
+          "score": 0.798
+        },
+        {
+          "word": "used",
+          "start": 234.336,
+          "end": 234.516,
+          "score": 0.65
+        },
+        {
+          "word": "to,",
+          "start": 234.556,
+          "end": 234.676,
+          "score": 0.881
+        },
+        {
+          "word": "there",
+          "start": 234.736,
+          "end": 234.917,
+          "score": 0.485
+        },
+        {
+          "word": "was",
+          "start": 234.957,
+          "end": 235.077,
+          "score": 0.622
+        },
+        {
+          "word": "a",
+          "start": 235.117,
+          "end": 235.137,
+          "score": 0.31
+        },
+        {
+          "word": "farm",
+          "start": 235.297,
+          "end": 235.578,
+          "score": 0.818
+        },
+        {
+          "word": "nearby",
+          "start": 235.658,
+          "end": 236.419,
+          "score": 0.714
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "This",
+      "start": 1.6,
+      "end": 4.483,
+      "score": 0.738
+    },
+    {
+      "word": "is",
+      "start": 4.643,
+      "end": 4.743,
+      "score": 0.973
+    },
+    {
+      "word": "Marilee",
+      "start": 5.084,
+      "end": 5.884,
+      "score": 0.716
+    },
+    {
+      "word": "Nolan",
+      "start": 5.965,
+      "end": 6.665,
+      "score": 0.72
+    },
+    {
+      "word": "interviewing",
+      "start": 6.725,
+      "end": 8.868,
+      "score": 0.531
+    },
+    {
+      "word": "Frank",
+      "start": 8.928,
+      "end": 9.368,
+      "score": 0.624
+    },
+    {
+      "word": "Galvan.",
+      "start": 9.408,
+      "end": 10.409,
+      "score": 0.854
+    },
+    {
+      "word": "Where",
+      "start": 13.172,
+      "end": 13.352,
+      "score": 0.495
+    },
+    {
+      "word": "is",
+      "start": 13.372,
+      "end": 13.412,
+      "score": 0.243
+    },
+    {
+      "word": "your",
+      "start": 13.432,
+      "end": 13.693,
+      "score": 0.435
+    },
+    {
+      "word": "mic?",
+      "start": 13.713,
+      "end": 13.893,
+      "score": 0.736
+    },
+    {
+      "word": "You",
+      "start": 14.493,
+      "end": 14.553,
+      "score": 0.0
+    },
+    {
+      "word": "don't",
+      "start": 14.574,
+      "end": 14.754,
+      "score": 0.895
+    },
+    {
+      "word": "need",
+      "start": 14.794,
+      "end": 14.954,
+      "score": 0.7
+    },
+    {
+      "word": "one.",
+      "start": 15.074,
+      "end": 16.596,
+      "score": 0.638
+    },
+    {
+      "word": "It's",
+      "start": 16.616,
+      "end": 16.696,
+      "score": 0.002
+    },
+    {
+      "word": "right",
+      "start": 16.716,
+      "end": 16.816,
+      "score": 0.015
+    },
+    {
+      "word": "there.",
+      "start": 16.836,
+      "end": 17.036,
+      "score": 0.452
+    },
+    {
+      "word": "Very",
+      "start": 18.277,
+      "end": 18.438,
+      "score": 0.664
+    },
+    {
+      "word": "sensitive.",
+      "start": 18.478,
+      "end": 19.098,
+      "score": 0.576
+    },
+    {
+      "word": "All",
+      "start": 21.06,
+      "end": 21.12,
+      "score": 0.016
+    },
+    {
+      "word": "right,",
+      "start": 21.14,
+      "end": 21.341,
+      "score": 0.366
+    },
+    {
+      "word": "if",
+      "start": 21.361,
+      "end": 21.401,
+      "score": 0.32
+    },
+    {
+      "word": "you",
+      "start": 21.441,
+      "end": 21.621,
+      "score": 0.763
+    },
+    {
+      "word": "could",
+      "start": 21.661,
+      "end": 21.861,
+      "score": 0.526
+    },
+    {
+      "word": "begin",
+      "start": 21.921,
+      "end": 22.282,
+      "score": 0.922
+    },
+    {
+      "word": "with",
+      "start": 22.362,
+      "end": 22.502,
+      "score": 0.984
+    },
+    {
+      "word": "your",
+      "start": 22.542,
+      "end": 22.682,
+      "score": 0.854
+    },
+    {
+      "word": "name",
+      "start": 22.742,
+      "end": 23.042,
+      "score": 0.823
+    },
+    {
+      "word": "and",
+      "start": 23.062,
+      "end": 23.122,
+      "score": 0.333
+    },
+    {
+      "word": "where",
+      "start": 23.283,
+      "end": 23.483,
+      "score": 0.885
+    },
+    {
+      "word": "you",
+      "start": 23.503,
+      "end": 23.603,
+      "score": 0.874
+    },
+    {
+      "word": "were",
+      "start": 23.643,
+      "end": 23.783,
+      "score": 0.886
+    },
+    {
+      "word": "born,",
+      "start": 23.823,
+      "end": 24.164,
+      "score": 0.869
+    },
+    {
+      "word": "your",
+      "start": 24.204,
+      "end": 25.024,
+      "score": 0.684
+    },
+    {
+      "word": "age.",
+      "start": 25.225,
+      "end": 25.445,
+      "score": 0.894
+    },
+    {
+      "word": "My",
+      "start": 28.388,
+      "end": 28.508,
+      "score": 0.986
+    },
+    {
+      "word": "name",
+      "start": 28.568,
+      "end": 28.748,
+      "score": 0.704
+    },
+    {
+      "word": "is",
+      "start": 28.868,
+      "end": 28.928,
+      "score": 0.88
+    },
+    {
+      "word": "Frank",
+      "start": 29.029,
+      "end": 29.329,
+      "score": 0.973
+    },
+    {
+      "word": "J.",
+      "start": 29.789,
+      "end": 30.09,
+      "score": 0.698
+    },
+    {
+      "word": "Galvan,",
+      "start": 30.11,
+      "end": 30.911,
+      "score": 0.774
+    },
+    {
+      "word": "Jr.",
+      "start": 31.311,
+      "end": 31.371,
+      "score": 0.333
+    },
+    {
+      "word": "I",
+      "start": 32.313,
+      "end": 32.453,
+      "score": 0.857
+    },
+    {
+      "word": "was",
+      "start": 32.493,
+      "end": 32.613,
+      "score": 0.884
+    },
+    {
+      "word": "born",
+      "start": 32.693,
+      "end": 33.054,
+      "score": 0.836
+    },
+    {
+      "word": "in",
+      "start": 33.174,
+      "end": 33.254,
+      "score": 0.98
+    },
+    {
+      "word": "Santa",
+      "start": 33.354,
+      "end": 33.715,
+      "score": 0.943
+    },
+    {
+      "word": "Barbara,",
+      "start": 33.755,
+      "end": 34.275,
+      "score": 0.845
+    },
+    {
+      "word": "Chihuahua,",
+      "start": 34.495,
+      "end": 35.076,
+      "score": 0.609
+    },
+    {
+      "word": "Mexico",
+      "start": 35.096,
+      "end": 35.677,
+      "score": 0.747
+    },
+    {
+      "word": "on",
+      "start": 35.697,
+      "end": 35.737,
+      "score": 0.5
+    },
+    {
+      "word": "February",
+      "start": 36.878,
+      "end": 37.639,
+      "score": 0.845
+    },
+    {
+      "word": "the",
+      "start": 37.779,
+      "end": 37.999,
+      "score": 0.961
+    },
+    {
+      "word": "8th,",
+      "start": 38.34,
+      "end": 40.582,
+      "score": 0.869
+    },
+    {
+      "word": "the",
+      "start": 40.602,
+      "end": 40.763,
+      "score": 0.645
+    },
+    {
+      "word": "11th,",
+      "start": 40.783,
+      "end": 41.163,
+      "score": 0.723
+    },
+    {
+      "word": "1908.",
+      "start": 41.804,
+      "end": 43.045,
+      "score": 0.829
+    },
+    {
+      "word": "And",
+      "start": 44.987,
+      "end": 45.108,
+      "score": 0.87
+    },
+    {
+      "word": "I",
+      "start": 45.288,
+      "end": 45.388,
+      "score": 0.905
+    },
+    {
+      "word": "am",
+      "start": 45.528,
+      "end": 45.628,
+      "score": 0.663
+    },
+    {
+      "word": "65",
+      "start": 45.648,
+      "end": 46.87,
+      "score": 0.748
+    },
+    {
+      "word": "years",
+      "start": 47.27,
+      "end": 47.57,
+      "score": 0.694
+    },
+    {
+      "word": "of",
+      "start": 47.631,
+      "end": 47.671,
+      "score": 0.995
+    },
+    {
+      "word": "age.",
+      "start": 47.751,
+      "end": 47.971,
+      "score": 0.568
+    },
+    {
+      "word": "And",
+      "start": 50.434,
+      "end": 50.514,
+      "score": 0.762
+    },
+    {
+      "word": "when",
+      "start": 50.554,
+      "end": 50.714,
+      "score": 0.717
+    },
+    {
+      "word": "did",
+      "start": 50.734,
+      "end": 50.874,
+      "score": 0.787
+    },
+    {
+      "word": "you",
+      "start": 50.914,
+      "end": 51.014,
+      "score": 0.919
+    },
+    {
+      "word": "leave",
+      "start": 51.074,
+      "end": 51.235,
+      "score": 0.671
+    },
+    {
+      "word": "Mexico?",
+      "start": 51.275,
+      "end": 51.835,
+      "score": 0.842
+    },
+    {
+      "word": "We",
+      "start": 52.476,
+      "end": 52.816,
+      "score": 0.944
+    },
+    {
+      "word": "left",
+      "start": 53.197,
+      "end": 53.437,
+      "score": 0.956
+    },
+    {
+      "word": "Mexico",
+      "start": 53.577,
+      "end": 54.298,
+      "score": 0.93
+    },
+    {
+      "word": "sometime",
+      "start": 55.52,
+      "end": 56.28,
+      "score": 0.954
+    },
+    {
+      "word": "in",
+      "start": 56.501,
+      "end": 56.601,
+      "score": 0.704
+    },
+    {
+      "word": "the",
+      "start": 56.681,
+      "end": 56.761,
+      "score": 0.972
+    },
+    {
+      "word": "middle",
+      "start": 56.821,
+      "end": 57.141,
+      "score": 0.851
+    },
+    {
+      "word": "of",
+      "start": 57.542,
+      "end": 59.484,
+      "score": 0.945
+    },
+    {
+      "word": "1913.",
+      "start": 59.504,
+      "end": 61.206,
+      "score": 0.904
+    },
+    {
+      "word": "We",
+      "start": 64.105,
+      "end": 67.67,
+      "score": 0.87
+    },
+    {
+      "word": "left",
+      "start": 67.85,
+      "end": 68.11,
+      "score": 0.863
+    },
+    {
+      "word": "Mexico",
+      "start": 68.551,
+      "end": 69.252,
+      "score": 0.96
+    },
+    {
+      "word": "from",
+      "start": 69.432,
+      "end": 69.692,
+      "score": 0.954
+    },
+    {
+      "word": "our",
+      "start": 69.712,
+      "end": 70.153,
+      "score": 0.798
+    },
+    {
+      "word": "point",
+      "start": 70.333,
+      "end": 70.713,
+      "score": 0.948
+    },
+    {
+      "word": "of",
+      "start": 70.854,
+      "end": 70.934,
+      "score": 0.964
+    },
+    {
+      "word": "origin,",
+      "start": 71.214,
+      "end": 71.715,
+      "score": 0.876
+    },
+    {
+      "word": "which",
+      "start": 71.835,
+      "end": 72.055,
+      "score": 0.766
+    },
+    {
+      "word": "was",
+      "start": 72.135,
+      "end": 72.275,
+      "score": 0.861
+    },
+    {
+      "word": "Santa",
+      "start": 72.356,
+      "end": 72.776,
+      "score": 0.95
+    },
+    {
+      "word": "Barbara,",
+      "start": 72.836,
+      "end": 73.397,
+      "score": 0.875
+    },
+    {
+      "word": "Chihuahua,",
+      "start": 74.118,
+      "end": 74.699,
+      "score": 0.422
+    },
+    {
+      "word": "Mexico.",
+      "start": 74.719,
+      "end": 77.142,
+      "score": 0.909
+    },
+    {
+      "word": "My",
+      "start": 77.162,
+      "end": 77.322,
+      "score": 0.847
+    },
+    {
+      "word": "father",
+      "start": 77.442,
+      "end": 77.843,
+      "score": 0.925
+    },
+    {
+      "word": "had",
+      "start": 77.883,
+      "end": 78.063,
+      "score": 0.738
+    },
+    {
+      "word": "been",
+      "start": 78.163,
+      "end": 78.383,
+      "score": 0.743
+    },
+    {
+      "word": "a",
+      "start": 78.423,
+      "end": 78.443,
+      "score": 0.999
+    },
+    {
+      "word": "government,",
+      "start": 80.846,
+      "end": 81.387,
+      "score": 0.897
+    },
+    {
+      "word": "federal",
+      "start": 81.948,
+      "end": 82.468,
+      "score": 0.932
+    },
+    {
+      "word": "employee",
+      "start": 83.35,
+      "end": 84.191,
+      "score": 0.598
+    },
+    {
+      "word": "in",
+      "start": 87.815,
+      "end": 87.895,
+      "score": 0.932
+    },
+    {
+      "word": "the",
+      "start": 87.955,
+      "end": 88.056,
+      "score": 0.903
+    },
+    {
+      "word": "city",
+      "start": 88.116,
+      "end": 88.496,
+      "score": 0.934
+    },
+    {
+      "word": "of",
+      "start": 88.736,
+      "end": 88.817,
+      "score": 0.96
+    },
+    {
+      "word": "Santa",
+      "start": 88.937,
+      "end": 89.317,
+      "score": 0.95
+    },
+    {
+      "word": "Barbara.",
+      "start": 89.357,
+      "end": 89.978,
+      "score": 0.825
+    },
+    {
+      "word": "and",
+      "start": 91.645,
+      "end": 91.865,
+      "score": 0.702
+    },
+    {
+      "word": "at",
+      "start": 92.005,
+      "end": 92.106,
+      "score": 0.956
+    },
+    {
+      "word": "the",
+      "start": 92.146,
+      "end": 92.266,
+      "score": 0.904
+    },
+    {
+      "word": "outbreak",
+      "start": 92.406,
+      "end": 92.886,
+      "score": 0.944
+    },
+    {
+      "word": "of",
+      "start": 93.007,
+      "end": 93.127,
+      "score": 0.778
+    },
+    {
+      "word": "the",
+      "start": 93.167,
+      "end": 93.227,
+      "score": 0.177
+    },
+    {
+      "word": "revolution",
+      "start": 93.247,
+      "end": 94.088,
+      "score": 0.911
+    },
+    {
+      "word": "he",
+      "start": 95.369,
+      "end": 95.53,
+      "score": 0.885
+    },
+    {
+      "word": "was",
+      "start": 95.57,
+      "end": 95.73,
+      "score": 0.866
+    },
+    {
+      "word": "branded",
+      "start": 95.87,
+      "end": 96.391,
+      "score": 0.925
+    },
+    {
+      "word": "as",
+      "start": 96.671,
+      "end": 96.771,
+      "score": 0.898
+    },
+    {
+      "word": "a",
+      "start": 96.911,
+      "end": 96.991,
+      "score": 0.928
+    },
+    {
+      "word": "uh",
+      "start": 97.212,
+      "end": 98.393,
+      "score": 0.824
+    },
+    {
+      "word": "things",
+      "start": 103.519,
+      "end": 103.82,
+      "score": 0.804
+    },
+    {
+      "word": "got",
+      "start": 103.9,
+      "end": 104.14,
+      "score": 0.869
+    },
+    {
+      "word": "a",
+      "start": 104.26,
+      "end": 104.3,
+      "score": 0.878
+    },
+    {
+      "word": "little",
+      "start": 104.34,
+      "end": 104.641,
+      "score": 0.783
+    },
+    {
+      "word": "dangerous",
+      "start": 106.303,
+      "end": 106.943,
+      "score": 0.824
+    },
+    {
+      "word": "for",
+      "start": 107.104,
+      "end": 107.384,
+      "score": 0.899
+    },
+    {
+      "word": "him",
+      "start": 107.444,
+      "end": 107.724,
+      "score": 0.962
+    },
+    {
+      "word": "so",
+      "start": 109.346,
+      "end": 109.547,
+      "score": 0.995
+    },
+    {
+      "word": "he",
+      "start": 109.667,
+      "end": 109.807,
+      "score": 0.94
+    },
+    {
+      "word": "fled",
+      "start": 109.947,
+      "end": 110.328,
+      "score": 0.806
+    },
+    {
+      "word": "from",
+      "start": 110.368,
+      "end": 111.749,
+      "score": 0.861
+    },
+    {
+      "word": "santa",
+      "start": 111.869,
+      "end": 112.33,
+      "score": 0.917
+    },
+    {
+      "word": "barbara",
+      "start": 112.37,
+      "end": 112.871,
+      "score": 0.776
+    },
+    {
+      "word": "to",
+      "start": 113.672,
+      "end": 113.892,
+      "score": 0.944
+    },
+    {
+      "word": "chihuahua",
+      "start": 113.952,
+      "end": 114.713,
+      "score": 0.519
+    },
+    {
+      "word": "incognito",
+      "start": 115.434,
+      "end": 117.396,
+      "score": 0.516
+    },
+    {
+      "word": "and",
+      "start": 117.416,
+      "end": 117.516,
+      "score": 0.843
+    },
+    {
+      "word": "from",
+      "start": 117.616,
+      "end": 117.917,
+      "score": 0.85
+    },
+    {
+      "word": "chihuahua",
+      "start": 117.937,
+      "end": 118.658,
+      "score": 0.498
+    },
+    {
+      "word": "it",
+      "start": 120.34,
+      "end": 120.4,
+      "score": 0.908
+    },
+    {
+      "word": "is",
+      "start": 120.48,
+      "end": 120.64,
+      "score": 0.665
+    },
+    {
+      "word": "believe",
+      "start": 120.957,
+      "end": 121.438,
+      "score": 0.748
+    },
+    {
+      "word": "that",
+      "start": 121.738,
+      "end": 121.958,
+      "score": 0.814
+    },
+    {
+      "word": "he",
+      "start": 122.019,
+      "end": 122.179,
+      "score": 0.841
+    },
+    {
+      "word": "left",
+      "start": 122.219,
+      "end": 123.12,
+      "score": 0.641
+    },
+    {
+      "word": "as",
+      "start": 124.622,
+      "end": 124.682,
+      "score": 0.895
+    },
+    {
+      "word": "far",
+      "start": 124.783,
+      "end": 125.063,
+      "score": 0.896
+    },
+    {
+      "word": "from",
+      "start": 125.143,
+      "end": 126.064,
+      "score": 0.693
+    },
+    {
+      "word": "Mexico",
+      "start": 126.125,
+      "end": 126.645,
+      "score": 0.934
+    },
+    {
+      "word": "as",
+      "start": 126.806,
+      "end": 126.886,
+      "score": 0.56
+    },
+    {
+      "word": "possible",
+      "start": 127.006,
+      "end": 127.527,
+      "score": 0.818
+    },
+    {
+      "word": "and",
+      "start": 128.368,
+      "end": 128.468,
+      "score": 0.893
+    },
+    {
+      "word": "I",
+      "start": 128.508,
+      "end": 128.568,
+      "score": 0.045
+    },
+    {
+      "word": "am",
+      "start": 129.429,
+      "end": 129.509,
+      "score": 0.84
+    },
+    {
+      "word": "under",
+      "start": 129.59,
+      "end": 129.81,
+      "score": 0.916
+    },
+    {
+      "word": "the",
+      "start": 129.85,
+      "end": 129.95,
+      "score": 0.977
+    },
+    {
+      "word": "impression",
+      "start": 130.03,
+      "end": 130.631,
+      "score": 0.872
+    },
+    {
+      "word": "that",
+      "start": 130.671,
+      "end": 131.372,
+      "score": 0.947
+    },
+    {
+      "word": "he",
+      "start": 131.432,
+      "end": 131.592,
+      "score": 0.848
+    },
+    {
+      "word": "finally",
+      "start": 131.633,
+      "end": 132.454,
+      "score": 0.577
+    },
+    {
+      "word": "reached",
+      "start": 132.814,
+      "end": 133.115,
+      "score": 0.841
+    },
+    {
+      "word": "his",
+      "start": 133.175,
+      "end": 133.315,
+      "score": 0.715
+    },
+    {
+      "word": "destination",
+      "start": 133.375,
+      "end": 134.136,
+      "score": 0.935
+    },
+    {
+      "word": "somewhere",
+      "start": 134.236,
+      "end": 134.877,
+      "score": 0.42
+    },
+    {
+      "word": "in",
+      "start": 134.897,
+      "end": 134.937,
+      "score": 0.474
+    },
+    {
+      "word": "Canada.",
+      "start": 135.078,
+      "end": 143.129,
+      "score": 0.531
+    },
+    {
+      "word": "Go",
+      "start": 143.149,
+      "end": 143.189,
+      "score": 0.001
+    },
+    {
+      "word": "on.",
+      "start": 143.209,
+      "end": 146.955,
+      "score": 0.625
+    },
+    {
+      "word": "Did",
+      "start": 147.155,
+      "end": 147.275,
+      "score": 0.699
+    },
+    {
+      "word": "you",
+      "start": 147.295,
+      "end": 147.456,
+      "score": 0.953
+    },
+    {
+      "word": "and",
+      "start": 147.496,
+      "end": 147.556,
+      "score": 0.688
+    },
+    {
+      "word": "your",
+      "start": 147.616,
+      "end": 147.736,
+      "score": 0.843
+    },
+    {
+      "word": "family",
+      "start": 147.776,
+      "end": 148.177,
+      "score": 0.567
+    },
+    {
+      "word": "go",
+      "start": 148.217,
+      "end": 148.357,
+      "score": 0.868
+    },
+    {
+      "word": "with",
+      "start": 148.397,
+      "end": 148.517,
+      "score": 0.43
+    },
+    {
+      "word": "him",
+      "start": 148.557,
+      "end": 148.998,
+      "score": 0.665
+    },
+    {
+      "word": "then?",
+      "start": 149.038,
+      "end": 149.158,
+      "score": 0.2
+    },
+    {
+      "word": "No.",
+      "start": 149.375,
+      "end": 149.895,
+      "score": 0.871
+    },
+    {
+      "word": "He",
+      "start": 152.458,
+      "end": 152.598,
+      "score": 0.77
+    },
+    {
+      "word": "left",
+      "start": 152.678,
+      "end": 152.998,
+      "score": 0.886
+    },
+    {
+      "word": "the",
+      "start": 154.78,
+      "end": 154.9,
+      "score": 0.913
+    },
+    {
+      "word": "family",
+      "start": 154.94,
+      "end": 155.501,
+      "score": 0.927
+    },
+    {
+      "word": "all",
+      "start": 157.483,
+      "end": 157.683,
+      "score": 0.872
+    },
+    {
+      "word": "in",
+      "start": 157.863,
+      "end": 158.003,
+      "score": 0.98
+    },
+    {
+      "word": "the",
+      "start": 158.063,
+      "end": 158.143,
+      "score": 0.962
+    },
+    {
+      "word": "city",
+      "start": 158.243,
+      "end": 158.584,
+      "score": 0.926
+    },
+    {
+      "word": "of",
+      "start": 158.984,
+      "end": 159.084,
+      "score": 0.982
+    },
+    {
+      "word": "the",
+      "start": 159.144,
+      "end": 159.204,
+      "score": 0.835
+    },
+    {
+      "word": "town",
+      "start": 159.284,
+      "end": 159.605,
+      "score": 0.885
+    },
+    {
+      "word": "of",
+      "start": 159.725,
+      "end": 159.845,
+      "score": 0.934
+    },
+    {
+      "word": "Santa",
+      "start": 160.045,
+      "end": 160.385,
+      "score": 0.915
+    },
+    {
+      "word": "Barbara,",
+      "start": 160.425,
+      "end": 160.846,
+      "score": 0.804
+    },
+    {
+      "word": "Chihuahua.",
+      "start": 162.387,
+      "end": 164.83,
+      "score": 0.33
+    },
+    {
+      "word": "And",
+      "start": 165.07,
+      "end": 165.23,
+      "score": 0.571
+    },
+    {
+      "word": "we",
+      "start": 166.731,
+      "end": 166.871,
+      "score": 0.96
+    },
+    {
+      "word": "had",
+      "start": 166.932,
+      "end": 167.092,
+      "score": 0.805
+    },
+    {
+      "word": "a",
+      "start": 167.172,
+      "end": 167.212,
+      "score": 0.974
+    },
+    {
+      "word": "home,",
+      "start": 167.412,
+      "end": 167.712,
+      "score": 0.919
+    },
+    {
+      "word": "a",
+      "start": 169.013,
+      "end": 169.034,
+      "score": 0.0
+    },
+    {
+      "word": "two-story",
+      "start": 169.054,
+      "end": 169.714,
+      "score": 0.772
+    },
+    {
+      "word": "home.",
+      "start": 169.814,
+      "end": 171.816,
+      "score": 0.947
+    },
+    {
+      "word": "And",
+      "start": 171.836,
+      "end": 171.936,
+      "score": 0.876
+    },
+    {
+      "word": "while",
+      "start": 172.657,
+      "end": 172.857,
+      "score": 0.795
+    },
+    {
+      "word": "he",
+      "start": 172.917,
+      "end": 173.037,
+      "score": 0.938
+    },
+    {
+      "word": "was",
+      "start": 173.097,
+      "end": 173.318,
+      "score": 0.828
+    },
+    {
+      "word": "away",
+      "start": 173.358,
+      "end": 173.838,
+      "score": 0.859
+    },
+    {
+      "word": "for",
+      "start": 174.058,
+      "end": 174.178,
+      "score": 0.881
+    },
+    {
+      "word": "some,",
+      "start": 174.338,
+      "end": 175.5,
+      "score": 0.978
+    },
+    {
+      "word": "it",
+      "start": 175.52,
+      "end": 175.58,
+      "score": 0.73
+    },
+    {
+      "word": "looked",
+      "start": 175.64,
+      "end": 175.92,
+      "score": 0.851
+    },
+    {
+      "word": "to",
+      "start": 175.98,
+      "end": 176.12,
+      "score": 0.838
+    },
+    {
+      "word": "me",
+      "start": 176.16,
+      "end": 176.34,
+      "score": 0.994
+    },
+    {
+      "word": "like",
+      "start": 176.38,
+      "end": 176.561,
+      "score": 0.754
+    },
+    {
+      "word": "it",
+      "start": 176.641,
+      "end": 176.741,
+      "score": 0.776
+    },
+    {
+      "word": "was",
+      "start": 176.861,
+      "end": 176.921,
+      "score": 0.0
+    },
+    {
+      "word": "years,",
+      "start": 176.941,
+      "end": 178.082,
+      "score": 0.87
+    },
+    {
+      "word": "We",
+      "start": 178.703,
+      "end": 179.504,
+      "score": 0.916
+    },
+    {
+      "word": "were",
+      "start": 180.405,
+      "end": 180.845,
+      "score": 0.767
+    },
+    {
+      "word": "penniless,",
+      "start": 181.906,
+      "end": 182.467,
+      "score": 0.86
+    },
+    {
+      "word": "poverty-stricken,",
+      "start": 183.328,
+      "end": 185.31,
+      "score": 0.94
+    },
+    {
+      "word": "and",
+      "start": 185.33,
+      "end": 185.43,
+      "score": 0.99
+    },
+    {
+      "word": "had",
+      "start": 185.51,
+      "end": 185.771,
+      "score": 0.826
+    },
+    {
+      "word": "to",
+      "start": 185.851,
+      "end": 186.311,
+      "score": 0.906
+    },
+    {
+      "word": "exist",
+      "start": 190.676,
+      "end": 191.196,
+      "score": 0.962
+    },
+    {
+      "word": "by",
+      "start": 191.997,
+      "end": 192.217,
+      "score": 0.993
+    },
+    {
+      "word": "converting",
+      "start": 192.698,
+      "end": 193.379,
+      "score": 0.819
+    },
+    {
+      "word": "the",
+      "start": 193.399,
+      "end": 193.539,
+      "score": 0.805
+    },
+    {
+      "word": "upper",
+      "start": 193.759,
+      "end": 194.119,
+      "score": 0.746
+    },
+    {
+      "word": "story",
+      "start": 194.219,
+      "end": 194.78,
+      "score": 0.932
+    },
+    {
+      "word": "of",
+      "start": 195.941,
+      "end": 196.061,
+      "score": 0.981
+    },
+    {
+      "word": "the",
+      "start": 196.142,
+      "end": 196.242,
+      "score": 0.969
+    },
+    {
+      "word": "house",
+      "start": 196.322,
+      "end": 196.682,
+      "score": 0.898
+    },
+    {
+      "word": "into",
+      "start": 196.862,
+      "end": 197.303,
+      "score": 0.984
+    },
+    {
+      "word": "a",
+      "start": 198.204,
+      "end": 198.224,
+      "score": 0.001
+    },
+    {
+      "word": "rooming",
+      "start": 198.244,
+      "end": 198.724,
+      "score": 0.865
+    },
+    {
+      "word": "house.",
+      "start": 198.824,
+      "end": 199.165,
+      "score": 0.964
+    },
+    {
+      "word": "There",
+      "start": 200.526,
+      "end": 200.686,
+      "score": 0.897
+    },
+    {
+      "word": "was",
+      "start": 200.726,
+      "end": 200.907,
+      "score": 0.808
+    },
+    {
+      "word": "a",
+      "start": 200.927,
+      "end": 200.947,
+      "score": 1.0
+    },
+    {
+      "word": "yard",
+      "start": 201.307,
+      "end": 203.409,
+      "score": 0.942
+    },
+    {
+      "word": "in",
+      "start": 203.509,
+      "end": 203.589,
+      "score": 0.929
+    },
+    {
+      "word": "the",
+      "start": 203.629,
+      "end": 203.71,
+      "score": 0.961
+    },
+    {
+      "word": "center",
+      "start": 203.79,
+      "end": 204.19,
+      "score": 0.858
+    },
+    {
+      "word": "of",
+      "start": 204.35,
+      "end": 204.43,
+      "score": 0.998
+    },
+    {
+      "word": "the",
+      "start": 204.49,
+      "end": 204.61,
+      "score": 0.914
+    },
+    {
+      "word": "house",
+      "start": 204.811,
+      "end": 205.251,
+      "score": 0.908
+    },
+    {
+      "word": "and",
+      "start": 206.332,
+      "end": 206.452,
+      "score": 0.848
+    },
+    {
+      "word": "a",
+      "start": 206.813,
+      "end": 206.873,
+      "score": 0.905
+    },
+    {
+      "word": "second",
+      "start": 207.033,
+      "end": 207.454,
+      "score": 0.905
+    },
+    {
+      "word": "yard",
+      "start": 207.494,
+      "end": 207.934,
+      "score": 0.851
+    },
+    {
+      "word": "to",
+      "start": 208.336,
+      "end": 208.556,
+      "score": 0.794
+    },
+    {
+      "word": "the",
+      "start": 208.616,
+      "end": 208.697,
+      "score": 0.961
+    },
+    {
+      "word": "rear",
+      "start": 208.777,
+      "end": 209.097,
+      "score": 0.913
+    },
+    {
+      "word": "that",
+      "start": 210.439,
+      "end": 210.559,
+      "score": 0.448
+    },
+    {
+      "word": "used",
+      "start": 210.66,
+      "end": 210.8,
+      "score": 0.902
+    },
+    {
+      "word": "to",
+      "start": 210.84,
+      "end": 210.9,
+      "score": 0.744
+    },
+    {
+      "word": "be",
+      "start": 210.96,
+      "end": 211.08,
+      "score": 0.99
+    },
+    {
+      "word": "called",
+      "start": 211.22,
+      "end": 211.521,
+      "score": 0.921
+    },
+    {
+      "word": "two",
+      "start": 211.641,
+      "end": 211.821,
+      "score": 0.885
+    },
+    {
+      "word": "patios.",
+      "start": 211.962,
+      "end": 212.562,
+      "score": 0.941
+    },
+    {
+      "word": "One",
+      "start": 213.804,
+      "end": 213.925,
+      "score": 0.741
+    },
+    {
+      "word": "for",
+      "start": 213.985,
+      "end": 214.225,
+      "score": 0.875
+    },
+    {
+      "word": "the",
+      "start": 214.245,
+      "end": 214.305,
+      "score": 0.333
+    },
+    {
+      "word": "servants",
+      "start": 215.647,
+      "end": 216.108,
+      "score": 0.924
+    },
+    {
+      "word": "and",
+      "start": 216.228,
+      "end": 216.328,
+      "score": 0.819
+    },
+    {
+      "word": "the",
+      "start": 216.368,
+      "end": 216.448,
+      "score": 0.857
+    },
+    {
+      "word": "other",
+      "start": 216.569,
+      "end": 216.809,
+      "score": 0.689
+    },
+    {
+      "word": "ones",
+      "start": 216.829,
+      "end": 216.989,
+      "score": 0.708
+    },
+    {
+      "word": "for",
+      "start": 217.069,
+      "end": 217.29,
+      "score": 0.909
+    },
+    {
+      "word": "the",
+      "start": 217.35,
+      "end": 217.55,
+      "score": 0.827
+    },
+    {
+      "word": "members",
+      "start": 218.091,
+      "end": 218.451,
+      "score": 0.877
+    },
+    {
+      "word": "of",
+      "start": 218.552,
+      "end": 218.632,
+      "score": 0.89
+    },
+    {
+      "word": "the",
+      "start": 218.672,
+      "end": 218.752,
+      "score": 0.929
+    },
+    {
+      "word": "household.",
+      "start": 218.812,
+      "end": 219.493,
+      "score": 0.923
+    },
+    {
+      "word": "Anyway,",
+      "start": 223.219,
+      "end": 223.74,
+      "score": 0.862
+    },
+    {
+      "word": "we",
+      "start": 223.78,
+      "end": 224.781,
+      "score": 0.943
+    },
+    {
+      "word": "managed",
+      "start": 224.821,
+      "end": 225.222,
+      "score": 0.794
+    },
+    {
+      "word": "to",
+      "start": 225.302,
+      "end": 225.422,
+      "score": 0.971
+    },
+    {
+      "word": "exist",
+      "start": 225.462,
+      "end": 226.003,
+      "score": 0.823
+    },
+    {
+      "word": "during",
+      "start": 226.083,
+      "end": 226.263,
+      "score": 0.462
+    },
+    {
+      "word": "the",
+      "start": 226.304,
+      "end": 226.364,
+      "score": 0.912
+    },
+    {
+      "word": "revolution",
+      "start": 226.444,
+      "end": 227.185,
+      "score": 0.937
+    },
+    {
+      "word": "by",
+      "start": 227.285,
+      "end": 227.565,
+      "score": 0.782
+    },
+    {
+      "word": "selling",
+      "start": 228.347,
+      "end": 228.807,
+      "score": 0.969
+    },
+    {
+      "word": "hierba",
+      "start": 230.53,
+      "end": 232.112,
+      "score": 0.692
+    },
+    {
+      "word": "buena.",
+      "start": 232.333,
+      "end": 234.015,
+      "score": 0.762
+    },
+    {
+      "word": "We",
+      "start": 234.035,
+      "end": 234.216,
+      "score": 0.798
+    },
+    {
+      "word": "used",
+      "start": 234.336,
+      "end": 234.516,
+      "score": 0.65
+    },
+    {
+      "word": "to,",
+      "start": 234.556,
+      "end": 234.676,
+      "score": 0.881
+    },
+    {
+      "word": "there",
+      "start": 234.736,
+      "end": 234.917,
+      "score": 0.485
+    },
+    {
+      "word": "was",
+      "start": 234.957,
+      "end": 235.077,
+      "score": 0.622
+    },
+    {
+      "word": "a",
+      "start": 235.117,
+      "end": 235.137,
+      "score": 0.31
+    },
+    {
+      "word": "farm",
+      "start": 235.297,
+      "end": 235.578,
+      "score": 0.818
+    },
+    {
+      "word": "nearby",
+      "start": 235.658,
+      "end": 236.419,
+      "score": 0.714
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.924,
+    "Neutral": 0.857,
+    "Bad": 0.72
+  }
+}
