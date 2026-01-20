@@ -1,0 +1,1524 @@
+{
+  "segments": [
+    {
+      "start": 4.267,
+      "end": 11.018,
+      "text": " January 20, number one, testing, testing, January 20, number one.",
+      "words": [
+        {
+          "word": "January",
+          "start": 4.267,
+          "end": 4.808,
+          "score": 0.92
+        },
+        {
+          "word": "20,",
+          "start": 4.828,
+          "end": 5.289,
+          "score": 0.815
+        },
+        {
+          "word": "number",
+          "start": 6.531,
+          "end": 6.811,
+          "score": 0.936
+        },
+        {
+          "word": "one,",
+          "start": 7.011,
+          "end": 7.172,
+          "score": 0.903
+        },
+        {
+          "word": "testing,",
+          "start": 7.953,
+          "end": 8.534,
+          "score": 0.924
+        },
+        {
+          "word": "testing,",
+          "start": 8.554,
+          "end": 9.055,
+          "score": 0.912
+        },
+        {
+          "word": "January",
+          "start": 9.175,
+          "end": 9.716,
+          "score": 0.747
+        },
+        {
+          "word": "20,",
+          "start": 9.736,
+          "end": 10.176,
+          "score": 0.754
+        },
+        {
+          "word": "number",
+          "start": 10.337,
+          "end": 10.677,
+          "score": 0.936
+        },
+        {
+          "word": "one.",
+          "start": 10.877,
+          "end": 11.018,
+          "score": 0.974
+        }
+      ]
+    },
+    {
+      "start": 26.582,
+      "end": 28.485,
+      "text": "Now it's January.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 26.582,
+          "end": 26.842,
+          "score": 0.977
+        },
+        {
+          "word": "it's",
+          "start": 26.943,
+          "end": 27.083,
+          "score": 0.787
+        },
+        {
+          "word": "January.",
+          "start": 27.143,
+          "end": 28.485,
+          "score": 0.82
+        }
+      ]
+    },
+    {
+      "start": 30.018,
+      "end": 35.608,
+      "text": " 2020, testing number two, January 20, testing two.",
+      "words": [
+        {
+          "word": "2020,",
+          "start": 30.018,
+          "end": 30.619,
+          "score": 0.876
+        },
+        {
+          "word": "testing",
+          "start": 31.34,
+          "end": 31.821,
+          "score": 0.879
+        },
+        {
+          "word": "number",
+          "start": 31.901,
+          "end": 32.222,
+          "score": 0.892
+        },
+        {
+          "word": "two,",
+          "start": 32.322,
+          "end": 32.603,
+          "score": 0.848
+        },
+        {
+          "word": "January",
+          "start": 32.783,
+          "end": 33.364,
+          "score": 0.695
+        },
+        {
+          "word": "20,",
+          "start": 33.384,
+          "end": 33.865,
+          "score": 0.819
+        },
+        {
+          "word": "testing",
+          "start": 33.905,
+          "end": 35.327,
+          "score": 0.861
+        },
+        {
+          "word": "two.",
+          "start": 35.388,
+          "end": 35.608,
+          "score": 0.847
+        }
+      ]
+    },
+    {
+      "start": 35.628,
+      "end": 50.775,
+      "text": "This is the 20th of January, looking out toward the east in the nice backyard of Bob Merrifield, checking and see how it's working.",
+      "words": [
+        {
+          "word": "This",
+          "start": 35.628,
+          "end": 41.218,
+          "score": 0.982
+        },
+        {
+          "word": "is",
+          "start": 41.378,
+          "end": 41.498,
+          "score": 0.797
+        },
+        {
+          "word": "the",
+          "start": 41.518,
+          "end": 41.659,
+          "score": 0.731
+        },
+        {
+          "word": "20th",
+          "start": 41.679,
+          "end": 42.039,
+          "score": 0.641
+        },
+        {
+          "word": "of",
+          "start": 42.079,
+          "end": 42.14,
+          "score": 0.711
+        },
+        {
+          "word": "January,",
+          "start": 42.18,
+          "end": 42.701,
+          "score": 0.798
+        },
+        {
+          "word": "looking",
+          "start": 42.741,
+          "end": 43.061,
+          "score": 0.923
+        },
+        {
+          "word": "out",
+          "start": 43.222,
+          "end": 43.322,
+          "score": 0.554
+        },
+        {
+          "word": "toward",
+          "start": 43.422,
+          "end": 43.662,
+          "score": 0.833
+        },
+        {
+          "word": "the",
+          "start": 43.702,
+          "end": 43.762,
+          "score": 0.957
+        },
+        {
+          "word": "east",
+          "start": 43.783,
+          "end": 44.163,
+          "score": 0.7
+        },
+        {
+          "word": "in",
+          "start": 44.283,
+          "end": 44.424,
+          "score": 0.774
+        },
+        {
+          "word": "the",
+          "start": 44.444,
+          "end": 44.504,
+          "score": 0.805
+        },
+        {
+          "word": "nice",
+          "start": 45.546,
+          "end": 45.786,
+          "score": 0.842
+        },
+        {
+          "word": "backyard",
+          "start": 45.866,
+          "end": 46.588,
+          "score": 0.823
+        },
+        {
+          "word": "of",
+          "start": 47.028,
+          "end": 47.088,
+          "score": 0.75
+        },
+        {
+          "word": "Bob",
+          "start": 47.169,
+          "end": 47.369,
+          "score": 0.939
+        },
+        {
+          "word": "Merrifield,",
+          "start": 47.429,
+          "end": 48.17,
+          "score": 0.707
+        },
+        {
+          "word": "checking",
+          "start": 48.892,
+          "end": 49.372,
+          "score": 0.853
+        },
+        {
+          "word": "and",
+          "start": 49.533,
+          "end": 49.613,
+          "score": 0.66
+        },
+        {
+          "word": "see",
+          "start": 49.673,
+          "end": 49.833,
+          "score": 0.71
+        },
+        {
+          "word": "how",
+          "start": 49.893,
+          "end": 50.034,
+          "score": 0.993
+        },
+        {
+          "word": "it's",
+          "start": 50.114,
+          "end": 50.254,
+          "score": 0.786
+        },
+        {
+          "word": "working.",
+          "start": 50.314,
+          "end": 50.775,
+          "score": 0.899
+        }
+      ]
+    },
+    {
+      "start": 50.915,
+      "end": 52.498,
+      "text": "And now, Bob, check yours out.",
+      "words": [
+        {
+          "word": "And",
+          "start": 50.915,
+          "end": 50.995,
+          "score": 0.812
+        },
+        {
+          "word": "now,",
+          "start": 51.055,
+          "end": 51.276,
+          "score": 0.88
+        },
+        {
+          "word": "Bob,",
+          "start": 51.376,
+          "end": 51.717,
+          "score": 0.955
+        },
+        {
+          "word": "check",
+          "start": 51.797,
+          "end": 52.037,
+          "score": 0.985
+        },
+        {
+          "word": "yours",
+          "start": 52.057,
+          "end": 52.298,
+          "score": 0.83
+        },
+        {
+          "word": "out.",
+          "start": 52.338,
+          "end": 52.498,
+          "score": 0.459
+        }
+      ]
+    },
+    {
+      "start": 56.748,
+      "end": 80.686,
+      "text": " Okay, this is another test of the microphone where I'm holding it directly in front of my mouth.",
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 56.748,
+          "end": 78.863,
+          "score": 0.457
+        },
+        {
+          "word": "this",
+          "start": 78.883,
+          "end": 78.963,
+          "score": 0.003
+        },
+        {
+          "word": "is",
+          "start": 78.983,
+          "end": 79.023,
+          "score": 0.003
+        },
+        {
+          "word": "another",
+          "start": 79.043,
+          "end": 79.184,
+          "score": 0.001
+        },
+        {
+          "word": "test",
+          "start": 79.204,
+          "end": 79.284,
+          "score": 0.003
+        },
+        {
+          "word": "of",
+          "start": 79.304,
+          "end": 79.344,
+          "score": 0.002
+        },
+        {
+          "word": "the",
+          "start": 79.364,
+          "end": 79.424,
+          "score": 0.003
+        },
+        {
+          "word": "microphone",
+          "start": 79.444,
+          "end": 79.644,
+          "score": 0.002
+        },
+        {
+          "word": "where",
+          "start": 79.664,
+          "end": 79.765,
+          "score": 0.002
+        },
+        {
+          "word": "I'm",
+          "start": 79.785,
+          "end": 79.845,
+          "score": 0.001
+        },
+        {
+          "word": "holding",
+          "start": 79.865,
+          "end": 80.005,
+          "score": 0.007
+        },
+        {
+          "word": "it",
+          "start": 80.025,
+          "end": 80.065,
+          "score": 0.004
+        },
+        {
+          "word": "directly",
+          "start": 80.085,
+          "end": 80.245,
+          "score": 0.005
+        },
+        {
+          "word": "in",
+          "start": 80.265,
+          "end": 80.305,
+          "score": 0.007
+        },
+        {
+          "word": "front",
+          "start": 80.326,
+          "end": 80.426,
+          "score": 0.011
+        },
+        {
+          "word": "of",
+          "start": 80.446,
+          "end": 80.486,
+          "score": 0.001
+        },
+        {
+          "word": "my",
+          "start": 80.506,
+          "end": 80.546,
+          "score": 0.007
+        },
+        {
+          "word": "mouth.",
+          "start": 80.566,
+          "end": 80.686,
+          "score": 0.005
+        }
+      ]
+    },
+    {
+      "start": 80.706,
+      "end": 81.287,
+      "text": "Let's see how this works now.",
+      "words": [
+        {
+          "word": "Let's",
+          "start": 80.706,
+          "end": 80.806,
+          "score": 0.002
+        },
+        {
+          "word": "see",
+          "start": 80.826,
+          "end": 80.886,
+          "score": 0.003
+        },
+        {
+          "word": "how",
+          "start": 80.906,
+          "end": 80.967,
+          "score": 0.001
+        },
+        {
+          "word": "this",
+          "start": 80.987,
+          "end": 81.067,
+          "score": 0.003
+        },
+        {
+          "word": "works",
+          "start": 81.087,
+          "end": 81.187,
+          "score": 0.002
+        },
+        {
+          "word": "now.",
+          "start": 81.207,
+          "end": 81.287,
+          "score": 0.244
+        }
+      ]
+    },
+    {
+      "start": 88.557,
+      "end": 90.842,
+      "text": " Okay, this is try number three.",
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 88.557,
+          "end": 89.078,
+          "score": 0.536
+        },
+        {
+          "word": "this",
+          "start": 89.118,
+          "end": 89.279,
+          "score": 0.971
+        },
+        {
+          "word": "is",
+          "start": 89.359,
+          "end": 89.419,
+          "score": 0.967
+        },
+        {
+          "word": "try",
+          "start": 89.439,
+          "end": 89.84,
+          "score": 0.865
+        },
+        {
+          "word": "number",
+          "start": 89.9,
+          "end": 90.281,
+          "score": 0.952
+        },
+        {
+          "word": "three.",
+          "start": 90.481,
+          "end": 90.842,
+          "score": 0.946
+        }
+      ]
+    },
+    {
+      "start": 90.902,
+      "end": 94.651,
+      "text": "Trying to see if it will work.",
+      "words": [
+        {
+          "word": "Trying",
+          "start": 90.902,
+          "end": 92.606,
+          "score": 0.795
+        },
+        {
+          "word": "to",
+          "start": 92.647,
+          "end": 92.687,
+          "score": 0.954
+        },
+        {
+          "word": "see",
+          "start": 92.787,
+          "end": 92.987,
+          "score": 0.861
+        },
+        {
+          "word": "if",
+          "start": 93.068,
+          "end": 93.148,
+          "score": 0.95
+        },
+        {
+          "word": "it",
+          "start": 93.328,
+          "end": 93.388,
+          "score": 0.922
+        },
+        {
+          "word": "will",
+          "start": 93.468,
+          "end": 93.689,
+          "score": 0.962
+        },
+        {
+          "word": "work.",
+          "start": 93.729,
+          "end": 94.651,
+          "score": 0.863
+        }
+      ]
+    },
+    {
+      "start": 94.671,
+      "end": 95.553,
+      "text": "Try that one, Bob.",
+      "words": [
+        {
+          "word": "Try",
+          "start": 94.671,
+          "end": 94.892,
+          "score": 0.931
+        },
+        {
+          "word": "that",
+          "start": 94.932,
+          "end": 95.072,
+          "score": 0.96
+        },
+        {
+          "word": "one,",
+          "start": 95.152,
+          "end": 95.253,
+          "score": 0.777
+        },
+        {
+          "word": "Bob.",
+          "start": 95.293,
+          "end": 95.553,
+          "score": 0.889
+        }
+      ]
+    },
+    {
+      "start": 96.255,
+      "end": 104.574,
+      "text": "Okay, this is another test of the system, and I'm holding the microphone directly in front of my mouth with my hand.",
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 96.255,
+          "end": 96.556,
+          "score": 0.566
+        },
+        {
+          "word": "this",
+          "start": 96.576,
+          "end": 96.756,
+          "score": 0.994
+        },
+        {
+          "word": "is",
+          "start": 96.856,
+          "end": 96.957,
+          "score": 0.819
+        },
+        {
+          "word": "another",
+          "start": 97.057,
+          "end": 97.398,
+          "score": 0.955
+        },
+        {
+          "word": "test",
+          "start": 97.478,
+          "end": 97.778,
+          "score": 0.91
+        },
+        {
+          "word": "of",
+          "start": 97.839,
+          "end": 97.899,
+          "score": 0.872
+        },
+        {
+          "word": "the",
+          "start": 97.959,
+          "end": 98.019,
+          "score": 0.987
+        },
+        {
+          "word": "system,",
+          "start": 98.099,
+          "end": 98.54,
+          "score": 0.914
+        },
+        {
+          "word": "and",
+          "start": 98.701,
+          "end": 98.801,
+          "score": 0.96
+        },
+        {
+          "word": "I'm",
+          "start": 98.941,
+          "end": 99.061,
+          "score": 0.972
+        },
+        {
+          "word": "holding",
+          "start": 99.342,
+          "end": 99.663,
+          "score": 0.92
+        },
+        {
+          "word": "the",
+          "start": 99.723,
+          "end": 99.783,
+          "score": 0.958
+        },
+        {
+          "word": "microphone",
+          "start": 99.843,
+          "end": 100.525,
+          "score": 0.853
+        },
+        {
+          "word": "directly",
+          "start": 100.565,
+          "end": 102.79,
+          "score": 0.872
+        },
+        {
+          "word": "in",
+          "start": 102.85,
+          "end": 102.91,
+          "score": 0.962
+        },
+        {
+          "word": "front",
+          "start": 102.971,
+          "end": 103.131,
+          "score": 0.773
+        },
+        {
+          "word": "of",
+          "start": 103.171,
+          "end": 103.211,
+          "score": 0.792
+        },
+        {
+          "word": "my",
+          "start": 103.291,
+          "end": 103.412,
+          "score": 0.966
+        },
+        {
+          "word": "mouth",
+          "start": 103.492,
+          "end": 103.752,
+          "score": 0.921
+        },
+        {
+          "word": "with",
+          "start": 103.813,
+          "end": 104.033,
+          "score": 0.337
+        },
+        {
+          "word": "my",
+          "start": 104.053,
+          "end": 104.213,
+          "score": 0.992
+        },
+        {
+          "word": "hand.",
+          "start": 104.274,
+          "end": 104.574,
+          "score": 0.817
+        }
+      ]
+    },
+    {
+      "start": 105.136,
+      "end": 106.178,
+      "text": "Let's see how this works.",
+      "words": [
+        {
+          "word": "Let's",
+          "start": 105.136,
+          "end": 105.236,
+          "score": 0.198
+        },
+        {
+          "word": "see",
+          "start": 105.296,
+          "end": 105.436,
+          "score": 0.849
+        },
+        {
+          "word": "how",
+          "start": 105.496,
+          "end": 105.597,
+          "score": 0.984
+        },
+        {
+          "word": "this",
+          "start": 105.657,
+          "end": 105.837,
+          "score": 0.806
+        },
+        {
+          "word": "works.",
+          "start": 105.897,
+          "end": 106.178,
+          "score": 0.655
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "January",
+      "start": 4.267,
+      "end": 4.808,
+      "score": 0.92
+    },
+    {
+      "word": "20,",
+      "start": 4.828,
+      "end": 5.289,
+      "score": 0.815
+    },
+    {
+      "word": "number",
+      "start": 6.531,
+      "end": 6.811,
+      "score": 0.936
+    },
+    {
+      "word": "one,",
+      "start": 7.011,
+      "end": 7.172,
+      "score": 0.903
+    },
+    {
+      "word": "testing,",
+      "start": 7.953,
+      "end": 8.534,
+      "score": 0.924
+    },
+    {
+      "word": "testing,",
+      "start": 8.554,
+      "end": 9.055,
+      "score": 0.912
+    },
+    {
+      "word": "January",
+      "start": 9.175,
+      "end": 9.716,
+      "score": 0.747
+    },
+    {
+      "word": "20,",
+      "start": 9.736,
+      "end": 10.176,
+      "score": 0.754
+    },
+    {
+      "word": "number",
+      "start": 10.337,
+      "end": 10.677,
+      "score": 0.936
+    },
+    {
+      "word": "one.",
+      "start": 10.877,
+      "end": 11.018,
+      "score": 0.974
+    },
+    {
+      "word": "Now",
+      "start": 26.582,
+      "end": 26.842,
+      "score": 0.977
+    },
+    {
+      "word": "it's",
+      "start": 26.943,
+      "end": 27.083,
+      "score": 0.787
+    },
+    {
+      "word": "January.",
+      "start": 27.143,
+      "end": 28.485,
+      "score": 0.82
+    },
+    {
+      "word": "2020,",
+      "start": 30.018,
+      "end": 30.619,
+      "score": 0.876
+    },
+    {
+      "word": "testing",
+      "start": 31.34,
+      "end": 31.821,
+      "score": 0.879
+    },
+    {
+      "word": "number",
+      "start": 31.901,
+      "end": 32.222,
+      "score": 0.892
+    },
+    {
+      "word": "two,",
+      "start": 32.322,
+      "end": 32.603,
+      "score": 0.848
+    },
+    {
+      "word": "January",
+      "start": 32.783,
+      "end": 33.364,
+      "score": 0.695
+    },
+    {
+      "word": "20,",
+      "start": 33.384,
+      "end": 33.865,
+      "score": 0.819
+    },
+    {
+      "word": "testing",
+      "start": 33.905,
+      "end": 35.327,
+      "score": 0.861
+    },
+    {
+      "word": "two.",
+      "start": 35.388,
+      "end": 35.608,
+      "score": 0.847
+    },
+    {
+      "word": "This",
+      "start": 35.628,
+      "end": 41.218,
+      "score": 0.982
+    },
+    {
+      "word": "is",
+      "start": 41.378,
+      "end": 41.498,
+      "score": 0.797
+    },
+    {
+      "word": "the",
+      "start": 41.518,
+      "end": 41.659,
+      "score": 0.731
+    },
+    {
+      "word": "20th",
+      "start": 41.679,
+      "end": 42.039,
+      "score": 0.641
+    },
+    {
+      "word": "of",
+      "start": 42.079,
+      "end": 42.14,
+      "score": 0.711
+    },
+    {
+      "word": "January,",
+      "start": 42.18,
+      "end": 42.701,
+      "score": 0.798
+    },
+    {
+      "word": "looking",
+      "start": 42.741,
+      "end": 43.061,
+      "score": 0.923
+    },
+    {
+      "word": "out",
+      "start": 43.222,
+      "end": 43.322,
+      "score": 0.554
+    },
+    {
+      "word": "toward",
+      "start": 43.422,
+      "end": 43.662,
+      "score": 0.833
+    },
+    {
+      "word": "the",
+      "start": 43.702,
+      "end": 43.762,
+      "score": 0.957
+    },
+    {
+      "word": "east",
+      "start": 43.783,
+      "end": 44.163,
+      "score": 0.7
+    },
+    {
+      "word": "in",
+      "start": 44.283,
+      "end": 44.424,
+      "score": 0.774
+    },
+    {
+      "word": "the",
+      "start": 44.444,
+      "end": 44.504,
+      "score": 0.805
+    },
+    {
+      "word": "nice",
+      "start": 45.546,
+      "end": 45.786,
+      "score": 0.842
+    },
+    {
+      "word": "backyard",
+      "start": 45.866,
+      "end": 46.588,
+      "score": 0.823
+    },
+    {
+      "word": "of",
+      "start": 47.028,
+      "end": 47.088,
+      "score": 0.75
+    },
+    {
+      "word": "Bob",
+      "start": 47.169,
+      "end": 47.369,
+      "score": 0.939
+    },
+    {
+      "word": "Merrifield,",
+      "start": 47.429,
+      "end": 48.17,
+      "score": 0.707
+    },
+    {
+      "word": "checking",
+      "start": 48.892,
+      "end": 49.372,
+      "score": 0.853
+    },
+    {
+      "word": "and",
+      "start": 49.533,
+      "end": 49.613,
+      "score": 0.66
+    },
+    {
+      "word": "see",
+      "start": 49.673,
+      "end": 49.833,
+      "score": 0.71
+    },
+    {
+      "word": "how",
+      "start": 49.893,
+      "end": 50.034,
+      "score": 0.993
+    },
+    {
+      "word": "it's",
+      "start": 50.114,
+      "end": 50.254,
+      "score": 0.786
+    },
+    {
+      "word": "working.",
+      "start": 50.314,
+      "end": 50.775,
+      "score": 0.899
+    },
+    {
+      "word": "And",
+      "start": 50.915,
+      "end": 50.995,
+      "score": 0.812
+    },
+    {
+      "word": "now,",
+      "start": 51.055,
+      "end": 51.276,
+      "score": 0.88
+    },
+    {
+      "word": "Bob,",
+      "start": 51.376,
+      "end": 51.717,
+      "score": 0.955
+    },
+    {
+      "word": "check",
+      "start": 51.797,
+      "end": 52.037,
+      "score": 0.985
+    },
+    {
+      "word": "yours",
+      "start": 52.057,
+      "end": 52.298,
+      "score": 0.83
+    },
+    {
+      "word": "out.",
+      "start": 52.338,
+      "end": 52.498,
+      "score": 0.459
+    },
+    {
+      "word": "Okay,",
+      "start": 56.748,
+      "end": 78.863,
+      "score": 0.457
+    },
+    {
+      "word": "this",
+      "start": 78.883,
+      "end": 78.963,
+      "score": 0.003
+    },
+    {
+      "word": "is",
+      "start": 78.983,
+      "end": 79.023,
+      "score": 0.003
+    },
+    {
+      "word": "another",
+      "start": 79.043,
+      "end": 79.184,
+      "score": 0.001
+    },
+    {
+      "word": "test",
+      "start": 79.204,
+      "end": 79.284,
+      "score": 0.003
+    },
+    {
+      "word": "of",
+      "start": 79.304,
+      "end": 79.344,
+      "score": 0.002
+    },
+    {
+      "word": "the",
+      "start": 79.364,
+      "end": 79.424,
+      "score": 0.003
+    },
+    {
+      "word": "microphone",
+      "start": 79.444,
+      "end": 79.644,
+      "score": 0.002
+    },
+    {
+      "word": "where",
+      "start": 79.664,
+      "end": 79.765,
+      "score": 0.002
+    },
+    {
+      "word": "I'm",
+      "start": 79.785,
+      "end": 79.845,
+      "score": 0.001
+    },
+    {
+      "word": "holding",
+      "start": 79.865,
+      "end": 80.005,
+      "score": 0.007
+    },
+    {
+      "word": "it",
+      "start": 80.025,
+      "end": 80.065,
+      "score": 0.004
+    },
+    {
+      "word": "directly",
+      "start": 80.085,
+      "end": 80.245,
+      "score": 0.005
+    },
+    {
+      "word": "in",
+      "start": 80.265,
+      "end": 80.305,
+      "score": 0.007
+    },
+    {
+      "word": "front",
+      "start": 80.326,
+      "end": 80.426,
+      "score": 0.011
+    },
+    {
+      "word": "of",
+      "start": 80.446,
+      "end": 80.486,
+      "score": 0.001
+    },
+    {
+      "word": "my",
+      "start": 80.506,
+      "end": 80.546,
+      "score": 0.007
+    },
+    {
+      "word": "mouth.",
+      "start": 80.566,
+      "end": 80.686,
+      "score": 0.005
+    },
+    {
+      "word": "Let's",
+      "start": 80.706,
+      "end": 80.806,
+      "score": 0.002
+    },
+    {
+      "word": "see",
+      "start": 80.826,
+      "end": 80.886,
+      "score": 0.003
+    },
+    {
+      "word": "how",
+      "start": 80.906,
+      "end": 80.967,
+      "score": 0.001
+    },
+    {
+      "word": "this",
+      "start": 80.987,
+      "end": 81.067,
+      "score": 0.003
+    },
+    {
+      "word": "works",
+      "start": 81.087,
+      "end": 81.187,
+      "score": 0.002
+    },
+    {
+      "word": "now.",
+      "start": 81.207,
+      "end": 81.287,
+      "score": 0.244
+    },
+    {
+      "word": "Okay,",
+      "start": 88.557,
+      "end": 89.078,
+      "score": 0.536
+    },
+    {
+      "word": "this",
+      "start": 89.118,
+      "end": 89.279,
+      "score": 0.971
+    },
+    {
+      "word": "is",
+      "start": 89.359,
+      "end": 89.419,
+      "score": 0.967
+    },
+    {
+      "word": "try",
+      "start": 89.439,
+      "end": 89.84,
+      "score": 0.865
+    },
+    {
+      "word": "number",
+      "start": 89.9,
+      "end": 90.281,
+      "score": 0.952
+    },
+    {
+      "word": "three.",
+      "start": 90.481,
+      "end": 90.842,
+      "score": 0.946
+    },
+    {
+      "word": "Trying",
+      "start": 90.902,
+      "end": 92.606,
+      "score": 0.795
+    },
+    {
+      "word": "to",
+      "start": 92.647,
+      "end": 92.687,
+      "score": 0.954
+    },
+    {
+      "word": "see",
+      "start": 92.787,
+      "end": 92.987,
+      "score": 0.861
+    },
+    {
+      "word": "if",
+      "start": 93.068,
+      "end": 93.148,
+      "score": 0.95
+    },
+    {
+      "word": "it",
+      "start": 93.328,
+      "end": 93.388,
+      "score": 0.922
+    },
+    {
+      "word": "will",
+      "start": 93.468,
+      "end": 93.689,
+      "score": 0.962
+    },
+    {
+      "word": "work.",
+      "start": 93.729,
+      "end": 94.651,
+      "score": 0.863
+    },
+    {
+      "word": "Try",
+      "start": 94.671,
+      "end": 94.892,
+      "score": 0.931
+    },
+    {
+      "word": "that",
+      "start": 94.932,
+      "end": 95.072,
+      "score": 0.96
+    },
+    {
+      "word": "one,",
+      "start": 95.152,
+      "end": 95.253,
+      "score": 0.777
+    },
+    {
+      "word": "Bob.",
+      "start": 95.293,
+      "end": 95.553,
+      "score": 0.889
+    },
+    {
+      "word": "Okay,",
+      "start": 96.255,
+      "end": 96.556,
+      "score": 0.566
+    },
+    {
+      "word": "this",
+      "start": 96.576,
+      "end": 96.756,
+      "score": 0.994
+    },
+    {
+      "word": "is",
+      "start": 96.856,
+      "end": 96.957,
+      "score": 0.819
+    },
+    {
+      "word": "another",
+      "start": 97.057,
+      "end": 97.398,
+      "score": 0.955
+    },
+    {
+      "word": "test",
+      "start": 97.478,
+      "end": 97.778,
+      "score": 0.91
+    },
+    {
+      "word": "of",
+      "start": 97.839,
+      "end": 97.899,
+      "score": 0.872
+    },
+    {
+      "word": "the",
+      "start": 97.959,
+      "end": 98.019,
+      "score": 0.987
+    },
+    {
+      "word": "system,",
+      "start": 98.099,
+      "end": 98.54,
+      "score": 0.914
+    },
+    {
+      "word": "and",
+      "start": 98.701,
+      "end": 98.801,
+      "score": 0.96
+    },
+    {
+      "word": "I'm",
+      "start": 98.941,
+      "end": 99.061,
+      "score": 0.972
+    },
+    {
+      "word": "holding",
+      "start": 99.342,
+      "end": 99.663,
+      "score": 0.92
+    },
+    {
+      "word": "the",
+      "start": 99.723,
+      "end": 99.783,
+      "score": 0.958
+    },
+    {
+      "word": "microphone",
+      "start": 99.843,
+      "end": 100.525,
+      "score": 0.853
+    },
+    {
+      "word": "directly",
+      "start": 100.565,
+      "end": 102.79,
+      "score": 0.872
+    },
+    {
+      "word": "in",
+      "start": 102.85,
+      "end": 102.91,
+      "score": 0.962
+    },
+    {
+      "word": "front",
+      "start": 102.971,
+      "end": 103.131,
+      "score": 0.773
+    },
+    {
+      "word": "of",
+      "start": 103.171,
+      "end": 103.211,
+      "score": 0.792
+    },
+    {
+      "word": "my",
+      "start": 103.291,
+      "end": 103.412,
+      "score": 0.966
+    },
+    {
+      "word": "mouth",
+      "start": 103.492,
+      "end": 103.752,
+      "score": 0.921
+    },
+    {
+      "word": "with",
+      "start": 103.813,
+      "end": 104.033,
+      "score": 0.337
+    },
+    {
+      "word": "my",
+      "start": 104.053,
+      "end": 104.213,
+      "score": 0.992
+    },
+    {
+      "word": "hand.",
+      "start": 104.274,
+      "end": 104.574,
+      "score": 0.817
+    },
+    {
+      "word": "Let's",
+      "start": 105.136,
+      "end": 105.236,
+      "score": 0.198
+    },
+    {
+      "word": "see",
+      "start": 105.296,
+      "end": 105.436,
+      "score": 0.849
+    },
+    {
+      "word": "how",
+      "start": 105.496,
+      "end": 105.597,
+      "score": 0.984
+    },
+    {
+      "word": "this",
+      "start": 105.657,
+      "end": 105.837,
+      "score": 0.806
+    },
+    {
+      "word": "works.",
+      "start": 105.897,
+      "end": 106.178,
+      "score": 0.655
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.924,
+    "Neutral": 0.823,
+    "Bad": 0.566
+  }
+}

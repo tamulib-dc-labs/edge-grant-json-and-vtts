@@ -1,0 +1,901 @@
+WEBVTT
+
+00:03.440 --> 00:20.773
+One of the things I can think of is that we were 
+trying to get a street maintenance program going,
+
+00:03.440 --> 00:20.773
+a renovation program, and I submitted it to Robert 
+and never never could get it could get it going that
+
+00:20.753 --> 00:38.712
+and the the landscape rejuvenation program was 
+another one that I think probably was landscape
+
+00:20.753 --> 00:38.712
+rejuvenation program I was trying I was trying to 
+get some this was to Cargill I remember now because
+
+00:20.753 --> 00:38.712
+they'd come out with saying that you could use the 
+available fund monies for this and that and all and
+
+00:39.788 --> 00:59.670
+so I'd been thinking about it and I sat down and 
+wrote up a, I don't know, probably a four or five
+
+00:39.788 --> 00:59.670
+page squib on why I cited some specific examples of 
+buildings and this kind of thing that we had to had
+
+01:00.815 --> 01:05.985
+to do as well as the irrigation stuff. We were 
+getting to the point where a lot of our irrigation
+
+01:06.025 --> 01:13.559
+systems needed renovation and we needed to go to 
+another control system. And one thing I might
+
+01:13.579 --> 01:18.368
+mention too that I'm kind of proud of, And as part of 
+all this development, the irrigation systems got
+
+01:20.305 --> 01:32.603
+to mounting up, and we got to the point that we had 
+more irrigation systems going than we could turn
+
+01:20.305 --> 01:32.603
+off when it rained. And Mike and I had talked about 
+some way to handle it, and he'd looked into see if
+
+01:33.905 --> 01:43.499
+there were anything available, and there wasn't 
+anything available readily on the market. And
+
+01:44.020 --> 01:49.688
+then one day, after one of our summers like this, 
+and hired vessels coming into work, And he was
+
+01:50.275 --> 01:55.543
+coming around the North Durham area and the 
+sprinklers were going and it was raining. And I got
+
+01:56.745 --> 01:57.566
+a call. And he said, cut the damn sprinklers off. 
+And I said, we are, Mr. Vestal. It takes about four
+
+02:02.854 --> 02:06.319
+man days to cut just to switch the things off. He 
+said, we need to fix that. And I said, we're working
+
+02:08.542 --> 02:09.524
+on it. So Goldwater and I got busy and we got to 
+talking about it. And we were talking to Motorola
+
+02:13.650 --> 02:18.477
+at the time about a new radio system, two-way. And 
+we got to talking to him a little bit more and and.
+
+02:24.497 --> 02:26.899
+And that's where Goldwater came in. I mean he he's 
+got a real inquisitive mind. And the upshot was
+
+02:31.344 --> 02:36.330
+that Motorola had developed a switch. That they 
+had installed on a number of residential hot water
+
+02:37.632 --> 02:42.677
+heaters. In Central Arkansas, some power grid or 
+power company over there. And they did that, and
+
+02:49.945 --> 02:56.540
+they kept, they would switch hot water heaters 
+randomly on and off, you know. And by doing that,
+
+02:58.104 --> 03:00.970
+they saved building a power plant. Okay. So we got 
+to talking about, well, could we take something
+
+03:02.514 --> 03:06.503
+like that, and incorporated in our existing 
+controllers and so we got to working with motorola
+
+03:07.259 --> 03:23.648
+folks and then got the toro folks came into it 
+because they had what they call their golf course
+
+03:07.259 --> 03:23.648
+control system which was a bank of i think six big 
+controllers Anyway, the upshot was we were able to
+
+03:23.628 --> 03:42.092
+take and modify our existing controllers and we 
+designed a console and board that had
+
+03:23.628 --> 03:42.092
+36 switches. Yeah. And I had 30 switches because we 
+got a radio system that was a non-voice control
+
+03:44.484 --> 03:58.663
+system and that would generate 30 coded tones. And 
+so the upshot was we would put a tone read and some
+
+03:58.981 --> 04:12.044
+relays in our existing, we did all this in-house in 
+our existing controllers, and then a radio switch
+
+03:58.981 --> 04:12.044
+up on that thing. And we could control, we got to the 
+point where we could, we had six master clocks, and
+
+04:12.064 --> 04:22.542
+we could, by a series of switches, we could control 
+switch it to one clock or another, switch it off or
+
+04:22.522 --> 04:51.786
+whatever, and we got to the point where we could 
+turn everything on remotely by radio, and if,
+
+04:22.522 --> 04:51.786
+let's say, and we put what we called a black box in 
+the physical plant radio room, so that if there was
+
+04:22.522 --> 04:51.786
+a fire or something of that nature, they could flip 
+a switch and in 30 seconds, all the extraneous
+
+04:22.522 --> 04:51.786
+water was off. And we had to use that when Penn State 
+came to play here because lightning knocked out
+
+04:51.766 --> 04:59.476
+every well in the well field. And all the water we 
+had was in the tower. But, and that ultimately
+
+05:04.742 --> 05:12.432
+became, Motorola and Total kept doing that, and 
+they've now got one that has feedback. I mean, it's
+
+05:12.492 --> 05:14.194
+got all kinds of bells and whistles. But that's 
+where all that got started. And ours was getting
+
+05:16.697 --> 05:19.581
+kind of old. We were trying to upgrade upgrade that 
+to you know much much better level but uh and we had
+
+05:21.803 --> 05:50.376
+it tied into a rain stat that we could set it for a 
+quarter half an inch and it would shut everything
+
+05:21.803 --> 05:50.376
+down automatically and that solved howard's 
+problem in comparison to the campus proper now i'm
+
+05:21.803 --> 05:50.376
+not talking about the ag experiment fields about 
+what percentage of the water usage as far as you
+
+05:21.803 --> 05:50.376
+know during those years was used in grounds 
+maintenance? How much water was used in flower
+
+05:54.944 --> 05:58.790
+beds and grass and trees? I think it was... 
+Compared to the rest of the campus usage? Probably
+
+06:05.199 --> 06:14.473
+about 40 percent, because I think, no about 30 
+percent, because I think we figured one time on on
+
+06:14.943 --> 06:23.315
+all of our tap valves and what it would run, and we 
+were using about a million gallons to a million and
+
+06:14.943 --> 06:23.315
+a half gallons every time we watered.
+
+06:26.400 --> 06:34.892
+How could we have done campus planning better from 
+the landscape, from the grounds maintenance?
+
+06:36.863 --> 06:46.234
+It would have been, I think, better if there had 
+been some more long-range stuff done so that you
+
+06:36.863 --> 06:46.234
+had, because so many of the master plans. Now, the 
+West Campus came about pretty good because
+
+06:47.215 --> 06:52.260
+Strickland-Rollins did a master plan. That was 
+followed reasonably well. But most of the other
+
+06:55.324 --> 06:59.549
+master plans kind of got put up on the shelf. And no 
+one was ever
+
+06:59.569 --> 07:05.976
+pushing to get it implemented, you know. Having 
+been here, having gotten here 41 years ago, I think
+
+07:06.614 --> 07:12.240
+this campus looks unplanned. It does. The 
+architecture is inconsistent. And Paul Stevens
+
+07:15.865 --> 07:18.848
+and I used to have some real hard arguments. I kept 
+saying, we need some continuity in buildings. He
+
+07:25.796 --> 07:27.358
+said, well, the architecture's dying. I said, 
+well, who the hell does he work for? You know. And it
+
+07:32.652 --> 07:39.139
+was about that time that at least they settled on a 
+consistent brick. That was a step. But no, I think
+
+07:42.182 --> 07:50.731
+there needed to be some planning standards. And 
+each architect got that, just like they got the Red
+
+07:51.052 --> 07:55.316
+Book. And these are your boundaries. And Paul 
+says, no, you can't give them boundaries. And I
+
+07:59.540 --> 08:05.026
+said, well, you can't let them build something 
+that's a monument to their own being. And that's
+
+08:06.347 --> 08:10.231
+essentially what's happened with a lot of the 
+buildings, I think. Typist, this also does need to
+
+08:10.251 --> 08:12.514
+be put in there. When I got to UT El Paso 20 years ago 
+right now, the architecture out there is copied
+
+08:13.014 --> 08:23.685
+after the little nation of Bhutan up in the 
+Himalayas near Nepal. Oh. building on the campus
+
+08:25.606 --> 08:30.592
+is that style. And one of my great accomplishments 
+was a new library building, $28 million. And the
+
+08:34.436 --> 08:45.389
+guidelines we gave to the architectural firm, the 
+first three principles were it must be Bhutanese,
+
+08:34.436 --> 08:45.389
+it must be Bhutanese, it must be Bhutanese. Then 
+next is we want as much building per dollar as we can
+
+08:45.409 --> 08:51.656
+get. And the next point is it must be expandable in 
+each of the four directions horizontally and it
+
+08:55.525 --> 09:00.531
+must be expandable vertically. Expandable 
+vertically. Yeah. Don't have to go down. You've
+
+09:02.894 --> 09:05.317
+got to go, because we don't know how libraries are 
+going. And we got a building including
+
+09:05.337 --> 09:09.743
+furnishings for $80 a square foot. Wow. And he 
+finished six months ahead of schedule. Wow. And it
+
+09:13.688 --> 09:14.849
+works superbly. Yeah. So it could be done. Let's 
+see. Among the realities that A&M, correct me if
+
+09:21.766 --> 09:35.619
+I'm wrong, among the realities that A&M must cope 
+with in terms of grounds maintenance and so forth
+
+09:21.766 --> 09:35.619
+is we do have one of the most difficult locations in 
+terms of oil and climate. Yes, without question. I
+
+09:37.822 --> 09:41.625
+know Bob Rucki said that's the reason they put A&M 
+here. But the soil is a problem and the water is an
+
+09:43.207 --> 09:47.571
+even bigger problem. and the soil can be with 
+organic matter and this kind of thing you can you
+
+09:47.922 --> 10:17.541
+can kind of work around that a little bit but the 
+water problem is you just got to wait on mother
+
+09:47.922 --> 10:17.541
+nature to leach it out as far as you know if we went 
+deeper for our water wells could we get better
+
+09:47.922 --> 10:17.541
+water that i don't know it would probably be hotter 
+i guess
+
+09:47.922 --> 10:17.541
+but i i really
+
+10:20.120 --> 10:25.088
+know I just don't know because I haven't been on in 
+on many of those many of those discussions. All
+
+10:27.231 --> 10:35.825
+right let's see now we're going to try to summarize 
+things of which you're great most proud most
+
+10:27.231 --> 10:35.825
+greatest successes.
+
+10:39.951 --> 10:43.056
+Oh I think that during all the real building and and 
+all like this is that we kept the campus looking
+
+10:43.728 --> 11:04.150
+looking very good and that we were able to i think 
+change some ideas particularly with the staff
+
+10:43.728 --> 11:04.150
+about you know and and create some um intensity 
+about hey this is looking good you know and it it
+
+11:06.425 --> 11:35.082
+it's something that grows it's it's like i 
+mentioned the garden area system you've got one
+
+11:06.425 --> 11:35.082
+real good garden over here another one over here 
+that's maybe not quite as good and he's always
+
+11:06.425 --> 11:35.082
+looking over there seeing what the other guy's 
+doing maybe i need to do that and that kind of thing
+
+11:06.425 --> 11:35.082
+and it's it's something that that that builds a 
+pride because when i got here our folks didn't have
+
+11:06.425 --> 11:35.082
+any pride They just, because they were afraid if 
+they did something, they'd get torn up. Examples
+
+11:41.912 --> 11:47.658
+you can remember where somebody bothered to take 
+the time to show some appreciation for the work
+
+11:41.912 --> 11:47.658
+y'all had done? Oh, yeah. I've got some nice notes 
+from people like O.D. Butler, some
+
+11:53.323 --> 12:04.073
+Howard Vestal's one, and there may be some from 
+some of the presidents. Perry Atkinson, you know,
+
+12:04.306 --> 12:09.695
+a number of folks like that. Any off-campus 
+visitors, notes or comments you remember? Yeah, I
+
+12:14.063 --> 12:15.425
+can't think of who. Governors?
+
+12:19.993 --> 12:24.640
+No, don't think we had any comments from any of the 
+governors. All right, now that causes me to think,
+
+12:25.322 --> 12:30.330
+did y'all have any involvement in the Bush Library 
+dream? a little bit I didn't have any involvement
+
+12:31.981 --> 12:58.528
+in uh... in the planning because that was in the Joe 
+Sugg era when I didn't get any looks at the reviews
+
+12:31.981 --> 12:58.528
+or anything like that but uh... the in the last 
+three months of that I lived out there because I was
+
+12:31.981 --> 12:58.528
+the liaison between uh... the contractor 
+facilities planning and the university as far as
+
+12:58.508 --> 13:04.597
+particularly outside and some of the inside, and I 
+was trying to help the Bush School. They were
+
+13:05.478 --> 13:06.921
+having problems with the building. That's 96, 97? 
+This, well, it was, no, it was 90, yeah, 97, 97,
+
+13:09.224 --> 13:15.994
+because it was... probably from july until the 
+building the building was dedicated and uh that's
+
+13:17.527 --> 13:45.778
+that's basically all i did is finally i went i went 
+to joe ester and i said look we've got to get this
+
+13:17.527 --> 13:45.778
+outside you need to give us a work order and tell the 
+contractor to scoot and he did and we got it ready
+
+13:17.527 --> 13:45.778
+you know for the dedication uh special moments 
+that you remember specific moments of joy, pride?
+
+13:52.874 --> 14:10.973
+I don't know when I look out and look at all the trees 
+that we planted and
+
+13:52.874 --> 14:10.973
+because probably every tree under 15 or 16 inches 
+in diameter
+
+14:14.750 --> 14:16.132
+been planted since 1973. And being able to, you 
+know, kind of delineate the campus and the streets
+
+14:18.475 --> 14:26.547
+and this kind of thing. I don't know, we always 
+tried to make the landscape as the, try and think of
+
+14:26.567 --> 14:42.090
+the term, kind of the glue that held everything 
+together, basically. as well as, you know, create
+
+14:43.285 --> 14:47.570
+a positive impression. And in a kind of a 
+sentimental link there, I heard Bob Rucker told me
+
+14:47.590 --> 15:00.103
+that he helped water the first trees out toward the 
+new East Gate when he was an undergraduate. Yeah.
+
+15:03.407 --> 15:07.371
+Low moments, sad moments? Oh, I guess when we were 
+suffering some budget cuts and then when the
+
+15:07.391 --> 15:12.617
+merger occurred. That was probably the worst. And 
+I guess one of the problems is I'd never had
+
+15:18.194 --> 15:21.359
+anything like that. I mean, that was totally new 
+ground, you know, because until,
+
+15:22.421 --> 15:37.508
+probably until, I believe after Robert took over a 
+little bit, but for 16 or 17 years, I had probably
+
+15:39.023 --> 15:45.422
+the best ground jobs in the country without any 
+question. And I would have, we had people from Tech
+
+15:47.444 --> 15:59.938
+and Oklahoma and several other schools that would 
+come to kind of see how we did it, you know. And they
+
+16:00.459 --> 16:09.489
+have, as an example, Tech and OU have now broken 
+their grounds out. And Randy Lacewell at OU
+
+16:09.509 --> 16:13.374
+reports directly to the president. He reports 
+directly to David Boren. He called me up and he
+
+16:16.756 --> 16:19.900
+said, he wants me to report directly to him. What am 
+I gonna do? I said, Randy, you can't beat that. I
+
+16:23.764 --> 16:25.887
+said, jump on it and run. He said, well, I just hope I 
+can outlast the physical plant man.
+
+16:32.594 --> 16:43.607
+Of all those years, to whom would you most want to 
+express appreciation if all of them were still
+
+16:32.594 --> 16:43.607
+alive and could be brought here? Probably would be 
+number one, Bob Rucker, and number two, Tom
+
+16:44.701 --> 16:48.086
+Cherry. You know, the rest of them were great, no 
+question about it. But those two... Put it into
+
+16:54.936 --> 16:56.038
+words, why? Well, without those two, I wouldn't 
+have been here. Just that simple. And without Bob
+
+17:00.725 --> 17:04.130
+Rucker, I wouldn't have been in this field. I don't 
+know what I'd be doing now. Did he help attract you
+
+17:06.033 --> 17:10.379
+to major in? No.
+
+17:14.654 --> 17:16.636
+They had a program. You know, I was a dumb kid from a 
+small town. And so everybody else was majoring in
+
+17:21.883 --> 17:26.869
+business, so I thought, hey, I will too, you know. 
+And so we had to take some science. And I'd grown up
+
+17:30.534 --> 17:34.519
+in a hatchery and feed store, and I had a small 
+nursery. and had done a lot of stuff on the side out
+
+17:34.803 --> 17:41.575
+of the little nursery area.
+
+17:43.679 --> 17:50.972
+So I started to register for
+
+17:43.679 --> 17:50.972
+classes, and you could take horticulture as a 
+science. Hey, I know a little bit about that, I'll
+
+17:52.623 --> 17:55.307
+do that. And then I found out that economics and I 
+didn't agree and so after the first semester I
+
+17:56.769 --> 18:09.028
+switched to horticulture and then Bob came and we I 
+had a class under him that I had landscape design
+
+18:09.008 --> 18:32.653
+and then I guess the last couple of years he was 
+there I worked myself and another friend of mine,
+
+18:09.008 --> 18:32.653
+we worked for him for registration and that was 
+neat because we got to pre-register, we got our
+
+18:09.008 --> 18:32.653
+classes like we wanted it, you know, as well as 
+making a little money too and all.
+
+18:33.832 --> 18:46.867
+That's kind of how I got over there, because my 
+mother was always a big garden clubber, and we'd
+
+18:33.832 --> 18:46.867
+had this little nursery, and I'd done a lot of yard 
+work and a lot of stuff like that. And I guess if it
+
+18:46.908 --> 18:52.574
+hadn't been for that, I'd still been trying to 
+major in business. I don't know.
+
+18:56.559 --> 19:00.323
+Let's make believe that you were hired as the 
+consultant to A&M today. Mm-hmm. If you were a
+
+19:00.933 --> 19:09.019
+consultant on the grounds maintenance 
+landscaping effort, what advice would you give
+
+19:00.933 --> 19:09.019
+them? Well, the first thing, they're going to have 
+to spend some money because you cannot keep adding
+
+19:10.383 --> 19:24.186
+acres and acres and acres and expect it to look 
+class A. Second thing they need to do is they need to
+
+19:24.286 --> 19:32.880
+develop some zones of maintenance. At one point in 
+time we had four, class A, B, C, and D. D being like
+
+19:32.860 --> 19:42.699
+roadways and infrequence and all like that. Class 
+A being MSC, rudder tower, president's home,
+
+19:42.739 --> 19:55.864
+library, administration building, the real 
+heart and core of the campus, that kind of thing.
+
+19:55.844 --> 20:02.413
+and that they need to do a little better job in their 
+training. One of the problems that I think they've
+
+20:02.733 --> 20:16.232
+experienced is that, and I probably shouldn't rag 
+on Joe Sugg, but his idea of a grounds maintenance
+
+20:02.733 --> 20:16.232
+was an old boy and a lawn mower to pick up. and what 
+one of the things that happened with our
+
+20:17.731 --> 20:43.435
+irrigation as an example he basically did away for 
+a while with the control system and every gardener
+
+20:17.731 --> 20:43.435
+was operating their own system and water was 
+coming on anywhere anytime and it was all getting
+
+20:17.731 --> 20:43.435
+screwed up and everything until finally they were 
+able to get a hold of it when i was in the director
+
+20:17.731 --> 20:43.435
+well mike and i got together and we got it going back 
+where we were using the automated system and only a
+
+20:43.887 --> 20:52.429
+few people did the programming because you just 
+can't you can't have 125 or 30 controllers and you
+
+20:52.848 --> 21:16.155
+know I mean it's just you might have every 
+controller in one corner of the campus go and then
+
+20:52.848 --> 21:16.155
+you don't have any water for the rest you know it 
+just because you can't distribute your water
+
+20:52.848 --> 21:16.155
+you're equalizing the distribution of your water 
+but uh now I think the money's that and people need
+
+20:52.848 --> 21:16.155
+to be educated that to do the job like people would 
+like it to be done, it's a costly endeavor, and it
+
+21:16.810 --> 21:25.078
+takes some trained people. You can't do it with 
+laboring folks. I mean, you need some of those, but
+
+21:28.701 --> 21:40.352
+you've got to have some other folks that have the 
+knowledge and expertise to do the scheduling and
+
+21:28.701 --> 21:40.352
+help the people and train them and this kind of 
+thing. Organizationally, it should report? It
+
+21:43.234 --> 21:45.216
+should report to the vice president. Vice 
+president. Yeah. And geographically, for what
+
+21:47.067 --> 21:54.537
+area should it be responsible?
+
+21:54.557 --> 21:56.059
+Basically everything outside the buildings? No, 
+no. Oh, any of the public here right now, I think
+
+21:59.504 --> 22:09.598
+they've got the responsibility of just about 
+everything from Texas Avenue to 2818. And that's
+
+22:11.654 --> 22:21.187
+all come about with Bush Library because see there 
+was a lot of area between the library and the
+
+22:11.654 --> 22:21.187
+research park that of necessity had to be. But they 
+have that, they have the research park now too.
+
+22:24.771 --> 22:24.891
+Yeah. Oh yeah, we've had the research park since 
+from the very beginning. At Easterwood Airport
+
+22:30.599 --> 22:31.921
+too. Uh-huh. And from the front of the terminal 
+building and out. Veterinary Medicine. I'm not
+
+22:39.550 --> 22:44.458
+sure how those are handled now, but I know at one 
+point in time we did. Another thing I'm proud of too
+
+22:44.498 --> 22:58.502
+is, I talked to Jerry about this, but after the 
+library came in and we see it was coming about, it
+
+22:44.498 --> 22:58.502
+appeared to me that we needed to protect some of the 
+area so I went up to Jerry and talked to him and asked
+
+22:59.191 --> 23:23.376
+him if he minded me working on some of this and I 
+talked to probably a dozen people on campus from
+
+22:59.191 --> 23:23.376
+dean of agriculture down to forest science, 
+horticulture, rain science, intramurals, rec
+
+22:59.191 --> 23:23.376
+sports and the upshot was And I gave it to Jerry, and 
+he took it to the board. We got the area along the
+
+23:26.760 --> 23:36.611
+creek from horticulture down through the library 
+set back, because I could just see some engineers
+
+23:26.760 --> 23:36.611
+saying, we can build across that. And my premise 
+was that it was time to hold something back for
+
+23:37.832 --> 23:47.963
+green area instead of taking it away. Would that be 
+an appropriate area for a kind of a natural? Yes, an
+
+23:52.152 --> 23:54.730
+arboretum and all like this. I mean, that would be 
+superb. Oh, yeah, yeah, and that's what, and I
+
+23:59.045 --> 24:20.076
+think they're beginning, I talked to Sam Cotner 
+the other day, and I think they're beginning to
+
+23:59.045 --> 24:20.076
+work on that, and I want to try to be involved in it, 
+because that's something that's really near and
+
+23:59.045 --> 24:20.076
+dear to me, because I think it'd be really great to 
+have something that you could take some kids out
+
+23:59.045 --> 24:20.076
+from a lecture and look at the real thing, or a 
+visitor coming to campus would like to look at a
+
+24:20.056 --> 24:31.527
+specific plant or something like this and see what 
+it really looks like in full living, breathing
+
+24:20.056 --> 24:31.527
+color, you know. But we're one of the few land grant 
+universities that does not have anything of that
+
+24:32.568 --> 24:41.356
+nature. And it's going to cost some money. But a lot 
+of it could be done from industry. where they would
+
+24:49.047 --> 24:55.395
+give and then give some maintenance subsidy and 
+this kind of thing, I think. But that took a lot of
+
+24:55.415 --> 25:01.282
+work, because I did the tree inventory for the 
+library. Joe Sugg came in to staff me one day, and he
+
+25:02.063 --> 25:14.599
+said, he turned to the assistant director that 
+Grounds reported to, and he said, I want you to send
+
+25:02.063 --> 25:14.599
+a gardener out there and identify all the trees. 
+And I said, I don't mean to interrupt, but you need
+
+25:15.777 --> 25:19.379
+somebody more than a gardener. And he said, well, 
+you're so damn smart, you go do it. I said, okay. It
+
+25:24.715 --> 25:25.636
+got me out of the office. Of course, it was in 
+August, about like it was now. But there's some
+
+25:28.700 --> 25:33.327
+magnificent trees and terrain down in there. It 
+could be, there are just a lot of things. Without a
+
+25:36.731 --> 25:46.604
+great deal of work, you know, there's water oaks 
+down there that big, monstrous trees. Is there
+
+25:48.127 --> 25:51.471
+some kind of natural spring that feeds that little 
+gullet? Oh, there's not any water that runs all the
+
+25:52.008 --> 25:54.131
+time? Well, most of it's drainage water from 
+campus because it comes all the way down from, in
+
+25:54.151 --> 26:15.061
+fact, that drainage way originates over
+
+25:54.151 --> 26:15.061
+east of, across the university and east of the 
+Entomology Field Lab. That's where it
+
+26:15.081 --> 26:20.509
+originates.
+
+26:20.529 --> 26:20.670
+Really? And I don't know whether you remember, but 
+before they built the med school, there was a huge
+
+26:22.957 --> 26:28.402
+gully that went down through there. And all that's 
+underground. In fact, the business or the med
+
+26:30.304 --> 26:40.754
+school library and the business school, they're 
+setting a straddle of those big box corporates, I
+
+26:30.304 --> 26:40.754
+think. Somebody the other day from off campus 
+tried to tell me that
+
+26:51.526 --> 26:53.909
+Wolfpin Creek drains there. No. Now, Wolfpin 
+Creek picks up about the library power plant and on
+
+26:55.130 --> 27:02.598
+down. Okay, I've got two questions. Somebody 
+walks up to you and gives you a million dollars, a
+
+27:07.663 --> 27:13.610
+million-dollar check with one restriction. You 
+must pass it on to Texas A&M, and you decide the
+
+27:13.690 --> 27:19.356
+purpose of the gift. What would you have to do with 
+it? It's pretty easy. A portion of it would go to the
+
+27:23.312 --> 27:27.637
+Greenway to get it started. And I think probably 
+some of it would go to help the grounds. And then I
+
+27:36.087 --> 27:43.255
+think there needs to be some scholarships endowed 
+for ornamental horticulture. And on what basis
+
+27:44.617 --> 27:49.022
+would the students in that major be selected?
+
+27:51.533 --> 27:55.841
+Oh, there would have to be some need involved, but 
+there'd also have to be some desire involved. You
+
+27:56.462 --> 28:00.209
+know, it's needs one thing and desires another 
+thing. If you can get the need and the desire
+
+28:00.269 --> 28:03.936
+together, the better. Because you would like if 
+someone goes to school, you know, and gets a degree
+
+28:04.697 --> 28:12.512
+that they're going to use it. Because I know I have 
+classmates that went into insurance and a lot of
+
+28:13.673 --> 28:22.421
+different things. They didn't use their degree, 
+and I think that's a waste. All right, now I've just
+
+28:27.626 --> 28:30.048
+got one question left. Have we not covered 
+something that you thought of in advance that we
+
+28:30.088 --> 28:33.932
+should have?
+
+28:36.734 --> 28:37.615
+I can't think of anything. I really can't. Last 
+question is, what feelings do you have in your
+
+28:39.216 --> 28:43.140
+heart for Texas A&M today? Well, I'm probably more 
+of an Aggie than I am a Red Raider. I've
+
+28:48.239 --> 28:59.796
+never seen a place where the former students 
+supported like they do. And I thought I'd seen that
+
+29:02.319 --> 29:04.943
+at Oklahoma. Of course, that was more for 
+football, I guess. But Aggies support it.
+
+29:14.508 --> 29:16.080
+There's just no argument about it.
+

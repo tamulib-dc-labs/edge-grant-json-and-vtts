@@ -1,0 +1,1764 @@
+{
+  "segments": [
+    {
+      "start": 1.651,
+      "end": 5.556,
+      "text": " So I told the freshman, I said, hey, fighter, won't you give him that bell back?",
+      "words": [
+        {
+          "word": "So",
+          "start": 1.651,
+          "end": 1.871,
+          "score": 0.618
+        },
+        {
+          "word": "I",
+          "start": 1.891,
+          "end": 1.971,
+          "score": 0.804
+        },
+        {
+          "word": "told",
+          "start": 2.011,
+          "end": 2.212,
+          "score": 0.75
+        },
+        {
+          "word": "the",
+          "start": 2.232,
+          "end": 2.292,
+          "score": 0.79
+        },
+        {
+          "word": "freshman,",
+          "start": 2.372,
+          "end": 2.752,
+          "score": 0.575
+        },
+        {
+          "word": "I",
+          "start": 2.772,
+          "end": 2.792,
+          "score": 0.019
+        },
+        {
+          "word": "said,",
+          "start": 2.813,
+          "end": 2.913,
+          "score": 0.404
+        },
+        {
+          "word": "hey,",
+          "start": 2.953,
+          "end": 3.113,
+          "score": 0.56
+        },
+        {
+          "word": "fighter,",
+          "start": 3.133,
+          "end": 3.433,
+          "score": 0.562
+        },
+        {
+          "word": "won't",
+          "start": 4.415,
+          "end": 4.555,
+          "score": 0.834
+        },
+        {
+          "word": "you",
+          "start": 4.595,
+          "end": 4.655,
+          "score": 0.741
+        },
+        {
+          "word": "give",
+          "start": 4.715,
+          "end": 4.815,
+          "score": 0.684
+        },
+        {
+          "word": "him",
+          "start": 4.835,
+          "end": 4.955,
+          "score": 0.389
+        },
+        {
+          "word": "that",
+          "start": 4.975,
+          "end": 5.055,
+          "score": 0.001
+        },
+        {
+          "word": "bell",
+          "start": 5.075,
+          "end": 5.256,
+          "score": 0.802
+        },
+        {
+          "word": "back?",
+          "start": 5.296,
+          "end": 5.556,
+          "score": 0.948
+        }
+      ]
+    },
+    {
+      "start": 5.596,
+      "end": 9.181,
+      "text": "And he said, sir, don't you think it'd be good and bold if we took this back to campus with us?",
+      "words": [
+        {
+          "word": "And",
+          "start": 5.596,
+          "end": 5.656,
+          "score": 0.639
+        },
+        {
+          "word": "he",
+          "start": 5.696,
+          "end": 5.776,
+          "score": 0.874
+        },
+        {
+          "word": "said,",
+          "start": 5.816,
+          "end": 6.357,
+          "score": 0.849
+        },
+        {
+          "word": "sir,",
+          "start": 6.417,
+          "end": 6.577,
+          "score": 0.725
+        },
+        {
+          "word": "don't",
+          "start": 6.617,
+          "end": 6.738,
+          "score": 0.245
+        },
+        {
+          "word": "you",
+          "start": 6.758,
+          "end": 6.818,
+          "score": 0.399
+        },
+        {
+          "word": "think",
+          "start": 6.858,
+          "end": 6.958,
+          "score": 0.185
+        },
+        {
+          "word": "it'd",
+          "start": 6.978,
+          "end": 7.058,
+          "score": 0.001
+        },
+        {
+          "word": "be",
+          "start": 7.078,
+          "end": 7.118,
+          "score": 0.381
+        },
+        {
+          "word": "good",
+          "start": 7.158,
+          "end": 7.258,
+          "score": 0.546
+        },
+        {
+          "word": "and",
+          "start": 7.278,
+          "end": 7.338,
+          "score": 0.306
+        },
+        {
+          "word": "bold",
+          "start": 7.378,
+          "end": 7.559,
+          "score": 0.578
+        },
+        {
+          "word": "if",
+          "start": 7.579,
+          "end": 7.619,
+          "score": 0.498
+        },
+        {
+          "word": "we",
+          "start": 7.639,
+          "end": 7.719,
+          "score": 0.931
+        },
+        {
+          "word": "took",
+          "start": 7.759,
+          "end": 7.899,
+          "score": 0.888
+        },
+        {
+          "word": "this",
+          "start": 7.939,
+          "end": 8.079,
+          "score": 0.751
+        },
+        {
+          "word": "back",
+          "start": 8.139,
+          "end": 8.32,
+          "score": 0.985
+        },
+        {
+          "word": "to",
+          "start": 8.36,
+          "end": 8.44,
+          "score": 0.868
+        },
+        {
+          "word": "campus",
+          "start": 8.48,
+          "end": 8.8,
+          "score": 0.733
+        },
+        {
+          "word": "with",
+          "start": 8.84,
+          "end": 9.021,
+          "score": 0.745
+        },
+        {
+          "word": "us?",
+          "start": 9.061,
+          "end": 9.181,
+          "score": 0.621
+        }
+      ]
+    },
+    {
+      "start": 9.201,
+      "end": 12.966,
+      "text": "I said, yeah, it would, but I think they really want that bell, so you give it back to them.",
+      "words": [
+        {
+          "word": "I",
+          "start": 9.201,
+          "end": 9.221,
+          "score": 0.001
+        },
+        {
+          "word": "said,",
+          "start": 9.241,
+          "end": 10.142,
+          "score": 0.349
+        },
+        {
+          "word": "yeah,",
+          "start": 10.162,
+          "end": 10.282,
+          "score": 0.35
+        },
+        {
+          "word": "it",
+          "start": 10.302,
+          "end": 10.382,
+          "score": 0.806
+        },
+        {
+          "word": "would,",
+          "start": 10.422,
+          "end": 10.643,
+          "score": 0.738
+        },
+        {
+          "word": "but",
+          "start": 10.703,
+          "end": 10.763,
+          "score": 0.004
+        },
+        {
+          "word": "I",
+          "start": 10.783,
+          "end": 10.803,
+          "score": 0.868
+        },
+        {
+          "word": "think",
+          "start": 10.823,
+          "end": 10.983,
+          "score": 0.843
+        },
+        {
+          "word": "they",
+          "start": 11.023,
+          "end": 11.163,
+          "score": 0.925
+        },
+        {
+          "word": "really",
+          "start": 11.223,
+          "end": 11.444,
+          "score": 0.856
+        },
+        {
+          "word": "want",
+          "start": 11.484,
+          "end": 11.684,
+          "score": 0.66
+        },
+        {
+          "word": "that",
+          "start": 11.704,
+          "end": 11.844,
+          "score": 0.668
+        },
+        {
+          "word": "bell,",
+          "start": 11.884,
+          "end": 12.065,
+          "score": 0.498
+        },
+        {
+          "word": "so",
+          "start": 12.085,
+          "end": 12.125,
+          "score": 0.487
+        },
+        {
+          "word": "you",
+          "start": 12.165,
+          "end": 12.285,
+          "score": 0.836
+        },
+        {
+          "word": "give",
+          "start": 12.325,
+          "end": 12.445,
+          "score": 0.918
+        },
+        {
+          "word": "it",
+          "start": 12.505,
+          "end": 12.545,
+          "score": 0.859
+        },
+        {
+          "word": "back",
+          "start": 12.585,
+          "end": 12.765,
+          "score": 0.978
+        },
+        {
+          "word": "to",
+          "start": 12.785,
+          "end": 12.826,
+          "score": 0.0
+        },
+        {
+          "word": "them.",
+          "start": 12.846,
+          "end": 12.966,
+          "score": 0.348
+        }
+      ]
+    },
+    {
+      "start": 12.986,
+      "end": 15.169,
+      "text": "And I could tell he was real disappointed in my manhood.",
+      "words": [
+        {
+          "word": "And",
+          "start": 12.986,
+          "end": 13.046,
+          "score": 0.165
+        },
+        {
+          "word": "I",
+          "start": 13.066,
+          "end": 13.106,
+          "score": 0.142
+        },
+        {
+          "word": "could",
+          "start": 13.126,
+          "end": 13.226,
+          "score": 0.002
+        },
+        {
+          "word": "tell",
+          "start": 13.246,
+          "end": 13.386,
+          "score": 0.613
+        },
+        {
+          "word": "he",
+          "start": 13.426,
+          "end": 13.506,
+          "score": 0.24
+        },
+        {
+          "word": "was",
+          "start": 13.526,
+          "end": 13.586,
+          "score": 0.001
+        },
+        {
+          "word": "real",
+          "start": 13.607,
+          "end": 13.807,
+          "score": 0.62
+        },
+        {
+          "word": "disappointed",
+          "start": 13.887,
+          "end": 14.408,
+          "score": 0.67
+        },
+        {
+          "word": "in",
+          "start": 14.428,
+          "end": 14.468,
+          "score": 0.003
+        },
+        {
+          "word": "my",
+          "start": 14.488,
+          "end": 14.648,
+          "score": 0.988
+        },
+        {
+          "word": "manhood.",
+          "start": 14.688,
+          "end": 15.169,
+          "score": 0.739
+        }
+      ]
+    },
+    {
+      "start": 16.53,
+      "end": 20.295,
+      "text": "But I thought that was the best thing to do under the circumstances, so we gave him the bell back.",
+      "words": [
+        {
+          "word": "But",
+          "start": 16.53,
+          "end": 16.691,
+          "score": 0.947
+        },
+        {
+          "word": "I",
+          "start": 16.771,
+          "end": 16.851,
+          "score": 0.964
+        },
+        {
+          "word": "thought",
+          "start": 16.891,
+          "end": 17.071,
+          "score": 0.835
+        },
+        {
+          "word": "that",
+          "start": 17.091,
+          "end": 17.171,
+          "score": 0.452
+        },
+        {
+          "word": "was",
+          "start": 17.211,
+          "end": 17.271,
+          "score": 0.897
+        },
+        {
+          "word": "the",
+          "start": 17.311,
+          "end": 17.371,
+          "score": 0.687
+        },
+        {
+          "word": "best",
+          "start": 17.411,
+          "end": 17.592,
+          "score": 0.816
+        },
+        {
+          "word": "thing",
+          "start": 17.652,
+          "end": 17.772,
+          "score": 0.344
+        },
+        {
+          "word": "to",
+          "start": 17.792,
+          "end": 17.852,
+          "score": 0.657
+        },
+        {
+          "word": "do",
+          "start": 17.912,
+          "end": 18.052,
+          "score": 0.978
+        },
+        {
+          "word": "under",
+          "start": 18.072,
+          "end": 18.192,
+          "score": 0.171
+        },
+        {
+          "word": "the",
+          "start": 18.233,
+          "end": 18.313,
+          "score": 0.868
+        },
+        {
+          "word": "circumstances,",
+          "start": 18.353,
+          "end": 19.154,
+          "score": 0.682
+        },
+        {
+          "word": "so",
+          "start": 19.174,
+          "end": 19.254,
+          "score": 0.411
+        },
+        {
+          "word": "we",
+          "start": 19.294,
+          "end": 19.374,
+          "score": 0.433
+        },
+        {
+          "word": "gave",
+          "start": 19.394,
+          "end": 19.554,
+          "score": 0.501
+        },
+        {
+          "word": "him",
+          "start": 19.574,
+          "end": 19.634,
+          "score": 0.274
+        },
+        {
+          "word": "the",
+          "start": 19.654,
+          "end": 19.714,
+          "score": 0.489
+        },
+        {
+          "word": "bell",
+          "start": 19.775,
+          "end": 19.995,
+          "score": 0.904
+        },
+        {
+          "word": "back.",
+          "start": 20.035,
+          "end": 20.295,
+          "score": 0.902
+        }
+      ]
+    },
+    {
+      "start": 20.976,
+      "end": 23.92,
+      "text": "But that was one of those memories you have.",
+      "words": [
+        {
+          "word": "But",
+          "start": 20.976,
+          "end": 21.417,
+          "score": 0.532
+        },
+        {
+          "word": "that",
+          "start": 21.457,
+          "end": 21.617,
+          "score": 0.812
+        },
+        {
+          "word": "was",
+          "start": 21.657,
+          "end": 21.777,
+          "score": 0.68
+        },
+        {
+          "word": "one",
+          "start": 21.917,
+          "end": 22.218,
+          "score": 0.394
+        },
+        {
+          "word": "of",
+          "start": 22.398,
+          "end": 22.438,
+          "score": 0.096
+        },
+        {
+          "word": "those",
+          "start": 22.458,
+          "end": 22.558,
+          "score": 0.037
+        },
+        {
+          "word": "memories",
+          "start": 22.578,
+          "end": 22.939,
+          "score": 0.881
+        },
+        {
+          "word": "you",
+          "start": 22.979,
+          "end": 23.099,
+          "score": 0.821
+        },
+        {
+          "word": "have.",
+          "start": 23.159,
+          "end": 23.92,
+          "score": 0.824
+        }
+      ]
+    },
+    {
+      "start": 23.94,
+      "end": 27.905,
+      "text": "I thought, oh, we're fixing to get pounded good here.",
+      "words": [
+        {
+          "word": "I",
+          "start": 23.94,
+          "end": 23.96,
+          "score": 0.003
+        },
+        {
+          "word": "thought,",
+          "start": 23.98,
+          "end": 24.2,
+          "score": 0.453
+        },
+        {
+          "word": "oh,",
+          "start": 24.26,
+          "end": 24.381,
+          "score": 0.563
+        },
+        {
+          "word": "we're",
+          "start": 24.761,
+          "end": 24.941,
+          "score": 0.579
+        },
+        {
+          "word": "fixing",
+          "start": 24.961,
+          "end": 25.282,
+          "score": 0.679
+        },
+        {
+          "word": "to",
+          "start": 25.662,
+          "end": 25.862,
+          "score": 0.493
+        },
+        {
+          "word": "get",
+          "start": 25.963,
+          "end": 26.203,
+          "score": 0.41
+        },
+        {
+          "word": "pounded",
+          "start": 26.403,
+          "end": 27.064,
+          "score": 0.684
+        },
+        {
+          "word": "good",
+          "start": 27.164,
+          "end": 27.625,
+          "score": 0.246
+        },
+        {
+          "word": "here.",
+          "start": 27.645,
+          "end": 27.905,
+          "score": 0.29
+        }
+      ]
+    },
+    {
+      "start": 27.925,
+      "end": 30.949,
+      "text": "They took the bell and went on their way, so thank goodness for that.",
+      "words": [
+        {
+          "word": "They",
+          "start": 27.925,
+          "end": 28.005,
+          "score": 0.25
+        },
+        {
+          "word": "took",
+          "start": 28.045,
+          "end": 28.185,
+          "score": 0.958
+        },
+        {
+          "word": "the",
+          "start": 28.225,
+          "end": 28.306,
+          "score": 0.761
+        },
+        {
+          "word": "bell",
+          "start": 28.326,
+          "end": 28.506,
+          "score": 0.71
+        },
+        {
+          "word": "and",
+          "start": 28.526,
+          "end": 28.606,
+          "score": 0.686
+        },
+        {
+          "word": "went",
+          "start": 28.626,
+          "end": 28.746,
+          "score": 0.614
+        },
+        {
+          "word": "on",
+          "start": 28.766,
+          "end": 28.866,
+          "score": 0.442
+        },
+        {
+          "word": "their",
+          "start": 28.886,
+          "end": 29.007,
+          "score": 0.292
+        },
+        {
+          "word": "way,",
+          "start": 29.047,
+          "end": 29.587,
+          "score": 0.69
+        },
+        {
+          "word": "so",
+          "start": 29.707,
+          "end": 29.908,
+          "score": 0.748
+        },
+        {
+          "word": "thank",
+          "start": 30.188,
+          "end": 30.308,
+          "score": 0.248
+        },
+        {
+          "word": "goodness",
+          "start": 30.328,
+          "end": 30.609,
+          "score": 0.531
+        },
+        {
+          "word": "for",
+          "start": 30.629,
+          "end": 30.749,
+          "score": 0.393
+        },
+        {
+          "word": "that.",
+          "start": 30.789,
+          "end": 30.949,
+          "score": 0.786
+        }
+      ]
+    },
+    {
+      "start": 32.414,
+      "end": 33.238,
+      "text": " It's now noon.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 32.414,
+          "end": 32.655,
+          "score": 0.831
+        },
+        {
+          "word": "now",
+          "start": 32.716,
+          "end": 32.876,
+          "score": 0.983
+        },
+        {
+          "word": "noon.",
+          "start": 32.917,
+          "end": 33.238,
+          "score": 0.868
+        }
+      ]
+    },
+    {
+      "start": 33.279,
+      "end": 33.962,
+      "text": "Let's quit.",
+      "words": [
+        {
+          "word": "Let's",
+          "start": 33.279,
+          "end": 33.48,
+          "score": 0.911
+        },
+        {
+          "word": "quit.",
+          "start": 33.6,
+          "end": 33.962,
+          "score": 0.925
+        }
+      ]
+    },
+    {
+      "start": 35.49,
+      "end": 38.145,
+      "text": "We're about two-thirds, three-fourths of the way through.",
+      "words": [
+        {
+          "word": "We're",
+          "start": 35.49,
+          "end": 35.671,
+          "score": 0.658
+        },
+        {
+          "word": "about",
+          "start": 35.692,
+          "end": 35.913,
+          "score": 0.9
+        },
+        {
+          "word": "two-thirds,",
+          "start": 36.013,
+          "end": 36.556,
+          "score": 0.721
+        },
+        {
+          "word": "three-fourths",
+          "start": 36.958,
+          "end": 37.441,
+          "score": 0.643
+        },
+        {
+          "word": "of",
+          "start": 37.461,
+          "end": 37.501,
+          "score": 0.204
+        },
+        {
+          "word": "the",
+          "start": 37.521,
+          "end": 37.582,
+          "score": 0.001
+        },
+        {
+          "word": "way",
+          "start": 37.602,
+          "end": 37.743,
+          "score": 0.976
+        },
+        {
+          "word": "through.",
+          "start": 37.843,
+          "end": 38.145,
+          "score": 0.765
+        }
+      ]
+    },
+    {
+      "start": 38.205,
+      "end": 40.095,
+      "text": "And let me come back.",
+      "words": [
+        {
+          "word": "And",
+          "start": 38.205,
+          "end": 38.949,
+          "score": 0.634
+        },
+        {
+          "word": "let",
+          "start": 38.989,
+          "end": 39.13,
+          "score": 0.744
+        },
+        {
+          "word": "me",
+          "start": 39.15,
+          "end": 39.251,
+          "score": 0.922
+        },
+        {
+          "word": "come",
+          "start": 39.331,
+          "end": 39.532,
+          "score": 0.929
+        },
+        {
+          "word": "back.",
+          "start": 39.592,
+          "end": 40.095,
+          "score": 0.807
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "So",
+      "start": 1.651,
+      "end": 1.871,
+      "score": 0.618
+    },
+    {
+      "word": "I",
+      "start": 1.891,
+      "end": 1.971,
+      "score": 0.804
+    },
+    {
+      "word": "told",
+      "start": 2.011,
+      "end": 2.212,
+      "score": 0.75
+    },
+    {
+      "word": "the",
+      "start": 2.232,
+      "end": 2.292,
+      "score": 0.79
+    },
+    {
+      "word": "freshman,",
+      "start": 2.372,
+      "end": 2.752,
+      "score": 0.575
+    },
+    {
+      "word": "I",
+      "start": 2.772,
+      "end": 2.792,
+      "score": 0.019
+    },
+    {
+      "word": "said,",
+      "start": 2.813,
+      "end": 2.913,
+      "score": 0.404
+    },
+    {
+      "word": "hey,",
+      "start": 2.953,
+      "end": 3.113,
+      "score": 0.56
+    },
+    {
+      "word": "fighter,",
+      "start": 3.133,
+      "end": 3.433,
+      "score": 0.562
+    },
+    {
+      "word": "won't",
+      "start": 4.415,
+      "end": 4.555,
+      "score": 0.834
+    },
+    {
+      "word": "you",
+      "start": 4.595,
+      "end": 4.655,
+      "score": 0.741
+    },
+    {
+      "word": "give",
+      "start": 4.715,
+      "end": 4.815,
+      "score": 0.684
+    },
+    {
+      "word": "him",
+      "start": 4.835,
+      "end": 4.955,
+      "score": 0.389
+    },
+    {
+      "word": "that",
+      "start": 4.975,
+      "end": 5.055,
+      "score": 0.001
+    },
+    {
+      "word": "bell",
+      "start": 5.075,
+      "end": 5.256,
+      "score": 0.802
+    },
+    {
+      "word": "back?",
+      "start": 5.296,
+      "end": 5.556,
+      "score": 0.948
+    },
+    {
+      "word": "And",
+      "start": 5.596,
+      "end": 5.656,
+      "score": 0.639
+    },
+    {
+      "word": "he",
+      "start": 5.696,
+      "end": 5.776,
+      "score": 0.874
+    },
+    {
+      "word": "said,",
+      "start": 5.816,
+      "end": 6.357,
+      "score": 0.849
+    },
+    {
+      "word": "sir,",
+      "start": 6.417,
+      "end": 6.577,
+      "score": 0.725
+    },
+    {
+      "word": "don't",
+      "start": 6.617,
+      "end": 6.738,
+      "score": 0.245
+    },
+    {
+      "word": "you",
+      "start": 6.758,
+      "end": 6.818,
+      "score": 0.399
+    },
+    {
+      "word": "think",
+      "start": 6.858,
+      "end": 6.958,
+      "score": 0.185
+    },
+    {
+      "word": "it'd",
+      "start": 6.978,
+      "end": 7.058,
+      "score": 0.001
+    },
+    {
+      "word": "be",
+      "start": 7.078,
+      "end": 7.118,
+      "score": 0.381
+    },
+    {
+      "word": "good",
+      "start": 7.158,
+      "end": 7.258,
+      "score": 0.546
+    },
+    {
+      "word": "and",
+      "start": 7.278,
+      "end": 7.338,
+      "score": 0.306
+    },
+    {
+      "word": "bold",
+      "start": 7.378,
+      "end": 7.559,
+      "score": 0.578
+    },
+    {
+      "word": "if",
+      "start": 7.579,
+      "end": 7.619,
+      "score": 0.498
+    },
+    {
+      "word": "we",
+      "start": 7.639,
+      "end": 7.719,
+      "score": 0.931
+    },
+    {
+      "word": "took",
+      "start": 7.759,
+      "end": 7.899,
+      "score": 0.888
+    },
+    {
+      "word": "this",
+      "start": 7.939,
+      "end": 8.079,
+      "score": 0.751
+    },
+    {
+      "word": "back",
+      "start": 8.139,
+      "end": 8.32,
+      "score": 0.985
+    },
+    {
+      "word": "to",
+      "start": 8.36,
+      "end": 8.44,
+      "score": 0.868
+    },
+    {
+      "word": "campus",
+      "start": 8.48,
+      "end": 8.8,
+      "score": 0.733
+    },
+    {
+      "word": "with",
+      "start": 8.84,
+      "end": 9.021,
+      "score": 0.745
+    },
+    {
+      "word": "us?",
+      "start": 9.061,
+      "end": 9.181,
+      "score": 0.621
+    },
+    {
+      "word": "I",
+      "start": 9.201,
+      "end": 9.221,
+      "score": 0.001
+    },
+    {
+      "word": "said,",
+      "start": 9.241,
+      "end": 10.142,
+      "score": 0.349
+    },
+    {
+      "word": "yeah,",
+      "start": 10.162,
+      "end": 10.282,
+      "score": 0.35
+    },
+    {
+      "word": "it",
+      "start": 10.302,
+      "end": 10.382,
+      "score": 0.806
+    },
+    {
+      "word": "would,",
+      "start": 10.422,
+      "end": 10.643,
+      "score": 0.738
+    },
+    {
+      "word": "but",
+      "start": 10.703,
+      "end": 10.763,
+      "score": 0.004
+    },
+    {
+      "word": "I",
+      "start": 10.783,
+      "end": 10.803,
+      "score": 0.868
+    },
+    {
+      "word": "think",
+      "start": 10.823,
+      "end": 10.983,
+      "score": 0.843
+    },
+    {
+      "word": "they",
+      "start": 11.023,
+      "end": 11.163,
+      "score": 0.925
+    },
+    {
+      "word": "really",
+      "start": 11.223,
+      "end": 11.444,
+      "score": 0.856
+    },
+    {
+      "word": "want",
+      "start": 11.484,
+      "end": 11.684,
+      "score": 0.66
+    },
+    {
+      "word": "that",
+      "start": 11.704,
+      "end": 11.844,
+      "score": 0.668
+    },
+    {
+      "word": "bell,",
+      "start": 11.884,
+      "end": 12.065,
+      "score": 0.498
+    },
+    {
+      "word": "so",
+      "start": 12.085,
+      "end": 12.125,
+      "score": 0.487
+    },
+    {
+      "word": "you",
+      "start": 12.165,
+      "end": 12.285,
+      "score": 0.836
+    },
+    {
+      "word": "give",
+      "start": 12.325,
+      "end": 12.445,
+      "score": 0.918
+    },
+    {
+      "word": "it",
+      "start": 12.505,
+      "end": 12.545,
+      "score": 0.859
+    },
+    {
+      "word": "back",
+      "start": 12.585,
+      "end": 12.765,
+      "score": 0.978
+    },
+    {
+      "word": "to",
+      "start": 12.785,
+      "end": 12.826,
+      "score": 0.0
+    },
+    {
+      "word": "them.",
+      "start": 12.846,
+      "end": 12.966,
+      "score": 0.348
+    },
+    {
+      "word": "And",
+      "start": 12.986,
+      "end": 13.046,
+      "score": 0.165
+    },
+    {
+      "word": "I",
+      "start": 13.066,
+      "end": 13.106,
+      "score": 0.142
+    },
+    {
+      "word": "could",
+      "start": 13.126,
+      "end": 13.226,
+      "score": 0.002
+    },
+    {
+      "word": "tell",
+      "start": 13.246,
+      "end": 13.386,
+      "score": 0.613
+    },
+    {
+      "word": "he",
+      "start": 13.426,
+      "end": 13.506,
+      "score": 0.24
+    },
+    {
+      "word": "was",
+      "start": 13.526,
+      "end": 13.586,
+      "score": 0.001
+    },
+    {
+      "word": "real",
+      "start": 13.607,
+      "end": 13.807,
+      "score": 0.62
+    },
+    {
+      "word": "disappointed",
+      "start": 13.887,
+      "end": 14.408,
+      "score": 0.67
+    },
+    {
+      "word": "in",
+      "start": 14.428,
+      "end": 14.468,
+      "score": 0.003
+    },
+    {
+      "word": "my",
+      "start": 14.488,
+      "end": 14.648,
+      "score": 0.988
+    },
+    {
+      "word": "manhood.",
+      "start": 14.688,
+      "end": 15.169,
+      "score": 0.739
+    },
+    {
+      "word": "But",
+      "start": 16.53,
+      "end": 16.691,
+      "score": 0.947
+    },
+    {
+      "word": "I",
+      "start": 16.771,
+      "end": 16.851,
+      "score": 0.964
+    },
+    {
+      "word": "thought",
+      "start": 16.891,
+      "end": 17.071,
+      "score": 0.835
+    },
+    {
+      "word": "that",
+      "start": 17.091,
+      "end": 17.171,
+      "score": 0.452
+    },
+    {
+      "word": "was",
+      "start": 17.211,
+      "end": 17.271,
+      "score": 0.897
+    },
+    {
+      "word": "the",
+      "start": 17.311,
+      "end": 17.371,
+      "score": 0.687
+    },
+    {
+      "word": "best",
+      "start": 17.411,
+      "end": 17.592,
+      "score": 0.816
+    },
+    {
+      "word": "thing",
+      "start": 17.652,
+      "end": 17.772,
+      "score": 0.344
+    },
+    {
+      "word": "to",
+      "start": 17.792,
+      "end": 17.852,
+      "score": 0.657
+    },
+    {
+      "word": "do",
+      "start": 17.912,
+      "end": 18.052,
+      "score": 0.978
+    },
+    {
+      "word": "under",
+      "start": 18.072,
+      "end": 18.192,
+      "score": 0.171
+    },
+    {
+      "word": "the",
+      "start": 18.233,
+      "end": 18.313,
+      "score": 0.868
+    },
+    {
+      "word": "circumstances,",
+      "start": 18.353,
+      "end": 19.154,
+      "score": 0.682
+    },
+    {
+      "word": "so",
+      "start": 19.174,
+      "end": 19.254,
+      "score": 0.411
+    },
+    {
+      "word": "we",
+      "start": 19.294,
+      "end": 19.374,
+      "score": 0.433
+    },
+    {
+      "word": "gave",
+      "start": 19.394,
+      "end": 19.554,
+      "score": 0.501
+    },
+    {
+      "word": "him",
+      "start": 19.574,
+      "end": 19.634,
+      "score": 0.274
+    },
+    {
+      "word": "the",
+      "start": 19.654,
+      "end": 19.714,
+      "score": 0.489
+    },
+    {
+      "word": "bell",
+      "start": 19.775,
+      "end": 19.995,
+      "score": 0.904
+    },
+    {
+      "word": "back.",
+      "start": 20.035,
+      "end": 20.295,
+      "score": 0.902
+    },
+    {
+      "word": "But",
+      "start": 20.976,
+      "end": 21.417,
+      "score": 0.532
+    },
+    {
+      "word": "that",
+      "start": 21.457,
+      "end": 21.617,
+      "score": 0.812
+    },
+    {
+      "word": "was",
+      "start": 21.657,
+      "end": 21.777,
+      "score": 0.68
+    },
+    {
+      "word": "one",
+      "start": 21.917,
+      "end": 22.218,
+      "score": 0.394
+    },
+    {
+      "word": "of",
+      "start": 22.398,
+      "end": 22.438,
+      "score": 0.096
+    },
+    {
+      "word": "those",
+      "start": 22.458,
+      "end": 22.558,
+      "score": 0.037
+    },
+    {
+      "word": "memories",
+      "start": 22.578,
+      "end": 22.939,
+      "score": 0.881
+    },
+    {
+      "word": "you",
+      "start": 22.979,
+      "end": 23.099,
+      "score": 0.821
+    },
+    {
+      "word": "have.",
+      "start": 23.159,
+      "end": 23.92,
+      "score": 0.824
+    },
+    {
+      "word": "I",
+      "start": 23.94,
+      "end": 23.96,
+      "score": 0.003
+    },
+    {
+      "word": "thought,",
+      "start": 23.98,
+      "end": 24.2,
+      "score": 0.453
+    },
+    {
+      "word": "oh,",
+      "start": 24.26,
+      "end": 24.381,
+      "score": 0.563
+    },
+    {
+      "word": "we're",
+      "start": 24.761,
+      "end": 24.941,
+      "score": 0.579
+    },
+    {
+      "word": "fixing",
+      "start": 24.961,
+      "end": 25.282,
+      "score": 0.679
+    },
+    {
+      "word": "to",
+      "start": 25.662,
+      "end": 25.862,
+      "score": 0.493
+    },
+    {
+      "word": "get",
+      "start": 25.963,
+      "end": 26.203,
+      "score": 0.41
+    },
+    {
+      "word": "pounded",
+      "start": 26.403,
+      "end": 27.064,
+      "score": 0.684
+    },
+    {
+      "word": "good",
+      "start": 27.164,
+      "end": 27.625,
+      "score": 0.246
+    },
+    {
+      "word": "here.",
+      "start": 27.645,
+      "end": 27.905,
+      "score": 0.29
+    },
+    {
+      "word": "They",
+      "start": 27.925,
+      "end": 28.005,
+      "score": 0.25
+    },
+    {
+      "word": "took",
+      "start": 28.045,
+      "end": 28.185,
+      "score": 0.958
+    },
+    {
+      "word": "the",
+      "start": 28.225,
+      "end": 28.306,
+      "score": 0.761
+    },
+    {
+      "word": "bell",
+      "start": 28.326,
+      "end": 28.506,
+      "score": 0.71
+    },
+    {
+      "word": "and",
+      "start": 28.526,
+      "end": 28.606,
+      "score": 0.686
+    },
+    {
+      "word": "went",
+      "start": 28.626,
+      "end": 28.746,
+      "score": 0.614
+    },
+    {
+      "word": "on",
+      "start": 28.766,
+      "end": 28.866,
+      "score": 0.442
+    },
+    {
+      "word": "their",
+      "start": 28.886,
+      "end": 29.007,
+      "score": 0.292
+    },
+    {
+      "word": "way,",
+      "start": 29.047,
+      "end": 29.587,
+      "score": 0.69
+    },
+    {
+      "word": "so",
+      "start": 29.707,
+      "end": 29.908,
+      "score": 0.748
+    },
+    {
+      "word": "thank",
+      "start": 30.188,
+      "end": 30.308,
+      "score": 0.248
+    },
+    {
+      "word": "goodness",
+      "start": 30.328,
+      "end": 30.609,
+      "score": 0.531
+    },
+    {
+      "word": "for",
+      "start": 30.629,
+      "end": 30.749,
+      "score": 0.393
+    },
+    {
+      "word": "that.",
+      "start": 30.789,
+      "end": 30.949,
+      "score": 0.786
+    },
+    {
+      "word": "It's",
+      "start": 32.414,
+      "end": 32.655,
+      "score": 0.831
+    },
+    {
+      "word": "now",
+      "start": 32.716,
+      "end": 32.876,
+      "score": 0.983
+    },
+    {
+      "word": "noon.",
+      "start": 32.917,
+      "end": 33.238,
+      "score": 0.868
+    },
+    {
+      "word": "Let's",
+      "start": 33.279,
+      "end": 33.48,
+      "score": 0.911
+    },
+    {
+      "word": "quit.",
+      "start": 33.6,
+      "end": 33.962,
+      "score": 0.925
+    },
+    {
+      "word": "We're",
+      "start": 35.49,
+      "end": 35.671,
+      "score": 0.658
+    },
+    {
+      "word": "about",
+      "start": 35.692,
+      "end": 35.913,
+      "score": 0.9
+    },
+    {
+      "word": "two-thirds,",
+      "start": 36.013,
+      "end": 36.556,
+      "score": 0.721
+    },
+    {
+      "word": "three-fourths",
+      "start": 36.958,
+      "end": 37.441,
+      "score": 0.643
+    },
+    {
+      "word": "of",
+      "start": 37.461,
+      "end": 37.501,
+      "score": 0.204
+    },
+    {
+      "word": "the",
+      "start": 37.521,
+      "end": 37.582,
+      "score": 0.001
+    },
+    {
+      "word": "way",
+      "start": 37.602,
+      "end": 37.743,
+      "score": 0.976
+    },
+    {
+      "word": "through.",
+      "start": 37.843,
+      "end": 38.145,
+      "score": 0.765
+    },
+    {
+      "word": "And",
+      "start": 38.205,
+      "end": 38.949,
+      "score": 0.634
+    },
+    {
+      "word": "let",
+      "start": 38.989,
+      "end": 39.13,
+      "score": 0.744
+    },
+    {
+      "word": "me",
+      "start": 39.15,
+      "end": 39.251,
+      "score": 0.922
+    },
+    {
+      "word": "come",
+      "start": 39.331,
+      "end": 39.532,
+      "score": 0.929
+    },
+    {
+      "word": "back.",
+      "start": 39.592,
+      "end": 40.095,
+      "score": 0.807
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.834,
+    "Neutral": 0.668,
+    "Bad": 0.394
+  }
+}
