@@ -1,0 +1,430 @@
+{
+  "segments": [
+    {
+      "start": 5.887,
+      "end": 34.248,
+      "text": " President Reagan has the floor.",
+      "words": [
+        {
+          "word": "President",
+          "start": 5.887,
+          "end": 7.509,
+          "score": 0.405
+        },
+        {
+          "word": "Reagan",
+          "start": 31.724,
+          "end": 31.864,
+          "score": 0.261
+        },
+        {
+          "word": "has",
+          "start": 33.427,
+          "end": 33.947,
+          "score": 0.541
+        },
+        {
+          "word": "the",
+          "start": 33.967,
+          "end": 34.027,
+          "score": 0.007
+        },
+        {
+          "word": "floor.",
+          "start": 34.048,
+          "end": 34.248,
+          "score": 0.193
+        }
+      ]
+    },
+    {
+      "start": 34.268,
+      "end": 34.408,
+      "text": "Well, .",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 34.268,
+          "end": 34.368,
+          "score": 0.015
+        },
+        {
+          "word": ".",
+          "start": 34.388,
+          "end": 34.408,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "start": 36.278,
+      "end": 62.573,
+      "text": " Hello hello.",
+      "words": [
+        {
+          "word": "Hello",
+          "start": 36.278,
+          "end": 60.35,
+          "score": 0.479
+        },
+        {
+          "word": "hello.",
+          "start": 60.37,
+          "end": 62.573,
+          "score": 0.888
+        }
+      ]
+    },
+    {
+      "start": 69.995,
+      "end": 92.796,
+      "text": " President Reagan has some tough ideas, but some of them are smart.",
+      "words": [
+        {
+          "word": "President",
+          "start": 69.995,
+          "end": 70.576,
+          "score": 0.29
+        },
+        {
+          "word": "Reagan",
+          "start": 70.837,
+          "end": 71.197,
+          "score": 0.682
+        },
+        {
+          "word": "has",
+          "start": 71.277,
+          "end": 71.538,
+          "score": 0.692
+        },
+        {
+          "word": "some",
+          "start": 71.558,
+          "end": 71.778,
+          "score": 0.782
+        },
+        {
+          "word": "tough",
+          "start": 72.179,
+          "end": 72.339,
+          "score": 0.314
+        },
+        {
+          "word": "ideas,",
+          "start": 72.439,
+          "end": 72.82,
+          "score": 0.575
+        },
+        {
+          "word": "but",
+          "start": 72.9,
+          "end": 73.121,
+          "score": 0.946
+        },
+        {
+          "word": "some",
+          "start": 73.181,
+          "end": 73.441,
+          "score": 0.866
+        },
+        {
+          "word": "of",
+          "start": 73.541,
+          "end": 73.601,
+          "score": 0.237
+        },
+        {
+          "word": "them",
+          "start": 73.622,
+          "end": 74.022,
+          "score": 0.755
+        },
+        {
+          "word": "are",
+          "start": 74.303,
+          "end": 74.403,
+          "score": 0.587
+        },
+        {
+          "word": "smart.",
+          "start": 85.844,
+          "end": 92.796,
+          "score": 0.698
+        }
+      ]
+    },
+    {
+      "start": 93.923,
+      "end": 119.239,
+      "text": " Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 93.923,
+          "end": 103.396,
+          "score": 0.183
+        },
+        {
+          "word": "you.",
+          "start": 103.417,
+          "end": 119.239,
+          "score": 0.552
+        }
+      ]
+    },
+    {
+      "start": 125.058,
+      "end": 142.662,
+      "text": " ¶¶",
+      "words": [
+        {
+          "word": "¶¶",
+          "start": 125.058,
+          "end": 142.662,
+          "score": 0.947
+        }
+      ]
+    },
+    {
+      "start": 153.526,
+      "end": 173.155,
+      "text": " Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 153.526,
+          "end": 173.055,
+          "score": 0.186
+        },
+        {
+          "word": "you.",
+          "start": 173.075,
+          "end": 173.155,
+          "score": 0.248
+        }
+      ]
+    },
+    {
+      "start": 174.738,
+      "end": 197.725,
+      "text": " ¶¶",
+      "words": [
+        {
+          "word": "¶¶",
+          "start": 174.738,
+          "end": 197.725,
+          "score": 0.946
+        }
+      ]
+    },
+    {
+      "start": 199.122,
+      "end": 220.995,
+      "text": " ¶¶",
+      "words": [
+        {
+          "word": "¶¶",
+          "start": 199.122,
+          "end": 220.995,
+          "score": 0.924
+        }
+      ]
+    },
+    {
+      "start": 1176.725,
+      "end": 1177.978,
+      "text": " Right?",
+      "words": [
+        {
+          "word": "Right?",
+          "start": 1176.725,
+          "end": 1177.978,
+          "score": 0.316
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "President",
+      "start": 5.887,
+      "end": 7.509,
+      "score": 0.405
+    },
+    {
+      "word": "Reagan",
+      "start": 31.724,
+      "end": 31.864,
+      "score": 0.261
+    },
+    {
+      "word": "has",
+      "start": 33.427,
+      "end": 33.947,
+      "score": 0.541
+    },
+    {
+      "word": "the",
+      "start": 33.967,
+      "end": 34.027,
+      "score": 0.007
+    },
+    {
+      "word": "floor.",
+      "start": 34.048,
+      "end": 34.248,
+      "score": 0.193
+    },
+    {
+      "word": "Well,",
+      "start": 34.268,
+      "end": 34.368,
+      "score": 0.015
+    },
+    {
+      "word": ".",
+      "start": 34.388,
+      "end": 34.408,
+      "score": 1.0
+    },
+    {
+      "word": "Hello",
+      "start": 36.278,
+      "end": 60.35,
+      "score": 0.479
+    },
+    {
+      "word": "hello.",
+      "start": 60.37,
+      "end": 62.573,
+      "score": 0.888
+    },
+    {
+      "word": "President",
+      "start": 69.995,
+      "end": 70.576,
+      "score": 0.29
+    },
+    {
+      "word": "Reagan",
+      "start": 70.837,
+      "end": 71.197,
+      "score": 0.682
+    },
+    {
+      "word": "has",
+      "start": 71.277,
+      "end": 71.538,
+      "score": 0.692
+    },
+    {
+      "word": "some",
+      "start": 71.558,
+      "end": 71.778,
+      "score": 0.782
+    },
+    {
+      "word": "tough",
+      "start": 72.179,
+      "end": 72.339,
+      "score": 0.314
+    },
+    {
+      "word": "ideas,",
+      "start": 72.439,
+      "end": 72.82,
+      "score": 0.575
+    },
+    {
+      "word": "but",
+      "start": 72.9,
+      "end": 73.121,
+      "score": 0.946
+    },
+    {
+      "word": "some",
+      "start": 73.181,
+      "end": 73.441,
+      "score": 0.866
+    },
+    {
+      "word": "of",
+      "start": 73.541,
+      "end": 73.601,
+      "score": 0.237
+    },
+    {
+      "word": "them",
+      "start": 73.622,
+      "end": 74.022,
+      "score": 0.755
+    },
+    {
+      "word": "are",
+      "start": 74.303,
+      "end": 74.403,
+      "score": 0.587
+    },
+    {
+      "word": "smart.",
+      "start": 85.844,
+      "end": 92.796,
+      "score": 0.698
+    },
+    {
+      "word": "Thank",
+      "start": 93.923,
+      "end": 103.396,
+      "score": 0.183
+    },
+    {
+      "word": "you.",
+      "start": 103.417,
+      "end": 119.239,
+      "score": 0.552
+    },
+    {
+      "word": "¶¶",
+      "start": 125.058,
+      "end": 142.662,
+      "score": 0.947
+    },
+    {
+      "word": "Thank",
+      "start": 153.526,
+      "end": 173.055,
+      "score": 0.186
+    },
+    {
+      "word": "you.",
+      "start": 173.075,
+      "end": 173.155,
+      "score": 0.248
+    },
+    {
+      "word": "¶¶",
+      "start": 174.738,
+      "end": 197.725,
+      "score": 0.946
+    },
+    {
+      "word": "¶¶",
+      "start": 199.122,
+      "end": 220.995,
+      "score": 0.924
+    },
+    {
+      "word": "Right?",
+      "start": 1176.725,
+      "end": 1177.978,
+      "score": 0.316
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.782,
+    "Neutral": 0.552,
+    "Bad": 0.261
+  }
+}

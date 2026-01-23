@@ -1,0 +1,91 @@
+{
+  "segments": [
+    {
+      "start": 2.258,
+      "end": 13.332,
+      "text": " We got time about ten minutes.",
+      "words": [
+        {
+          "word": "We",
+          "start": 2.258,
+          "end": 12.71,
+          "score": 0.492
+        },
+        {
+          "word": "got",
+          "start": 12.73,
+          "end": 12.79,
+          "score": 0.001
+        },
+        {
+          "word": "time",
+          "start": 12.81,
+          "end": 12.891,
+          "score": 0.022
+        },
+        {
+          "word": "about",
+          "start": 12.911,
+          "end": 13.071,
+          "score": 0.225
+        },
+        {
+          "word": "ten",
+          "start": 13.091,
+          "end": 13.152,
+          "score": 0.022
+        },
+        {
+          "word": "minutes.",
+          "start": 13.172,
+          "end": 13.332,
+          "score": 0.125
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "We",
+      "start": 2.258,
+      "end": 12.71,
+      "score": 0.492
+    },
+    {
+      "word": "got",
+      "start": 12.73,
+      "end": 12.79,
+      "score": 0.001
+    },
+    {
+      "word": "time",
+      "start": 12.81,
+      "end": 12.891,
+      "score": 0.022
+    },
+    {
+      "word": "about",
+      "start": 12.911,
+      "end": 13.071,
+      "score": 0.225
+    },
+    {
+      "word": "ten",
+      "start": 13.091,
+      "end": 13.152,
+      "score": 0.022
+    },
+    {
+      "word": "minutes.",
+      "start": 13.172,
+      "end": 13.332,
+      "score": 0.125
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.225,
+    "Neutral": 0.125,
+    "Bad": 0.022
+  }
+}
