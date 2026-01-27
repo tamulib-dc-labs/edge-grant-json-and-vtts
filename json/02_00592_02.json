@@ -1,0 +1,9599 @@
+{
+  "segments": [
+    {
+      "start": 5.667,
+      "end": 11.814,
+      "text": " His age might have been a factor.",
+      "words": [
+        {
+          "word": "His",
+          "start": 5.667,
+          "end": 7.969,
+          "score": 0.646
+        },
+        {
+          "word": "age",
+          "start": 9.351,
+          "end": 9.811,
+          "score": 0.575
+        },
+        {
+          "word": "might",
+          "start": 10.372,
+          "end": 10.532,
+          "score": 0.257
+        },
+        {
+          "word": "have",
+          "start": 10.552,
+          "end": 10.632,
+          "score": 0.344
+        },
+        {
+          "word": "been",
+          "start": 10.692,
+          "end": 10.873,
+          "score": 0.775
+        },
+        {
+          "word": "a",
+          "start": 10.893,
+          "end": 10.933,
+          "score": 0.499
+        },
+        {
+          "word": "factor.",
+          "start": 10.953,
+          "end": 11.814,
+          "score": 0.851
+        }
+      ]
+    },
+    {
+      "start": 11.834,
+      "end": 13.355,
+      "text": "His health might have been a factor.",
+      "words": [
+        {
+          "word": "His",
+          "start": 11.834,
+          "end": 11.954,
+          "score": 0.759
+        },
+        {
+          "word": "health",
+          "start": 12.034,
+          "end": 12.494,
+          "score": 0.549
+        },
+        {
+          "word": "might",
+          "start": 12.514,
+          "end": 12.614,
+          "score": 0.208
+        },
+        {
+          "word": "have",
+          "start": 12.674,
+          "end": 12.755,
+          "score": 0.003
+        },
+        {
+          "word": "been",
+          "start": 12.775,
+          "end": 12.855,
+          "score": 0.244
+        },
+        {
+          "word": "a",
+          "start": 12.875,
+          "end": 12.895,
+          "score": 0.0
+        },
+        {
+          "word": "factor.",
+          "start": 12.915,
+          "end": 13.355,
+          "score": 0.926
+        }
+      ]
+    },
+    {
+      "start": 13.415,
+      "end": 31.995,
+      "text": "These leaders in the communist bloc tend to be elderly men who have survived in very rough political failures, and they tend to be not robust in their health.",
+      "words": [
+        {
+          "word": "These",
+          "start": 13.415,
+          "end": 14.156,
+          "score": 0.182
+        },
+        {
+          "word": "leaders",
+          "start": 14.176,
+          "end": 15.337,
+          "score": 0.683
+        },
+        {
+          "word": "in",
+          "start": 15.437,
+          "end": 15.538,
+          "score": 0.886
+        },
+        {
+          "word": "the",
+          "start": 15.578,
+          "end": 15.638,
+          "score": 0.782
+        },
+        {
+          "word": "communist",
+          "start": 15.718,
+          "end": 16.318,
+          "score": 0.312
+        },
+        {
+          "word": "bloc",
+          "start": 16.338,
+          "end": 16.639,
+          "score": 0.788
+        },
+        {
+          "word": "tend",
+          "start": 16.839,
+          "end": 16.979,
+          "score": 0.588
+        },
+        {
+          "word": "to",
+          "start": 16.999,
+          "end": 17.079,
+          "score": 0.464
+        },
+        {
+          "word": "be",
+          "start": 17.139,
+          "end": 17.399,
+          "score": 0.874
+        },
+        {
+          "word": "elderly",
+          "start": 17.58,
+          "end": 17.96,
+          "score": 0.375
+        },
+        {
+          "word": "men",
+          "start": 18.0,
+          "end": 18.28,
+          "score": 0.786
+        },
+        {
+          "word": "who",
+          "start": 19.081,
+          "end": 19.141,
+          "score": 0.003
+        },
+        {
+          "word": "have",
+          "start": 19.161,
+          "end": 19.241,
+          "score": 0.437
+        },
+        {
+          "word": "survived",
+          "start": 19.542,
+          "end": 20.082,
+          "score": 0.556
+        },
+        {
+          "word": "in",
+          "start": 20.182,
+          "end": 20.283,
+          "score": 0.931
+        },
+        {
+          "word": "very",
+          "start": 21.103,
+          "end": 21.424,
+          "score": 0.663
+        },
+        {
+          "word": "rough",
+          "start": 22.084,
+          "end": 22.225,
+          "score": 0.411
+        },
+        {
+          "word": "political",
+          "start": 22.705,
+          "end": 23.466,
+          "score": 0.833
+        },
+        {
+          "word": "failures,",
+          "start": 23.666,
+          "end": 25.028,
+          "score": 0.642
+        },
+        {
+          "word": "and",
+          "start": 26.189,
+          "end": 26.569,
+          "score": 0.791
+        },
+        {
+          "word": "they",
+          "start": 27.23,
+          "end": 27.41,
+          "score": 0.763
+        },
+        {
+          "word": "tend",
+          "start": 27.47,
+          "end": 27.71,
+          "score": 0.757
+        },
+        {
+          "word": "to",
+          "start": 27.751,
+          "end": 28.251,
+          "score": 0.666
+        },
+        {
+          "word": "be",
+          "start": 28.912,
+          "end": 29.252,
+          "score": 0.886
+        },
+        {
+          "word": "not",
+          "start": 30.453,
+          "end": 30.734,
+          "score": 0.831
+        },
+        {
+          "word": "robust",
+          "start": 30.814,
+          "end": 31.274,
+          "score": 0.644
+        },
+        {
+          "word": "in",
+          "start": 31.374,
+          "end": 31.454,
+          "score": 0.896
+        },
+        {
+          "word": "their",
+          "start": 31.494,
+          "end": 31.615,
+          "score": 0.642
+        },
+        {
+          "word": "health.",
+          "start": 31.655,
+          "end": 31.995,
+          "score": 0.62
+        }
+      ]
+    },
+    {
+      "start": 34.068,
+      "end": 48.174,
+      "text": " He also, Hillbrook, was also a very hardline communist, a very unpresentable in a way, someone that people in the West didn't like.",
+      "words": [
+        {
+          "word": "He",
+          "start": 34.068,
+          "end": 34.308,
+          "score": 0.771
+        },
+        {
+          "word": "also,",
+          "start": 34.429,
+          "end": 35.03,
+          "score": 0.687
+        },
+        {
+          "word": "Hillbrook,",
+          "start": 35.09,
+          "end": 35.39,
+          "score": 0.172
+        },
+        {
+          "word": "was",
+          "start": 35.41,
+          "end": 35.591,
+          "score": 0.486
+        },
+        {
+          "word": "also",
+          "start": 35.851,
+          "end": 36.673,
+          "score": 0.597
+        },
+        {
+          "word": "a",
+          "start": 37.294,
+          "end": 37.334,
+          "score": 0.903
+        },
+        {
+          "word": "very",
+          "start": 37.434,
+          "end": 37.735,
+          "score": 0.857
+        },
+        {
+          "word": "hardline",
+          "start": 37.855,
+          "end": 38.596,
+          "score": 0.849
+        },
+        {
+          "word": "communist,",
+          "start": 38.737,
+          "end": 39.318,
+          "score": 0.722
+        },
+        {
+          "word": "a",
+          "start": 40.179,
+          "end": 40.219,
+          "score": 0.806
+        },
+        {
+          "word": "very",
+          "start": 40.3,
+          "end": 40.8,
+          "score": 0.804
+        },
+        {
+          "word": "unpresentable",
+          "start": 41.402,
+          "end": 42.323,
+          "score": 0.839
+        },
+        {
+          "word": "in",
+          "start": 42.383,
+          "end": 42.464,
+          "score": 0.712
+        },
+        {
+          "word": "a",
+          "start": 42.524,
+          "end": 42.604,
+          "score": 0.678
+        },
+        {
+          "word": "way,",
+          "start": 42.624,
+          "end": 43.105,
+          "score": 0.762
+        },
+        {
+          "word": "someone",
+          "start": 45.389,
+          "end": 45.649,
+          "score": 0.669
+        },
+        {
+          "word": "that",
+          "start": 45.69,
+          "end": 45.79,
+          "score": 0.512
+        },
+        {
+          "word": "people",
+          "start": 46.812,
+          "end": 47.092,
+          "score": 0.847
+        },
+        {
+          "word": "in",
+          "start": 47.132,
+          "end": 47.192,
+          "score": 0.952
+        },
+        {
+          "word": "the",
+          "start": 47.232,
+          "end": 47.313,
+          "score": 0.714
+        },
+        {
+          "word": "West",
+          "start": 47.333,
+          "end": 47.593,
+          "score": 0.636
+        },
+        {
+          "word": "didn't",
+          "start": 47.653,
+          "end": 47.854,
+          "score": 0.198
+        },
+        {
+          "word": "like.",
+          "start": 47.874,
+          "end": 48.174,
+          "score": 0.653
+        }
+      ]
+    },
+    {
+      "start": 48.875,
+      "end": 55.688,
+      "text": "And it may have been just decided that as a response of the time that it was a good",
+      "words": [
+        {
+          "word": "And",
+          "start": 48.875,
+          "end": 48.996,
+          "score": 0.921
+        },
+        {
+          "word": "it",
+          "start": 49.056,
+          "end": 49.116,
+          "score": 0.934
+        },
+        {
+          "word": "may",
+          "start": 49.216,
+          "end": 49.396,
+          "score": 0.974
+        },
+        {
+          "word": "have",
+          "start": 49.436,
+          "end": 49.557,
+          "score": 0.827
+        },
+        {
+          "word": "been",
+          "start": 49.597,
+          "end": 49.777,
+          "score": 0.912
+        },
+        {
+          "word": "just",
+          "start": 50.098,
+          "end": 50.278,
+          "score": 0.357
+        },
+        {
+          "word": "decided",
+          "start": 50.438,
+          "end": 50.839,
+          "score": 0.578
+        },
+        {
+          "word": "that",
+          "start": 50.899,
+          "end": 51.039,
+          "score": 0.783
+        },
+        {
+          "word": "as",
+          "start": 51.901,
+          "end": 52.041,
+          "score": 0.594
+        },
+        {
+          "word": "a",
+          "start": 52.202,
+          "end": 52.262,
+          "score": 0.781
+        },
+        {
+          "word": "response",
+          "start": 52.522,
+          "end": 53.344,
+          "score": 0.436
+        },
+        {
+          "word": "of",
+          "start": 53.444,
+          "end": 53.504,
+          "score": 0.718
+        },
+        {
+          "word": "the",
+          "start": 53.544,
+          "end": 53.644,
+          "score": 0.965
+        },
+        {
+          "word": "time",
+          "start": 53.704,
+          "end": 54.205,
+          "score": 0.898
+        },
+        {
+          "word": "that",
+          "start": 54.907,
+          "end": 55.207,
+          "score": 0.594
+        },
+        {
+          "word": "it",
+          "start": 55.227,
+          "end": 55.347,
+          "score": 0.726
+        },
+        {
+          "word": "was",
+          "start": 55.468,
+          "end": 55.528,
+          "score": 0.179
+        },
+        {
+          "word": "a",
+          "start": 55.548,
+          "end": 55.568,
+          "score": 0.99
+        },
+        {
+          "word": "good",
+          "start": 55.608,
+          "end": 55.688,
+          "score": 0.25
+        }
+      ]
+    },
+    {
+      "start": 62.063,
+      "end": 68.132,
+      "text": " somebody else come on, but I don't remember that it was a dispute over an issue or anything like that.",
+      "words": [
+        {
+          "word": "somebody",
+          "start": 62.063,
+          "end": 62.323,
+          "score": 0.539
+        },
+        {
+          "word": "else",
+          "start": 62.383,
+          "end": 62.564,
+          "score": 0.859
+        },
+        {
+          "word": "come",
+          "start": 63.325,
+          "end": 63.405,
+          "score": 0.0
+        },
+        {
+          "word": "on,",
+          "start": 63.425,
+          "end": 63.505,
+          "score": 0.443
+        },
+        {
+          "word": "but",
+          "start": 63.625,
+          "end": 63.786,
+          "score": 0.982
+        },
+        {
+          "word": "I",
+          "start": 64.547,
+          "end": 64.587,
+          "score": 0.993
+        },
+        {
+          "word": "don't",
+          "start": 64.627,
+          "end": 64.807,
+          "score": 0.788
+        },
+        {
+          "word": "remember",
+          "start": 64.867,
+          "end": 65.248,
+          "score": 0.847
+        },
+        {
+          "word": "that",
+          "start": 65.268,
+          "end": 65.468,
+          "score": 0.737
+        },
+        {
+          "word": "it",
+          "start": 65.528,
+          "end": 65.568,
+          "score": 0.996
+        },
+        {
+          "word": "was",
+          "start": 65.608,
+          "end": 65.728,
+          "score": 0.964
+        },
+        {
+          "word": "a",
+          "start": 65.748,
+          "end": 65.768,
+          "score": 0.611
+        },
+        {
+          "word": "dispute",
+          "start": 65.808,
+          "end": 66.309,
+          "score": 0.683
+        },
+        {
+          "word": "over",
+          "start": 66.409,
+          "end": 66.61,
+          "score": 0.848
+        },
+        {
+          "word": "an",
+          "start": 66.65,
+          "end": 66.69,
+          "score": 0.532
+        },
+        {
+          "word": "issue",
+          "start": 66.81,
+          "end": 67.07,
+          "score": 0.615
+        },
+        {
+          "word": "or",
+          "start": 67.15,
+          "end": 67.291,
+          "score": 0.692
+        },
+        {
+          "word": "anything",
+          "start": 67.311,
+          "end": 67.531,
+          "score": 0.508
+        },
+        {
+          "word": "like",
+          "start": 67.571,
+          "end": 67.771,
+          "score": 0.829
+        },
+        {
+          "word": "that.",
+          "start": 67.831,
+          "end": 68.132,
+          "score": 0.943
+        }
+      ]
+    },
+    {
+      "start": 70.435,
+      "end": 75.603,
+      "text": "Do you think the Russians used Berlin as an incentive for the U.S. to get involved in SALT?",
+      "words": [
+        {
+          "word": "Do",
+          "start": 70.435,
+          "end": 70.616,
+          "score": 0.93
+        },
+        {
+          "word": "you",
+          "start": 70.636,
+          "end": 70.776,
+          "score": 0.791
+        },
+        {
+          "word": "think",
+          "start": 70.836,
+          "end": 71.036,
+          "score": 0.94
+        },
+        {
+          "word": "the",
+          "start": 71.076,
+          "end": 71.236,
+          "score": 0.665
+        },
+        {
+          "word": "Russians",
+          "start": 71.297,
+          "end": 71.617,
+          "score": 0.49
+        },
+        {
+          "word": "used",
+          "start": 71.757,
+          "end": 71.897,
+          "score": 0.365
+        },
+        {
+          "word": "Berlin",
+          "start": 71.937,
+          "end": 72.298,
+          "score": 0.707
+        },
+        {
+          "word": "as",
+          "start": 72.378,
+          "end": 72.458,
+          "score": 0.58
+        },
+        {
+          "word": "an",
+          "start": 72.598,
+          "end": 72.719,
+          "score": 0.762
+        },
+        {
+          "word": "incentive",
+          "start": 72.839,
+          "end": 73.079,
+          "score": 0.252
+        },
+        {
+          "word": "for",
+          "start": 74.0,
+          "end": 74.061,
+          "score": 0.752
+        },
+        {
+          "word": "the",
+          "start": 74.081,
+          "end": 74.141,
+          "score": 0.328
+        },
+        {
+          "word": "U.S.",
+          "start": 74.241,
+          "end": 74.481,
+          "score": 0.743
+        },
+        {
+          "word": "to",
+          "start": 74.501,
+          "end": 74.541,
+          "score": 0.739
+        },
+        {
+          "word": "get",
+          "start": 74.581,
+          "end": 74.802,
+          "score": 0.715
+        },
+        {
+          "word": "involved",
+          "start": 74.822,
+          "end": 75.122,
+          "score": 0.359
+        },
+        {
+          "word": "in",
+          "start": 75.142,
+          "end": 75.182,
+          "score": 0.48
+        },
+        {
+          "word": "SALT?",
+          "start": 75.302,
+          "end": 75.603,
+          "score": 0.857
+        }
+      ]
+    },
+    {
+      "start": 76.264,
+      "end": 77.225,
+      "text": "No, I don't think so.",
+      "words": [
+        {
+          "word": "No,",
+          "start": 76.264,
+          "end": 76.324,
+          "score": 0.069
+        },
+        {
+          "word": "I",
+          "start": 76.344,
+          "end": 76.404,
+          "score": 0.907
+        },
+        {
+          "word": "don't",
+          "start": 76.444,
+          "end": 76.624,
+          "score": 0.649
+        },
+        {
+          "word": "think",
+          "start": 76.684,
+          "end": 76.865,
+          "score": 0.984
+        },
+        {
+          "word": "so.",
+          "start": 76.985,
+          "end": 77.225,
+          "score": 0.842
+        }
+      ]
+    },
+    {
+      "start": 78.207,
+      "end": 91.446,
+      "text": "I think Berlin, as an issue, stood on its own merits, had to do with their long-term stabilization of",
+      "words": [
+        {
+          "word": "I",
+          "start": 78.207,
+          "end": 78.327,
+          "score": 0.79
+        },
+        {
+          "word": "think",
+          "start": 78.727,
+          "end": 78.888,
+          "score": 0.891
+        },
+        {
+          "word": "Berlin,",
+          "start": 78.948,
+          "end": 79.428,
+          "score": 0.779
+        },
+        {
+          "word": "as",
+          "start": 80.75,
+          "end": 80.891,
+          "score": 0.654
+        },
+        {
+          "word": "an",
+          "start": 80.991,
+          "end": 81.051,
+          "score": 0.596
+        },
+        {
+          "word": "issue,",
+          "start": 81.151,
+          "end": 81.552,
+          "score": 0.422
+        },
+        {
+          "word": "stood",
+          "start": 81.612,
+          "end": 81.832,
+          "score": 0.797
+        },
+        {
+          "word": "on",
+          "start": 81.952,
+          "end": 82.012,
+          "score": 0.919
+        },
+        {
+          "word": "its",
+          "start": 82.092,
+          "end": 82.172,
+          "score": 0.597
+        },
+        {
+          "word": "own",
+          "start": 82.313,
+          "end": 82.453,
+          "score": 0.382
+        },
+        {
+          "word": "merits,",
+          "start": 82.533,
+          "end": 82.954,
+          "score": 0.768
+        },
+        {
+          "word": "had",
+          "start": 83.054,
+          "end": 83.214,
+          "score": 0.498
+        },
+        {
+          "word": "to",
+          "start": 83.274,
+          "end": 83.354,
+          "score": 0.529
+        },
+        {
+          "word": "do",
+          "start": 83.434,
+          "end": 83.534,
+          "score": 0.372
+        },
+        {
+          "word": "with",
+          "start": 84.916,
+          "end": 85.057,
+          "score": 0.5
+        },
+        {
+          "word": "their",
+          "start": 87.44,
+          "end": 87.981,
+          "score": 0.741
+        },
+        {
+          "word": "long-term",
+          "start": 88.382,
+          "end": 89.143,
+          "score": 0.82
+        },
+        {
+          "word": "stabilization",
+          "start": 89.203,
+          "end": 90.164,
+          "score": 0.808
+        },
+        {
+          "word": "of",
+          "start": 91.186,
+          "end": 91.446,
+          "score": 0.593
+        }
+      ]
+    },
+    {
+      "start": 93.265,
+      "end": 95.795,
+      "text": " of Eastern Europe and so forth.",
+      "words": [
+        {
+          "word": "of",
+          "start": 93.265,
+          "end": 93.566,
+          "score": 0.604
+        },
+        {
+          "word": "Eastern",
+          "start": 94.229,
+          "end": 94.59,
+          "score": 0.557
+        },
+        {
+          "word": "Europe",
+          "start": 94.691,
+          "end": 94.992,
+          "score": 0.779
+        },
+        {
+          "word": "and",
+          "start": 95.092,
+          "end": 95.172,
+          "score": 0.409
+        },
+        {
+          "word": "so",
+          "start": 95.313,
+          "end": 95.494,
+          "score": 0.622
+        },
+        {
+          "word": "forth.",
+          "start": 95.514,
+          "end": 95.795,
+          "score": 0.651
+        }
+      ]
+    },
+    {
+      "start": 96.678,
+      "end": 104.288,
+      "text": "To some extent, you might say, these things are all interrelated, but I just don't",
+      "words": [
+        {
+          "word": "To",
+          "start": 96.678,
+          "end": 96.819,
+          "score": 0.975
+        },
+        {
+          "word": "some",
+          "start": 96.899,
+          "end": 97.12,
+          "score": 0.783
+        },
+        {
+          "word": "extent,",
+          "start": 97.22,
+          "end": 97.742,
+          "score": 0.945
+        },
+        {
+          "word": "you",
+          "start": 99.048,
+          "end": 99.228,
+          "score": 0.447
+        },
+        {
+          "word": "might",
+          "start": 99.248,
+          "end": 99.509,
+          "score": 0.333
+        },
+        {
+          "word": "say,",
+          "start": 99.529,
+          "end": 99.911,
+          "score": 0.767
+        },
+        {
+          "word": "these",
+          "start": 100.493,
+          "end": 101.015,
+          "score": 0.569
+        },
+        {
+          "word": "things",
+          "start": 101.035,
+          "end": 101.276,
+          "score": 0.227
+        },
+        {
+          "word": "are",
+          "start": 101.537,
+          "end": 101.638,
+          "score": 0.676
+        },
+        {
+          "word": "all",
+          "start": 101.859,
+          "end": 102.039,
+          "score": 0.802
+        },
+        {
+          "word": "interrelated,",
+          "start": 102.16,
+          "end": 102.943,
+          "score": 0.826
+        },
+        {
+          "word": "but",
+          "start": 103.726,
+          "end": 103.866,
+          "score": 0.893
+        },
+        {
+          "word": "I",
+          "start": 103.927,
+          "end": 104.007,
+          "score": 0.799
+        },
+        {
+          "word": "just",
+          "start": 104.087,
+          "end": 104.168,
+          "score": 0.221
+        },
+        {
+          "word": "don't",
+          "start": 104.188,
+          "end": 104.288,
+          "score": 0.157
+        }
+      ]
+    },
+    {
+      "start": 124.838,
+      "end": 136.259,
+      "text": " I'm not sure it would have anything directly involved as impact.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 124.838,
+          "end": 127.763,
+          "score": 0.931
+        },
+        {
+          "word": "not",
+          "start": 127.803,
+          "end": 127.944,
+          "score": 0.978
+        },
+        {
+          "word": "sure",
+          "start": 128.004,
+          "end": 128.184,
+          "score": 0.566
+        },
+        {
+          "word": "it",
+          "start": 128.204,
+          "end": 128.244,
+          "score": 0.5
+        },
+        {
+          "word": "would",
+          "start": 128.284,
+          "end": 128.425,
+          "score": 0.268
+        },
+        {
+          "word": "have",
+          "start": 128.465,
+          "end": 128.625,
+          "score": 0.833
+        },
+        {
+          "word": "anything",
+          "start": 128.665,
+          "end": 129.106,
+          "score": 0.869
+        },
+        {
+          "word": "directly",
+          "start": 129.146,
+          "end": 132.432,
+          "score": 0.568
+        },
+        {
+          "word": "involved",
+          "start": 133.754,
+          "end": 134.355,
+          "score": 0.555
+        },
+        {
+          "word": "as",
+          "start": 134.375,
+          "end": 134.415,
+          "score": 0.474
+        },
+        {
+          "word": "impact.",
+          "start": 134.616,
+          "end": 136.259,
+          "score": 0.858
+        }
+      ]
+    },
+    {
+      "start": 136.279,
+      "end": 146.357,
+      "text": "I think it would indicate at the highest strategic level to the Soviets that events were unfolding",
+      "words": [
+        {
+          "word": "I",
+          "start": 136.279,
+          "end": 136.379,
+          "score": 0.878
+        },
+        {
+          "word": "think",
+          "start": 136.419,
+          "end": 136.639,
+          "score": 0.904
+        },
+        {
+          "word": "it",
+          "start": 136.72,
+          "end": 136.82,
+          "score": 0.737
+        },
+        {
+          "word": "would",
+          "start": 136.92,
+          "end": 137.06,
+          "score": 0.386
+        },
+        {
+          "word": "indicate",
+          "start": 137.721,
+          "end": 138.342,
+          "score": 0.581
+        },
+        {
+          "word": "at",
+          "start": 138.463,
+          "end": 138.543,
+          "score": 0.704
+        },
+        {
+          "word": "the",
+          "start": 138.603,
+          "end": 138.723,
+          "score": 0.973
+        },
+        {
+          "word": "highest",
+          "start": 138.843,
+          "end": 139.264,
+          "score": 0.586
+        },
+        {
+          "word": "strategic",
+          "start": 139.545,
+          "end": 140.426,
+          "score": 0.416
+        },
+        {
+          "word": "level",
+          "start": 140.446,
+          "end": 140.546,
+          "score": 0.368
+        },
+        {
+          "word": "to",
+          "start": 141.628,
+          "end": 142.029,
+          "score": 0.789
+        },
+        {
+          "word": "the",
+          "start": 142.31,
+          "end": 142.55,
+          "score": 0.564
+        },
+        {
+          "word": "Soviets",
+          "start": 142.59,
+          "end": 143.312,
+          "score": 0.574
+        },
+        {
+          "word": "that",
+          "start": 144.373,
+          "end": 144.594,
+          "score": 0.782
+        },
+        {
+          "word": "events",
+          "start": 144.634,
+          "end": 145.095,
+          "score": 0.404
+        },
+        {
+          "word": "were",
+          "start": 145.115,
+          "end": 145.335,
+          "score": 0.724
+        },
+        {
+          "word": "unfolding",
+          "start": 145.516,
+          "end": 146.357,
+          "score": 0.578
+        }
+      ]
+    },
+    {
+      "start": 156.209,
+      "end": 170.504,
+      "text": " And that any sign of a ruckus or coming together of the Chinese and the Americans and so forth was not a good thing for the Soviets.",
+      "words": [
+        {
+          "word": "And",
+          "start": 156.209,
+          "end": 156.309,
+          "score": 0.159
+        },
+        {
+          "word": "that",
+          "start": 156.329,
+          "end": 156.529,
+          "score": 0.81
+        },
+        {
+          "word": "any",
+          "start": 156.669,
+          "end": 156.93,
+          "score": 0.831
+        },
+        {
+          "word": "sign",
+          "start": 158.011,
+          "end": 158.992,
+          "score": 0.471
+        },
+        {
+          "word": "of",
+          "start": 160.594,
+          "end": 160.714,
+          "score": 0.56
+        },
+        {
+          "word": "a",
+          "start": 160.774,
+          "end": 160.834,
+          "score": 0.788
+        },
+        {
+          "word": "ruckus",
+          "start": 161.014,
+          "end": 161.335,
+          "score": 0.113
+        },
+        {
+          "word": "or",
+          "start": 161.355,
+          "end": 161.495,
+          "score": 0.56
+        },
+        {
+          "word": "coming",
+          "start": 161.675,
+          "end": 161.915,
+          "score": 0.243
+        },
+        {
+          "word": "together",
+          "start": 161.935,
+          "end": 162.416,
+          "score": 0.572
+        },
+        {
+          "word": "of",
+          "start": 162.876,
+          "end": 163.016,
+          "score": 0.306
+        },
+        {
+          "word": "the",
+          "start": 163.036,
+          "end": 163.096,
+          "score": 0.201
+        },
+        {
+          "word": "Chinese",
+          "start": 163.156,
+          "end": 163.677,
+          "score": 0.61
+        },
+        {
+          "word": "and",
+          "start": 164.378,
+          "end": 164.478,
+          "score": 0.743
+        },
+        {
+          "word": "the",
+          "start": 164.518,
+          "end": 164.598,
+          "score": 0.948
+        },
+        {
+          "word": "Americans",
+          "start": 164.698,
+          "end": 165.179,
+          "score": 0.42
+        },
+        {
+          "word": "and",
+          "start": 165.299,
+          "end": 165.359,
+          "score": 0.276
+        },
+        {
+          "word": "so",
+          "start": 165.479,
+          "end": 165.679,
+          "score": 0.512
+        },
+        {
+          "word": "forth",
+          "start": 165.699,
+          "end": 165.939,
+          "score": 0.668
+        },
+        {
+          "word": "was",
+          "start": 167.161,
+          "end": 167.221,
+          "score": 0.227
+        },
+        {
+          "word": "not",
+          "start": 167.321,
+          "end": 167.581,
+          "score": 0.846
+        },
+        {
+          "word": "a",
+          "start": 167.882,
+          "end": 167.942,
+          "score": 0.907
+        },
+        {
+          "word": "good",
+          "start": 168.062,
+          "end": 168.282,
+          "score": 0.99
+        },
+        {
+          "word": "thing",
+          "start": 168.402,
+          "end": 168.662,
+          "score": 0.921
+        },
+        {
+          "word": "for",
+          "start": 168.763,
+          "end": 169.063,
+          "score": 0.861
+        },
+        {
+          "word": "the",
+          "start": 169.243,
+          "end": 169.303,
+          "score": 0.005
+        },
+        {
+          "word": "Soviets.",
+          "start": 169.323,
+          "end": 170.504,
+          "score": 0.598
+        }
+      ]
+    },
+    {
+      "start": 170.524,
+      "end": 174.088,
+      "text": "So they would have not liked it and so forth.",
+      "words": [
+        {
+          "word": "So",
+          "start": 170.524,
+          "end": 170.625,
+          "score": 0.761
+        },
+        {
+          "word": "they",
+          "start": 170.665,
+          "end": 170.805,
+          "score": 0.879
+        },
+        {
+          "word": "would",
+          "start": 170.845,
+          "end": 171.065,
+          "score": 0.381
+        },
+        {
+          "word": "have",
+          "start": 171.085,
+          "end": 171.165,
+          "score": 0.261
+        },
+        {
+          "word": "not",
+          "start": 172.046,
+          "end": 172.246,
+          "score": 0.942
+        },
+        {
+          "word": "liked",
+          "start": 172.366,
+          "end": 172.747,
+          "score": 0.628
+        },
+        {
+          "word": "it",
+          "start": 172.767,
+          "end": 172.827,
+          "score": 0.698
+        },
+        {
+          "word": "and",
+          "start": 173.528,
+          "end": 173.588,
+          "score": 0.002
+        },
+        {
+          "word": "so",
+          "start": 173.608,
+          "end": 173.768,
+          "score": 0.704
+        },
+        {
+          "word": "forth.",
+          "start": 173.928,
+          "end": 174.088,
+          "score": 0.598
+        }
+      ]
+    },
+    {
+      "start": 174.669,
+      "end": 183.178,
+      "text": "But what they were doing in Europe, particularly with reference to Berlin, was moving in the right direction anyway.",
+      "words": [
+        {
+          "word": "But",
+          "start": 174.669,
+          "end": 174.889,
+          "score": 0.782
+        },
+        {
+          "word": "what",
+          "start": 175.33,
+          "end": 175.51,
+          "score": 0.804
+        },
+        {
+          "word": "they",
+          "start": 175.55,
+          "end": 175.71,
+          "score": 0.962
+        },
+        {
+          "word": "were",
+          "start": 175.75,
+          "end": 175.91,
+          "score": 0.851
+        },
+        {
+          "word": "doing",
+          "start": 175.97,
+          "end": 176.271,
+          "score": 0.656
+        },
+        {
+          "word": "in",
+          "start": 176.351,
+          "end": 176.391,
+          "score": 0.988
+        },
+        {
+          "word": "Europe,",
+          "start": 176.511,
+          "end": 176.851,
+          "score": 0.81
+        },
+        {
+          "word": "particularly",
+          "start": 177.532,
+          "end": 177.812,
+          "score": 0.134
+        },
+        {
+          "word": "with",
+          "start": 177.832,
+          "end": 177.952,
+          "score": 0.274
+        },
+        {
+          "word": "reference",
+          "start": 178.053,
+          "end": 178.333,
+          "score": 0.172
+        },
+        {
+          "word": "to",
+          "start": 178.473,
+          "end": 178.513,
+          "score": 0.001
+        },
+        {
+          "word": "Berlin,",
+          "start": 178.533,
+          "end": 178.933,
+          "score": 0.557
+        },
+        {
+          "word": "was",
+          "start": 178.994,
+          "end": 179.234,
+          "score": 0.589
+        },
+        {
+          "word": "moving",
+          "start": 179.915,
+          "end": 180.255,
+          "score": 0.895
+        },
+        {
+          "word": "in",
+          "start": 180.315,
+          "end": 180.375,
+          "score": 0.688
+        },
+        {
+          "word": "the",
+          "start": 180.435,
+          "end": 180.495,
+          "score": 0.945
+        },
+        {
+          "word": "right",
+          "start": 180.575,
+          "end": 180.856,
+          "score": 0.445
+        },
+        {
+          "word": "direction",
+          "start": 180.916,
+          "end": 181.296,
+          "score": 0.545
+        },
+        {
+          "word": "anyway.",
+          "start": 181.356,
+          "end": 183.178,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "start": 214.462,
+      "end": 216.265,
+      "text": " made a big cooptie-doo out of this.",
+      "words": [
+        {
+          "word": "made",
+          "start": 214.462,
+          "end": 214.762,
+          "score": 0.349
+        },
+        {
+          "word": "a",
+          "start": 214.843,
+          "end": 214.903,
+          "score": 0.764
+        },
+        {
+          "word": "big",
+          "start": 214.943,
+          "end": 215.243,
+          "score": 0.47
+        },
+        {
+          "word": "cooptie-doo",
+          "start": 215.263,
+          "end": 215.824,
+          "score": 0.544
+        },
+        {
+          "word": "out",
+          "start": 215.904,
+          "end": 216.024,
+          "score": 0.364
+        },
+        {
+          "word": "of",
+          "start": 216.044,
+          "end": 216.084,
+          "score": 0.323
+        },
+        {
+          "word": "this.",
+          "start": 216.125,
+          "end": 216.265,
+          "score": 0.547
+        }
+      ]
+    },
+    {
+      "start": 216.325,
+      "end": 217.707,
+      "text": "They thought this was something great.",
+      "words": [
+        {
+          "word": "They",
+          "start": 216.325,
+          "end": 216.445,
+          "score": 0.336
+        },
+        {
+          "word": "thought",
+          "start": 216.485,
+          "end": 216.705,
+          "score": 0.35
+        },
+        {
+          "word": "this",
+          "start": 216.725,
+          "end": 216.846,
+          "score": 0.45
+        },
+        {
+          "word": "was",
+          "start": 216.926,
+          "end": 217.026,
+          "score": 0.467
+        },
+        {
+          "word": "something",
+          "start": 217.046,
+          "end": 217.487,
+          "score": 0.362
+        },
+        {
+          "word": "great.",
+          "start": 217.507,
+          "end": 217.707,
+          "score": 0.329
+        }
+      ]
+    },
+    {
+      "start": 219.85,
+      "end": 224.658,
+      "text": "Whether it was wise or not, it's hard to say.",
+      "words": [
+        {
+          "word": "Whether",
+          "start": 219.85,
+          "end": 220.051,
+          "score": 0.262
+        },
+        {
+          "word": "it",
+          "start": 220.071,
+          "end": 220.111,
+          "score": 0.455
+        },
+        {
+          "word": "was",
+          "start": 220.211,
+          "end": 220.331,
+          "score": 0.489
+        },
+        {
+          "word": "wise",
+          "start": 220.471,
+          "end": 221.072,
+          "score": 0.816
+        },
+        {
+          "word": "or",
+          "start": 221.192,
+          "end": 221.312,
+          "score": 0.928
+        },
+        {
+          "word": "not,",
+          "start": 221.393,
+          "end": 223.175,
+          "score": 0.965
+        },
+        {
+          "word": "it's",
+          "start": 223.656,
+          "end": 223.776,
+          "score": 0.471
+        },
+        {
+          "word": "hard",
+          "start": 223.816,
+          "end": 224.077,
+          "score": 0.847
+        },
+        {
+          "word": "to",
+          "start": 224.117,
+          "end": 224.217,
+          "score": 0.565
+        },
+        {
+          "word": "say.",
+          "start": 224.257,
+          "end": 224.658,
+          "score": 0.722
+        }
+      ]
+    },
+    {
+      "start": 224.718,
+      "end": 231.788,
+      "text": "Because you see, you have a lot of Soviet presence anyway, as far as security is concerned.",
+      "words": [
+        {
+          "word": "Because",
+          "start": 224.718,
+          "end": 224.878,
+          "score": 0.211
+        },
+        {
+          "word": "you",
+          "start": 225.339,
+          "end": 225.399,
+          "score": 0.0
+        },
+        {
+          "word": "see,",
+          "start": 225.419,
+          "end": 225.499,
+          "score": 0.334
+        },
+        {
+          "word": "you",
+          "start": 225.519,
+          "end": 225.639,
+          "score": 0.935
+        },
+        {
+          "word": "have",
+          "start": 225.679,
+          "end": 225.819,
+          "score": 0.795
+        },
+        {
+          "word": "a",
+          "start": 225.859,
+          "end": 225.879,
+          "score": 0.388
+        },
+        {
+          "word": "lot",
+          "start": 225.94,
+          "end": 226.14,
+          "score": 0.977
+        },
+        {
+          "word": "of",
+          "start": 226.2,
+          "end": 226.24,
+          "score": 0.814
+        },
+        {
+          "word": "Soviet",
+          "start": 226.32,
+          "end": 226.741,
+          "score": 0.475
+        },
+        {
+          "word": "presence",
+          "start": 228.023,
+          "end": 228.183,
+          "score": 0.137
+        },
+        {
+          "word": "anyway,",
+          "start": 228.443,
+          "end": 228.904,
+          "score": 0.796
+        },
+        {
+          "word": "as",
+          "start": 228.924,
+          "end": 228.964,
+          "score": 0.584
+        },
+        {
+          "word": "far",
+          "start": 229.084,
+          "end": 229.325,
+          "score": 0.882
+        },
+        {
+          "word": "as",
+          "start": 229.365,
+          "end": 229.445,
+          "score": 0.845
+        },
+        {
+          "word": "security",
+          "start": 229.485,
+          "end": 230.326,
+          "score": 0.662
+        },
+        {
+          "word": "is",
+          "start": 230.346,
+          "end": 230.386,
+          "score": 0.003
+        },
+        {
+          "word": "concerned.",
+          "start": 230.406,
+          "end": 231.788,
+          "score": 0.318
+        }
+      ]
+    },
+    {
+      "start": 232.349,
+      "end": 238.318,
+      "text": "You have to assume that they've got millions, not millions, but lots of spies there, a lot of agents there.",
+      "words": [
+        {
+          "word": "You",
+          "start": 232.349,
+          "end": 232.449,
+          "score": 0.68
+        },
+        {
+          "word": "have",
+          "start": 232.469,
+          "end": 232.59,
+          "score": 0.537
+        },
+        {
+          "word": "to",
+          "start": 232.63,
+          "end": 232.73,
+          "score": 0.694
+        },
+        {
+          "word": "assume",
+          "start": 232.75,
+          "end": 233.01,
+          "score": 0.584
+        },
+        {
+          "word": "that",
+          "start": 233.07,
+          "end": 233.191,
+          "score": 0.347
+        },
+        {
+          "word": "they've",
+          "start": 233.231,
+          "end": 233.371,
+          "score": 0.159
+        },
+        {
+          "word": "got",
+          "start": 233.391,
+          "end": 233.631,
+          "score": 0.742
+        },
+        {
+          "word": "millions,",
+          "start": 233.671,
+          "end": 234.392,
+          "score": 0.436
+        },
+        {
+          "word": "not",
+          "start": 234.412,
+          "end": 234.513,
+          "score": 0.294
+        },
+        {
+          "word": "millions,",
+          "start": 234.533,
+          "end": 234.893,
+          "score": 0.33
+        },
+        {
+          "word": "but",
+          "start": 234.953,
+          "end": 235.013,
+          "score": 0.21
+        },
+        {
+          "word": "lots",
+          "start": 235.073,
+          "end": 235.334,
+          "score": 0.846
+        },
+        {
+          "word": "of",
+          "start": 235.354,
+          "end": 235.394,
+          "score": 0.484
+        },
+        {
+          "word": "spies",
+          "start": 235.815,
+          "end": 236.015,
+          "score": 0.579
+        },
+        {
+          "word": "there,",
+          "start": 236.115,
+          "end": 236.395,
+          "score": 0.753
+        },
+        {
+          "word": "a",
+          "start": 237.257,
+          "end": 237.417,
+          "score": 0.653
+        },
+        {
+          "word": "lot",
+          "start": 237.437,
+          "end": 237.497,
+          "score": 0.042
+        },
+        {
+          "word": "of",
+          "start": 237.517,
+          "end": 237.557,
+          "score": 0.002
+        },
+        {
+          "word": "agents",
+          "start": 237.577,
+          "end": 237.918,
+          "score": 0.528
+        },
+        {
+          "word": "there.",
+          "start": 237.998,
+          "end": 238.318,
+          "score": 0.69
+        }
+      ]
+    },
+    {
+      "start": 239.821,
+      "end": 241.363,
+      "text": "They come in there.",
+      "words": [
+        {
+          "word": "They",
+          "start": 239.821,
+          "end": 240.061,
+          "score": 0.727
+        },
+        {
+          "word": "come",
+          "start": 240.101,
+          "end": 240.341,
+          "score": 0.906
+        },
+        {
+          "word": "in",
+          "start": 240.442,
+          "end": 240.562,
+          "score": 0.928
+        },
+        {
+          "word": "there.",
+          "start": 240.582,
+          "end": 241.363,
+          "score": 0.609
+        }
+      ]
+    },
+    {
+      "start": 248.397,
+      "end": 260.836,
+      "text": " So it appeared to be necessary or something that was going to make the agreement possible.",
+      "words": [
+        {
+          "word": "So",
+          "start": 248.397,
+          "end": 248.798,
+          "score": 0.813
+        },
+        {
+          "word": "it",
+          "start": 249.799,
+          "end": 251.502,
+          "score": 0.951
+        },
+        {
+          "word": "appeared",
+          "start": 251.642,
+          "end": 253.986,
+          "score": 0.676
+        },
+        {
+          "word": "to",
+          "start": 254.066,
+          "end": 254.186,
+          "score": 0.896
+        },
+        {
+          "word": "be",
+          "start": 254.266,
+          "end": 254.527,
+          "score": 0.934
+        },
+        {
+          "word": "necessary",
+          "start": 254.567,
+          "end": 255.628,
+          "score": 0.555
+        },
+        {
+          "word": "or",
+          "start": 255.849,
+          "end": 255.949,
+          "score": 0.796
+        },
+        {
+          "word": "something",
+          "start": 256.69,
+          "end": 257.131,
+          "score": 0.943
+        },
+        {
+          "word": "that",
+          "start": 257.171,
+          "end": 257.271,
+          "score": 0.919
+        },
+        {
+          "word": "was",
+          "start": 257.331,
+          "end": 257.431,
+          "score": 0.924
+        },
+        {
+          "word": "going",
+          "start": 257.491,
+          "end": 257.772,
+          "score": 0.884
+        },
+        {
+          "word": "to",
+          "start": 257.812,
+          "end": 257.912,
+          "score": 0.88
+        },
+        {
+          "word": "make",
+          "start": 257.972,
+          "end": 258.172,
+          "score": 0.885
+        },
+        {
+          "word": "the",
+          "start": 258.232,
+          "end": 258.332,
+          "score": 0.612
+        },
+        {
+          "word": "agreement",
+          "start": 258.372,
+          "end": 258.793,
+          "score": 0.477
+        },
+        {
+          "word": "possible.",
+          "start": 258.873,
+          "end": 260.836,
+          "score": 0.216
+        }
+      ]
+    },
+    {
+      "start": 260.856,
+      "end": 263.44,
+      "text": "And it could have been a lot worse than that, I think.",
+      "words": [
+        {
+          "word": "And",
+          "start": 260.856,
+          "end": 260.997,
+          "score": 0.921
+        },
+        {
+          "word": "it",
+          "start": 261.377,
+          "end": 261.417,
+          "score": 0.554
+        },
+        {
+          "word": "could",
+          "start": 261.597,
+          "end": 261.738,
+          "score": 0.698
+        },
+        {
+          "word": "have",
+          "start": 261.778,
+          "end": 261.858,
+          "score": 0.917
+        },
+        {
+          "word": "been",
+          "start": 261.878,
+          "end": 261.998,
+          "score": 0.814
+        },
+        {
+          "word": "a",
+          "start": 262.018,
+          "end": 262.038,
+          "score": 0.678
+        },
+        {
+          "word": "lot",
+          "start": 262.118,
+          "end": 262.359,
+          "score": 0.582
+        },
+        {
+          "word": "worse",
+          "start": 262.379,
+          "end": 262.579,
+          "score": 0.595
+        },
+        {
+          "word": "than",
+          "start": 262.639,
+          "end": 262.759,
+          "score": 0.845
+        },
+        {
+          "word": "that,",
+          "start": 262.819,
+          "end": 263.1,
+          "score": 0.46
+        },
+        {
+          "word": "I",
+          "start": 263.12,
+          "end": 263.2,
+          "score": 0.703
+        },
+        {
+          "word": "think.",
+          "start": 263.24,
+          "end": 263.44,
+          "score": 0.522
+        }
+      ]
+    },
+    {
+      "start": 263.46,
+      "end": 265.383,
+      "text": "We could have probably given up a lot more than that.",
+      "words": [
+        {
+          "word": "We",
+          "start": 263.46,
+          "end": 263.621,
+          "score": 0.458
+        },
+        {
+          "word": "could",
+          "start": 263.641,
+          "end": 263.781,
+          "score": 0.732
+        },
+        {
+          "word": "have",
+          "start": 263.801,
+          "end": 263.881,
+          "score": 0.493
+        },
+        {
+          "word": "probably",
+          "start": 263.941,
+          "end": 264.181,
+          "score": 0.444
+        },
+        {
+          "word": "given",
+          "start": 264.222,
+          "end": 264.422,
+          "score": 0.795
+        },
+        {
+          "word": "up",
+          "start": 264.502,
+          "end": 264.642,
+          "score": 0.261
+        },
+        {
+          "word": "a",
+          "start": 264.662,
+          "end": 264.682,
+          "score": 0.588
+        },
+        {
+          "word": "lot",
+          "start": 264.722,
+          "end": 265.003,
+          "score": 0.593
+        },
+        {
+          "word": "more",
+          "start": 265.023,
+          "end": 265.103,
+          "score": 0.434
+        },
+        {
+          "word": "than",
+          "start": 265.123,
+          "end": 265.203,
+          "score": 0.179
+        },
+        {
+          "word": "that.",
+          "start": 265.263,
+          "end": 265.383,
+          "score": 0.658
+        }
+      ]
+    },
+    {
+      "start": 265.483,
+      "end": 268.328,
+      "text": "I don't know what they've gotten out of it.",
+      "words": [
+        {
+          "word": "I",
+          "start": 265.483,
+          "end": 265.504,
+          "score": 0.839
+        },
+        {
+          "word": "don't",
+          "start": 265.564,
+          "end": 265.704,
+          "score": 0.292
+        },
+        {
+          "word": "know",
+          "start": 265.724,
+          "end": 265.804,
+          "score": 0.237
+        },
+        {
+          "word": "what",
+          "start": 265.824,
+          "end": 265.944,
+          "score": 0.482
+        },
+        {
+          "word": "they've",
+          "start": 265.984,
+          "end": 266.145,
+          "score": 0.515
+        },
+        {
+          "word": "gotten",
+          "start": 266.185,
+          "end": 266.505,
+          "score": 0.577
+        },
+        {
+          "word": "out",
+          "start": 266.525,
+          "end": 266.705,
+          "score": 0.707
+        },
+        {
+          "word": "of",
+          "start": 266.725,
+          "end": 266.765,
+          "score": 0.515
+        },
+        {
+          "word": "it.",
+          "start": 268.248,
+          "end": 268.328,
+          "score": 0.491
+        }
+      ]
+    },
+    {
+      "start": 268.348,
+      "end": 272.294,
+      "text": "I don't know what they get out of that.",
+      "words": [
+        {
+          "word": "I",
+          "start": 268.348,
+          "end": 268.368,
+          "score": 0.006
+        },
+        {
+          "word": "don't",
+          "start": 268.388,
+          "end": 268.548,
+          "score": 0.641
+        },
+        {
+          "word": "know",
+          "start": 268.729,
+          "end": 268.809,
+          "score": 0.032
+        },
+        {
+          "word": "what",
+          "start": 268.829,
+          "end": 268.929,
+          "score": 0.145
+        },
+        {
+          "word": "they",
+          "start": 268.949,
+          "end": 269.029,
+          "score": 0.011
+        },
+        {
+          "word": "get",
+          "start": 269.049,
+          "end": 269.109,
+          "score": 0.057
+        },
+        {
+          "word": "out",
+          "start": 269.129,
+          "end": 269.189,
+          "score": 0.311
+        },
+        {
+          "word": "of",
+          "start": 272.094,
+          "end": 272.174,
+          "score": 0.414
+        },
+        {
+          "word": "that.",
+          "start": 272.194,
+          "end": 272.294,
+          "score": 0.315
+        }
+      ]
+    },
+    {
+      "start": 275.699,
+      "end": 276.801,
+      "text": "What are the secret protocols?",
+      "words": [
+        {
+          "word": "What",
+          "start": 275.699,
+          "end": 275.96,
+          "score": 0.425
+        },
+        {
+          "word": "are",
+          "start": 275.98,
+          "end": 276.06,
+          "score": 0.346
+        },
+        {
+          "word": "the",
+          "start": 276.08,
+          "end": 276.24,
+          "score": 0.341
+        },
+        {
+          "word": "secret",
+          "start": 276.26,
+          "end": 276.38,
+          "score": 0.196
+        },
+        {
+          "word": "protocols?",
+          "start": 276.42,
+          "end": 276.801,
+          "score": 0.355
+        }
+      ]
+    },
+    {
+      "start": 292.087,
+      "end": 314.668,
+      "text": " the russians that that group there was neo-nazis or something oh yeah okay yeah okay well these are some crazy people over there crazy political agitators uh and i can't remember what they were doing but uh it it would have been all right see we have",
+      "words": [
+        {
+          "word": "the",
+          "start": 292.087,
+          "end": 292.267,
+          "score": 0.596
+        },
+        {
+          "word": "russians",
+          "start": 292.307,
+          "end": 292.688,
+          "score": 0.628
+        },
+        {
+          "word": "that",
+          "start": 293.129,
+          "end": 293.329,
+          "score": 0.517
+        },
+        {
+          "word": "that",
+          "start": 293.75,
+          "end": 293.87,
+          "score": 0.494
+        },
+        {
+          "word": "group",
+          "start": 293.95,
+          "end": 294.151,
+          "score": 0.28
+        },
+        {
+          "word": "there",
+          "start": 294.171,
+          "end": 294.511,
+          "score": 0.536
+        },
+        {
+          "word": "was",
+          "start": 294.531,
+          "end": 294.592,
+          "score": 0.003
+        },
+        {
+          "word": "neo-nazis",
+          "start": 294.612,
+          "end": 295.674,
+          "score": 0.65
+        },
+        {
+          "word": "or",
+          "start": 295.694,
+          "end": 295.794,
+          "score": 0.676
+        },
+        {
+          "word": "something",
+          "start": 295.834,
+          "end": 296.235,
+          "score": 0.257
+        },
+        {
+          "word": "oh",
+          "start": 296.455,
+          "end": 296.715,
+          "score": 0.747
+        },
+        {
+          "word": "yeah",
+          "start": 298.218,
+          "end": 298.559,
+          "score": 0.515
+        },
+        {
+          "word": "okay",
+          "start": 298.579,
+          "end": 298.859,
+          "score": 0.478
+        },
+        {
+          "word": "yeah",
+          "start": 299.0,
+          "end": 299.521,
+          "score": 0.395
+        },
+        {
+          "word": "okay",
+          "start": 299.561,
+          "end": 299.921,
+          "score": 0.235
+        },
+        {
+          "word": "well",
+          "start": 299.941,
+          "end": 300.041,
+          "score": 0.553
+        },
+        {
+          "word": "these",
+          "start": 300.442,
+          "end": 300.763,
+          "score": 0.489
+        },
+        {
+          "word": "are",
+          "start": 300.783,
+          "end": 301.063,
+          "score": 0.793
+        },
+        {
+          "word": "some",
+          "start": 301.143,
+          "end": 301.304,
+          "score": 0.208
+        },
+        {
+          "word": "crazy",
+          "start": 301.324,
+          "end": 301.684,
+          "score": 0.612
+        },
+        {
+          "word": "people",
+          "start": 301.725,
+          "end": 302.085,
+          "score": 0.733
+        },
+        {
+          "word": "over",
+          "start": 302.105,
+          "end": 302.326,
+          "score": 0.17
+        },
+        {
+          "word": "there",
+          "start": 302.346,
+          "end": 302.466,
+          "score": 0.484
+        },
+        {
+          "word": "crazy",
+          "start": 302.566,
+          "end": 302.907,
+          "score": 0.642
+        },
+        {
+          "word": "political",
+          "start": 303.047,
+          "end": 303.628,
+          "score": 0.845
+        },
+        {
+          "word": "agitators",
+          "start": 304.269,
+          "end": 304.99,
+          "score": 0.821
+        },
+        {
+          "word": "uh",
+          "start": 306.433,
+          "end": 306.533,
+          "score": 0.673
+        },
+        {
+          "word": "and",
+          "start": 306.814,
+          "end": 306.934,
+          "score": 0.84
+        },
+        {
+          "word": "i",
+          "start": 306.994,
+          "end": 307.014,
+          "score": 0.977
+        },
+        {
+          "word": "can't",
+          "start": 307.074,
+          "end": 307.275,
+          "score": 0.827
+        },
+        {
+          "word": "remember",
+          "start": 307.335,
+          "end": 307.595,
+          "score": 0.537
+        },
+        {
+          "word": "what",
+          "start": 307.635,
+          "end": 307.755,
+          "score": 0.817
+        },
+        {
+          "word": "they",
+          "start": 307.816,
+          "end": 307.936,
+          "score": 0.867
+        },
+        {
+          "word": "were",
+          "start": 308.016,
+          "end": 308.156,
+          "score": 0.818
+        },
+        {
+          "word": "doing",
+          "start": 308.216,
+          "end": 308.557,
+          "score": 0.833
+        },
+        {
+          "word": "but",
+          "start": 309.459,
+          "end": 309.779,
+          "score": 0.76
+        },
+        {
+          "word": "uh",
+          "start": 310.2,
+          "end": 310.24,
+          "score": 0.435
+        },
+        {
+          "word": "it",
+          "start": 312.264,
+          "end": 312.384,
+          "score": 0.816
+        },
+        {
+          "word": "it",
+          "start": 312.624,
+          "end": 312.805,
+          "score": 0.846
+        },
+        {
+          "word": "would",
+          "start": 313.165,
+          "end": 313.286,
+          "score": 0.133
+        },
+        {
+          "word": "have",
+          "start": 313.326,
+          "end": 313.406,
+          "score": 0.498
+        },
+        {
+          "word": "been",
+          "start": 313.426,
+          "end": 313.566,
+          "score": 0.42
+        },
+        {
+          "word": "all",
+          "start": 313.626,
+          "end": 313.706,
+          "score": 0.583
+        },
+        {
+          "word": "right",
+          "start": 313.867,
+          "end": 313.987,
+          "score": 0.174
+        },
+        {
+          "word": "see",
+          "start": 314.007,
+          "end": 314.107,
+          "score": 0.502
+        },
+        {
+          "word": "we",
+          "start": 314.167,
+          "end": 314.287,
+          "score": 0.951
+        },
+        {
+          "word": "have",
+          "start": 314.367,
+          "end": 314.668,
+          "score": 0.849
+        }
+      ]
+    },
+    {
+      "start": 324.132,
+      "end": 338.913,
+      "text": " that we would try to restrict the travel of these bad people, sort of like the Ku Klux Klan, but politically, you know, neo-Nazis.",
+      "words": [
+        {
+          "word": "that",
+          "start": 324.132,
+          "end": 325.073,
+          "score": 0.588
+        },
+        {
+          "word": "we",
+          "start": 325.394,
+          "end": 325.554,
+          "score": 0.965
+        },
+        {
+          "word": "would",
+          "start": 325.594,
+          "end": 325.794,
+          "score": 0.608
+        },
+        {
+          "word": "try",
+          "start": 326.415,
+          "end": 326.716,
+          "score": 0.456
+        },
+        {
+          "word": "to",
+          "start": 326.816,
+          "end": 326.916,
+          "score": 0.424
+        },
+        {
+          "word": "restrict",
+          "start": 326.936,
+          "end": 327.537,
+          "score": 0.519
+        },
+        {
+          "word": "the",
+          "start": 327.557,
+          "end": 327.737,
+          "score": 0.742
+        },
+        {
+          "word": "travel",
+          "start": 327.877,
+          "end": 328.418,
+          "score": 0.595
+        },
+        {
+          "word": "of",
+          "start": 328.558,
+          "end": 328.659,
+          "score": 0.635
+        },
+        {
+          "word": "these",
+          "start": 329.339,
+          "end": 329.52,
+          "score": 0.542
+        },
+        {
+          "word": "bad",
+          "start": 331.002,
+          "end": 331.222,
+          "score": 0.799
+        },
+        {
+          "word": "people,",
+          "start": 331.282,
+          "end": 331.723,
+          "score": 0.795
+        },
+        {
+          "word": "sort",
+          "start": 331.743,
+          "end": 331.963,
+          "score": 0.6
+        },
+        {
+          "word": "of",
+          "start": 332.264,
+          "end": 332.344,
+          "score": 0.46
+        },
+        {
+          "word": "like",
+          "start": 332.384,
+          "end": 332.564,
+          "score": 0.48
+        },
+        {
+          "word": "the",
+          "start": 332.925,
+          "end": 332.985,
+          "score": 0.258
+        },
+        {
+          "word": "Ku",
+          "start": 333.005,
+          "end": 333.045,
+          "score": 0.0
+        },
+        {
+          "word": "Klux",
+          "start": 333.065,
+          "end": 333.145,
+          "score": 0.02
+        },
+        {
+          "word": "Klan,",
+          "start": 333.165,
+          "end": 333.405,
+          "score": 0.603
+        },
+        {
+          "word": "but",
+          "start": 333.906,
+          "end": 334.066,
+          "score": 0.672
+        },
+        {
+          "word": "politically,",
+          "start": 334.106,
+          "end": 334.627,
+          "score": 0.472
+        },
+        {
+          "word": "you",
+          "start": 336.209,
+          "end": 336.289,
+          "score": 0.328
+        },
+        {
+          "word": "know,",
+          "start": 336.31,
+          "end": 336.41,
+          "score": 0.289
+        },
+        {
+          "word": "neo-Nazis.",
+          "start": 337.391,
+          "end": 338.913,
+          "score": 0.748
+        }
+      ]
+    },
+    {
+      "start": 338.933,
+      "end": 344.301,
+      "text": "I can't remember that, but again, it would have been quite a",
+      "words": [
+        {
+          "word": "I",
+          "start": 338.933,
+          "end": 339.033,
+          "score": 0.89
+        },
+        {
+          "word": "can't",
+          "start": 339.074,
+          "end": 339.294,
+          "score": 0.797
+        },
+        {
+          "word": "remember",
+          "start": 339.334,
+          "end": 339.654,
+          "score": 0.947
+        },
+        {
+          "word": "that,",
+          "start": 339.714,
+          "end": 339.875,
+          "score": 0.87
+        },
+        {
+          "word": "but",
+          "start": 339.915,
+          "end": 340.075,
+          "score": 0.804
+        },
+        {
+          "word": "again,",
+          "start": 340.135,
+          "end": 340.596,
+          "score": 0.764
+        },
+        {
+          "word": "it",
+          "start": 341.076,
+          "end": 341.157,
+          "score": 0.808
+        },
+        {
+          "word": "would",
+          "start": 341.217,
+          "end": 341.397,
+          "score": 0.504
+        },
+        {
+          "word": "have",
+          "start": 341.437,
+          "end": 341.537,
+          "score": 0.431
+        },
+        {
+          "word": "been",
+          "start": 341.597,
+          "end": 341.858,
+          "score": 0.816
+        },
+        {
+          "word": "quite",
+          "start": 343.44,
+          "end": 343.78,
+          "score": 0.745
+        },
+        {
+          "word": "a",
+          "start": 344.041,
+          "end": 344.301,
+          "score": 0.731
+        }
+      ]
+    },
+    {
+      "start": 403.495,
+      "end": 422.314,
+      "text": " I think that it was whether all the governments agreed that they were prepared to act to implement the concept that they taught in a real way, in a practical way.",
+      "words": [
+        {
+          "word": "I",
+          "start": 403.495,
+          "end": 403.615,
+          "score": 0.641
+        },
+        {
+          "word": "think",
+          "start": 403.635,
+          "end": 403.895,
+          "score": 0.897
+        },
+        {
+          "word": "that",
+          "start": 403.955,
+          "end": 404.236,
+          "score": 0.895
+        },
+        {
+          "word": "it",
+          "start": 404.476,
+          "end": 406.278,
+          "score": 0.947
+        },
+        {
+          "word": "was",
+          "start": 406.318,
+          "end": 406.538,
+          "score": 0.616
+        },
+        {
+          "word": "whether",
+          "start": 408.78,
+          "end": 409.341,
+          "score": 0.801
+        },
+        {
+          "word": "all",
+          "start": 410.302,
+          "end": 410.462,
+          "score": 0.785
+        },
+        {
+          "word": "the",
+          "start": 410.522,
+          "end": 410.602,
+          "score": 0.327
+        },
+        {
+          "word": "governments",
+          "start": 410.622,
+          "end": 411.083,
+          "score": 0.289
+        },
+        {
+          "word": "agreed",
+          "start": 411.203,
+          "end": 411.623,
+          "score": 0.86
+        },
+        {
+          "word": "that",
+          "start": 411.703,
+          "end": 411.944,
+          "score": 0.897
+        },
+        {
+          "word": "they",
+          "start": 412.344,
+          "end": 412.504,
+          "score": 0.948
+        },
+        {
+          "word": "were",
+          "start": 412.544,
+          "end": 412.784,
+          "score": 0.923
+        },
+        {
+          "word": "prepared",
+          "start": 413.125,
+          "end": 413.605,
+          "score": 0.462
+        },
+        {
+          "word": "to",
+          "start": 413.705,
+          "end": 413.986,
+          "score": 0.855
+        },
+        {
+          "word": "act",
+          "start": 415.087,
+          "end": 415.227,
+          "score": 0.472
+        },
+        {
+          "word": "to",
+          "start": 416.768,
+          "end": 416.969,
+          "score": 0.666
+        },
+        {
+          "word": "implement",
+          "start": 417.029,
+          "end": 417.549,
+          "score": 0.96
+        },
+        {
+          "word": "the",
+          "start": 417.89,
+          "end": 418.03,
+          "score": 0.888
+        },
+        {
+          "word": "concept",
+          "start": 418.09,
+          "end": 418.61,
+          "score": 0.357
+        },
+        {
+          "word": "that",
+          "start": 418.65,
+          "end": 418.79,
+          "score": 0.64
+        },
+        {
+          "word": "they",
+          "start": 418.83,
+          "end": 419.011,
+          "score": 0.808
+        },
+        {
+          "word": "taught",
+          "start": 419.151,
+          "end": 419.691,
+          "score": 0.462
+        },
+        {
+          "word": "in",
+          "start": 420.412,
+          "end": 420.512,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "start": 420.552,
+          "end": 420.572,
+          "score": 0.029
+        },
+        {
+          "word": "real",
+          "start": 420.652,
+          "end": 420.933,
+          "score": 0.834
+        },
+        {
+          "word": "way,",
+          "start": 421.013,
+          "end": 421.293,
+          "score": 0.661
+        },
+        {
+          "word": "in",
+          "start": 421.313,
+          "end": 421.353,
+          "score": 0.445
+        },
+        {
+          "word": "a",
+          "start": 421.413,
+          "end": 421.493,
+          "score": 0.433
+        },
+        {
+          "word": "practical",
+          "start": 421.513,
+          "end": 422.014,
+          "score": 0.491
+        },
+        {
+          "word": "way.",
+          "start": 422.034,
+          "end": 422.314,
+          "score": 0.941
+        }
+      ]
+    },
+    {
+      "start": 423.535,
+      "end": 425.237,
+      "text": "We all had problems.",
+      "words": [
+        {
+          "word": "We",
+          "start": 423.535,
+          "end": 423.755,
+          "score": 0.868
+        },
+        {
+          "word": "all",
+          "start": 423.976,
+          "end": 424.176,
+          "score": 0.821
+        },
+        {
+          "word": "had",
+          "start": 424.256,
+          "end": 424.476,
+          "score": 0.864
+        },
+        {
+          "word": "problems.",
+          "start": 424.817,
+          "end": 425.237,
+          "score": 0.306
+        }
+      ]
+    },
+    {
+      "start": 425.257,
+      "end": 430.262,
+      "text": "Assuringly, we had problems with Berlin.",
+      "words": [
+        {
+          "word": "Assuringly,",
+          "start": 425.257,
+          "end": 425.497,
+          "score": 0.253
+        },
+        {
+          "word": "we",
+          "start": 425.517,
+          "end": 425.637,
+          "score": 0.927
+        },
+        {
+          "word": "had",
+          "start": 425.697,
+          "end": 425.818,
+          "score": 0.854
+        },
+        {
+          "word": "problems",
+          "start": 425.938,
+          "end": 426.258,
+          "score": 0.327
+        },
+        {
+          "word": "with",
+          "start": 426.378,
+          "end": 426.478,
+          "score": 0.284
+        },
+        {
+          "word": "Berlin.",
+          "start": 426.578,
+          "end": 430.262,
+          "score": 0.731
+        }
+      ]
+    },
+    {
+      "start": 443.033,
+      "end": 445.576,
+      "text": " issue arose was valuable to us.",
+      "words": [
+        {
+          "word": "issue",
+          "start": 443.033,
+          "end": 443.473,
+          "score": 0.379
+        },
+        {
+          "word": "arose",
+          "start": 443.493,
+          "end": 443.674,
+          "score": 0.326
+        },
+        {
+          "word": "was",
+          "start": 444.194,
+          "end": 444.454,
+          "score": 0.712
+        },
+        {
+          "word": "valuable",
+          "start": 444.535,
+          "end": 445.095,
+          "score": 0.886
+        },
+        {
+          "word": "to",
+          "start": 445.375,
+          "end": 445.496,
+          "score": 0.484
+        },
+        {
+          "word": "us.",
+          "start": 445.516,
+          "end": 445.576,
+          "score": 0.569
+        }
+      ]
+    },
+    {
+      "start": 446.657,
+      "end": 465.276,
+      "text": "Also, as I said, we had been pursuing the other policy that Germany was only one Germany, Germany was undivided, etc., that East Germany was not a real government, and so forth.",
+      "words": [
+        {
+          "word": "Also,",
+          "start": 446.657,
+          "end": 447.458,
+          "score": 0.533
+        },
+        {
+          "word": "as",
+          "start": 448.659,
+          "end": 448.899,
+          "score": 0.296
+        },
+        {
+          "word": "I",
+          "start": 448.919,
+          "end": 448.939,
+          "score": 0.931
+        },
+        {
+          "word": "said,",
+          "start": 449.079,
+          "end": 450.04,
+          "score": 0.634
+        },
+        {
+          "word": "we",
+          "start": 450.06,
+          "end": 450.14,
+          "score": 0.943
+        },
+        {
+          "word": "had",
+          "start": 450.22,
+          "end": 450.521,
+          "score": 0.839
+        },
+        {
+          "word": "been",
+          "start": 450.601,
+          "end": 450.821,
+          "score": 0.742
+        },
+        {
+          "word": "pursuing",
+          "start": 452.182,
+          "end": 452.703,
+          "score": 0.381
+        },
+        {
+          "word": "the",
+          "start": 452.723,
+          "end": 452.783,
+          "score": 0.316
+        },
+        {
+          "word": "other",
+          "start": 452.863,
+          "end": 453.063,
+          "score": 0.559
+        },
+        {
+          "word": "policy",
+          "start": 453.143,
+          "end": 453.744,
+          "score": 0.594
+        },
+        {
+          "word": "that",
+          "start": 453.784,
+          "end": 453.944,
+          "score": 0.811
+        },
+        {
+          "word": "Germany",
+          "start": 454.785,
+          "end": 455.266,
+          "score": 0.521
+        },
+        {
+          "word": "was",
+          "start": 455.306,
+          "end": 455.466,
+          "score": 0.626
+        },
+        {
+          "word": "only",
+          "start": 455.566,
+          "end": 455.806,
+          "score": 0.66
+        },
+        {
+          "word": "one",
+          "start": 455.926,
+          "end": 456.086,
+          "score": 0.854
+        },
+        {
+          "word": "Germany,",
+          "start": 456.147,
+          "end": 456.727,
+          "score": 0.691
+        },
+        {
+          "word": "Germany",
+          "start": 456.747,
+          "end": 457.168,
+          "score": 0.604
+        },
+        {
+          "word": "was",
+          "start": 458.149,
+          "end": 458.269,
+          "score": 0.357
+        },
+        {
+          "word": "undivided,",
+          "start": 458.369,
+          "end": 459.029,
+          "score": 0.627
+        },
+        {
+          "word": "etc.,",
+          "start": 459.09,
+          "end": 459.55,
+          "score": 0.824
+        },
+        {
+          "word": "that",
+          "start": 460.571,
+          "end": 460.731,
+          "score": 0.74
+        },
+        {
+          "word": "East",
+          "start": 460.811,
+          "end": 461.052,
+          "score": 0.294
+        },
+        {
+          "word": "Germany",
+          "start": 461.072,
+          "end": 461.432,
+          "score": 0.707
+        },
+        {
+          "word": "was",
+          "start": 461.532,
+          "end": 461.652,
+          "score": 0.463
+        },
+        {
+          "word": "not",
+          "start": 461.752,
+          "end": 462.133,
+          "score": 0.832
+        },
+        {
+          "word": "a",
+          "start": 462.153,
+          "end": 462.273,
+          "score": 0.766
+        },
+        {
+          "word": "real",
+          "start": 462.393,
+          "end": 462.653,
+          "score": 0.834
+        },
+        {
+          "word": "government,",
+          "start": 462.693,
+          "end": 464.575,
+          "score": 0.449
+        },
+        {
+          "word": "and",
+          "start": 464.595,
+          "end": 464.655,
+          "score": 0.322
+        },
+        {
+          "word": "so",
+          "start": 464.695,
+          "end": 464.916,
+          "score": 0.773
+        },
+        {
+          "word": "forth.",
+          "start": 465.036,
+          "end": 465.276,
+          "score": 0.51
+        }
+      ]
+    },
+    {
+      "start": 465.296,
+      "end": 467.959,
+      "text": "And we really hadn't gotten very far with it.",
+      "words": [
+        {
+          "word": "And",
+          "start": 465.296,
+          "end": 465.356,
+          "score": 0.394
+        },
+        {
+          "word": "we",
+          "start": 465.416,
+          "end": 465.656,
+          "score": 0.831
+        },
+        {
+          "word": "really",
+          "start": 465.756,
+          "end": 466.157,
+          "score": 0.672
+        },
+        {
+          "word": "hadn't",
+          "start": 466.237,
+          "end": 466.397,
+          "score": 0.236
+        },
+        {
+          "word": "gotten",
+          "start": 466.477,
+          "end": 466.858,
+          "score": 0.171
+        },
+        {
+          "word": "very",
+          "start": 466.878,
+          "end": 466.958,
+          "score": 0.001
+        },
+        {
+          "word": "far",
+          "start": 466.978,
+          "end": 467.098,
+          "score": 0.558
+        },
+        {
+          "word": "with",
+          "start": 467.799,
+          "end": 467.879,
+          "score": 0.0
+        },
+        {
+          "word": "it.",
+          "start": 467.899,
+          "end": 467.959,
+          "score": 0.029
+        }
+      ]
+    },
+    {
+      "start": 467.979,
+      "end": 469.38,
+      "text": "Both sides were stonewalling.",
+      "words": [
+        {
+          "word": "Both",
+          "start": 467.979,
+          "end": 468.179,
+          "score": 0.523
+        },
+        {
+          "word": "sides",
+          "start": 468.359,
+          "end": 468.539,
+          "score": 0.441
+        },
+        {
+          "word": "were",
+          "start": 468.579,
+          "end": 468.78,
+          "score": 0.628
+        },
+        {
+          "word": "stonewalling.",
+          "start": 468.86,
+          "end": 469.38,
+          "score": 0.356
+        }
+      ]
+    },
+    {
+      "start": 471.002,
+      "end": 472.163,
+      "text": "And I think",
+      "words": [
+        {
+          "word": "And",
+          "start": 471.002,
+          "end": 471.202,
+          "score": 0.791
+        },
+        {
+          "word": "I",
+          "start": 471.903,
+          "end": 471.963,
+          "score": 0.501
+        },
+        {
+          "word": "think",
+          "start": 472.003,
+          "end": 472.163,
+          "score": 0.387
+        }
+      ]
+    },
+    {
+      "start": 479.062,
+      "end": 482.608,
+      "text": " and come up with an agreement that did in effect",
+      "words": [
+        {
+          "word": "and",
+          "start": 479.062,
+          "end": 479.284,
+          "score": 0.649
+        },
+        {
+          "word": "come",
+          "start": 479.344,
+          "end": 479.566,
+          "score": 0.807
+        },
+        {
+          "word": "up",
+          "start": 479.626,
+          "end": 479.747,
+          "score": 0.668
+        },
+        {
+          "word": "with",
+          "start": 479.807,
+          "end": 480.009,
+          "score": 0.811
+        },
+        {
+          "word": "an",
+          "start": 480.17,
+          "end": 480.855,
+          "score": 0.766
+        },
+        {
+          "word": "agreement",
+          "start": 480.936,
+          "end": 481.581,
+          "score": 0.645
+        },
+        {
+          "word": "that",
+          "start": 481.601,
+          "end": 481.762,
+          "score": 0.29
+        },
+        {
+          "word": "did",
+          "start": 481.782,
+          "end": 481.984,
+          "score": 0.882
+        },
+        {
+          "word": "in",
+          "start": 482.044,
+          "end": 482.125,
+          "score": 0.968
+        },
+        {
+          "word": "effect",
+          "start": 482.205,
+          "end": 482.608,
+          "score": 0.751
+        }
+      ]
+    },
+    {
+      "start": 514.955,
+      "end": 515.123,
+      "text": " Thank you.",
+      "words": [],
+      "chars": null
+    },
+    {
+      "start": 553.447,
+      "end": 571.038,
+      "text": " was so much greater than you got from an individual spy that they felt it was important to us to have our man back.",
+      "words": [
+        {
+          "word": "was",
+          "start": 553.447,
+          "end": 554.068,
+          "score": 0.604
+        },
+        {
+          "word": "so",
+          "start": 555.07,
+          "end": 555.25,
+          "score": 0.738
+        },
+        {
+          "word": "much",
+          "start": 555.31,
+          "end": 555.39,
+          "score": 0.218
+        },
+        {
+          "word": "greater",
+          "start": 555.471,
+          "end": 555.831,
+          "score": 0.704
+        },
+        {
+          "word": "than",
+          "start": 555.871,
+          "end": 556.132,
+          "score": 0.742
+        },
+        {
+          "word": "you",
+          "start": 556.913,
+          "end": 557.013,
+          "score": 0.348
+        },
+        {
+          "word": "got",
+          "start": 557.033,
+          "end": 557.274,
+          "score": 0.897
+        },
+        {
+          "word": "from",
+          "start": 557.334,
+          "end": 557.715,
+          "score": 0.569
+        },
+        {
+          "word": "an",
+          "start": 558.095,
+          "end": 558.195,
+          "score": 0.754
+        },
+        {
+          "word": "individual",
+          "start": 558.296,
+          "end": 558.857,
+          "score": 0.898
+        },
+        {
+          "word": "spy",
+          "start": 558.897,
+          "end": 559.438,
+          "score": 0.894
+        },
+        {
+          "word": "that",
+          "start": 560.8,
+          "end": 560.98,
+          "score": 0.832
+        },
+        {
+          "word": "they",
+          "start": 561.02,
+          "end": 561.181,
+          "score": 0.754
+        },
+        {
+          "word": "felt",
+          "start": 561.281,
+          "end": 561.501,
+          "score": 0.914
+        },
+        {
+          "word": "it",
+          "start": 561.601,
+          "end": 561.662,
+          "score": 0.666
+        },
+        {
+          "word": "was",
+          "start": 561.702,
+          "end": 561.862,
+          "score": 0.378
+        },
+        {
+          "word": "important",
+          "start": 567.812,
+          "end": 568.293,
+          "score": 0.555
+        },
+        {
+          "word": "to",
+          "start": 568.333,
+          "end": 568.634,
+          "score": 0.422
+        },
+        {
+          "word": "us",
+          "start": 568.754,
+          "end": 568.955,
+          "score": 0.814
+        },
+        {
+          "word": "to",
+          "start": 569.155,
+          "end": 569.275,
+          "score": 0.974
+        },
+        {
+          "word": "have",
+          "start": 569.335,
+          "end": 569.616,
+          "score": 0.81
+        },
+        {
+          "word": "our",
+          "start": 570.317,
+          "end": 570.477,
+          "score": 0.37
+        },
+        {
+          "word": "man",
+          "start": 570.497,
+          "end": 570.658,
+          "score": 0.571
+        },
+        {
+          "word": "back.",
+          "start": 570.758,
+          "end": 571.038,
+          "score": 0.905
+        }
+      ]
+    },
+    {
+      "start": 572.26,
+      "end": 576.568,
+      "text": "They had not, Abel had not spoken, he had not",
+      "words": [
+        {
+          "word": "They",
+          "start": 572.26,
+          "end": 572.421,
+          "score": 0.864
+        },
+        {
+          "word": "had",
+          "start": 572.481,
+          "end": 572.581,
+          "score": 0.877
+        },
+        {
+          "word": "not,",
+          "start": 572.661,
+          "end": 572.922,
+          "score": 0.982
+        },
+        {
+          "word": "Abel",
+          "start": 573.282,
+          "end": 573.863,
+          "score": 0.773
+        },
+        {
+          "word": "had",
+          "start": 573.923,
+          "end": 574.064,
+          "score": 0.782
+        },
+        {
+          "word": "not",
+          "start": 574.124,
+          "end": 574.364,
+          "score": 0.992
+        },
+        {
+          "word": "spoken,",
+          "start": 575.566,
+          "end": 576.007,
+          "score": 0.703
+        },
+        {
+          "word": "he",
+          "start": 576.027,
+          "end": 576.187,
+          "score": 0.708
+        },
+        {
+          "word": "had",
+          "start": 576.428,
+          "end": 576.488,
+          "score": 0.0
+        },
+        {
+          "word": "not",
+          "start": 576.508,
+          "end": 576.568,
+          "score": 0.333
+        }
+      ]
+    },
+    {
+      "start": 585.796,
+      "end": 590.518,
+      "text": " was an important agent, very important.",
+      "words": [
+        {
+          "word": "was",
+          "start": 585.796,
+          "end": 585.917,
+          "score": 0.291
+        },
+        {
+          "word": "an",
+          "start": 585.997,
+          "end": 586.077,
+          "score": 0.674
+        },
+        {
+          "word": "important",
+          "start": 586.138,
+          "end": 586.72,
+          "score": 0.602
+        },
+        {
+          "word": "agent,",
+          "start": 586.74,
+          "end": 589.112,
+          "score": 0.446
+        },
+        {
+          "word": "very",
+          "start": 589.132,
+          "end": 589.393,
+          "score": 0.558
+        },
+        {
+          "word": "important.",
+          "start": 589.534,
+          "end": 590.518,
+          "score": 0.652
+        }
+      ]
+    },
+    {
+      "start": 591.603,
+      "end": 594.135,
+      "text": "And he was cooperating as a",
+      "words": [
+        {
+          "word": "And",
+          "start": 591.603,
+          "end": 591.804,
+          "score": 0.443
+        },
+        {
+          "word": "he",
+          "start": 591.864,
+          "end": 592.005,
+          "score": 0.833
+        },
+        {
+          "word": "was",
+          "start": 592.045,
+          "end": 592.206,
+          "score": 0.57
+        },
+        {
+          "word": "cooperating",
+          "start": 593.251,
+          "end": 593.934,
+          "score": 0.557
+        },
+        {
+          "word": "as",
+          "start": 593.974,
+          "end": 594.015,
+          "score": 0.44
+        },
+        {
+          "word": "a",
+          "start": 594.055,
+          "end": 594.135,
+          "score": 0.093
+        }
+      ]
+    },
+    {
+      "start": 647.795,
+      "end": 653.929,
+      "text": " that if he had revealed them to the Soviets, something would have been compromised.",
+      "words": [
+        {
+          "word": "that",
+          "start": 647.795,
+          "end": 647.995,
+          "score": 0.742
+        },
+        {
+          "word": "if",
+          "start": 648.136,
+          "end": 648.216,
+          "score": 0.836
+        },
+        {
+          "word": "he",
+          "start": 648.256,
+          "end": 648.416,
+          "score": 0.729
+        },
+        {
+          "word": "had",
+          "start": 648.477,
+          "end": 648.597,
+          "score": 0.852
+        },
+        {
+          "word": "revealed",
+          "start": 648.697,
+          "end": 649.218,
+          "score": 0.853
+        },
+        {
+          "word": "them",
+          "start": 649.258,
+          "end": 649.358,
+          "score": 0.435
+        },
+        {
+          "word": "to",
+          "start": 649.419,
+          "end": 649.559,
+          "score": 0.759
+        },
+        {
+          "word": "the",
+          "start": 649.599,
+          "end": 649.659,
+          "score": 0.891
+        },
+        {
+          "word": "Soviets,",
+          "start": 650.301,
+          "end": 651.263,
+          "score": 0.765
+        },
+        {
+          "word": "something",
+          "start": 651.283,
+          "end": 651.644,
+          "score": 0.441
+        },
+        {
+          "word": "would",
+          "start": 651.664,
+          "end": 651.824,
+          "score": 0.784
+        },
+        {
+          "word": "have",
+          "start": 651.844,
+          "end": 651.924,
+          "score": 0.607
+        },
+        {
+          "word": "been",
+          "start": 651.964,
+          "end": 652.064,
+          "score": 0.501
+        },
+        {
+          "word": "compromised.",
+          "start": 652.105,
+          "end": 653.929,
+          "score": 0.669
+        }
+      ]
+    },
+    {
+      "start": 653.949,
+      "end": 660.323,
+      "text": "Somebody would have been harmed, or certain installations would have been compromised.",
+      "words": [
+        {
+          "word": "Somebody",
+          "start": 653.949,
+          "end": 654.37,
+          "score": 0.904
+        },
+        {
+          "word": "would",
+          "start": 654.41,
+          "end": 654.57,
+          "score": 0.761
+        },
+        {
+          "word": "have",
+          "start": 654.61,
+          "end": 654.71,
+          "score": 0.942
+        },
+        {
+          "word": "been",
+          "start": 654.75,
+          "end": 654.911,
+          "score": 0.828
+        },
+        {
+          "word": "harmed,",
+          "start": 654.951,
+          "end": 655.793,
+          "score": 0.59
+        },
+        {
+          "word": "or",
+          "start": 655.953,
+          "end": 656.093,
+          "score": 0.917
+        },
+        {
+          "word": "certain",
+          "start": 656.234,
+          "end": 656.875,
+          "score": 0.322
+        },
+        {
+          "word": "installations",
+          "start": 656.895,
+          "end": 657.597,
+          "score": 0.839
+        },
+        {
+          "word": "would",
+          "start": 658.078,
+          "end": 658.278,
+          "score": 0.812
+        },
+        {
+          "word": "have",
+          "start": 658.318,
+          "end": 658.419,
+          "score": 0.951
+        },
+        {
+          "word": "been",
+          "start": 658.479,
+          "end": 658.639,
+          "score": 0.949
+        },
+        {
+          "word": "compromised.",
+          "start": 658.739,
+          "end": 660.323,
+          "score": 0.649
+        }
+      ]
+    },
+    {
+      "start": 660.343,
+      "end": 664.993,
+      "text": "So they were confident at that time",
+      "words": [
+        {
+          "word": "So",
+          "start": 660.343,
+          "end": 660.523,
+          "score": 0.818
+        },
+        {
+          "word": "they",
+          "start": 660.543,
+          "end": 661.225,
+          "score": 0.856
+        },
+        {
+          "word": "were",
+          "start": 661.265,
+          "end": 661.445,
+          "score": 0.759
+        },
+        {
+          "word": "confident",
+          "start": 662.026,
+          "end": 662.608,
+          "score": 0.753
+        },
+        {
+          "word": "at",
+          "start": 662.668,
+          "end": 662.708,
+          "score": 0.782
+        },
+        {
+          "word": "that",
+          "start": 662.768,
+          "end": 662.949,
+          "score": 0.85
+        },
+        {
+          "word": "time",
+          "start": 663.029,
+          "end": 664.993,
+          "score": 0.683
+        }
+      ]
+    },
+    {
+      "start": 678.71,
+      "end": 681.71,
+      "text": " and do something he would not normally.",
+      "words": [
+        {
+          "word": "and",
+          "start": 678.71,
+          "end": 680.24,
+          "score": 0.311
+        },
+        {
+          "word": "do",
+          "start": 680.26,
+          "end": 680.301,
+          "score": 0.451
+        },
+        {
+          "word": "something",
+          "start": 680.341,
+          "end": 680.663,
+          "score": 0.775
+        },
+        {
+          "word": "he",
+          "start": 680.703,
+          "end": 680.784,
+          "score": 0.899
+        },
+        {
+          "word": "would",
+          "start": 680.824,
+          "end": 681.005,
+          "score": 0.872
+        },
+        {
+          "word": "not",
+          "start": 681.025,
+          "end": 681.166,
+          "score": 0.929
+        },
+        {
+          "word": "normally.",
+          "start": 681.368,
+          "end": 681.71,
+          "score": 0.308
+        }
+      ]
+    },
+    {
+      "start": 682.556,
+      "end": 685.193,
+      "text": "So there are a lot of factors involved,",
+      "words": [
+        {
+          "word": "So",
+          "start": 682.556,
+          "end": 682.797,
+          "score": 0.748
+        },
+        {
+          "word": "there",
+          "start": 682.817,
+          "end": 682.918,
+          "score": 0.002
+        },
+        {
+          "word": "are",
+          "start": 682.938,
+          "end": 683.039,
+          "score": 0.524
+        },
+        {
+          "word": "a",
+          "start": 683.079,
+          "end": 683.099,
+          "score": 0.584
+        },
+        {
+          "word": "lot",
+          "start": 683.16,
+          "end": 683.361,
+          "score": 0.901
+        },
+        {
+          "word": "of",
+          "start": 683.421,
+          "end": 683.462,
+          "score": 0.736
+        },
+        {
+          "word": "factors",
+          "start": 683.623,
+          "end": 684.106,
+          "score": 0.803
+        },
+        {
+          "word": "involved,",
+          "start": 684.428,
+          "end": 685.193,
+          "score": 0.494
+        }
+      ]
+    },
+    {
+      "start": 721.606,
+      "end": 726.882,
+      "text": " not accept or they were tried out on us.",
+      "words": [
+        {
+          "word": "not",
+          "start": 721.606,
+          "end": 722.168,
+          "score": 0.711
+        },
+        {
+          "word": "accept",
+          "start": 722.228,
+          "end": 722.709,
+          "score": 0.789
+        },
+        {
+          "word": "or",
+          "start": 724.033,
+          "end": 724.134,
+          "score": 0.799
+        },
+        {
+          "word": "they",
+          "start": 724.154,
+          "end": 724.334,
+          "score": 0.625
+        },
+        {
+          "word": "were",
+          "start": 724.394,
+          "end": 724.475,
+          "score": 0.219
+        },
+        {
+          "word": "tried",
+          "start": 724.495,
+          "end": 724.876,
+          "score": 0.661
+        },
+        {
+          "word": "out",
+          "start": 725.056,
+          "end": 725.177,
+          "score": 0.222
+        },
+        {
+          "word": "on",
+          "start": 725.197,
+          "end": 725.317,
+          "score": 0.818
+        },
+        {
+          "word": "us.",
+          "start": 726.822,
+          "end": 726.882,
+          "score": 0.166
+        }
+      ]
+    },
+    {
+      "start": 726.902,
+      "end": 736.29,
+      "text": "Now this young man Mackinnon was an army captain and he did work for either the counter intelligence",
+      "words": [
+        {
+          "word": "Now",
+          "start": 726.902,
+          "end": 727.002,
+          "score": 0.561
+        },
+        {
+          "word": "this",
+          "start": 727.022,
+          "end": 727.163,
+          "score": 0.491
+        },
+        {
+          "word": "young",
+          "start": 727.785,
+          "end": 727.965,
+          "score": 0.881
+        },
+        {
+          "word": "man",
+          "start": 728.025,
+          "end": 728.246,
+          "score": 0.973
+        },
+        {
+          "word": "Mackinnon",
+          "start": 728.346,
+          "end": 728.828,
+          "score": 0.68
+        },
+        {
+          "word": "was",
+          "start": 728.868,
+          "end": 729.008,
+          "score": 0.342
+        },
+        {
+          "word": "an",
+          "start": 729.048,
+          "end": 729.088,
+          "score": 0.506
+        },
+        {
+          "word": "army",
+          "start": 729.169,
+          "end": 729.53,
+          "score": 0.714
+        },
+        {
+          "word": "captain",
+          "start": 729.65,
+          "end": 730.091,
+          "score": 0.925
+        },
+        {
+          "word": "and",
+          "start": 731.536,
+          "end": 731.676,
+          "score": 0.8
+        },
+        {
+          "word": "he",
+          "start": 731.897,
+          "end": 732.138,
+          "score": 0.642
+        },
+        {
+          "word": "did",
+          "start": 732.358,
+          "end": 732.499,
+          "score": 0.682
+        },
+        {
+          "word": "work",
+          "start": 732.559,
+          "end": 732.82,
+          "score": 0.752
+        },
+        {
+          "word": "for",
+          "start": 733.401,
+          "end": 733.582,
+          "score": 0.759
+        },
+        {
+          "word": "either",
+          "start": 735.066,
+          "end": 735.448,
+          "score": 0.517
+        },
+        {
+          "word": "the",
+          "start": 735.468,
+          "end": 735.548,
+          "score": 0.432
+        },
+        {
+          "word": "counter",
+          "start": 735.628,
+          "end": 736.009,
+          "score": 0.41
+        },
+        {
+          "word": "intelligence",
+          "start": 736.029,
+          "end": 736.29,
+          "score": 0.111
+        }
+      ]
+    },
+    {
+      "start": 759.372,
+      "end": 760.954,
+      "text": " and power.",
+      "words": [
+        {
+          "word": "and",
+          "start": 759.372,
+          "end": 760.433,
+          "score": 0.273
+        },
+        {
+          "word": "power.",
+          "start": 760.453,
+          "end": 760.954,
+          "score": 0.511
+        }
+      ]
+    },
+    {
+      "start": 760.974,
+      "end": 762.275,
+      "text": "Power was what we really wanted.",
+      "words": [
+        {
+          "word": "Power",
+          "start": 760.974,
+          "end": 761.214,
+          "score": 0.336
+        },
+        {
+          "word": "was",
+          "start": 761.254,
+          "end": 761.414,
+          "score": 0.667
+        },
+        {
+          "word": "what",
+          "start": 761.434,
+          "end": 761.595,
+          "score": 0.696
+        },
+        {
+          "word": "we",
+          "start": 761.615,
+          "end": 761.755,
+          "score": 0.712
+        },
+        {
+          "word": "really",
+          "start": 761.775,
+          "end": 761.935,
+          "score": 0.239
+        },
+        {
+          "word": "wanted.",
+          "start": 761.975,
+          "end": 762.275,
+          "score": 0.48
+        }
+      ]
+    },
+    {
+      "start": 762.956,
+      "end": 770.065,
+      "text": "But we thought we could, we thought we had the Soviets where they would give us more than one.",
+      "words": [
+        {
+          "word": "But",
+          "start": 762.956,
+          "end": 763.076,
+          "score": 0.559
+        },
+        {
+          "word": "we",
+          "start": 763.116,
+          "end": 763.257,
+          "score": 0.795
+        },
+        {
+          "word": "thought",
+          "start": 763.337,
+          "end": 763.597,
+          "score": 0.509
+        },
+        {
+          "word": "we",
+          "start": 763.657,
+          "end": 763.797,
+          "score": 0.654
+        },
+        {
+          "word": "could,",
+          "start": 763.857,
+          "end": 764.058,
+          "score": 0.807
+        },
+        {
+          "word": "we",
+          "start": 764.418,
+          "end": 764.578,
+          "score": 0.556
+        },
+        {
+          "word": "thought",
+          "start": 764.598,
+          "end": 764.778,
+          "score": 0.3
+        },
+        {
+          "word": "we",
+          "start": 764.819,
+          "end": 764.979,
+          "score": 0.948
+        },
+        {
+          "word": "had",
+          "start": 765.639,
+          "end": 765.9,
+          "score": 0.737
+        },
+        {
+          "word": "the",
+          "start": 765.94,
+          "end": 766.08,
+          "score": 0.489
+        },
+        {
+          "word": "Soviets",
+          "start": 766.1,
+          "end": 766.561,
+          "score": 0.539
+        },
+        {
+          "word": "where",
+          "start": 767.562,
+          "end": 767.782,
+          "score": 0.57
+        },
+        {
+          "word": "they",
+          "start": 768.583,
+          "end": 768.743,
+          "score": 0.946
+        },
+        {
+          "word": "would",
+          "start": 768.783,
+          "end": 768.923,
+          "score": 0.645
+        },
+        {
+          "word": "give",
+          "start": 768.963,
+          "end": 769.144,
+          "score": 0.954
+        },
+        {
+          "word": "us",
+          "start": 769.224,
+          "end": 769.304,
+          "score": 0.631
+        },
+        {
+          "word": "more",
+          "start": 769.424,
+          "end": 769.584,
+          "score": 0.407
+        },
+        {
+          "word": "than",
+          "start": 769.604,
+          "end": 769.744,
+          "score": 0.415
+        },
+        {
+          "word": "one.",
+          "start": 769.905,
+          "end": 770.065,
+          "score": 0.617
+        }
+      ]
+    },
+    {
+      "start": 770.986,
+      "end": 772.368,
+      "text": "We thought we could get more than power.",
+      "words": [
+        {
+          "word": "We",
+          "start": 770.986,
+          "end": 771.066,
+          "score": 0.306
+        },
+        {
+          "word": "thought",
+          "start": 771.086,
+          "end": 771.246,
+          "score": 0.317
+        },
+        {
+          "word": "we",
+          "start": 771.266,
+          "end": 771.406,
+          "score": 0.908
+        },
+        {
+          "word": "could",
+          "start": 771.446,
+          "end": 771.627,
+          "score": 0.443
+        },
+        {
+          "word": "get",
+          "start": 771.727,
+          "end": 771.887,
+          "score": 0.484
+        },
+        {
+          "word": "more",
+          "start": 772.007,
+          "end": 772.087,
+          "score": 0.003
+        },
+        {
+          "word": "than",
+          "start": 772.107,
+          "end": 772.227,
+          "score": 0.326
+        },
+        {
+          "word": "power.",
+          "start": 772.247,
+          "end": 772.368,
+          "score": 0.324
+        }
+      ]
+    },
+    {
+      "start": 773.048,
+      "end": 776.693,
+      "text": "We thought they wanted them badly enough.",
+      "words": [
+        {
+          "word": "We",
+          "start": 773.048,
+          "end": 773.189,
+          "score": 0.576
+        },
+        {
+          "word": "thought",
+          "start": 773.209,
+          "end": 773.369,
+          "score": 0.399
+        },
+        {
+          "word": "they",
+          "start": 773.409,
+          "end": 773.529,
+          "score": 0.807
+        },
+        {
+          "word": "wanted",
+          "start": 773.569,
+          "end": 773.809,
+          "score": 0.876
+        },
+        {
+          "word": "them",
+          "start": 773.849,
+          "end": 773.949,
+          "score": 0.261
+        },
+        {
+          "word": "badly",
+          "start": 773.989,
+          "end": 774.37,
+          "score": 0.56
+        },
+        {
+          "word": "enough.",
+          "start": 774.47,
+          "end": 776.693,
+          "score": 0.478
+        }
+      ]
+    },
+    {
+      "start": 776.713,
+      "end": 778.695,
+      "text": "So that's the way we maneuvered.",
+      "words": [
+        {
+          "word": "So",
+          "start": 776.713,
+          "end": 776.753,
+          "score": 0.422
+        },
+        {
+          "word": "that's",
+          "start": 777.153,
+          "end": 777.273,
+          "score": 0.29
+        },
+        {
+          "word": "the",
+          "start": 777.313,
+          "end": 777.374,
+          "score": 0.206
+        },
+        {
+          "word": "way",
+          "start": 777.394,
+          "end": 777.574,
+          "score": 0.697
+        },
+        {
+          "word": "we",
+          "start": 777.614,
+          "end": 777.734,
+          "score": 0.69
+        },
+        {
+          "word": "maneuvered.",
+          "start": 777.874,
+          "end": 778.695,
+          "score": 0.424
+        }
+      ]
+    },
+    {
+      "start": 778.715,
+      "end": 779.576,
+      "text": "What happened to Mackinac?",
+      "words": [
+        {
+          "word": "What",
+          "start": 778.715,
+          "end": 778.795,
+          "score": 0.114
+        },
+        {
+          "word": "happened",
+          "start": 778.815,
+          "end": 779.035,
+          "score": 0.143
+        },
+        {
+          "word": "to",
+          "start": 779.056,
+          "end": 779.096,
+          "score": 0.411
+        },
+        {
+          "word": "Mackinac?",
+          "start": 779.136,
+          "end": 779.576,
+          "score": 0.571
+        }
+      ]
+    },
+    {
+      "start": 779.917,
+      "end": 781.038,
+      "text": "They eventually got him out.",
+      "words": [
+        {
+          "word": "They",
+          "start": 779.917,
+          "end": 780.077,
+          "score": 0.689
+        },
+        {
+          "word": "eventually",
+          "start": 780.117,
+          "end": 780.457,
+          "score": 0.357
+        },
+        {
+          "word": "got",
+          "start": 780.497,
+          "end": 780.718,
+          "score": 0.692
+        },
+        {
+          "word": "him",
+          "start": 780.838,
+          "end": 780.898,
+          "score": 0.001
+        },
+        {
+          "word": "out.",
+          "start": 780.918,
+          "end": 781.038,
+          "score": 0.586
+        }
+      ]
+    },
+    {
+      "start": 781.779,
+      "end": 782.64,
+      "text": "Oh, did they?",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 781.779,
+          "end": 781.919,
+          "score": 0.405
+        },
+        {
+          "word": "did",
+          "start": 781.939,
+          "end": 782.059,
+          "score": 0.543
+        },
+        {
+          "word": "they?",
+          "start": 782.46,
+          "end": 782.64,
+          "score": 0.21
+        }
+      ]
+    },
+    {
+      "start": 783.0,
+      "end": 783.14,
+      "text": "Yeah.",
+      "words": [
+        {
+          "word": "Yeah.",
+          "start": 783.0,
+          "end": 783.14,
+          "score": 0.378
+        }
+      ]
+    },
+    {
+      "start": 784.122,
+      "end": 788.687,
+      "text": "I can't remember the circumstances whether they",
+      "words": [
+        {
+          "word": "I",
+          "start": 784.122,
+          "end": 784.202,
+          "score": 0.949
+        },
+        {
+          "word": "can't",
+          "start": 784.222,
+          "end": 784.402,
+          "score": 0.676
+        },
+        {
+          "word": "remember",
+          "start": 784.442,
+          "end": 784.822,
+          "score": 0.816
+        },
+        {
+          "word": "the",
+          "start": 784.862,
+          "end": 784.943,
+          "score": 0.807
+        },
+        {
+          "word": "circumstances",
+          "start": 784.983,
+          "end": 786.204,
+          "score": 0.479
+        },
+        {
+          "word": "whether",
+          "start": 788.006,
+          "end": 788.327,
+          "score": 0.393
+        },
+        {
+          "word": "they",
+          "start": 788.347,
+          "end": 788.687,
+          "score": 0.726
+        }
+      ]
+    },
+    {
+      "start": 845.89,
+      "end": 847.804,
+      "text": " So we did that.",
+      "words": [
+        {
+          "word": "So",
+          "start": 845.89,
+          "end": 846.212,
+          "score": 0.24
+        },
+        {
+          "word": "we",
+          "start": 846.233,
+          "end": 846.273,
+          "score": 0.494
+        },
+        {
+          "word": "did",
+          "start": 847.361,
+          "end": 847.522,
+          "score": 0.466
+        },
+        {
+          "word": "that.",
+          "start": 847.562,
+          "end": 847.804,
+          "score": 0.803
+        }
+      ]
+    },
+    {
+      "start": 849.577,
+      "end": 849.859,
+      "text": "All right.",
+      "words": [
+        {
+          "word": "All",
+          "start": 849.577,
+          "end": 849.638,
+          "score": 0.003
+        },
+        {
+          "word": "right.",
+          "start": 849.658,
+          "end": 849.859,
+          "score": 0.287
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "His",
+      "start": 5.667,
+      "end": 7.969,
+      "score": 0.646
+    },
+    {
+      "word": "age",
+      "start": 9.351,
+      "end": 9.811,
+      "score": 0.575
+    },
+    {
+      "word": "might",
+      "start": 10.372,
+      "end": 10.532,
+      "score": 0.257
+    },
+    {
+      "word": "have",
+      "start": 10.552,
+      "end": 10.632,
+      "score": 0.344
+    },
+    {
+      "word": "been",
+      "start": 10.692,
+      "end": 10.873,
+      "score": 0.775
+    },
+    {
+      "word": "a",
+      "start": 10.893,
+      "end": 10.933,
+      "score": 0.499
+    },
+    {
+      "word": "factor.",
+      "start": 10.953,
+      "end": 11.814,
+      "score": 0.851
+    },
+    {
+      "word": "His",
+      "start": 11.834,
+      "end": 11.954,
+      "score": 0.759
+    },
+    {
+      "word": "health",
+      "start": 12.034,
+      "end": 12.494,
+      "score": 0.549
+    },
+    {
+      "word": "might",
+      "start": 12.514,
+      "end": 12.614,
+      "score": 0.208
+    },
+    {
+      "word": "have",
+      "start": 12.674,
+      "end": 12.755,
+      "score": 0.003
+    },
+    {
+      "word": "been",
+      "start": 12.775,
+      "end": 12.855,
+      "score": 0.244
+    },
+    {
+      "word": "a",
+      "start": 12.875,
+      "end": 12.895,
+      "score": 0.0
+    },
+    {
+      "word": "factor.",
+      "start": 12.915,
+      "end": 13.355,
+      "score": 0.926
+    },
+    {
+      "word": "These",
+      "start": 13.415,
+      "end": 14.156,
+      "score": 0.182
+    },
+    {
+      "word": "leaders",
+      "start": 14.176,
+      "end": 15.337,
+      "score": 0.683
+    },
+    {
+      "word": "in",
+      "start": 15.437,
+      "end": 15.538,
+      "score": 0.886
+    },
+    {
+      "word": "the",
+      "start": 15.578,
+      "end": 15.638,
+      "score": 0.782
+    },
+    {
+      "word": "communist",
+      "start": 15.718,
+      "end": 16.318,
+      "score": 0.312
+    },
+    {
+      "word": "bloc",
+      "start": 16.338,
+      "end": 16.639,
+      "score": 0.788
+    },
+    {
+      "word": "tend",
+      "start": 16.839,
+      "end": 16.979,
+      "score": 0.588
+    },
+    {
+      "word": "to",
+      "start": 16.999,
+      "end": 17.079,
+      "score": 0.464
+    },
+    {
+      "word": "be",
+      "start": 17.139,
+      "end": 17.399,
+      "score": 0.874
+    },
+    {
+      "word": "elderly",
+      "start": 17.58,
+      "end": 17.96,
+      "score": 0.375
+    },
+    {
+      "word": "men",
+      "start": 18.0,
+      "end": 18.28,
+      "score": 0.786
+    },
+    {
+      "word": "who",
+      "start": 19.081,
+      "end": 19.141,
+      "score": 0.003
+    },
+    {
+      "word": "have",
+      "start": 19.161,
+      "end": 19.241,
+      "score": 0.437
+    },
+    {
+      "word": "survived",
+      "start": 19.542,
+      "end": 20.082,
+      "score": 0.556
+    },
+    {
+      "word": "in",
+      "start": 20.182,
+      "end": 20.283,
+      "score": 0.931
+    },
+    {
+      "word": "very",
+      "start": 21.103,
+      "end": 21.424,
+      "score": 0.663
+    },
+    {
+      "word": "rough",
+      "start": 22.084,
+      "end": 22.225,
+      "score": 0.411
+    },
+    {
+      "word": "political",
+      "start": 22.705,
+      "end": 23.466,
+      "score": 0.833
+    },
+    {
+      "word": "failures,",
+      "start": 23.666,
+      "end": 25.028,
+      "score": 0.642
+    },
+    {
+      "word": "and",
+      "start": 26.189,
+      "end": 26.569,
+      "score": 0.791
+    },
+    {
+      "word": "they",
+      "start": 27.23,
+      "end": 27.41,
+      "score": 0.763
+    },
+    {
+      "word": "tend",
+      "start": 27.47,
+      "end": 27.71,
+      "score": 0.757
+    },
+    {
+      "word": "to",
+      "start": 27.751,
+      "end": 28.251,
+      "score": 0.666
+    },
+    {
+      "word": "be",
+      "start": 28.912,
+      "end": 29.252,
+      "score": 0.886
+    },
+    {
+      "word": "not",
+      "start": 30.453,
+      "end": 30.734,
+      "score": 0.831
+    },
+    {
+      "word": "robust",
+      "start": 30.814,
+      "end": 31.274,
+      "score": 0.644
+    },
+    {
+      "word": "in",
+      "start": 31.374,
+      "end": 31.454,
+      "score": 0.896
+    },
+    {
+      "word": "their",
+      "start": 31.494,
+      "end": 31.615,
+      "score": 0.642
+    },
+    {
+      "word": "health.",
+      "start": 31.655,
+      "end": 31.995,
+      "score": 0.62
+    },
+    {
+      "word": "He",
+      "start": 34.068,
+      "end": 34.308,
+      "score": 0.771
+    },
+    {
+      "word": "also,",
+      "start": 34.429,
+      "end": 35.03,
+      "score": 0.687
+    },
+    {
+      "word": "Hillbrook,",
+      "start": 35.09,
+      "end": 35.39,
+      "score": 0.172
+    },
+    {
+      "word": "was",
+      "start": 35.41,
+      "end": 35.591,
+      "score": 0.486
+    },
+    {
+      "word": "also",
+      "start": 35.851,
+      "end": 36.673,
+      "score": 0.597
+    },
+    {
+      "word": "a",
+      "start": 37.294,
+      "end": 37.334,
+      "score": 0.903
+    },
+    {
+      "word": "very",
+      "start": 37.434,
+      "end": 37.735,
+      "score": 0.857
+    },
+    {
+      "word": "hardline",
+      "start": 37.855,
+      "end": 38.596,
+      "score": 0.849
+    },
+    {
+      "word": "communist,",
+      "start": 38.737,
+      "end": 39.318,
+      "score": 0.722
+    },
+    {
+      "word": "a",
+      "start": 40.179,
+      "end": 40.219,
+      "score": 0.806
+    },
+    {
+      "word": "very",
+      "start": 40.3,
+      "end": 40.8,
+      "score": 0.804
+    },
+    {
+      "word": "unpresentable",
+      "start": 41.402,
+      "end": 42.323,
+      "score": 0.839
+    },
+    {
+      "word": "in",
+      "start": 42.383,
+      "end": 42.464,
+      "score": 0.712
+    },
+    {
+      "word": "a",
+      "start": 42.524,
+      "end": 42.604,
+      "score": 0.678
+    },
+    {
+      "word": "way,",
+      "start": 42.624,
+      "end": 43.105,
+      "score": 0.762
+    },
+    {
+      "word": "someone",
+      "start": 45.389,
+      "end": 45.649,
+      "score": 0.669
+    },
+    {
+      "word": "that",
+      "start": 45.69,
+      "end": 45.79,
+      "score": 0.512
+    },
+    {
+      "word": "people",
+      "start": 46.812,
+      "end": 47.092,
+      "score": 0.847
+    },
+    {
+      "word": "in",
+      "start": 47.132,
+      "end": 47.192,
+      "score": 0.952
+    },
+    {
+      "word": "the",
+      "start": 47.232,
+      "end": 47.313,
+      "score": 0.714
+    },
+    {
+      "word": "West",
+      "start": 47.333,
+      "end": 47.593,
+      "score": 0.636
+    },
+    {
+      "word": "didn't",
+      "start": 47.653,
+      "end": 47.854,
+      "score": 0.198
+    },
+    {
+      "word": "like.",
+      "start": 47.874,
+      "end": 48.174,
+      "score": 0.653
+    },
+    {
+      "word": "And",
+      "start": 48.875,
+      "end": 48.996,
+      "score": 0.921
+    },
+    {
+      "word": "it",
+      "start": 49.056,
+      "end": 49.116,
+      "score": 0.934
+    },
+    {
+      "word": "may",
+      "start": 49.216,
+      "end": 49.396,
+      "score": 0.974
+    },
+    {
+      "word": "have",
+      "start": 49.436,
+      "end": 49.557,
+      "score": 0.827
+    },
+    {
+      "word": "been",
+      "start": 49.597,
+      "end": 49.777,
+      "score": 0.912
+    },
+    {
+      "word": "just",
+      "start": 50.098,
+      "end": 50.278,
+      "score": 0.357
+    },
+    {
+      "word": "decided",
+      "start": 50.438,
+      "end": 50.839,
+      "score": 0.578
+    },
+    {
+      "word": "that",
+      "start": 50.899,
+      "end": 51.039,
+      "score": 0.783
+    },
+    {
+      "word": "as",
+      "start": 51.901,
+      "end": 52.041,
+      "score": 0.594
+    },
+    {
+      "word": "a",
+      "start": 52.202,
+      "end": 52.262,
+      "score": 0.781
+    },
+    {
+      "word": "response",
+      "start": 52.522,
+      "end": 53.344,
+      "score": 0.436
+    },
+    {
+      "word": "of",
+      "start": 53.444,
+      "end": 53.504,
+      "score": 0.718
+    },
+    {
+      "word": "the",
+      "start": 53.544,
+      "end": 53.644,
+      "score": 0.965
+    },
+    {
+      "word": "time",
+      "start": 53.704,
+      "end": 54.205,
+      "score": 0.898
+    },
+    {
+      "word": "that",
+      "start": 54.907,
+      "end": 55.207,
+      "score": 0.594
+    },
+    {
+      "word": "it",
+      "start": 55.227,
+      "end": 55.347,
+      "score": 0.726
+    },
+    {
+      "word": "was",
+      "start": 55.468,
+      "end": 55.528,
+      "score": 0.179
+    },
+    {
+      "word": "a",
+      "start": 55.548,
+      "end": 55.568,
+      "score": 0.99
+    },
+    {
+      "word": "good",
+      "start": 55.608,
+      "end": 55.688,
+      "score": 0.25
+    },
+    {
+      "word": "somebody",
+      "start": 62.063,
+      "end": 62.323,
+      "score": 0.539
+    },
+    {
+      "word": "else",
+      "start": 62.383,
+      "end": 62.564,
+      "score": 0.859
+    },
+    {
+      "word": "come",
+      "start": 63.325,
+      "end": 63.405,
+      "score": 0.0
+    },
+    {
+      "word": "on,",
+      "start": 63.425,
+      "end": 63.505,
+      "score": 0.443
+    },
+    {
+      "word": "but",
+      "start": 63.625,
+      "end": 63.786,
+      "score": 0.982
+    },
+    {
+      "word": "I",
+      "start": 64.547,
+      "end": 64.587,
+      "score": 0.993
+    },
+    {
+      "word": "don't",
+      "start": 64.627,
+      "end": 64.807,
+      "score": 0.788
+    },
+    {
+      "word": "remember",
+      "start": 64.867,
+      "end": 65.248,
+      "score": 0.847
+    },
+    {
+      "word": "that",
+      "start": 65.268,
+      "end": 65.468,
+      "score": 0.737
+    },
+    {
+      "word": "it",
+      "start": 65.528,
+      "end": 65.568,
+      "score": 0.996
+    },
+    {
+      "word": "was",
+      "start": 65.608,
+      "end": 65.728,
+      "score": 0.964
+    },
+    {
+      "word": "a",
+      "start": 65.748,
+      "end": 65.768,
+      "score": 0.611
+    },
+    {
+      "word": "dispute",
+      "start": 65.808,
+      "end": 66.309,
+      "score": 0.683
+    },
+    {
+      "word": "over",
+      "start": 66.409,
+      "end": 66.61,
+      "score": 0.848
+    },
+    {
+      "word": "an",
+      "start": 66.65,
+      "end": 66.69,
+      "score": 0.532
+    },
+    {
+      "word": "issue",
+      "start": 66.81,
+      "end": 67.07,
+      "score": 0.615
+    },
+    {
+      "word": "or",
+      "start": 67.15,
+      "end": 67.291,
+      "score": 0.692
+    },
+    {
+      "word": "anything",
+      "start": 67.311,
+      "end": 67.531,
+      "score": 0.508
+    },
+    {
+      "word": "like",
+      "start": 67.571,
+      "end": 67.771,
+      "score": 0.829
+    },
+    {
+      "word": "that.",
+      "start": 67.831,
+      "end": 68.132,
+      "score": 0.943
+    },
+    {
+      "word": "Do",
+      "start": 70.435,
+      "end": 70.616,
+      "score": 0.93
+    },
+    {
+      "word": "you",
+      "start": 70.636,
+      "end": 70.776,
+      "score": 0.791
+    },
+    {
+      "word": "think",
+      "start": 70.836,
+      "end": 71.036,
+      "score": 0.94
+    },
+    {
+      "word": "the",
+      "start": 71.076,
+      "end": 71.236,
+      "score": 0.665
+    },
+    {
+      "word": "Russians",
+      "start": 71.297,
+      "end": 71.617,
+      "score": 0.49
+    },
+    {
+      "word": "used",
+      "start": 71.757,
+      "end": 71.897,
+      "score": 0.365
+    },
+    {
+      "word": "Berlin",
+      "start": 71.937,
+      "end": 72.298,
+      "score": 0.707
+    },
+    {
+      "word": "as",
+      "start": 72.378,
+      "end": 72.458,
+      "score": 0.58
+    },
+    {
+      "word": "an",
+      "start": 72.598,
+      "end": 72.719,
+      "score": 0.762
+    },
+    {
+      "word": "incentive",
+      "start": 72.839,
+      "end": 73.079,
+      "score": 0.252
+    },
+    {
+      "word": "for",
+      "start": 74.0,
+      "end": 74.061,
+      "score": 0.752
+    },
+    {
+      "word": "the",
+      "start": 74.081,
+      "end": 74.141,
+      "score": 0.328
+    },
+    {
+      "word": "U.S.",
+      "start": 74.241,
+      "end": 74.481,
+      "score": 0.743
+    },
+    {
+      "word": "to",
+      "start": 74.501,
+      "end": 74.541,
+      "score": 0.739
+    },
+    {
+      "word": "get",
+      "start": 74.581,
+      "end": 74.802,
+      "score": 0.715
+    },
+    {
+      "word": "involved",
+      "start": 74.822,
+      "end": 75.122,
+      "score": 0.359
+    },
+    {
+      "word": "in",
+      "start": 75.142,
+      "end": 75.182,
+      "score": 0.48
+    },
+    {
+      "word": "SALT?",
+      "start": 75.302,
+      "end": 75.603,
+      "score": 0.857
+    },
+    {
+      "word": "No,",
+      "start": 76.264,
+      "end": 76.324,
+      "score": 0.069
+    },
+    {
+      "word": "I",
+      "start": 76.344,
+      "end": 76.404,
+      "score": 0.907
+    },
+    {
+      "word": "don't",
+      "start": 76.444,
+      "end": 76.624,
+      "score": 0.649
+    },
+    {
+      "word": "think",
+      "start": 76.684,
+      "end": 76.865,
+      "score": 0.984
+    },
+    {
+      "word": "so.",
+      "start": 76.985,
+      "end": 77.225,
+      "score": 0.842
+    },
+    {
+      "word": "I",
+      "start": 78.207,
+      "end": 78.327,
+      "score": 0.79
+    },
+    {
+      "word": "think",
+      "start": 78.727,
+      "end": 78.888,
+      "score": 0.891
+    },
+    {
+      "word": "Berlin,",
+      "start": 78.948,
+      "end": 79.428,
+      "score": 0.779
+    },
+    {
+      "word": "as",
+      "start": 80.75,
+      "end": 80.891,
+      "score": 0.654
+    },
+    {
+      "word": "an",
+      "start": 80.991,
+      "end": 81.051,
+      "score": 0.596
+    },
+    {
+      "word": "issue,",
+      "start": 81.151,
+      "end": 81.552,
+      "score": 0.422
+    },
+    {
+      "word": "stood",
+      "start": 81.612,
+      "end": 81.832,
+      "score": 0.797
+    },
+    {
+      "word": "on",
+      "start": 81.952,
+      "end": 82.012,
+      "score": 0.919
+    },
+    {
+      "word": "its",
+      "start": 82.092,
+      "end": 82.172,
+      "score": 0.597
+    },
+    {
+      "word": "own",
+      "start": 82.313,
+      "end": 82.453,
+      "score": 0.382
+    },
+    {
+      "word": "merits,",
+      "start": 82.533,
+      "end": 82.954,
+      "score": 0.768
+    },
+    {
+      "word": "had",
+      "start": 83.054,
+      "end": 83.214,
+      "score": 0.498
+    },
+    {
+      "word": "to",
+      "start": 83.274,
+      "end": 83.354,
+      "score": 0.529
+    },
+    {
+      "word": "do",
+      "start": 83.434,
+      "end": 83.534,
+      "score": 0.372
+    },
+    {
+      "word": "with",
+      "start": 84.916,
+      "end": 85.057,
+      "score": 0.5
+    },
+    {
+      "word": "their",
+      "start": 87.44,
+      "end": 87.981,
+      "score": 0.741
+    },
+    {
+      "word": "long-term",
+      "start": 88.382,
+      "end": 89.143,
+      "score": 0.82
+    },
+    {
+      "word": "stabilization",
+      "start": 89.203,
+      "end": 90.164,
+      "score": 0.808
+    },
+    {
+      "word": "of",
+      "start": 91.186,
+      "end": 91.446,
+      "score": 0.593
+    },
+    {
+      "word": "of",
+      "start": 93.265,
+      "end": 93.566,
+      "score": 0.604
+    },
+    {
+      "word": "Eastern",
+      "start": 94.229,
+      "end": 94.59,
+      "score": 0.557
+    },
+    {
+      "word": "Europe",
+      "start": 94.691,
+      "end": 94.992,
+      "score": 0.779
+    },
+    {
+      "word": "and",
+      "start": 95.092,
+      "end": 95.172,
+      "score": 0.409
+    },
+    {
+      "word": "so",
+      "start": 95.313,
+      "end": 95.494,
+      "score": 0.622
+    },
+    {
+      "word": "forth.",
+      "start": 95.514,
+      "end": 95.795,
+      "score": 0.651
+    },
+    {
+      "word": "To",
+      "start": 96.678,
+      "end": 96.819,
+      "score": 0.975
+    },
+    {
+      "word": "some",
+      "start": 96.899,
+      "end": 97.12,
+      "score": 0.783
+    },
+    {
+      "word": "extent,",
+      "start": 97.22,
+      "end": 97.742,
+      "score": 0.945
+    },
+    {
+      "word": "you",
+      "start": 99.048,
+      "end": 99.228,
+      "score": 0.447
+    },
+    {
+      "word": "might",
+      "start": 99.248,
+      "end": 99.509,
+      "score": 0.333
+    },
+    {
+      "word": "say,",
+      "start": 99.529,
+      "end": 99.911,
+      "score": 0.767
+    },
+    {
+      "word": "these",
+      "start": 100.493,
+      "end": 101.015,
+      "score": 0.569
+    },
+    {
+      "word": "things",
+      "start": 101.035,
+      "end": 101.276,
+      "score": 0.227
+    },
+    {
+      "word": "are",
+      "start": 101.537,
+      "end": 101.638,
+      "score": 0.676
+    },
+    {
+      "word": "all",
+      "start": 101.859,
+      "end": 102.039,
+      "score": 0.802
+    },
+    {
+      "word": "interrelated,",
+      "start": 102.16,
+      "end": 102.943,
+      "score": 0.826
+    },
+    {
+      "word": "but",
+      "start": 103.726,
+      "end": 103.866,
+      "score": 0.893
+    },
+    {
+      "word": "I",
+      "start": 103.927,
+      "end": 104.007,
+      "score": 0.799
+    },
+    {
+      "word": "just",
+      "start": 104.087,
+      "end": 104.168,
+      "score": 0.221
+    },
+    {
+      "word": "don't",
+      "start": 104.188,
+      "end": 104.288,
+      "score": 0.157
+    },
+    {
+      "word": "I'm",
+      "start": 124.838,
+      "end": 127.763,
+      "score": 0.931
+    },
+    {
+      "word": "not",
+      "start": 127.803,
+      "end": 127.944,
+      "score": 0.978
+    },
+    {
+      "word": "sure",
+      "start": 128.004,
+      "end": 128.184,
+      "score": 0.566
+    },
+    {
+      "word": "it",
+      "start": 128.204,
+      "end": 128.244,
+      "score": 0.5
+    },
+    {
+      "word": "would",
+      "start": 128.284,
+      "end": 128.425,
+      "score": 0.268
+    },
+    {
+      "word": "have",
+      "start": 128.465,
+      "end": 128.625,
+      "score": 0.833
+    },
+    {
+      "word": "anything",
+      "start": 128.665,
+      "end": 129.106,
+      "score": 0.869
+    },
+    {
+      "word": "directly",
+      "start": 129.146,
+      "end": 132.432,
+      "score": 0.568
+    },
+    {
+      "word": "involved",
+      "start": 133.754,
+      "end": 134.355,
+      "score": 0.555
+    },
+    {
+      "word": "as",
+      "start": 134.375,
+      "end": 134.415,
+      "score": 0.474
+    },
+    {
+      "word": "impact.",
+      "start": 134.616,
+      "end": 136.259,
+      "score": 0.858
+    },
+    {
+      "word": "I",
+      "start": 136.279,
+      "end": 136.379,
+      "score": 0.878
+    },
+    {
+      "word": "think",
+      "start": 136.419,
+      "end": 136.639,
+      "score": 0.904
+    },
+    {
+      "word": "it",
+      "start": 136.72,
+      "end": 136.82,
+      "score": 0.737
+    },
+    {
+      "word": "would",
+      "start": 136.92,
+      "end": 137.06,
+      "score": 0.386
+    },
+    {
+      "word": "indicate",
+      "start": 137.721,
+      "end": 138.342,
+      "score": 0.581
+    },
+    {
+      "word": "at",
+      "start": 138.463,
+      "end": 138.543,
+      "score": 0.704
+    },
+    {
+      "word": "the",
+      "start": 138.603,
+      "end": 138.723,
+      "score": 0.973
+    },
+    {
+      "word": "highest",
+      "start": 138.843,
+      "end": 139.264,
+      "score": 0.586
+    },
+    {
+      "word": "strategic",
+      "start": 139.545,
+      "end": 140.426,
+      "score": 0.416
+    },
+    {
+      "word": "level",
+      "start": 140.446,
+      "end": 140.546,
+      "score": 0.368
+    },
+    {
+      "word": "to",
+      "start": 141.628,
+      "end": 142.029,
+      "score": 0.789
+    },
+    {
+      "word": "the",
+      "start": 142.31,
+      "end": 142.55,
+      "score": 0.564
+    },
+    {
+      "word": "Soviets",
+      "start": 142.59,
+      "end": 143.312,
+      "score": 0.574
+    },
+    {
+      "word": "that",
+      "start": 144.373,
+      "end": 144.594,
+      "score": 0.782
+    },
+    {
+      "word": "events",
+      "start": 144.634,
+      "end": 145.095,
+      "score": 0.404
+    },
+    {
+      "word": "were",
+      "start": 145.115,
+      "end": 145.335,
+      "score": 0.724
+    },
+    {
+      "word": "unfolding",
+      "start": 145.516,
+      "end": 146.357,
+      "score": 0.578
+    },
+    {
+      "word": "And",
+      "start": 156.209,
+      "end": 156.309,
+      "score": 0.159
+    },
+    {
+      "word": "that",
+      "start": 156.329,
+      "end": 156.529,
+      "score": 0.81
+    },
+    {
+      "word": "any",
+      "start": 156.669,
+      "end": 156.93,
+      "score": 0.831
+    },
+    {
+      "word": "sign",
+      "start": 158.011,
+      "end": 158.992,
+      "score": 0.471
+    },
+    {
+      "word": "of",
+      "start": 160.594,
+      "end": 160.714,
+      "score": 0.56
+    },
+    {
+      "word": "a",
+      "start": 160.774,
+      "end": 160.834,
+      "score": 0.788
+    },
+    {
+      "word": "ruckus",
+      "start": 161.014,
+      "end": 161.335,
+      "score": 0.113
+    },
+    {
+      "word": "or",
+      "start": 161.355,
+      "end": 161.495,
+      "score": 0.56
+    },
+    {
+      "word": "coming",
+      "start": 161.675,
+      "end": 161.915,
+      "score": 0.243
+    },
+    {
+      "word": "together",
+      "start": 161.935,
+      "end": 162.416,
+      "score": 0.572
+    },
+    {
+      "word": "of",
+      "start": 162.876,
+      "end": 163.016,
+      "score": 0.306
+    },
+    {
+      "word": "the",
+      "start": 163.036,
+      "end": 163.096,
+      "score": 0.201
+    },
+    {
+      "word": "Chinese",
+      "start": 163.156,
+      "end": 163.677,
+      "score": 0.61
+    },
+    {
+      "word": "and",
+      "start": 164.378,
+      "end": 164.478,
+      "score": 0.743
+    },
+    {
+      "word": "the",
+      "start": 164.518,
+      "end": 164.598,
+      "score": 0.948
+    },
+    {
+      "word": "Americans",
+      "start": 164.698,
+      "end": 165.179,
+      "score": 0.42
+    },
+    {
+      "word": "and",
+      "start": 165.299,
+      "end": 165.359,
+      "score": 0.276
+    },
+    {
+      "word": "so",
+      "start": 165.479,
+      "end": 165.679,
+      "score": 0.512
+    },
+    {
+      "word": "forth",
+      "start": 165.699,
+      "end": 165.939,
+      "score": 0.668
+    },
+    {
+      "word": "was",
+      "start": 167.161,
+      "end": 167.221,
+      "score": 0.227
+    },
+    {
+      "word": "not",
+      "start": 167.321,
+      "end": 167.581,
+      "score": 0.846
+    },
+    {
+      "word": "a",
+      "start": 167.882,
+      "end": 167.942,
+      "score": 0.907
+    },
+    {
+      "word": "good",
+      "start": 168.062,
+      "end": 168.282,
+      "score": 0.99
+    },
+    {
+      "word": "thing",
+      "start": 168.402,
+      "end": 168.662,
+      "score": 0.921
+    },
+    {
+      "word": "for",
+      "start": 168.763,
+      "end": 169.063,
+      "score": 0.861
+    },
+    {
+      "word": "the",
+      "start": 169.243,
+      "end": 169.303,
+      "score": 0.005
+    },
+    {
+      "word": "Soviets.",
+      "start": 169.323,
+      "end": 170.504,
+      "score": 0.598
+    },
+    {
+      "word": "So",
+      "start": 170.524,
+      "end": 170.625,
+      "score": 0.761
+    },
+    {
+      "word": "they",
+      "start": 170.665,
+      "end": 170.805,
+      "score": 0.879
+    },
+    {
+      "word": "would",
+      "start": 170.845,
+      "end": 171.065,
+      "score": 0.381
+    },
+    {
+      "word": "have",
+      "start": 171.085,
+      "end": 171.165,
+      "score": 0.261
+    },
+    {
+      "word": "not",
+      "start": 172.046,
+      "end": 172.246,
+      "score": 0.942
+    },
+    {
+      "word": "liked",
+      "start": 172.366,
+      "end": 172.747,
+      "score": 0.628
+    },
+    {
+      "word": "it",
+      "start": 172.767,
+      "end": 172.827,
+      "score": 0.698
+    },
+    {
+      "word": "and",
+      "start": 173.528,
+      "end": 173.588,
+      "score": 0.002
+    },
+    {
+      "word": "so",
+      "start": 173.608,
+      "end": 173.768,
+      "score": 0.704
+    },
+    {
+      "word": "forth.",
+      "start": 173.928,
+      "end": 174.088,
+      "score": 0.598
+    },
+    {
+      "word": "But",
+      "start": 174.669,
+      "end": 174.889,
+      "score": 0.782
+    },
+    {
+      "word": "what",
+      "start": 175.33,
+      "end": 175.51,
+      "score": 0.804
+    },
+    {
+      "word": "they",
+      "start": 175.55,
+      "end": 175.71,
+      "score": 0.962
+    },
+    {
+      "word": "were",
+      "start": 175.75,
+      "end": 175.91,
+      "score": 0.851
+    },
+    {
+      "word": "doing",
+      "start": 175.97,
+      "end": 176.271,
+      "score": 0.656
+    },
+    {
+      "word": "in",
+      "start": 176.351,
+      "end": 176.391,
+      "score": 0.988
+    },
+    {
+      "word": "Europe,",
+      "start": 176.511,
+      "end": 176.851,
+      "score": 0.81
+    },
+    {
+      "word": "particularly",
+      "start": 177.532,
+      "end": 177.812,
+      "score": 0.134
+    },
+    {
+      "word": "with",
+      "start": 177.832,
+      "end": 177.952,
+      "score": 0.274
+    },
+    {
+      "word": "reference",
+      "start": 178.053,
+      "end": 178.333,
+      "score": 0.172
+    },
+    {
+      "word": "to",
+      "start": 178.473,
+      "end": 178.513,
+      "score": 0.001
+    },
+    {
+      "word": "Berlin,",
+      "start": 178.533,
+      "end": 178.933,
+      "score": 0.557
+    },
+    {
+      "word": "was",
+      "start": 178.994,
+      "end": 179.234,
+      "score": 0.589
+    },
+    {
+      "word": "moving",
+      "start": 179.915,
+      "end": 180.255,
+      "score": 0.895
+    },
+    {
+      "word": "in",
+      "start": 180.315,
+      "end": 180.375,
+      "score": 0.688
+    },
+    {
+      "word": "the",
+      "start": 180.435,
+      "end": 180.495,
+      "score": 0.945
+    },
+    {
+      "word": "right",
+      "start": 180.575,
+      "end": 180.856,
+      "score": 0.445
+    },
+    {
+      "word": "direction",
+      "start": 180.916,
+      "end": 181.296,
+      "score": 0.545
+    },
+    {
+      "word": "anyway.",
+      "start": 181.356,
+      "end": 183.178,
+      "score": 0.86
+    },
+    {
+      "word": "made",
+      "start": 214.462,
+      "end": 214.762,
+      "score": 0.349
+    },
+    {
+      "word": "a",
+      "start": 214.843,
+      "end": 214.903,
+      "score": 0.764
+    },
+    {
+      "word": "big",
+      "start": 214.943,
+      "end": 215.243,
+      "score": 0.47
+    },
+    {
+      "word": "cooptie-doo",
+      "start": 215.263,
+      "end": 215.824,
+      "score": 0.544
+    },
+    {
+      "word": "out",
+      "start": 215.904,
+      "end": 216.024,
+      "score": 0.364
+    },
+    {
+      "word": "of",
+      "start": 216.044,
+      "end": 216.084,
+      "score": 0.323
+    },
+    {
+      "word": "this.",
+      "start": 216.125,
+      "end": 216.265,
+      "score": 0.547
+    },
+    {
+      "word": "They",
+      "start": 216.325,
+      "end": 216.445,
+      "score": 0.336
+    },
+    {
+      "word": "thought",
+      "start": 216.485,
+      "end": 216.705,
+      "score": 0.35
+    },
+    {
+      "word": "this",
+      "start": 216.725,
+      "end": 216.846,
+      "score": 0.45
+    },
+    {
+      "word": "was",
+      "start": 216.926,
+      "end": 217.026,
+      "score": 0.467
+    },
+    {
+      "word": "something",
+      "start": 217.046,
+      "end": 217.487,
+      "score": 0.362
+    },
+    {
+      "word": "great.",
+      "start": 217.507,
+      "end": 217.707,
+      "score": 0.329
+    },
+    {
+      "word": "Whether",
+      "start": 219.85,
+      "end": 220.051,
+      "score": 0.262
+    },
+    {
+      "word": "it",
+      "start": 220.071,
+      "end": 220.111,
+      "score": 0.455
+    },
+    {
+      "word": "was",
+      "start": 220.211,
+      "end": 220.331,
+      "score": 0.489
+    },
+    {
+      "word": "wise",
+      "start": 220.471,
+      "end": 221.072,
+      "score": 0.816
+    },
+    {
+      "word": "or",
+      "start": 221.192,
+      "end": 221.312,
+      "score": 0.928
+    },
+    {
+      "word": "not,",
+      "start": 221.393,
+      "end": 223.175,
+      "score": 0.965
+    },
+    {
+      "word": "it's",
+      "start": 223.656,
+      "end": 223.776,
+      "score": 0.471
+    },
+    {
+      "word": "hard",
+      "start": 223.816,
+      "end": 224.077,
+      "score": 0.847
+    },
+    {
+      "word": "to",
+      "start": 224.117,
+      "end": 224.217,
+      "score": 0.565
+    },
+    {
+      "word": "say.",
+      "start": 224.257,
+      "end": 224.658,
+      "score": 0.722
+    },
+    {
+      "word": "Because",
+      "start": 224.718,
+      "end": 224.878,
+      "score": 0.211
+    },
+    {
+      "word": "you",
+      "start": 225.339,
+      "end": 225.399,
+      "score": 0.0
+    },
+    {
+      "word": "see,",
+      "start": 225.419,
+      "end": 225.499,
+      "score": 0.334
+    },
+    {
+      "word": "you",
+      "start": 225.519,
+      "end": 225.639,
+      "score": 0.935
+    },
+    {
+      "word": "have",
+      "start": 225.679,
+      "end": 225.819,
+      "score": 0.795
+    },
+    {
+      "word": "a",
+      "start": 225.859,
+      "end": 225.879,
+      "score": 0.388
+    },
+    {
+      "word": "lot",
+      "start": 225.94,
+      "end": 226.14,
+      "score": 0.977
+    },
+    {
+      "word": "of",
+      "start": 226.2,
+      "end": 226.24,
+      "score": 0.814
+    },
+    {
+      "word": "Soviet",
+      "start": 226.32,
+      "end": 226.741,
+      "score": 0.475
+    },
+    {
+      "word": "presence",
+      "start": 228.023,
+      "end": 228.183,
+      "score": 0.137
+    },
+    {
+      "word": "anyway,",
+      "start": 228.443,
+      "end": 228.904,
+      "score": 0.796
+    },
+    {
+      "word": "as",
+      "start": 228.924,
+      "end": 228.964,
+      "score": 0.584
+    },
+    {
+      "word": "far",
+      "start": 229.084,
+      "end": 229.325,
+      "score": 0.882
+    },
+    {
+      "word": "as",
+      "start": 229.365,
+      "end": 229.445,
+      "score": 0.845
+    },
+    {
+      "word": "security",
+      "start": 229.485,
+      "end": 230.326,
+      "score": 0.662
+    },
+    {
+      "word": "is",
+      "start": 230.346,
+      "end": 230.386,
+      "score": 0.003
+    },
+    {
+      "word": "concerned.",
+      "start": 230.406,
+      "end": 231.788,
+      "score": 0.318
+    },
+    {
+      "word": "You",
+      "start": 232.349,
+      "end": 232.449,
+      "score": 0.68
+    },
+    {
+      "word": "have",
+      "start": 232.469,
+      "end": 232.59,
+      "score": 0.537
+    },
+    {
+      "word": "to",
+      "start": 232.63,
+      "end": 232.73,
+      "score": 0.694
+    },
+    {
+      "word": "assume",
+      "start": 232.75,
+      "end": 233.01,
+      "score": 0.584
+    },
+    {
+      "word": "that",
+      "start": 233.07,
+      "end": 233.191,
+      "score": 0.347
+    },
+    {
+      "word": "they've",
+      "start": 233.231,
+      "end": 233.371,
+      "score": 0.159
+    },
+    {
+      "word": "got",
+      "start": 233.391,
+      "end": 233.631,
+      "score": 0.742
+    },
+    {
+      "word": "millions,",
+      "start": 233.671,
+      "end": 234.392,
+      "score": 0.436
+    },
+    {
+      "word": "not",
+      "start": 234.412,
+      "end": 234.513,
+      "score": 0.294
+    },
+    {
+      "word": "millions,",
+      "start": 234.533,
+      "end": 234.893,
+      "score": 0.33
+    },
+    {
+      "word": "but",
+      "start": 234.953,
+      "end": 235.013,
+      "score": 0.21
+    },
+    {
+      "word": "lots",
+      "start": 235.073,
+      "end": 235.334,
+      "score": 0.846
+    },
+    {
+      "word": "of",
+      "start": 235.354,
+      "end": 235.394,
+      "score": 0.484
+    },
+    {
+      "word": "spies",
+      "start": 235.815,
+      "end": 236.015,
+      "score": 0.579
+    },
+    {
+      "word": "there,",
+      "start": 236.115,
+      "end": 236.395,
+      "score": 0.753
+    },
+    {
+      "word": "a",
+      "start": 237.257,
+      "end": 237.417,
+      "score": 0.653
+    },
+    {
+      "word": "lot",
+      "start": 237.437,
+      "end": 237.497,
+      "score": 0.042
+    },
+    {
+      "word": "of",
+      "start": 237.517,
+      "end": 237.557,
+      "score": 0.002
+    },
+    {
+      "word": "agents",
+      "start": 237.577,
+      "end": 237.918,
+      "score": 0.528
+    },
+    {
+      "word": "there.",
+      "start": 237.998,
+      "end": 238.318,
+      "score": 0.69
+    },
+    {
+      "word": "They",
+      "start": 239.821,
+      "end": 240.061,
+      "score": 0.727
+    },
+    {
+      "word": "come",
+      "start": 240.101,
+      "end": 240.341,
+      "score": 0.906
+    },
+    {
+      "word": "in",
+      "start": 240.442,
+      "end": 240.562,
+      "score": 0.928
+    },
+    {
+      "word": "there.",
+      "start": 240.582,
+      "end": 241.363,
+      "score": 0.609
+    },
+    {
+      "word": "So",
+      "start": 248.397,
+      "end": 248.798,
+      "score": 0.813
+    },
+    {
+      "word": "it",
+      "start": 249.799,
+      "end": 251.502,
+      "score": 0.951
+    },
+    {
+      "word": "appeared",
+      "start": 251.642,
+      "end": 253.986,
+      "score": 0.676
+    },
+    {
+      "word": "to",
+      "start": 254.066,
+      "end": 254.186,
+      "score": 0.896
+    },
+    {
+      "word": "be",
+      "start": 254.266,
+      "end": 254.527,
+      "score": 0.934
+    },
+    {
+      "word": "necessary",
+      "start": 254.567,
+      "end": 255.628,
+      "score": 0.555
+    },
+    {
+      "word": "or",
+      "start": 255.849,
+      "end": 255.949,
+      "score": 0.796
+    },
+    {
+      "word": "something",
+      "start": 256.69,
+      "end": 257.131,
+      "score": 0.943
+    },
+    {
+      "word": "that",
+      "start": 257.171,
+      "end": 257.271,
+      "score": 0.919
+    },
+    {
+      "word": "was",
+      "start": 257.331,
+      "end": 257.431,
+      "score": 0.924
+    },
+    {
+      "word": "going",
+      "start": 257.491,
+      "end": 257.772,
+      "score": 0.884
+    },
+    {
+      "word": "to",
+      "start": 257.812,
+      "end": 257.912,
+      "score": 0.88
+    },
+    {
+      "word": "make",
+      "start": 257.972,
+      "end": 258.172,
+      "score": 0.885
+    },
+    {
+      "word": "the",
+      "start": 258.232,
+      "end": 258.332,
+      "score": 0.612
+    },
+    {
+      "word": "agreement",
+      "start": 258.372,
+      "end": 258.793,
+      "score": 0.477
+    },
+    {
+      "word": "possible.",
+      "start": 258.873,
+      "end": 260.836,
+      "score": 0.216
+    },
+    {
+      "word": "And",
+      "start": 260.856,
+      "end": 260.997,
+      "score": 0.921
+    },
+    {
+      "word": "it",
+      "start": 261.377,
+      "end": 261.417,
+      "score": 0.554
+    },
+    {
+      "word": "could",
+      "start": 261.597,
+      "end": 261.738,
+      "score": 0.698
+    },
+    {
+      "word": "have",
+      "start": 261.778,
+      "end": 261.858,
+      "score": 0.917
+    },
+    {
+      "word": "been",
+      "start": 261.878,
+      "end": 261.998,
+      "score": 0.814
+    },
+    {
+      "word": "a",
+      "start": 262.018,
+      "end": 262.038,
+      "score": 0.678
+    },
+    {
+      "word": "lot",
+      "start": 262.118,
+      "end": 262.359,
+      "score": 0.582
+    },
+    {
+      "word": "worse",
+      "start": 262.379,
+      "end": 262.579,
+      "score": 0.595
+    },
+    {
+      "word": "than",
+      "start": 262.639,
+      "end": 262.759,
+      "score": 0.845
+    },
+    {
+      "word": "that,",
+      "start": 262.819,
+      "end": 263.1,
+      "score": 0.46
+    },
+    {
+      "word": "I",
+      "start": 263.12,
+      "end": 263.2,
+      "score": 0.703
+    },
+    {
+      "word": "think.",
+      "start": 263.24,
+      "end": 263.44,
+      "score": 0.522
+    },
+    {
+      "word": "We",
+      "start": 263.46,
+      "end": 263.621,
+      "score": 0.458
+    },
+    {
+      "word": "could",
+      "start": 263.641,
+      "end": 263.781,
+      "score": 0.732
+    },
+    {
+      "word": "have",
+      "start": 263.801,
+      "end": 263.881,
+      "score": 0.493
+    },
+    {
+      "word": "probably",
+      "start": 263.941,
+      "end": 264.181,
+      "score": 0.444
+    },
+    {
+      "word": "given",
+      "start": 264.222,
+      "end": 264.422,
+      "score": 0.795
+    },
+    {
+      "word": "up",
+      "start": 264.502,
+      "end": 264.642,
+      "score": 0.261
+    },
+    {
+      "word": "a",
+      "start": 264.662,
+      "end": 264.682,
+      "score": 0.588
+    },
+    {
+      "word": "lot",
+      "start": 264.722,
+      "end": 265.003,
+      "score": 0.593
+    },
+    {
+      "word": "more",
+      "start": 265.023,
+      "end": 265.103,
+      "score": 0.434
+    },
+    {
+      "word": "than",
+      "start": 265.123,
+      "end": 265.203,
+      "score": 0.179
+    },
+    {
+      "word": "that.",
+      "start": 265.263,
+      "end": 265.383,
+      "score": 0.658
+    },
+    {
+      "word": "I",
+      "start": 265.483,
+      "end": 265.504,
+      "score": 0.839
+    },
+    {
+      "word": "don't",
+      "start": 265.564,
+      "end": 265.704,
+      "score": 0.292
+    },
+    {
+      "word": "know",
+      "start": 265.724,
+      "end": 265.804,
+      "score": 0.237
+    },
+    {
+      "word": "what",
+      "start": 265.824,
+      "end": 265.944,
+      "score": 0.482
+    },
+    {
+      "word": "they've",
+      "start": 265.984,
+      "end": 266.145,
+      "score": 0.515
+    },
+    {
+      "word": "gotten",
+      "start": 266.185,
+      "end": 266.505,
+      "score": 0.577
+    },
+    {
+      "word": "out",
+      "start": 266.525,
+      "end": 266.705,
+      "score": 0.707
+    },
+    {
+      "word": "of",
+      "start": 266.725,
+      "end": 266.765,
+      "score": 0.515
+    },
+    {
+      "word": "it.",
+      "start": 268.248,
+      "end": 268.328,
+      "score": 0.491
+    },
+    {
+      "word": "I",
+      "start": 268.348,
+      "end": 268.368,
+      "score": 0.006
+    },
+    {
+      "word": "don't",
+      "start": 268.388,
+      "end": 268.548,
+      "score": 0.641
+    },
+    {
+      "word": "know",
+      "start": 268.729,
+      "end": 268.809,
+      "score": 0.032
+    },
+    {
+      "word": "what",
+      "start": 268.829,
+      "end": 268.929,
+      "score": 0.145
+    },
+    {
+      "word": "they",
+      "start": 268.949,
+      "end": 269.029,
+      "score": 0.011
+    },
+    {
+      "word": "get",
+      "start": 269.049,
+      "end": 269.109,
+      "score": 0.057
+    },
+    {
+      "word": "out",
+      "start": 269.129,
+      "end": 269.189,
+      "score": 0.311
+    },
+    {
+      "word": "of",
+      "start": 272.094,
+      "end": 272.174,
+      "score": 0.414
+    },
+    {
+      "word": "that.",
+      "start": 272.194,
+      "end": 272.294,
+      "score": 0.315
+    },
+    {
+      "word": "What",
+      "start": 275.699,
+      "end": 275.96,
+      "score": 0.425
+    },
+    {
+      "word": "are",
+      "start": 275.98,
+      "end": 276.06,
+      "score": 0.346
+    },
+    {
+      "word": "the",
+      "start": 276.08,
+      "end": 276.24,
+      "score": 0.341
+    },
+    {
+      "word": "secret",
+      "start": 276.26,
+      "end": 276.38,
+      "score": 0.196
+    },
+    {
+      "word": "protocols?",
+      "start": 276.42,
+      "end": 276.801,
+      "score": 0.355
+    },
+    {
+      "word": "the",
+      "start": 292.087,
+      "end": 292.267,
+      "score": 0.596
+    },
+    {
+      "word": "russians",
+      "start": 292.307,
+      "end": 292.688,
+      "score": 0.628
+    },
+    {
+      "word": "that",
+      "start": 293.129,
+      "end": 293.329,
+      "score": 0.517
+    },
+    {
+      "word": "that",
+      "start": 293.75,
+      "end": 293.87,
+      "score": 0.494
+    },
+    {
+      "word": "group",
+      "start": 293.95,
+      "end": 294.151,
+      "score": 0.28
+    },
+    {
+      "word": "there",
+      "start": 294.171,
+      "end": 294.511,
+      "score": 0.536
+    },
+    {
+      "word": "was",
+      "start": 294.531,
+      "end": 294.592,
+      "score": 0.003
+    },
+    {
+      "word": "neo-nazis",
+      "start": 294.612,
+      "end": 295.674,
+      "score": 0.65
+    },
+    {
+      "word": "or",
+      "start": 295.694,
+      "end": 295.794,
+      "score": 0.676
+    },
+    {
+      "word": "something",
+      "start": 295.834,
+      "end": 296.235,
+      "score": 0.257
+    },
+    {
+      "word": "oh",
+      "start": 296.455,
+      "end": 296.715,
+      "score": 0.747
+    },
+    {
+      "word": "yeah",
+      "start": 298.218,
+      "end": 298.559,
+      "score": 0.515
+    },
+    {
+      "word": "okay",
+      "start": 298.579,
+      "end": 298.859,
+      "score": 0.478
+    },
+    {
+      "word": "yeah",
+      "start": 299.0,
+      "end": 299.521,
+      "score": 0.395
+    },
+    {
+      "word": "okay",
+      "start": 299.561,
+      "end": 299.921,
+      "score": 0.235
+    },
+    {
+      "word": "well",
+      "start": 299.941,
+      "end": 300.041,
+      "score": 0.553
+    },
+    {
+      "word": "these",
+      "start": 300.442,
+      "end": 300.763,
+      "score": 0.489
+    },
+    {
+      "word": "are",
+      "start": 300.783,
+      "end": 301.063,
+      "score": 0.793
+    },
+    {
+      "word": "some",
+      "start": 301.143,
+      "end": 301.304,
+      "score": 0.208
+    },
+    {
+      "word": "crazy",
+      "start": 301.324,
+      "end": 301.684,
+      "score": 0.612
+    },
+    {
+      "word": "people",
+      "start": 301.725,
+      "end": 302.085,
+      "score": 0.733
+    },
+    {
+      "word": "over",
+      "start": 302.105,
+      "end": 302.326,
+      "score": 0.17
+    },
+    {
+      "word": "there",
+      "start": 302.346,
+      "end": 302.466,
+      "score": 0.484
+    },
+    {
+      "word": "crazy",
+      "start": 302.566,
+      "end": 302.907,
+      "score": 0.642
+    },
+    {
+      "word": "political",
+      "start": 303.047,
+      "end": 303.628,
+      "score": 0.845
+    },
+    {
+      "word": "agitators",
+      "start": 304.269,
+      "end": 304.99,
+      "score": 0.821
+    },
+    {
+      "word": "uh",
+      "start": 306.433,
+      "end": 306.533,
+      "score": 0.673
+    },
+    {
+      "word": "and",
+      "start": 306.814,
+      "end": 306.934,
+      "score": 0.84
+    },
+    {
+      "word": "i",
+      "start": 306.994,
+      "end": 307.014,
+      "score": 0.977
+    },
+    {
+      "word": "can't",
+      "start": 307.074,
+      "end": 307.275,
+      "score": 0.827
+    },
+    {
+      "word": "remember",
+      "start": 307.335,
+      "end": 307.595,
+      "score": 0.537
+    },
+    {
+      "word": "what",
+      "start": 307.635,
+      "end": 307.755,
+      "score": 0.817
+    },
+    {
+      "word": "they",
+      "start": 307.816,
+      "end": 307.936,
+      "score": 0.867
+    },
+    {
+      "word": "were",
+      "start": 308.016,
+      "end": 308.156,
+      "score": 0.818
+    },
+    {
+      "word": "doing",
+      "start": 308.216,
+      "end": 308.557,
+      "score": 0.833
+    },
+    {
+      "word": "but",
+      "start": 309.459,
+      "end": 309.779,
+      "score": 0.76
+    },
+    {
+      "word": "uh",
+      "start": 310.2,
+      "end": 310.24,
+      "score": 0.435
+    },
+    {
+      "word": "it",
+      "start": 312.264,
+      "end": 312.384,
+      "score": 0.816
+    },
+    {
+      "word": "it",
+      "start": 312.624,
+      "end": 312.805,
+      "score": 0.846
+    },
+    {
+      "word": "would",
+      "start": 313.165,
+      "end": 313.286,
+      "score": 0.133
+    },
+    {
+      "word": "have",
+      "start": 313.326,
+      "end": 313.406,
+      "score": 0.498
+    },
+    {
+      "word": "been",
+      "start": 313.426,
+      "end": 313.566,
+      "score": 0.42
+    },
+    {
+      "word": "all",
+      "start": 313.626,
+      "end": 313.706,
+      "score": 0.583
+    },
+    {
+      "word": "right",
+      "start": 313.867,
+      "end": 313.987,
+      "score": 0.174
+    },
+    {
+      "word": "see",
+      "start": 314.007,
+      "end": 314.107,
+      "score": 0.502
+    },
+    {
+      "word": "we",
+      "start": 314.167,
+      "end": 314.287,
+      "score": 0.951
+    },
+    {
+      "word": "have",
+      "start": 314.367,
+      "end": 314.668,
+      "score": 0.849
+    },
+    {
+      "word": "that",
+      "start": 324.132,
+      "end": 325.073,
+      "score": 0.588
+    },
+    {
+      "word": "we",
+      "start": 325.394,
+      "end": 325.554,
+      "score": 0.965
+    },
+    {
+      "word": "would",
+      "start": 325.594,
+      "end": 325.794,
+      "score": 0.608
+    },
+    {
+      "word": "try",
+      "start": 326.415,
+      "end": 326.716,
+      "score": 0.456
+    },
+    {
+      "word": "to",
+      "start": 326.816,
+      "end": 326.916,
+      "score": 0.424
+    },
+    {
+      "word": "restrict",
+      "start": 326.936,
+      "end": 327.537,
+      "score": 0.519
+    },
+    {
+      "word": "the",
+      "start": 327.557,
+      "end": 327.737,
+      "score": 0.742
+    },
+    {
+      "word": "travel",
+      "start": 327.877,
+      "end": 328.418,
+      "score": 0.595
+    },
+    {
+      "word": "of",
+      "start": 328.558,
+      "end": 328.659,
+      "score": 0.635
+    },
+    {
+      "word": "these",
+      "start": 329.339,
+      "end": 329.52,
+      "score": 0.542
+    },
+    {
+      "word": "bad",
+      "start": 331.002,
+      "end": 331.222,
+      "score": 0.799
+    },
+    {
+      "word": "people,",
+      "start": 331.282,
+      "end": 331.723,
+      "score": 0.795
+    },
+    {
+      "word": "sort",
+      "start": 331.743,
+      "end": 331.963,
+      "score": 0.6
+    },
+    {
+      "word": "of",
+      "start": 332.264,
+      "end": 332.344,
+      "score": 0.46
+    },
+    {
+      "word": "like",
+      "start": 332.384,
+      "end": 332.564,
+      "score": 0.48
+    },
+    {
+      "word": "the",
+      "start": 332.925,
+      "end": 332.985,
+      "score": 0.258
+    },
+    {
+      "word": "Ku",
+      "start": 333.005,
+      "end": 333.045,
+      "score": 0.0
+    },
+    {
+      "word": "Klux",
+      "start": 333.065,
+      "end": 333.145,
+      "score": 0.02
+    },
+    {
+      "word": "Klan,",
+      "start": 333.165,
+      "end": 333.405,
+      "score": 0.603
+    },
+    {
+      "word": "but",
+      "start": 333.906,
+      "end": 334.066,
+      "score": 0.672
+    },
+    {
+      "word": "politically,",
+      "start": 334.106,
+      "end": 334.627,
+      "score": 0.472
+    },
+    {
+      "word": "you",
+      "start": 336.209,
+      "end": 336.289,
+      "score": 0.328
+    },
+    {
+      "word": "know,",
+      "start": 336.31,
+      "end": 336.41,
+      "score": 0.289
+    },
+    {
+      "word": "neo-Nazis.",
+      "start": 337.391,
+      "end": 338.913,
+      "score": 0.748
+    },
+    {
+      "word": "I",
+      "start": 338.933,
+      "end": 339.033,
+      "score": 0.89
+    },
+    {
+      "word": "can't",
+      "start": 339.074,
+      "end": 339.294,
+      "score": 0.797
+    },
+    {
+      "word": "remember",
+      "start": 339.334,
+      "end": 339.654,
+      "score": 0.947
+    },
+    {
+      "word": "that,",
+      "start": 339.714,
+      "end": 339.875,
+      "score": 0.87
+    },
+    {
+      "word": "but",
+      "start": 339.915,
+      "end": 340.075,
+      "score": 0.804
+    },
+    {
+      "word": "again,",
+      "start": 340.135,
+      "end": 340.596,
+      "score": 0.764
+    },
+    {
+      "word": "it",
+      "start": 341.076,
+      "end": 341.157,
+      "score": 0.808
+    },
+    {
+      "word": "would",
+      "start": 341.217,
+      "end": 341.397,
+      "score": 0.504
+    },
+    {
+      "word": "have",
+      "start": 341.437,
+      "end": 341.537,
+      "score": 0.431
+    },
+    {
+      "word": "been",
+      "start": 341.597,
+      "end": 341.858,
+      "score": 0.816
+    },
+    {
+      "word": "quite",
+      "start": 343.44,
+      "end": 343.78,
+      "score": 0.745
+    },
+    {
+      "word": "a",
+      "start": 344.041,
+      "end": 344.301,
+      "score": 0.731
+    },
+    {
+      "word": "I",
+      "start": 403.495,
+      "end": 403.615,
+      "score": 0.641
+    },
+    {
+      "word": "think",
+      "start": 403.635,
+      "end": 403.895,
+      "score": 0.897
+    },
+    {
+      "word": "that",
+      "start": 403.955,
+      "end": 404.236,
+      "score": 0.895
+    },
+    {
+      "word": "it",
+      "start": 404.476,
+      "end": 406.278,
+      "score": 0.947
+    },
+    {
+      "word": "was",
+      "start": 406.318,
+      "end": 406.538,
+      "score": 0.616
+    },
+    {
+      "word": "whether",
+      "start": 408.78,
+      "end": 409.341,
+      "score": 0.801
+    },
+    {
+      "word": "all",
+      "start": 410.302,
+      "end": 410.462,
+      "score": 0.785
+    },
+    {
+      "word": "the",
+      "start": 410.522,
+      "end": 410.602,
+      "score": 0.327
+    },
+    {
+      "word": "governments",
+      "start": 410.622,
+      "end": 411.083,
+      "score": 0.289
+    },
+    {
+      "word": "agreed",
+      "start": 411.203,
+      "end": 411.623,
+      "score": 0.86
+    },
+    {
+      "word": "that",
+      "start": 411.703,
+      "end": 411.944,
+      "score": 0.897
+    },
+    {
+      "word": "they",
+      "start": 412.344,
+      "end": 412.504,
+      "score": 0.948
+    },
+    {
+      "word": "were",
+      "start": 412.544,
+      "end": 412.784,
+      "score": 0.923
+    },
+    {
+      "word": "prepared",
+      "start": 413.125,
+      "end": 413.605,
+      "score": 0.462
+    },
+    {
+      "word": "to",
+      "start": 413.705,
+      "end": 413.986,
+      "score": 0.855
+    },
+    {
+      "word": "act",
+      "start": 415.087,
+      "end": 415.227,
+      "score": 0.472
+    },
+    {
+      "word": "to",
+      "start": 416.768,
+      "end": 416.969,
+      "score": 0.666
+    },
+    {
+      "word": "implement",
+      "start": 417.029,
+      "end": 417.549,
+      "score": 0.96
+    },
+    {
+      "word": "the",
+      "start": 417.89,
+      "end": 418.03,
+      "score": 0.888
+    },
+    {
+      "word": "concept",
+      "start": 418.09,
+      "end": 418.61,
+      "score": 0.357
+    },
+    {
+      "word": "that",
+      "start": 418.65,
+      "end": 418.79,
+      "score": 0.64
+    },
+    {
+      "word": "they",
+      "start": 418.83,
+      "end": 419.011,
+      "score": 0.808
+    },
+    {
+      "word": "taught",
+      "start": 419.151,
+      "end": 419.691,
+      "score": 0.462
+    },
+    {
+      "word": "in",
+      "start": 420.412,
+      "end": 420.512,
+      "score": 0.99
+    },
+    {
+      "word": "a",
+      "start": 420.552,
+      "end": 420.572,
+      "score": 0.029
+    },
+    {
+      "word": "real",
+      "start": 420.652,
+      "end": 420.933,
+      "score": 0.834
+    },
+    {
+      "word": "way,",
+      "start": 421.013,
+      "end": 421.293,
+      "score": 0.661
+    },
+    {
+      "word": "in",
+      "start": 421.313,
+      "end": 421.353,
+      "score": 0.445
+    },
+    {
+      "word": "a",
+      "start": 421.413,
+      "end": 421.493,
+      "score": 0.433
+    },
+    {
+      "word": "practical",
+      "start": 421.513,
+      "end": 422.014,
+      "score": 0.491
+    },
+    {
+      "word": "way.",
+      "start": 422.034,
+      "end": 422.314,
+      "score": 0.941
+    },
+    {
+      "word": "We",
+      "start": 423.535,
+      "end": 423.755,
+      "score": 0.868
+    },
+    {
+      "word": "all",
+      "start": 423.976,
+      "end": 424.176,
+      "score": 0.821
+    },
+    {
+      "word": "had",
+      "start": 424.256,
+      "end": 424.476,
+      "score": 0.864
+    },
+    {
+      "word": "problems.",
+      "start": 424.817,
+      "end": 425.237,
+      "score": 0.306
+    },
+    {
+      "word": "Assuringly,",
+      "start": 425.257,
+      "end": 425.497,
+      "score": 0.253
+    },
+    {
+      "word": "we",
+      "start": 425.517,
+      "end": 425.637,
+      "score": 0.927
+    },
+    {
+      "word": "had",
+      "start": 425.697,
+      "end": 425.818,
+      "score": 0.854
+    },
+    {
+      "word": "problems",
+      "start": 425.938,
+      "end": 426.258,
+      "score": 0.327
+    },
+    {
+      "word": "with",
+      "start": 426.378,
+      "end": 426.478,
+      "score": 0.284
+    },
+    {
+      "word": "Berlin.",
+      "start": 426.578,
+      "end": 430.262,
+      "score": 0.731
+    },
+    {
+      "word": "issue",
+      "start": 443.033,
+      "end": 443.473,
+      "score": 0.379
+    },
+    {
+      "word": "arose",
+      "start": 443.493,
+      "end": 443.674,
+      "score": 0.326
+    },
+    {
+      "word": "was",
+      "start": 444.194,
+      "end": 444.454,
+      "score": 0.712
+    },
+    {
+      "word": "valuable",
+      "start": 444.535,
+      "end": 445.095,
+      "score": 0.886
+    },
+    {
+      "word": "to",
+      "start": 445.375,
+      "end": 445.496,
+      "score": 0.484
+    },
+    {
+      "word": "us.",
+      "start": 445.516,
+      "end": 445.576,
+      "score": 0.569
+    },
+    {
+      "word": "Also,",
+      "start": 446.657,
+      "end": 447.458,
+      "score": 0.533
+    },
+    {
+      "word": "as",
+      "start": 448.659,
+      "end": 448.899,
+      "score": 0.296
+    },
+    {
+      "word": "I",
+      "start": 448.919,
+      "end": 448.939,
+      "score": 0.931
+    },
+    {
+      "word": "said,",
+      "start": 449.079,
+      "end": 450.04,
+      "score": 0.634
+    },
+    {
+      "word": "we",
+      "start": 450.06,
+      "end": 450.14,
+      "score": 0.943
+    },
+    {
+      "word": "had",
+      "start": 450.22,
+      "end": 450.521,
+      "score": 0.839
+    },
+    {
+      "word": "been",
+      "start": 450.601,
+      "end": 450.821,
+      "score": 0.742
+    },
+    {
+      "word": "pursuing",
+      "start": 452.182,
+      "end": 452.703,
+      "score": 0.381
+    },
+    {
+      "word": "the",
+      "start": 452.723,
+      "end": 452.783,
+      "score": 0.316
+    },
+    {
+      "word": "other",
+      "start": 452.863,
+      "end": 453.063,
+      "score": 0.559
+    },
+    {
+      "word": "policy",
+      "start": 453.143,
+      "end": 453.744,
+      "score": 0.594
+    },
+    {
+      "word": "that",
+      "start": 453.784,
+      "end": 453.944,
+      "score": 0.811
+    },
+    {
+      "word": "Germany",
+      "start": 454.785,
+      "end": 455.266,
+      "score": 0.521
+    },
+    {
+      "word": "was",
+      "start": 455.306,
+      "end": 455.466,
+      "score": 0.626
+    },
+    {
+      "word": "only",
+      "start": 455.566,
+      "end": 455.806,
+      "score": 0.66
+    },
+    {
+      "word": "one",
+      "start": 455.926,
+      "end": 456.086,
+      "score": 0.854
+    },
+    {
+      "word": "Germany,",
+      "start": 456.147,
+      "end": 456.727,
+      "score": 0.691
+    },
+    {
+      "word": "Germany",
+      "start": 456.747,
+      "end": 457.168,
+      "score": 0.604
+    },
+    {
+      "word": "was",
+      "start": 458.149,
+      "end": 458.269,
+      "score": 0.357
+    },
+    {
+      "word": "undivided,",
+      "start": 458.369,
+      "end": 459.029,
+      "score": 0.627
+    },
+    {
+      "word": "etc.,",
+      "start": 459.09,
+      "end": 459.55,
+      "score": 0.824
+    },
+    {
+      "word": "that",
+      "start": 460.571,
+      "end": 460.731,
+      "score": 0.74
+    },
+    {
+      "word": "East",
+      "start": 460.811,
+      "end": 461.052,
+      "score": 0.294
+    },
+    {
+      "word": "Germany",
+      "start": 461.072,
+      "end": 461.432,
+      "score": 0.707
+    },
+    {
+      "word": "was",
+      "start": 461.532,
+      "end": 461.652,
+      "score": 0.463
+    },
+    {
+      "word": "not",
+      "start": 461.752,
+      "end": 462.133,
+      "score": 0.832
+    },
+    {
+      "word": "a",
+      "start": 462.153,
+      "end": 462.273,
+      "score": 0.766
+    },
+    {
+      "word": "real",
+      "start": 462.393,
+      "end": 462.653,
+      "score": 0.834
+    },
+    {
+      "word": "government,",
+      "start": 462.693,
+      "end": 464.575,
+      "score": 0.449
+    },
+    {
+      "word": "and",
+      "start": 464.595,
+      "end": 464.655,
+      "score": 0.322
+    },
+    {
+      "word": "so",
+      "start": 464.695,
+      "end": 464.916,
+      "score": 0.773
+    },
+    {
+      "word": "forth.",
+      "start": 465.036,
+      "end": 465.276,
+      "score": 0.51
+    },
+    {
+      "word": "And",
+      "start": 465.296,
+      "end": 465.356,
+      "score": 0.394
+    },
+    {
+      "word": "we",
+      "start": 465.416,
+      "end": 465.656,
+      "score": 0.831
+    },
+    {
+      "word": "really",
+      "start": 465.756,
+      "end": 466.157,
+      "score": 0.672
+    },
+    {
+      "word": "hadn't",
+      "start": 466.237,
+      "end": 466.397,
+      "score": 0.236
+    },
+    {
+      "word": "gotten",
+      "start": 466.477,
+      "end": 466.858,
+      "score": 0.171
+    },
+    {
+      "word": "very",
+      "start": 466.878,
+      "end": 466.958,
+      "score": 0.001
+    },
+    {
+      "word": "far",
+      "start": 466.978,
+      "end": 467.098,
+      "score": 0.558
+    },
+    {
+      "word": "with",
+      "start": 467.799,
+      "end": 467.879,
+      "score": 0.0
+    },
+    {
+      "word": "it.",
+      "start": 467.899,
+      "end": 467.959,
+      "score": 0.029
+    },
+    {
+      "word": "Both",
+      "start": 467.979,
+      "end": 468.179,
+      "score": 0.523
+    },
+    {
+      "word": "sides",
+      "start": 468.359,
+      "end": 468.539,
+      "score": 0.441
+    },
+    {
+      "word": "were",
+      "start": 468.579,
+      "end": 468.78,
+      "score": 0.628
+    },
+    {
+      "word": "stonewalling.",
+      "start": 468.86,
+      "end": 469.38,
+      "score": 0.356
+    },
+    {
+      "word": "And",
+      "start": 471.002,
+      "end": 471.202,
+      "score": 0.791
+    },
+    {
+      "word": "I",
+      "start": 471.903,
+      "end": 471.963,
+      "score": 0.501
+    },
+    {
+      "word": "think",
+      "start": 472.003,
+      "end": 472.163,
+      "score": 0.387
+    },
+    {
+      "word": "and",
+      "start": 479.062,
+      "end": 479.284,
+      "score": 0.649
+    },
+    {
+      "word": "come",
+      "start": 479.344,
+      "end": 479.566,
+      "score": 0.807
+    },
+    {
+      "word": "up",
+      "start": 479.626,
+      "end": 479.747,
+      "score": 0.668
+    },
+    {
+      "word": "with",
+      "start": 479.807,
+      "end": 480.009,
+      "score": 0.811
+    },
+    {
+      "word": "an",
+      "start": 480.17,
+      "end": 480.855,
+      "score": 0.766
+    },
+    {
+      "word": "agreement",
+      "start": 480.936,
+      "end": 481.581,
+      "score": 0.645
+    },
+    {
+      "word": "that",
+      "start": 481.601,
+      "end": 481.762,
+      "score": 0.29
+    },
+    {
+      "word": "did",
+      "start": 481.782,
+      "end": 481.984,
+      "score": 0.882
+    },
+    {
+      "word": "in",
+      "start": 482.044,
+      "end": 482.125,
+      "score": 0.968
+    },
+    {
+      "word": "effect",
+      "start": 482.205,
+      "end": 482.608,
+      "score": 0.751
+    },
+    {
+      "word": "was",
+      "start": 553.447,
+      "end": 554.068,
+      "score": 0.604
+    },
+    {
+      "word": "so",
+      "start": 555.07,
+      "end": 555.25,
+      "score": 0.738
+    },
+    {
+      "word": "much",
+      "start": 555.31,
+      "end": 555.39,
+      "score": 0.218
+    },
+    {
+      "word": "greater",
+      "start": 555.471,
+      "end": 555.831,
+      "score": 0.704
+    },
+    {
+      "word": "than",
+      "start": 555.871,
+      "end": 556.132,
+      "score": 0.742
+    },
+    {
+      "word": "you",
+      "start": 556.913,
+      "end": 557.013,
+      "score": 0.348
+    },
+    {
+      "word": "got",
+      "start": 557.033,
+      "end": 557.274,
+      "score": 0.897
+    },
+    {
+      "word": "from",
+      "start": 557.334,
+      "end": 557.715,
+      "score": 0.569
+    },
+    {
+      "word": "an",
+      "start": 558.095,
+      "end": 558.195,
+      "score": 0.754
+    },
+    {
+      "word": "individual",
+      "start": 558.296,
+      "end": 558.857,
+      "score": 0.898
+    },
+    {
+      "word": "spy",
+      "start": 558.897,
+      "end": 559.438,
+      "score": 0.894
+    },
+    {
+      "word": "that",
+      "start": 560.8,
+      "end": 560.98,
+      "score": 0.832
+    },
+    {
+      "word": "they",
+      "start": 561.02,
+      "end": 561.181,
+      "score": 0.754
+    },
+    {
+      "word": "felt",
+      "start": 561.281,
+      "end": 561.501,
+      "score": 0.914
+    },
+    {
+      "word": "it",
+      "start": 561.601,
+      "end": 561.662,
+      "score": 0.666
+    },
+    {
+      "word": "was",
+      "start": 561.702,
+      "end": 561.862,
+      "score": 0.378
+    },
+    {
+      "word": "important",
+      "start": 567.812,
+      "end": 568.293,
+      "score": 0.555
+    },
+    {
+      "word": "to",
+      "start": 568.333,
+      "end": 568.634,
+      "score": 0.422
+    },
+    {
+      "word": "us",
+      "start": 568.754,
+      "end": 568.955,
+      "score": 0.814
+    },
+    {
+      "word": "to",
+      "start": 569.155,
+      "end": 569.275,
+      "score": 0.974
+    },
+    {
+      "word": "have",
+      "start": 569.335,
+      "end": 569.616,
+      "score": 0.81
+    },
+    {
+      "word": "our",
+      "start": 570.317,
+      "end": 570.477,
+      "score": 0.37
+    },
+    {
+      "word": "man",
+      "start": 570.497,
+      "end": 570.658,
+      "score": 0.571
+    },
+    {
+      "word": "back.",
+      "start": 570.758,
+      "end": 571.038,
+      "score": 0.905
+    },
+    {
+      "word": "They",
+      "start": 572.26,
+      "end": 572.421,
+      "score": 0.864
+    },
+    {
+      "word": "had",
+      "start": 572.481,
+      "end": 572.581,
+      "score": 0.877
+    },
+    {
+      "word": "not,",
+      "start": 572.661,
+      "end": 572.922,
+      "score": 0.982
+    },
+    {
+      "word": "Abel",
+      "start": 573.282,
+      "end": 573.863,
+      "score": 0.773
+    },
+    {
+      "word": "had",
+      "start": 573.923,
+      "end": 574.064,
+      "score": 0.782
+    },
+    {
+      "word": "not",
+      "start": 574.124,
+      "end": 574.364,
+      "score": 0.992
+    },
+    {
+      "word": "spoken,",
+      "start": 575.566,
+      "end": 576.007,
+      "score": 0.703
+    },
+    {
+      "word": "he",
+      "start": 576.027,
+      "end": 576.187,
+      "score": 0.708
+    },
+    {
+      "word": "had",
+      "start": 576.428,
+      "end": 576.488,
+      "score": 0.0
+    },
+    {
+      "word": "not",
+      "start": 576.508,
+      "end": 576.568,
+      "score": 0.333
+    },
+    {
+      "word": "was",
+      "start": 585.796,
+      "end": 585.917,
+      "score": 0.291
+    },
+    {
+      "word": "an",
+      "start": 585.997,
+      "end": 586.077,
+      "score": 0.674
+    },
+    {
+      "word": "important",
+      "start": 586.138,
+      "end": 586.72,
+      "score": 0.602
+    },
+    {
+      "word": "agent,",
+      "start": 586.74,
+      "end": 589.112,
+      "score": 0.446
+    },
+    {
+      "word": "very",
+      "start": 589.132,
+      "end": 589.393,
+      "score": 0.558
+    },
+    {
+      "word": "important.",
+      "start": 589.534,
+      "end": 590.518,
+      "score": 0.652
+    },
+    {
+      "word": "And",
+      "start": 591.603,
+      "end": 591.804,
+      "score": 0.443
+    },
+    {
+      "word": "he",
+      "start": 591.864,
+      "end": 592.005,
+      "score": 0.833
+    },
+    {
+      "word": "was",
+      "start": 592.045,
+      "end": 592.206,
+      "score": 0.57
+    },
+    {
+      "word": "cooperating",
+      "start": 593.251,
+      "end": 593.934,
+      "score": 0.557
+    },
+    {
+      "word": "as",
+      "start": 593.974,
+      "end": 594.015,
+      "score": 0.44
+    },
+    {
+      "word": "a",
+      "start": 594.055,
+      "end": 594.135,
+      "score": 0.093
+    },
+    {
+      "word": "that",
+      "start": 647.795,
+      "end": 647.995,
+      "score": 0.742
+    },
+    {
+      "word": "if",
+      "start": 648.136,
+      "end": 648.216,
+      "score": 0.836
+    },
+    {
+      "word": "he",
+      "start": 648.256,
+      "end": 648.416,
+      "score": 0.729
+    },
+    {
+      "word": "had",
+      "start": 648.477,
+      "end": 648.597,
+      "score": 0.852
+    },
+    {
+      "word": "revealed",
+      "start": 648.697,
+      "end": 649.218,
+      "score": 0.853
+    },
+    {
+      "word": "them",
+      "start": 649.258,
+      "end": 649.358,
+      "score": 0.435
+    },
+    {
+      "word": "to",
+      "start": 649.419,
+      "end": 649.559,
+      "score": 0.759
+    },
+    {
+      "word": "the",
+      "start": 649.599,
+      "end": 649.659,
+      "score": 0.891
+    },
+    {
+      "word": "Soviets,",
+      "start": 650.301,
+      "end": 651.263,
+      "score": 0.765
+    },
+    {
+      "word": "something",
+      "start": 651.283,
+      "end": 651.644,
+      "score": 0.441
+    },
+    {
+      "word": "would",
+      "start": 651.664,
+      "end": 651.824,
+      "score": 0.784
+    },
+    {
+      "word": "have",
+      "start": 651.844,
+      "end": 651.924,
+      "score": 0.607
+    },
+    {
+      "word": "been",
+      "start": 651.964,
+      "end": 652.064,
+      "score": 0.501
+    },
+    {
+      "word": "compromised.",
+      "start": 652.105,
+      "end": 653.929,
+      "score": 0.669
+    },
+    {
+      "word": "Somebody",
+      "start": 653.949,
+      "end": 654.37,
+      "score": 0.904
+    },
+    {
+      "word": "would",
+      "start": 654.41,
+      "end": 654.57,
+      "score": 0.761
+    },
+    {
+      "word": "have",
+      "start": 654.61,
+      "end": 654.71,
+      "score": 0.942
+    },
+    {
+      "word": "been",
+      "start": 654.75,
+      "end": 654.911,
+      "score": 0.828
+    },
+    {
+      "word": "harmed,",
+      "start": 654.951,
+      "end": 655.793,
+      "score": 0.59
+    },
+    {
+      "word": "or",
+      "start": 655.953,
+      "end": 656.093,
+      "score": 0.917
+    },
+    {
+      "word": "certain",
+      "start": 656.234,
+      "end": 656.875,
+      "score": 0.322
+    },
+    {
+      "word": "installations",
+      "start": 656.895,
+      "end": 657.597,
+      "score": 0.839
+    },
+    {
+      "word": "would",
+      "start": 658.078,
+      "end": 658.278,
+      "score": 0.812
+    },
+    {
+      "word": "have",
+      "start": 658.318,
+      "end": 658.419,
+      "score": 0.951
+    },
+    {
+      "word": "been",
+      "start": 658.479,
+      "end": 658.639,
+      "score": 0.949
+    },
+    {
+      "word": "compromised.",
+      "start": 658.739,
+      "end": 660.323,
+      "score": 0.649
+    },
+    {
+      "word": "So",
+      "start": 660.343,
+      "end": 660.523,
+      "score": 0.818
+    },
+    {
+      "word": "they",
+      "start": 660.543,
+      "end": 661.225,
+      "score": 0.856
+    },
+    {
+      "word": "were",
+      "start": 661.265,
+      "end": 661.445,
+      "score": 0.759
+    },
+    {
+      "word": "confident",
+      "start": 662.026,
+      "end": 662.608,
+      "score": 0.753
+    },
+    {
+      "word": "at",
+      "start": 662.668,
+      "end": 662.708,
+      "score": 0.782
+    },
+    {
+      "word": "that",
+      "start": 662.768,
+      "end": 662.949,
+      "score": 0.85
+    },
+    {
+      "word": "time",
+      "start": 663.029,
+      "end": 664.993,
+      "score": 0.683
+    },
+    {
+      "word": "and",
+      "start": 678.71,
+      "end": 680.24,
+      "score": 0.311
+    },
+    {
+      "word": "do",
+      "start": 680.26,
+      "end": 680.301,
+      "score": 0.451
+    },
+    {
+      "word": "something",
+      "start": 680.341,
+      "end": 680.663,
+      "score": 0.775
+    },
+    {
+      "word": "he",
+      "start": 680.703,
+      "end": 680.784,
+      "score": 0.899
+    },
+    {
+      "word": "would",
+      "start": 680.824,
+      "end": 681.005,
+      "score": 0.872
+    },
+    {
+      "word": "not",
+      "start": 681.025,
+      "end": 681.166,
+      "score": 0.929
+    },
+    {
+      "word": "normally.",
+      "start": 681.368,
+      "end": 681.71,
+      "score": 0.308
+    },
+    {
+      "word": "So",
+      "start": 682.556,
+      "end": 682.797,
+      "score": 0.748
+    },
+    {
+      "word": "there",
+      "start": 682.817,
+      "end": 682.918,
+      "score": 0.002
+    },
+    {
+      "word": "are",
+      "start": 682.938,
+      "end": 683.039,
+      "score": 0.524
+    },
+    {
+      "word": "a",
+      "start": 683.079,
+      "end": 683.099,
+      "score": 0.584
+    },
+    {
+      "word": "lot",
+      "start": 683.16,
+      "end": 683.361,
+      "score": 0.901
+    },
+    {
+      "word": "of",
+      "start": 683.421,
+      "end": 683.462,
+      "score": 0.736
+    },
+    {
+      "word": "factors",
+      "start": 683.623,
+      "end": 684.106,
+      "score": 0.803
+    },
+    {
+      "word": "involved,",
+      "start": 684.428,
+      "end": 685.193,
+      "score": 0.494
+    },
+    {
+      "word": "not",
+      "start": 721.606,
+      "end": 722.168,
+      "score": 0.711
+    },
+    {
+      "word": "accept",
+      "start": 722.228,
+      "end": 722.709,
+      "score": 0.789
+    },
+    {
+      "word": "or",
+      "start": 724.033,
+      "end": 724.134,
+      "score": 0.799
+    },
+    {
+      "word": "they",
+      "start": 724.154,
+      "end": 724.334,
+      "score": 0.625
+    },
+    {
+      "word": "were",
+      "start": 724.394,
+      "end": 724.475,
+      "score": 0.219
+    },
+    {
+      "word": "tried",
+      "start": 724.495,
+      "end": 724.876,
+      "score": 0.661
+    },
+    {
+      "word": "out",
+      "start": 725.056,
+      "end": 725.177,
+      "score": 0.222
+    },
+    {
+      "word": "on",
+      "start": 725.197,
+      "end": 725.317,
+      "score": 0.818
+    },
+    {
+      "word": "us.",
+      "start": 726.822,
+      "end": 726.882,
+      "score": 0.166
+    },
+    {
+      "word": "Now",
+      "start": 726.902,
+      "end": 727.002,
+      "score": 0.561
+    },
+    {
+      "word": "this",
+      "start": 727.022,
+      "end": 727.163,
+      "score": 0.491
+    },
+    {
+      "word": "young",
+      "start": 727.785,
+      "end": 727.965,
+      "score": 0.881
+    },
+    {
+      "word": "man",
+      "start": 728.025,
+      "end": 728.246,
+      "score": 0.973
+    },
+    {
+      "word": "Mackinnon",
+      "start": 728.346,
+      "end": 728.828,
+      "score": 0.68
+    },
+    {
+      "word": "was",
+      "start": 728.868,
+      "end": 729.008,
+      "score": 0.342
+    },
+    {
+      "word": "an",
+      "start": 729.048,
+      "end": 729.088,
+      "score": 0.506
+    },
+    {
+      "word": "army",
+      "start": 729.169,
+      "end": 729.53,
+      "score": 0.714
+    },
+    {
+      "word": "captain",
+      "start": 729.65,
+      "end": 730.091,
+      "score": 0.925
+    },
+    {
+      "word": "and",
+      "start": 731.536,
+      "end": 731.676,
+      "score": 0.8
+    },
+    {
+      "word": "he",
+      "start": 731.897,
+      "end": 732.138,
+      "score": 0.642
+    },
+    {
+      "word": "did",
+      "start": 732.358,
+      "end": 732.499,
+      "score": 0.682
+    },
+    {
+      "word": "work",
+      "start": 732.559,
+      "end": 732.82,
+      "score": 0.752
+    },
+    {
+      "word": "for",
+      "start": 733.401,
+      "end": 733.582,
+      "score": 0.759
+    },
+    {
+      "word": "either",
+      "start": 735.066,
+      "end": 735.448,
+      "score": 0.517
+    },
+    {
+      "word": "the",
+      "start": 735.468,
+      "end": 735.548,
+      "score": 0.432
+    },
+    {
+      "word": "counter",
+      "start": 735.628,
+      "end": 736.009,
+      "score": 0.41
+    },
+    {
+      "word": "intelligence",
+      "start": 736.029,
+      "end": 736.29,
+      "score": 0.111
+    },
+    {
+      "word": "and",
+      "start": 759.372,
+      "end": 760.433,
+      "score": 0.273
+    },
+    {
+      "word": "power.",
+      "start": 760.453,
+      "end": 760.954,
+      "score": 0.511
+    },
+    {
+      "word": "Power",
+      "start": 760.974,
+      "end": 761.214,
+      "score": 0.336
+    },
+    {
+      "word": "was",
+      "start": 761.254,
+      "end": 761.414,
+      "score": 0.667
+    },
+    {
+      "word": "what",
+      "start": 761.434,
+      "end": 761.595,
+      "score": 0.696
+    },
+    {
+      "word": "we",
+      "start": 761.615,
+      "end": 761.755,
+      "score": 0.712
+    },
+    {
+      "word": "really",
+      "start": 761.775,
+      "end": 761.935,
+      "score": 0.239
+    },
+    {
+      "word": "wanted.",
+      "start": 761.975,
+      "end": 762.275,
+      "score": 0.48
+    },
+    {
+      "word": "But",
+      "start": 762.956,
+      "end": 763.076,
+      "score": 0.559
+    },
+    {
+      "word": "we",
+      "start": 763.116,
+      "end": 763.257,
+      "score": 0.795
+    },
+    {
+      "word": "thought",
+      "start": 763.337,
+      "end": 763.597,
+      "score": 0.509
+    },
+    {
+      "word": "we",
+      "start": 763.657,
+      "end": 763.797,
+      "score": 0.654
+    },
+    {
+      "word": "could,",
+      "start": 763.857,
+      "end": 764.058,
+      "score": 0.807
+    },
+    {
+      "word": "we",
+      "start": 764.418,
+      "end": 764.578,
+      "score": 0.556
+    },
+    {
+      "word": "thought",
+      "start": 764.598,
+      "end": 764.778,
+      "score": 0.3
+    },
+    {
+      "word": "we",
+      "start": 764.819,
+      "end": 764.979,
+      "score": 0.948
+    },
+    {
+      "word": "had",
+      "start": 765.639,
+      "end": 765.9,
+      "score": 0.737
+    },
+    {
+      "word": "the",
+      "start": 765.94,
+      "end": 766.08,
+      "score": 0.489
+    },
+    {
+      "word": "Soviets",
+      "start": 766.1,
+      "end": 766.561,
+      "score": 0.539
+    },
+    {
+      "word": "where",
+      "start": 767.562,
+      "end": 767.782,
+      "score": 0.57
+    },
+    {
+      "word": "they",
+      "start": 768.583,
+      "end": 768.743,
+      "score": 0.946
+    },
+    {
+      "word": "would",
+      "start": 768.783,
+      "end": 768.923,
+      "score": 0.645
+    },
+    {
+      "word": "give",
+      "start": 768.963,
+      "end": 769.144,
+      "score": 0.954
+    },
+    {
+      "word": "us",
+      "start": 769.224,
+      "end": 769.304,
+      "score": 0.631
+    },
+    {
+      "word": "more",
+      "start": 769.424,
+      "end": 769.584,
+      "score": 0.407
+    },
+    {
+      "word": "than",
+      "start": 769.604,
+      "end": 769.744,
+      "score": 0.415
+    },
+    {
+      "word": "one.",
+      "start": 769.905,
+      "end": 770.065,
+      "score": 0.617
+    },
+    {
+      "word": "We",
+      "start": 770.986,
+      "end": 771.066,
+      "score": 0.306
+    },
+    {
+      "word": "thought",
+      "start": 771.086,
+      "end": 771.246,
+      "score": 0.317
+    },
+    {
+      "word": "we",
+      "start": 771.266,
+      "end": 771.406,
+      "score": 0.908
+    },
+    {
+      "word": "could",
+      "start": 771.446,
+      "end": 771.627,
+      "score": 0.443
+    },
+    {
+      "word": "get",
+      "start": 771.727,
+      "end": 771.887,
+      "score": 0.484
+    },
+    {
+      "word": "more",
+      "start": 772.007,
+      "end": 772.087,
+      "score": 0.003
+    },
+    {
+      "word": "than",
+      "start": 772.107,
+      "end": 772.227,
+      "score": 0.326
+    },
+    {
+      "word": "power.",
+      "start": 772.247,
+      "end": 772.368,
+      "score": 0.324
+    },
+    {
+      "word": "We",
+      "start": 773.048,
+      "end": 773.189,
+      "score": 0.576
+    },
+    {
+      "word": "thought",
+      "start": 773.209,
+      "end": 773.369,
+      "score": 0.399
+    },
+    {
+      "word": "they",
+      "start": 773.409,
+      "end": 773.529,
+      "score": 0.807
+    },
+    {
+      "word": "wanted",
+      "start": 773.569,
+      "end": 773.809,
+      "score": 0.876
+    },
+    {
+      "word": "them",
+      "start": 773.849,
+      "end": 773.949,
+      "score": 0.261
+    },
+    {
+      "word": "badly",
+      "start": 773.989,
+      "end": 774.37,
+      "score": 0.56
+    },
+    {
+      "word": "enough.",
+      "start": 774.47,
+      "end": 776.693,
+      "score": 0.478
+    },
+    {
+      "word": "So",
+      "start": 776.713,
+      "end": 776.753,
+      "score": 0.422
+    },
+    {
+      "word": "that's",
+      "start": 777.153,
+      "end": 777.273,
+      "score": 0.29
+    },
+    {
+      "word": "the",
+      "start": 777.313,
+      "end": 777.374,
+      "score": 0.206
+    },
+    {
+      "word": "way",
+      "start": 777.394,
+      "end": 777.574,
+      "score": 0.697
+    },
+    {
+      "word": "we",
+      "start": 777.614,
+      "end": 777.734,
+      "score": 0.69
+    },
+    {
+      "word": "maneuvered.",
+      "start": 777.874,
+      "end": 778.695,
+      "score": 0.424
+    },
+    {
+      "word": "What",
+      "start": 778.715,
+      "end": 778.795,
+      "score": 0.114
+    },
+    {
+      "word": "happened",
+      "start": 778.815,
+      "end": 779.035,
+      "score": 0.143
+    },
+    {
+      "word": "to",
+      "start": 779.056,
+      "end": 779.096,
+      "score": 0.411
+    },
+    {
+      "word": "Mackinac?",
+      "start": 779.136,
+      "end": 779.576,
+      "score": 0.571
+    },
+    {
+      "word": "They",
+      "start": 779.917,
+      "end": 780.077,
+      "score": 0.689
+    },
+    {
+      "word": "eventually",
+      "start": 780.117,
+      "end": 780.457,
+      "score": 0.357
+    },
+    {
+      "word": "got",
+      "start": 780.497,
+      "end": 780.718,
+      "score": 0.692
+    },
+    {
+      "word": "him",
+      "start": 780.838,
+      "end": 780.898,
+      "score": 0.001
+    },
+    {
+      "word": "out.",
+      "start": 780.918,
+      "end": 781.038,
+      "score": 0.586
+    },
+    {
+      "word": "Oh,",
+      "start": 781.779,
+      "end": 781.919,
+      "score": 0.405
+    },
+    {
+      "word": "did",
+      "start": 781.939,
+      "end": 782.059,
+      "score": 0.543
+    },
+    {
+      "word": "they?",
+      "start": 782.46,
+      "end": 782.64,
+      "score": 0.21
+    },
+    {
+      "word": "Yeah.",
+      "start": 783.0,
+      "end": 783.14,
+      "score": 0.378
+    },
+    {
+      "word": "I",
+      "start": 784.122,
+      "end": 784.202,
+      "score": 0.949
+    },
+    {
+      "word": "can't",
+      "start": 784.222,
+      "end": 784.402,
+      "score": 0.676
+    },
+    {
+      "word": "remember",
+      "start": 784.442,
+      "end": 784.822,
+      "score": 0.816
+    },
+    {
+      "word": "the",
+      "start": 784.862,
+      "end": 784.943,
+      "score": 0.807
+    },
+    {
+      "word": "circumstances",
+      "start": 784.983,
+      "end": 786.204,
+      "score": 0.479
+    },
+    {
+      "word": "whether",
+      "start": 788.006,
+      "end": 788.327,
+      "score": 0.393
+    },
+    {
+      "word": "they",
+      "start": 788.347,
+      "end": 788.687,
+      "score": 0.726
+    },
+    {
+      "word": "So",
+      "start": 845.89,
+      "end": 846.212,
+      "score": 0.24
+    },
+    {
+      "word": "we",
+      "start": 846.233,
+      "end": 846.273,
+      "score": 0.494
+    },
+    {
+      "word": "did",
+      "start": 847.361,
+      "end": 847.522,
+      "score": 0.466
+    },
+    {
+      "word": "that.",
+      "start": 847.562,
+      "end": 847.804,
+      "score": 0.803
+    },
+    {
+      "word": "All",
+      "start": 849.577,
+      "end": 849.638,
+      "score": 0.003
+    },
+    {
+      "word": "right.",
+      "start": 849.658,
+      "end": 849.859,
+      "score": 0.287
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.808,
+    "Neutral": 0.641,
+    "Bad": 0.441
+  }
+}
