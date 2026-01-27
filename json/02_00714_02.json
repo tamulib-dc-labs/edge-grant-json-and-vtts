@@ -1,0 +1,1623 @@
+{
+  "segments": [
+    {
+      "start": 2.022,
+      "end": 6.227,
+      "text": " is not a degree that is very narrow in scope that he can only work in one industry.",
+      "words": [
+        {
+          "word": "is",
+          "start": 2.022,
+          "end": 2.082,
+          "score": 0.688
+        },
+        {
+          "word": "not",
+          "start": 2.162,
+          "end": 2.362,
+          "score": 0.958
+        },
+        {
+          "word": "a",
+          "start": 2.402,
+          "end": 2.422,
+          "score": 0.791
+        },
+        {
+          "word": "degree",
+          "start": 2.483,
+          "end": 2.903,
+          "score": 0.87
+        },
+        {
+          "word": "that",
+          "start": 3.183,
+          "end": 3.303,
+          "score": 0.906
+        },
+        {
+          "word": "is",
+          "start": 3.363,
+          "end": 3.444,
+          "score": 0.812
+        },
+        {
+          "word": "very",
+          "start": 3.504,
+          "end": 3.704,
+          "score": 0.878
+        },
+        {
+          "word": "narrow",
+          "start": 3.804,
+          "end": 4.104,
+          "score": 0.837
+        },
+        {
+          "word": "in",
+          "start": 4.124,
+          "end": 4.224,
+          "score": 0.75
+        },
+        {
+          "word": "scope",
+          "start": 4.264,
+          "end": 4.565,
+          "score": 0.912
+        },
+        {
+          "word": "that",
+          "start": 4.605,
+          "end": 4.705,
+          "score": 0.862
+        },
+        {
+          "word": "he",
+          "start": 4.725,
+          "end": 4.805,
+          "score": 0.695
+        },
+        {
+          "word": "can",
+          "start": 4.825,
+          "end": 4.945,
+          "score": 0.919
+        },
+        {
+          "word": "only",
+          "start": 5.025,
+          "end": 5.206,
+          "score": 0.944
+        },
+        {
+          "word": "work",
+          "start": 5.286,
+          "end": 5.466,
+          "score": 0.856
+        },
+        {
+          "word": "in",
+          "start": 5.486,
+          "end": 5.546,
+          "score": 0.811
+        },
+        {
+          "word": "one",
+          "start": 5.646,
+          "end": 5.746,
+          "score": 0.953
+        },
+        {
+          "word": "industry.",
+          "start": 5.826,
+          "end": 6.227,
+          "score": 0.857
+        }
+      ]
+    },
+    {
+      "start": 6.327,
+      "end": 14.856,
+      "text": "I think there is always going to be a need for drilling wells and producing fluid from wells.",
+      "words": [
+        {
+          "word": "I",
+          "start": 6.327,
+          "end": 6.407,
+          "score": 0.98
+        },
+        {
+          "word": "think",
+          "start": 6.447,
+          "end": 6.667,
+          "score": 0.911
+        },
+        {
+          "word": "there",
+          "start": 6.947,
+          "end": 7.128,
+          "score": 0.866
+        },
+        {
+          "word": "is",
+          "start": 7.188,
+          "end": 7.248,
+          "score": 0.6
+        },
+        {
+          "word": "always",
+          "start": 7.468,
+          "end": 7.848,
+          "score": 0.779
+        },
+        {
+          "word": "going",
+          "start": 7.909,
+          "end": 8.129,
+          "score": 0.897
+        },
+        {
+          "word": "to",
+          "start": 8.189,
+          "end": 8.229,
+          "score": 0.954
+        },
+        {
+          "word": "be",
+          "start": 8.329,
+          "end": 8.529,
+          "score": 0.966
+        },
+        {
+          "word": "a",
+          "start": 9.19,
+          "end": 9.23,
+          "score": 0.762
+        },
+        {
+          "word": "need",
+          "start": 9.29,
+          "end": 9.65,
+          "score": 0.954
+        },
+        {
+          "word": "for",
+          "start": 9.751,
+          "end": 10.111,
+          "score": 0.854
+        },
+        {
+          "word": "drilling",
+          "start": 10.692,
+          "end": 10.992,
+          "score": 0.754
+        },
+        {
+          "word": "wells",
+          "start": 11.052,
+          "end": 11.513,
+          "score": 0.846
+        },
+        {
+          "word": "and",
+          "start": 12.253,
+          "end": 12.353,
+          "score": 0.483
+        },
+        {
+          "word": "producing",
+          "start": 12.373,
+          "end": 12.834,
+          "score": 0.94
+        },
+        {
+          "word": "fluid",
+          "start": 12.914,
+          "end": 13.274,
+          "score": 0.829
+        },
+        {
+          "word": "from",
+          "start": 13.315,
+          "end": 13.555,
+          "score": 0.933
+        },
+        {
+          "word": "wells.",
+          "start": 13.595,
+          "end": 14.856,
+          "score": 0.91
+        }
+      ]
+    },
+    {
+      "start": 14.876,
+      "end": 24.587,
+      "text": "And so the education that the students that we're calling petroleum engineer today get is going to be something that they'll be able to use for their entire lifetime.",
+      "words": [
+        {
+          "word": "And",
+          "start": 14.876,
+          "end": 14.956,
+          "score": 0.948
+        },
+        {
+          "word": "so",
+          "start": 15.036,
+          "end": 15.217,
+          "score": 0.948
+        },
+        {
+          "word": "the",
+          "start": 15.257,
+          "end": 15.437,
+          "score": 0.587
+        },
+        {
+          "word": "education",
+          "start": 15.537,
+          "end": 16.158,
+          "score": 0.888
+        },
+        {
+          "word": "that",
+          "start": 16.198,
+          "end": 16.298,
+          "score": 0.367
+        },
+        {
+          "word": "the",
+          "start": 17.699,
+          "end": 17.96,
+          "score": 0.8
+        },
+        {
+          "word": "students",
+          "start": 18.0,
+          "end": 18.34,
+          "score": 0.815
+        },
+        {
+          "word": "that",
+          "start": 18.38,
+          "end": 18.48,
+          "score": 0.971
+        },
+        {
+          "word": "we're",
+          "start": 18.52,
+          "end": 18.64,
+          "score": 0.771
+        },
+        {
+          "word": "calling",
+          "start": 18.7,
+          "end": 19.021,
+          "score": 0.938
+        },
+        {
+          "word": "petroleum",
+          "start": 19.081,
+          "end": 19.521,
+          "score": 0.664
+        },
+        {
+          "word": "engineer",
+          "start": 19.561,
+          "end": 20.002,
+          "score": 0.751
+        },
+        {
+          "word": "today",
+          "start": 20.022,
+          "end": 20.402,
+          "score": 0.628
+        },
+        {
+          "word": "get",
+          "start": 20.502,
+          "end": 20.823,
+          "score": 0.936
+        },
+        {
+          "word": "is",
+          "start": 21.023,
+          "end": 21.083,
+          "score": 0.74
+        },
+        {
+          "word": "going",
+          "start": 21.143,
+          "end": 21.243,
+          "score": 0.054
+        },
+        {
+          "word": "to",
+          "start": 21.263,
+          "end": 21.303,
+          "score": 0.308
+        },
+        {
+          "word": "be",
+          "start": 21.323,
+          "end": 21.464,
+          "score": 0.897
+        },
+        {
+          "word": "something",
+          "start": 21.504,
+          "end": 21.824,
+          "score": 0.826
+        },
+        {
+          "word": "that",
+          "start": 21.864,
+          "end": 21.944,
+          "score": 0.629
+        },
+        {
+          "word": "they'll",
+          "start": 21.984,
+          "end": 22.204,
+          "score": 0.34
+        },
+        {
+          "word": "be",
+          "start": 22.224,
+          "end": 22.325,
+          "score": 0.792
+        },
+        {
+          "word": "able",
+          "start": 22.625,
+          "end": 22.705,
+          "score": 0.017
+        },
+        {
+          "word": "to",
+          "start": 22.725,
+          "end": 22.765,
+          "score": 0.001
+        },
+        {
+          "word": "use",
+          "start": 22.785,
+          "end": 22.945,
+          "score": 0.757
+        },
+        {
+          "word": "for",
+          "start": 22.985,
+          "end": 23.105,
+          "score": 0.975
+        },
+        {
+          "word": "their",
+          "start": 23.145,
+          "end": 23.306,
+          "score": 0.964
+        },
+        {
+          "word": "entire",
+          "start": 23.366,
+          "end": 23.686,
+          "score": 0.972
+        },
+        {
+          "word": "lifetime.",
+          "start": 23.746,
+          "end": 24.587,
+          "score": 0.576
+        }
+      ]
+    },
+    {
+      "start": 25.765,
+      "end": 29.27,
+      "text": " And there is some question I've had a lot of students ask.",
+      "words": [
+        {
+          "word": "And",
+          "start": 25.765,
+          "end": 25.925,
+          "score": 0.849
+        },
+        {
+          "word": "there",
+          "start": 25.945,
+          "end": 26.085,
+          "score": 0.71
+        },
+        {
+          "word": "is",
+          "start": 26.166,
+          "end": 26.246,
+          "score": 0.423
+        },
+        {
+          "word": "some",
+          "start": 26.326,
+          "end": 26.546,
+          "score": 0.877
+        },
+        {
+          "word": "question",
+          "start": 27.207,
+          "end": 27.568,
+          "score": 0.797
+        },
+        {
+          "word": "I've",
+          "start": 27.608,
+          "end": 27.728,
+          "score": 0.376
+        },
+        {
+          "word": "had",
+          "start": 27.748,
+          "end": 28.028,
+          "score": 0.68
+        },
+        {
+          "word": "a",
+          "start": 28.149,
+          "end": 28.189,
+          "score": 0.808
+        },
+        {
+          "word": "lot",
+          "start": 28.249,
+          "end": 28.409,
+          "score": 0.884
+        },
+        {
+          "word": "of",
+          "start": 28.449,
+          "end": 28.489,
+          "score": 0.73
+        },
+        {
+          "word": "students",
+          "start": 28.509,
+          "end": 28.81,
+          "score": 0.452
+        },
+        {
+          "word": "ask.",
+          "start": 28.89,
+          "end": 29.27,
+          "score": 0.706
+        }
+      ]
+    },
+    {
+      "start": 29.29,
+      "end": 34.158,
+      "text": "Am I getting into a field that five years from now is going to be outdated like a railroad engineer?",
+      "words": [
+        {
+          "word": "Am",
+          "start": 29.29,
+          "end": 29.33,
+          "score": 0.45
+        },
+        {
+          "word": "I",
+          "start": 29.35,
+          "end": 29.43,
+          "score": 0.965
+        },
+        {
+          "word": "getting",
+          "start": 29.471,
+          "end": 29.671,
+          "score": 0.919
+        },
+        {
+          "word": "into",
+          "start": 29.731,
+          "end": 29.951,
+          "score": 0.909
+        },
+        {
+          "word": "a",
+          "start": 29.991,
+          "end": 30.011,
+          "score": 0.181
+        },
+        {
+          "word": "field",
+          "start": 30.111,
+          "end": 30.452,
+          "score": 0.667
+        },
+        {
+          "word": "that",
+          "start": 30.492,
+          "end": 30.612,
+          "score": 0.782
+        },
+        {
+          "word": "five",
+          "start": 31.193,
+          "end": 31.393,
+          "score": 0.836
+        },
+        {
+          "word": "years",
+          "start": 31.453,
+          "end": 31.634,
+          "score": 0.945
+        },
+        {
+          "word": "from",
+          "start": 31.674,
+          "end": 31.774,
+          "score": 0.612
+        },
+        {
+          "word": "now",
+          "start": 31.814,
+          "end": 31.914,
+          "score": 0.44
+        },
+        {
+          "word": "is",
+          "start": 31.934,
+          "end": 31.994,
+          "score": 0.644
+        },
+        {
+          "word": "going",
+          "start": 32.034,
+          "end": 32.135,
+          "score": 0.235
+        },
+        {
+          "word": "to",
+          "start": 32.155,
+          "end": 32.195,
+          "score": 0.74
+        },
+        {
+          "word": "be",
+          "start": 32.215,
+          "end": 32.355,
+          "score": 0.61
+        },
+        {
+          "word": "outdated",
+          "start": 32.375,
+          "end": 32.836,
+          "score": 0.58
+        },
+        {
+          "word": "like",
+          "start": 32.876,
+          "end": 33.116,
+          "score": 0.614
+        },
+        {
+          "word": "a",
+          "start": 33.196,
+          "end": 33.236,
+          "score": 0.472
+        },
+        {
+          "word": "railroad",
+          "start": 33.256,
+          "end": 33.957,
+          "score": 0.31
+        },
+        {
+          "word": "engineer?",
+          "start": 33.977,
+          "end": 34.158,
+          "score": 0.118
+        }
+      ]
+    },
+    {
+      "start": 34.438,
+      "end": 35.62,
+      "text": "Well, the answer to that is no.",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 34.438,
+          "end": 34.558,
+          "score": 0.159
+        },
+        {
+          "word": "the",
+          "start": 34.578,
+          "end": 34.658,
+          "score": 0.033
+        },
+        {
+          "word": "answer",
+          "start": 34.678,
+          "end": 34.798,
+          "score": 0.026
+        },
+        {
+          "word": "to",
+          "start": 34.819,
+          "end": 34.919,
+          "score": 0.883
+        },
+        {
+          "word": "that",
+          "start": 34.959,
+          "end": 35.079,
+          "score": 0.72
+        },
+        {
+          "word": "is",
+          "start": 35.139,
+          "end": 35.239,
+          "score": 0.854
+        },
+        {
+          "word": "no.",
+          "start": 35.339,
+          "end": 35.62,
+          "score": 0.944
+        }
+      ]
+    },
+    {
+      "start": 41.168,
+      "end": 43.031,
+      "text": "Is there any other comments you need to make?",
+      "words": [
+        {
+          "word": "Is",
+          "start": 41.168,
+          "end": 41.208,
+          "score": 0.01
+        },
+        {
+          "word": "there",
+          "start": 41.228,
+          "end": 41.388,
+          "score": 0.487
+        },
+        {
+          "word": "any",
+          "start": 41.448,
+          "end": 41.509,
+          "score": 0.015
+        },
+        {
+          "word": "other",
+          "start": 41.529,
+          "end": 41.629,
+          "score": 0.309
+        },
+        {
+          "word": "comments",
+          "start": 41.689,
+          "end": 42.19,
+          "score": 0.378
+        },
+        {
+          "word": "you",
+          "start": 42.21,
+          "end": 42.27,
+          "score": 0.203
+        },
+        {
+          "word": "need",
+          "start": 42.57,
+          "end": 42.851,
+          "score": 0.342
+        },
+        {
+          "word": "to",
+          "start": 42.871,
+          "end": 42.911,
+          "score": 0.002
+        },
+        {
+          "word": "make?",
+          "start": 42.931,
+          "end": 43.031,
+          "score": 0.014
+        }
+      ]
+    },
+    {
+      "start": 43.051,
+      "end": 45.014,
+      "text": "Oh, I think that's about it.",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 43.051,
+          "end": 43.251,
+          "score": 0.728
+        },
+        {
+          "word": "I",
+          "start": 43.291,
+          "end": 43.311,
+          "score": 0.002
+        },
+        {
+          "word": "think",
+          "start": 43.331,
+          "end": 43.431,
+          "score": 0.215
+        },
+        {
+          "word": "that's",
+          "start": 43.491,
+          "end": 43.752,
+          "score": 0.347
+        },
+        {
+          "word": "about",
+          "start": 43.772,
+          "end": 44.894,
+          "score": 0.698
+        },
+        {
+          "word": "it.",
+          "start": 44.954,
+          "end": 45.014,
+          "score": 0.096
+        }
+      ]
+    },
+    {
+      "start": 45.034,
+      "end": 47.217,
+      "text": "I appreciate you taking the time to talk with me.",
+      "words": [
+        {
+          "word": "I",
+          "start": 45.034,
+          "end": 45.054,
+          "score": 0.174
+        },
+        {
+          "word": "appreciate",
+          "start": 45.074,
+          "end": 45.514,
+          "score": 0.423
+        },
+        {
+          "word": "you",
+          "start": 45.535,
+          "end": 45.595,
+          "score": 0.245
+        },
+        {
+          "word": "taking",
+          "start": 45.635,
+          "end": 45.915,
+          "score": 0.572
+        },
+        {
+          "word": "the",
+          "start": 45.955,
+          "end": 46.095,
+          "score": 0.282
+        },
+        {
+          "word": "time",
+          "start": 46.115,
+          "end": 46.196,
+          "score": 0.237
+        },
+        {
+          "word": "to",
+          "start": 46.276,
+          "end": 46.436,
+          "score": 0.492
+        },
+        {
+          "word": "talk",
+          "start": 46.456,
+          "end": 46.536,
+          "score": 0.125
+        },
+        {
+          "word": "with",
+          "start": 46.596,
+          "end": 47.137,
+          "score": 0.333
+        },
+        {
+          "word": "me.",
+          "start": 47.157,
+          "end": 47.217,
+          "score": 0.333
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "is",
+      "start": 2.022,
+      "end": 2.082,
+      "score": 0.688
+    },
+    {
+      "word": "not",
+      "start": 2.162,
+      "end": 2.362,
+      "score": 0.958
+    },
+    {
+      "word": "a",
+      "start": 2.402,
+      "end": 2.422,
+      "score": 0.791
+    },
+    {
+      "word": "degree",
+      "start": 2.483,
+      "end": 2.903,
+      "score": 0.87
+    },
+    {
+      "word": "that",
+      "start": 3.183,
+      "end": 3.303,
+      "score": 0.906
+    },
+    {
+      "word": "is",
+      "start": 3.363,
+      "end": 3.444,
+      "score": 0.812
+    },
+    {
+      "word": "very",
+      "start": 3.504,
+      "end": 3.704,
+      "score": 0.878
+    },
+    {
+      "word": "narrow",
+      "start": 3.804,
+      "end": 4.104,
+      "score": 0.837
+    },
+    {
+      "word": "in",
+      "start": 4.124,
+      "end": 4.224,
+      "score": 0.75
+    },
+    {
+      "word": "scope",
+      "start": 4.264,
+      "end": 4.565,
+      "score": 0.912
+    },
+    {
+      "word": "that",
+      "start": 4.605,
+      "end": 4.705,
+      "score": 0.862
+    },
+    {
+      "word": "he",
+      "start": 4.725,
+      "end": 4.805,
+      "score": 0.695
+    },
+    {
+      "word": "can",
+      "start": 4.825,
+      "end": 4.945,
+      "score": 0.919
+    },
+    {
+      "word": "only",
+      "start": 5.025,
+      "end": 5.206,
+      "score": 0.944
+    },
+    {
+      "word": "work",
+      "start": 5.286,
+      "end": 5.466,
+      "score": 0.856
+    },
+    {
+      "word": "in",
+      "start": 5.486,
+      "end": 5.546,
+      "score": 0.811
+    },
+    {
+      "word": "one",
+      "start": 5.646,
+      "end": 5.746,
+      "score": 0.953
+    },
+    {
+      "word": "industry.",
+      "start": 5.826,
+      "end": 6.227,
+      "score": 0.857
+    },
+    {
+      "word": "I",
+      "start": 6.327,
+      "end": 6.407,
+      "score": 0.98
+    },
+    {
+      "word": "think",
+      "start": 6.447,
+      "end": 6.667,
+      "score": 0.911
+    },
+    {
+      "word": "there",
+      "start": 6.947,
+      "end": 7.128,
+      "score": 0.866
+    },
+    {
+      "word": "is",
+      "start": 7.188,
+      "end": 7.248,
+      "score": 0.6
+    },
+    {
+      "word": "always",
+      "start": 7.468,
+      "end": 7.848,
+      "score": 0.779
+    },
+    {
+      "word": "going",
+      "start": 7.909,
+      "end": 8.129,
+      "score": 0.897
+    },
+    {
+      "word": "to",
+      "start": 8.189,
+      "end": 8.229,
+      "score": 0.954
+    },
+    {
+      "word": "be",
+      "start": 8.329,
+      "end": 8.529,
+      "score": 0.966
+    },
+    {
+      "word": "a",
+      "start": 9.19,
+      "end": 9.23,
+      "score": 0.762
+    },
+    {
+      "word": "need",
+      "start": 9.29,
+      "end": 9.65,
+      "score": 0.954
+    },
+    {
+      "word": "for",
+      "start": 9.751,
+      "end": 10.111,
+      "score": 0.854
+    },
+    {
+      "word": "drilling",
+      "start": 10.692,
+      "end": 10.992,
+      "score": 0.754
+    },
+    {
+      "word": "wells",
+      "start": 11.052,
+      "end": 11.513,
+      "score": 0.846
+    },
+    {
+      "word": "and",
+      "start": 12.253,
+      "end": 12.353,
+      "score": 0.483
+    },
+    {
+      "word": "producing",
+      "start": 12.373,
+      "end": 12.834,
+      "score": 0.94
+    },
+    {
+      "word": "fluid",
+      "start": 12.914,
+      "end": 13.274,
+      "score": 0.829
+    },
+    {
+      "word": "from",
+      "start": 13.315,
+      "end": 13.555,
+      "score": 0.933
+    },
+    {
+      "word": "wells.",
+      "start": 13.595,
+      "end": 14.856,
+      "score": 0.91
+    },
+    {
+      "word": "And",
+      "start": 14.876,
+      "end": 14.956,
+      "score": 0.948
+    },
+    {
+      "word": "so",
+      "start": 15.036,
+      "end": 15.217,
+      "score": 0.948
+    },
+    {
+      "word": "the",
+      "start": 15.257,
+      "end": 15.437,
+      "score": 0.587
+    },
+    {
+      "word": "education",
+      "start": 15.537,
+      "end": 16.158,
+      "score": 0.888
+    },
+    {
+      "word": "that",
+      "start": 16.198,
+      "end": 16.298,
+      "score": 0.367
+    },
+    {
+      "word": "the",
+      "start": 17.699,
+      "end": 17.96,
+      "score": 0.8
+    },
+    {
+      "word": "students",
+      "start": 18.0,
+      "end": 18.34,
+      "score": 0.815
+    },
+    {
+      "word": "that",
+      "start": 18.38,
+      "end": 18.48,
+      "score": 0.971
+    },
+    {
+      "word": "we're",
+      "start": 18.52,
+      "end": 18.64,
+      "score": 0.771
+    },
+    {
+      "word": "calling",
+      "start": 18.7,
+      "end": 19.021,
+      "score": 0.938
+    },
+    {
+      "word": "petroleum",
+      "start": 19.081,
+      "end": 19.521,
+      "score": 0.664
+    },
+    {
+      "word": "engineer",
+      "start": 19.561,
+      "end": 20.002,
+      "score": 0.751
+    },
+    {
+      "word": "today",
+      "start": 20.022,
+      "end": 20.402,
+      "score": 0.628
+    },
+    {
+      "word": "get",
+      "start": 20.502,
+      "end": 20.823,
+      "score": 0.936
+    },
+    {
+      "word": "is",
+      "start": 21.023,
+      "end": 21.083,
+      "score": 0.74
+    },
+    {
+      "word": "going",
+      "start": 21.143,
+      "end": 21.243,
+      "score": 0.054
+    },
+    {
+      "word": "to",
+      "start": 21.263,
+      "end": 21.303,
+      "score": 0.308
+    },
+    {
+      "word": "be",
+      "start": 21.323,
+      "end": 21.464,
+      "score": 0.897
+    },
+    {
+      "word": "something",
+      "start": 21.504,
+      "end": 21.824,
+      "score": 0.826
+    },
+    {
+      "word": "that",
+      "start": 21.864,
+      "end": 21.944,
+      "score": 0.629
+    },
+    {
+      "word": "they'll",
+      "start": 21.984,
+      "end": 22.204,
+      "score": 0.34
+    },
+    {
+      "word": "be",
+      "start": 22.224,
+      "end": 22.325,
+      "score": 0.792
+    },
+    {
+      "word": "able",
+      "start": 22.625,
+      "end": 22.705,
+      "score": 0.017
+    },
+    {
+      "word": "to",
+      "start": 22.725,
+      "end": 22.765,
+      "score": 0.001
+    },
+    {
+      "word": "use",
+      "start": 22.785,
+      "end": 22.945,
+      "score": 0.757
+    },
+    {
+      "word": "for",
+      "start": 22.985,
+      "end": 23.105,
+      "score": 0.975
+    },
+    {
+      "word": "their",
+      "start": 23.145,
+      "end": 23.306,
+      "score": 0.964
+    },
+    {
+      "word": "entire",
+      "start": 23.366,
+      "end": 23.686,
+      "score": 0.972
+    },
+    {
+      "word": "lifetime.",
+      "start": 23.746,
+      "end": 24.587,
+      "score": 0.576
+    },
+    {
+      "word": "And",
+      "start": 25.765,
+      "end": 25.925,
+      "score": 0.849
+    },
+    {
+      "word": "there",
+      "start": 25.945,
+      "end": 26.085,
+      "score": 0.71
+    },
+    {
+      "word": "is",
+      "start": 26.166,
+      "end": 26.246,
+      "score": 0.423
+    },
+    {
+      "word": "some",
+      "start": 26.326,
+      "end": 26.546,
+      "score": 0.877
+    },
+    {
+      "word": "question",
+      "start": 27.207,
+      "end": 27.568,
+      "score": 0.797
+    },
+    {
+      "word": "I've",
+      "start": 27.608,
+      "end": 27.728,
+      "score": 0.376
+    },
+    {
+      "word": "had",
+      "start": 27.748,
+      "end": 28.028,
+      "score": 0.68
+    },
+    {
+      "word": "a",
+      "start": 28.149,
+      "end": 28.189,
+      "score": 0.808
+    },
+    {
+      "word": "lot",
+      "start": 28.249,
+      "end": 28.409,
+      "score": 0.884
+    },
+    {
+      "word": "of",
+      "start": 28.449,
+      "end": 28.489,
+      "score": 0.73
+    },
+    {
+      "word": "students",
+      "start": 28.509,
+      "end": 28.81,
+      "score": 0.452
+    },
+    {
+      "word": "ask.",
+      "start": 28.89,
+      "end": 29.27,
+      "score": 0.706
+    },
+    {
+      "word": "Am",
+      "start": 29.29,
+      "end": 29.33,
+      "score": 0.45
+    },
+    {
+      "word": "I",
+      "start": 29.35,
+      "end": 29.43,
+      "score": 0.965
+    },
+    {
+      "word": "getting",
+      "start": 29.471,
+      "end": 29.671,
+      "score": 0.919
+    },
+    {
+      "word": "into",
+      "start": 29.731,
+      "end": 29.951,
+      "score": 0.909
+    },
+    {
+      "word": "a",
+      "start": 29.991,
+      "end": 30.011,
+      "score": 0.181
+    },
+    {
+      "word": "field",
+      "start": 30.111,
+      "end": 30.452,
+      "score": 0.667
+    },
+    {
+      "word": "that",
+      "start": 30.492,
+      "end": 30.612,
+      "score": 0.782
+    },
+    {
+      "word": "five",
+      "start": 31.193,
+      "end": 31.393,
+      "score": 0.836
+    },
+    {
+      "word": "years",
+      "start": 31.453,
+      "end": 31.634,
+      "score": 0.945
+    },
+    {
+      "word": "from",
+      "start": 31.674,
+      "end": 31.774,
+      "score": 0.612
+    },
+    {
+      "word": "now",
+      "start": 31.814,
+      "end": 31.914,
+      "score": 0.44
+    },
+    {
+      "word": "is",
+      "start": 31.934,
+      "end": 31.994,
+      "score": 0.644
+    },
+    {
+      "word": "going",
+      "start": 32.034,
+      "end": 32.135,
+      "score": 0.235
+    },
+    {
+      "word": "to",
+      "start": 32.155,
+      "end": 32.195,
+      "score": 0.74
+    },
+    {
+      "word": "be",
+      "start": 32.215,
+      "end": 32.355,
+      "score": 0.61
+    },
+    {
+      "word": "outdated",
+      "start": 32.375,
+      "end": 32.836,
+      "score": 0.58
+    },
+    {
+      "word": "like",
+      "start": 32.876,
+      "end": 33.116,
+      "score": 0.614
+    },
+    {
+      "word": "a",
+      "start": 33.196,
+      "end": 33.236,
+      "score": 0.472
+    },
+    {
+      "word": "railroad",
+      "start": 33.256,
+      "end": 33.957,
+      "score": 0.31
+    },
+    {
+      "word": "engineer?",
+      "start": 33.977,
+      "end": 34.158,
+      "score": 0.118
+    },
+    {
+      "word": "Well,",
+      "start": 34.438,
+      "end": 34.558,
+      "score": 0.159
+    },
+    {
+      "word": "the",
+      "start": 34.578,
+      "end": 34.658,
+      "score": 0.033
+    },
+    {
+      "word": "answer",
+      "start": 34.678,
+      "end": 34.798,
+      "score": 0.026
+    },
+    {
+      "word": "to",
+      "start": 34.819,
+      "end": 34.919,
+      "score": 0.883
+    },
+    {
+      "word": "that",
+      "start": 34.959,
+      "end": 35.079,
+      "score": 0.72
+    },
+    {
+      "word": "is",
+      "start": 35.139,
+      "end": 35.239,
+      "score": 0.854
+    },
+    {
+      "word": "no.",
+      "start": 35.339,
+      "end": 35.62,
+      "score": 0.944
+    },
+    {
+      "word": "Is",
+      "start": 41.168,
+      "end": 41.208,
+      "score": 0.01
+    },
+    {
+      "word": "there",
+      "start": 41.228,
+      "end": 41.388,
+      "score": 0.487
+    },
+    {
+      "word": "any",
+      "start": 41.448,
+      "end": 41.509,
+      "score": 0.015
+    },
+    {
+      "word": "other",
+      "start": 41.529,
+      "end": 41.629,
+      "score": 0.309
+    },
+    {
+      "word": "comments",
+      "start": 41.689,
+      "end": 42.19,
+      "score": 0.378
+    },
+    {
+      "word": "you",
+      "start": 42.21,
+      "end": 42.27,
+      "score": 0.203
+    },
+    {
+      "word": "need",
+      "start": 42.57,
+      "end": 42.851,
+      "score": 0.342
+    },
+    {
+      "word": "to",
+      "start": 42.871,
+      "end": 42.911,
+      "score": 0.002
+    },
+    {
+      "word": "make?",
+      "start": 42.931,
+      "end": 43.031,
+      "score": 0.014
+    },
+    {
+      "word": "Oh,",
+      "start": 43.051,
+      "end": 43.251,
+      "score": 0.728
+    },
+    {
+      "word": "I",
+      "start": 43.291,
+      "end": 43.311,
+      "score": 0.002
+    },
+    {
+      "word": "think",
+      "start": 43.331,
+      "end": 43.431,
+      "score": 0.215
+    },
+    {
+      "word": "that's",
+      "start": 43.491,
+      "end": 43.752,
+      "score": 0.347
+    },
+    {
+      "word": "about",
+      "start": 43.772,
+      "end": 44.894,
+      "score": 0.698
+    },
+    {
+      "word": "it.",
+      "start": 44.954,
+      "end": 45.014,
+      "score": 0.096
+    },
+    {
+      "word": "I",
+      "start": 45.034,
+      "end": 45.054,
+      "score": 0.174
+    },
+    {
+      "word": "appreciate",
+      "start": 45.074,
+      "end": 45.514,
+      "score": 0.423
+    },
+    {
+      "word": "you",
+      "start": 45.535,
+      "end": 45.595,
+      "score": 0.245
+    },
+    {
+      "word": "taking",
+      "start": 45.635,
+      "end": 45.915,
+      "score": 0.572
+    },
+    {
+      "word": "the",
+      "start": 45.955,
+      "end": 46.095,
+      "score": 0.282
+    },
+    {
+      "word": "time",
+      "start": 46.115,
+      "end": 46.196,
+      "score": 0.237
+    },
+    {
+      "word": "to",
+      "start": 46.276,
+      "end": 46.436,
+      "score": 0.492
+    },
+    {
+      "word": "talk",
+      "start": 46.456,
+      "end": 46.536,
+      "score": 0.125
+    },
+    {
+      "word": "with",
+      "start": 46.596,
+      "end": 47.137,
+      "score": 0.333
+    },
+    {
+      "word": "me.",
+      "start": 47.157,
+      "end": 47.217,
+      "score": 0.333
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.878,
+    "Neutral": 0.74,
+    "Bad": 0.378
+  }
+}

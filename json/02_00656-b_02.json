@@ -1,0 +1,481 @@
+{
+  "segments": [
+    {
+      "start": 2.545,
+      "end": 3.909,
+      "text": " Recording, 1, 2, 3, recording.",
+      "words": [
+        {
+          "word": "Recording,",
+          "start": 2.545,
+          "end": 3.006,
+          "score": 0.793
+        },
+        {
+          "word": "1,",
+          "start": 3.026,
+          "end": 3.127,
+          "score": 0.591
+        },
+        {
+          "word": "2,",
+          "start": 3.147,
+          "end": 3.207,
+          "score": 0.632
+        },
+        {
+          "word": "3,",
+          "start": 3.227,
+          "end": 3.327,
+          "score": 0.585
+        },
+        {
+          "word": "recording.",
+          "start": 3.468,
+          "end": 3.909,
+          "score": 0.776
+        }
+      ]
+    },
+    {
+      "start": 4.009,
+      "end": 5.293,
+      "text": "Recording, 1, 2, 3, recording.",
+      "words": [
+        {
+          "word": "Recording,",
+          "start": 4.009,
+          "end": 4.37,
+          "score": 0.82
+        },
+        {
+          "word": "1,",
+          "start": 4.39,
+          "end": 4.491,
+          "score": 0.582
+        },
+        {
+          "word": "2,",
+          "start": 4.511,
+          "end": 4.591,
+          "score": 0.652
+        },
+        {
+          "word": "3,",
+          "start": 4.611,
+          "end": 4.772,
+          "score": 0.612
+        },
+        {
+          "word": "recording.",
+          "start": 4.832,
+          "end": 5.293,
+          "score": 0.705
+        }
+      ]
+    },
+    {
+      "start": 5.373,
+      "end": 8.162,
+      "text": "Recording, 1, 2, 3, recording.",
+      "words": [
+        {
+          "word": "Recording,",
+          "start": 5.373,
+          "end": 5.674,
+          "score": 0.761
+        },
+        {
+          "word": "1,",
+          "start": 5.714,
+          "end": 5.775,
+          "score": 0.746
+        },
+        {
+          "word": "2,",
+          "start": 5.795,
+          "end": 5.835,
+          "score": 0.986
+        },
+        {
+          "word": "3,",
+          "start": 5.855,
+          "end": 6.376,
+          "score": 0.702
+        },
+        {
+          "word": "recording.",
+          "start": 7.179,
+          "end": 8.162,
+          "score": 0.711
+        }
+      ]
+    },
+    {
+      "start": 8.342,
+      "end": 10.709,
+      "text": "Recording, 1, 2, 3, recording.",
+      "words": [
+        {
+          "word": "Recording,",
+          "start": 8.342,
+          "end": 9.807,
+          "score": 0.863
+        },
+        {
+          "word": "1,",
+          "start": 9.827,
+          "end": 9.927,
+          "score": 0.586
+        },
+        {
+          "word": "2,",
+          "start": 9.947,
+          "end": 10.007,
+          "score": 0.631
+        },
+        {
+          "word": "3,",
+          "start": 10.027,
+          "end": 10.208,
+          "score": 0.695
+        },
+        {
+          "word": "recording.",
+          "start": 10.248,
+          "end": 10.709,
+          "score": 0.779
+        }
+      ]
+    },
+    {
+      "start": 11.452,
+      "end": 12.635,
+      "text": "Recording, 1, 2, 3, recording.",
+      "words": [
+        {
+          "word": "Recording,",
+          "start": 11.452,
+          "end": 11.692,
+          "score": 0.647
+        },
+        {
+          "word": "1,",
+          "start": 11.712,
+          "end": 11.752,
+          "score": 0.498
+        },
+        {
+          "word": "2,",
+          "start": 11.772,
+          "end": 11.833,
+          "score": 0.511
+        },
+        {
+          "word": "3,",
+          "start": 11.853,
+          "end": 12.134,
+          "score": 0.616
+        },
+        {
+          "word": "recording.",
+          "start": 12.194,
+          "end": 12.635,
+          "score": 0.792
+        }
+      ]
+    },
+    {
+      "start": 12.936,
+      "end": 14.2,
+      "text": "Recording, 1, 2, 3, recording.",
+      "words": [
+        {
+          "word": "Recording,",
+          "start": 12.936,
+          "end": 13.277,
+          "score": 0.779
+        },
+        {
+          "word": "1,",
+          "start": 13.297,
+          "end": 13.397,
+          "score": 0.596
+        },
+        {
+          "word": "2,",
+          "start": 13.417,
+          "end": 13.498,
+          "score": 0.682
+        },
+        {
+          "word": "3,",
+          "start": 13.518,
+          "end": 13.678,
+          "score": 0.652
+        },
+        {
+          "word": "recording.",
+          "start": 13.738,
+          "end": 14.2,
+          "score": 0.71
+        }
+      ]
+    },
+    {
+      "start": 14.26,
+      "end": 15.323,
+      "text": "Recording, 1, 2, 3, recording.",
+      "words": [
+        {
+          "word": "Recording,",
+          "start": 14.26,
+          "end": 14.581,
+          "score": 0.664
+        },
+        {
+          "word": "1,",
+          "start": 14.601,
+          "end": 14.661,
+          "score": 0.746
+        },
+        {
+          "word": "2,",
+          "start": 14.681,
+          "end": 14.721,
+          "score": 0.749
+        },
+        {
+          "word": "3,",
+          "start": 14.741,
+          "end": 14.781,
+          "score": 0.417
+        },
+        {
+          "word": "recording.",
+          "start": 14.802,
+          "end": 15.323,
+          "score": 0.251
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Recording,",
+      "start": 2.545,
+      "end": 3.006,
+      "score": 0.793
+    },
+    {
+      "word": "1,",
+      "start": 3.026,
+      "end": 3.127,
+      "score": 0.591
+    },
+    {
+      "word": "2,",
+      "start": 3.147,
+      "end": 3.207,
+      "score": 0.632
+    },
+    {
+      "word": "3,",
+      "start": 3.227,
+      "end": 3.327,
+      "score": 0.585
+    },
+    {
+      "word": "recording.",
+      "start": 3.468,
+      "end": 3.909,
+      "score": 0.776
+    },
+    {
+      "word": "Recording,",
+      "start": 4.009,
+      "end": 4.37,
+      "score": 0.82
+    },
+    {
+      "word": "1,",
+      "start": 4.39,
+      "end": 4.491,
+      "score": 0.582
+    },
+    {
+      "word": "2,",
+      "start": 4.511,
+      "end": 4.591,
+      "score": 0.652
+    },
+    {
+      "word": "3,",
+      "start": 4.611,
+      "end": 4.772,
+      "score": 0.612
+    },
+    {
+      "word": "recording.",
+      "start": 4.832,
+      "end": 5.293,
+      "score": 0.705
+    },
+    {
+      "word": "Recording,",
+      "start": 5.373,
+      "end": 5.674,
+      "score": 0.761
+    },
+    {
+      "word": "1,",
+      "start": 5.714,
+      "end": 5.775,
+      "score": 0.746
+    },
+    {
+      "word": "2,",
+      "start": 5.795,
+      "end": 5.835,
+      "score": 0.986
+    },
+    {
+      "word": "3,",
+      "start": 5.855,
+      "end": 6.376,
+      "score": 0.702
+    },
+    {
+      "word": "recording.",
+      "start": 7.179,
+      "end": 8.162,
+      "score": 0.711
+    },
+    {
+      "word": "Recording,",
+      "start": 8.342,
+      "end": 9.807,
+      "score": 0.863
+    },
+    {
+      "word": "1,",
+      "start": 9.827,
+      "end": 9.927,
+      "score": 0.586
+    },
+    {
+      "word": "2,",
+      "start": 9.947,
+      "end": 10.007,
+      "score": 0.631
+    },
+    {
+      "word": "3,",
+      "start": 10.027,
+      "end": 10.208,
+      "score": 0.695
+    },
+    {
+      "word": "recording.",
+      "start": 10.248,
+      "end": 10.709,
+      "score": 0.779
+    },
+    {
+      "word": "Recording,",
+      "start": 11.452,
+      "end": 11.692,
+      "score": 0.647
+    },
+    {
+      "word": "1,",
+      "start": 11.712,
+      "end": 11.752,
+      "score": 0.498
+    },
+    {
+      "word": "2,",
+      "start": 11.772,
+      "end": 11.833,
+      "score": 0.511
+    },
+    {
+      "word": "3,",
+      "start": 11.853,
+      "end": 12.134,
+      "score": 0.616
+    },
+    {
+      "word": "recording.",
+      "start": 12.194,
+      "end": 12.635,
+      "score": 0.792
+    },
+    {
+      "word": "Recording,",
+      "start": 12.936,
+      "end": 13.277,
+      "score": 0.779
+    },
+    {
+      "word": "1,",
+      "start": 13.297,
+      "end": 13.397,
+      "score": 0.596
+    },
+    {
+      "word": "2,",
+      "start": 13.417,
+      "end": 13.498,
+      "score": 0.682
+    },
+    {
+      "word": "3,",
+      "start": 13.518,
+      "end": 13.678,
+      "score": 0.652
+    },
+    {
+      "word": "recording.",
+      "start": 13.738,
+      "end": 14.2,
+      "score": 0.71
+    },
+    {
+      "word": "Recording,",
+      "start": 14.26,
+      "end": 14.581,
+      "score": 0.664
+    },
+    {
+      "word": "1,",
+      "start": 14.601,
+      "end": 14.661,
+      "score": 0.746
+    },
+    {
+      "word": "2,",
+      "start": 14.681,
+      "end": 14.721,
+      "score": 0.749
+    },
+    {
+      "word": "3,",
+      "start": 14.741,
+      "end": 14.781,
+      "score": 0.417
+    },
+    {
+      "word": "recording.",
+      "start": 14.802,
+      "end": 15.323,
+      "score": 0.251
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.761,
+    "Neutral": 0.682,
+    "Bad": 0.596
+  }
+}

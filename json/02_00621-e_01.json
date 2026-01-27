@@ -1,0 +1,3551 @@
+{
+  "segments": [
+    {
+      "start": 8.654,
+      "end": 13.939,
+      "text": " Okay, is it 15?",
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 8.654,
+          "end": 9.215,
+          "score": 0.482
+        },
+        {
+          "word": "is",
+          "start": 9.235,
+          "end": 9.395,
+          "score": 0.186
+        },
+        {
+          "word": "it",
+          "start": 9.415,
+          "end": 9.515,
+          "score": 0.767
+        },
+        {
+          "word": "15?",
+          "start": 13.859,
+          "end": 13.939,
+          "score": 0.626
+        }
+      ]
+    },
+    {
+      "start": 13.959,
+      "end": 22.568,
+      "text": "Okay, now, would you list the important events you think of in terms of organization that occur that change the nature of oceanography?",
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 13.959,
+          "end": 14.119,
+          "score": 0.56
+        },
+        {
+          "word": "now,",
+          "start": 14.139,
+          "end": 14.299,
+          "score": 0.833
+        },
+        {
+          "word": "would",
+          "start": 14.52,
+          "end": 14.68,
+          "score": 0.709
+        },
+        {
+          "word": "you",
+          "start": 14.72,
+          "end": 14.84,
+          "score": 0.98
+        },
+        {
+          "word": "list",
+          "start": 14.9,
+          "end": 15.14,
+          "score": 0.708
+        },
+        {
+          "word": "the",
+          "start": 15.18,
+          "end": 15.28,
+          "score": 0.552
+        },
+        {
+          "word": "important",
+          "start": 15.34,
+          "end": 15.781,
+          "score": 0.877
+        },
+        {
+          "word": "events",
+          "start": 15.821,
+          "end": 16.161,
+          "score": 0.763
+        },
+        {
+          "word": "you",
+          "start": 16.201,
+          "end": 16.321,
+          "score": 0.962
+        },
+        {
+          "word": "think",
+          "start": 16.361,
+          "end": 16.602,
+          "score": 0.848
+        },
+        {
+          "word": "of",
+          "start": 16.702,
+          "end": 16.762,
+          "score": 0.882
+        },
+        {
+          "word": "in",
+          "start": 16.842,
+          "end": 16.882,
+          "score": 0.992
+        },
+        {
+          "word": "terms",
+          "start": 16.942,
+          "end": 17.202,
+          "score": 0.977
+        },
+        {
+          "word": "of",
+          "start": 17.242,
+          "end": 17.282,
+          "score": 0.53
+        },
+        {
+          "word": "organization",
+          "start": 17.783,
+          "end": 18.444,
+          "score": 0.784
+        },
+        {
+          "word": "that",
+          "start": 18.484,
+          "end": 18.584,
+          "score": 0.863
+        },
+        {
+          "word": "occur",
+          "start": 18.664,
+          "end": 18.964,
+          "score": 0.904
+        },
+        {
+          "word": "that",
+          "start": 19.004,
+          "end": 19.104,
+          "score": 0.384
+        },
+        {
+          "word": "change",
+          "start": 19.164,
+          "end": 19.424,
+          "score": 0.879
+        },
+        {
+          "word": "the",
+          "start": 19.464,
+          "end": 19.545,
+          "score": 0.2
+        },
+        {
+          "word": "nature",
+          "start": 19.605,
+          "end": 19.845,
+          "score": 0.966
+        },
+        {
+          "word": "of",
+          "start": 19.865,
+          "end": 19.905,
+          "score": 0.988
+        },
+        {
+          "word": "oceanography?",
+          "start": 20.005,
+          "end": 22.568,
+          "score": 0.361
+        }
+      ]
+    },
+    {
+      "start": 22.588,
+      "end": 33.798,
+      "text": "Well, scientifically, from the scientific point of view, the first that I can, in my time, was the writing of the book The Oceans by Spherdrup, Johnson, and Fleming.",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 22.588,
+          "end": 22.688,
+          "score": 0.195
+        },
+        {
+          "word": "scientifically,",
+          "start": 22.708,
+          "end": 24.489,
+          "score": 0.555
+        },
+        {
+          "word": "from",
+          "start": 24.509,
+          "end": 24.63,
+          "score": 0.637
+        },
+        {
+          "word": "the",
+          "start": 24.67,
+          "end": 24.73,
+          "score": 0.938
+        },
+        {
+          "word": "scientific",
+          "start": 24.75,
+          "end": 25.19,
+          "score": 0.727
+        },
+        {
+          "word": "point",
+          "start": 25.25,
+          "end": 25.41,
+          "score": 0.809
+        },
+        {
+          "word": "of",
+          "start": 25.45,
+          "end": 25.49,
+          "score": 0.997
+        },
+        {
+          "word": "view,",
+          "start": 25.53,
+          "end": 25.671,
+          "score": 0.754
+        },
+        {
+          "word": "the",
+          "start": 25.731,
+          "end": 25.911,
+          "score": 0.7
+        },
+        {
+          "word": "first",
+          "start": 25.951,
+          "end": 26.231,
+          "score": 0.781
+        },
+        {
+          "word": "that",
+          "start": 26.972,
+          "end": 27.112,
+          "score": 0.907
+        },
+        {
+          "word": "I",
+          "start": 27.212,
+          "end": 27.292,
+          "score": 0.908
+        },
+        {
+          "word": "can,",
+          "start": 27.332,
+          "end": 27.873,
+          "score": 0.92
+        },
+        {
+          "word": "in",
+          "start": 27.893,
+          "end": 27.973,
+          "score": 0.924
+        },
+        {
+          "word": "my",
+          "start": 28.013,
+          "end": 28.213,
+          "score": 0.985
+        },
+        {
+          "word": "time,",
+          "start": 28.794,
+          "end": 29.094,
+          "score": 0.838
+        },
+        {
+          "word": "was",
+          "start": 29.114,
+          "end": 29.234,
+          "score": 0.989
+        },
+        {
+          "word": "the",
+          "start": 29.294,
+          "end": 29.374,
+          "score": 0.91
+        },
+        {
+          "word": "writing",
+          "start": 29.414,
+          "end": 29.734,
+          "score": 0.955
+        },
+        {
+          "word": "of",
+          "start": 30.375,
+          "end": 30.435,
+          "score": 0.995
+        },
+        {
+          "word": "the",
+          "start": 30.475,
+          "end": 30.575,
+          "score": 0.753
+        },
+        {
+          "word": "book",
+          "start": 30.655,
+          "end": 30.836,
+          "score": 0.993
+        },
+        {
+          "word": "The",
+          "start": 30.976,
+          "end": 31.056,
+          "score": 0.908
+        },
+        {
+          "word": "Oceans",
+          "start": 31.176,
+          "end": 31.496,
+          "score": 0.921
+        },
+        {
+          "word": "by",
+          "start": 31.556,
+          "end": 31.676,
+          "score": 0.836
+        },
+        {
+          "word": "Spherdrup,",
+          "start": 31.776,
+          "end": 32.817,
+          "score": 0.709
+        },
+        {
+          "word": "Johnson,",
+          "start": 32.837,
+          "end": 33.238,
+          "score": 0.814
+        },
+        {
+          "word": "and",
+          "start": 33.258,
+          "end": 33.358,
+          "score": 0.929
+        },
+        {
+          "word": "Fleming.",
+          "start": 33.398,
+          "end": 33.798,
+          "score": 0.919
+        }
+      ]
+    },
+    {
+      "start": 36.581,
+      "end": 38.543,
+      "text": "The second was due to his",
+      "words": [
+        {
+          "word": "The",
+          "start": 36.581,
+          "end": 36.681,
+          "score": 0.822
+        },
+        {
+          "word": "second",
+          "start": 36.721,
+          "end": 37.002,
+          "score": 0.826
+        },
+        {
+          "word": "was",
+          "start": 37.042,
+          "end": 37.222,
+          "score": 0.907
+        },
+        {
+          "word": "due",
+          "start": 37.742,
+          "end": 37.942,
+          "score": 0.766
+        },
+        {
+          "word": "to",
+          "start": 37.962,
+          "end": 38.023,
+          "score": 0.712
+        },
+        {
+          "word": "his",
+          "start": 38.063,
+          "end": 38.543,
+          "score": 0.912
+        }
+      ]
+    },
+    {
+      "start": 39.4,
+      "end": 63.079,
+      "text": " And Sproul's forethought, getting 15 and more picked young scientists trained who became head or leaders in practically every oceanographic institution in the country and was the nucleus on which the scientific development could be built.",
+      "words": [
+        {
+          "word": "And",
+          "start": 39.4,
+          "end": 39.6,
+          "score": 0.821
+        },
+        {
+          "word": "Sproul's",
+          "start": 39.66,
+          "end": 40.181,
+          "score": 0.69
+        },
+        {
+          "word": "forethought,",
+          "start": 41.744,
+          "end": 42.505,
+          "score": 0.785
+        },
+        {
+          "word": "getting",
+          "start": 43.286,
+          "end": 43.547,
+          "score": 0.967
+        },
+        {
+          "word": "15",
+          "start": 43.567,
+          "end": 43.607,
+          "score": 1.0
+        },
+        {
+          "word": "and",
+          "start": 44.929,
+          "end": 46.392,
+          "score": 0.913
+        },
+        {
+          "word": "more",
+          "start": 46.452,
+          "end": 46.712,
+          "score": 0.895
+        },
+        {
+          "word": "picked",
+          "start": 48.174,
+          "end": 48.415,
+          "score": 0.968
+        },
+        {
+          "word": "young",
+          "start": 48.916,
+          "end": 49.156,
+          "score": 0.898
+        },
+        {
+          "word": "scientists",
+          "start": 50.098,
+          "end": 50.659,
+          "score": 0.777
+        },
+        {
+          "word": "trained",
+          "start": 51.5,
+          "end": 51.841,
+          "score": 0.875
+        },
+        {
+          "word": "who",
+          "start": 52.361,
+          "end": 52.482,
+          "score": 0.969
+        },
+        {
+          "word": "became",
+          "start": 52.542,
+          "end": 52.902,
+          "score": 0.93
+        },
+        {
+          "word": "head",
+          "start": 52.922,
+          "end": 53.784,
+          "score": 0.632
+        },
+        {
+          "word": "or",
+          "start": 53.844,
+          "end": 54.966,
+          "score": 0.79
+        },
+        {
+          "word": "leaders",
+          "start": 55.026,
+          "end": 55.306,
+          "score": 0.848
+        },
+        {
+          "word": "in",
+          "start": 55.386,
+          "end": 55.446,
+          "score": 0.99
+        },
+        {
+          "word": "practically",
+          "start": 55.487,
+          "end": 55.927,
+          "score": 0.798
+        },
+        {
+          "word": "every",
+          "start": 55.967,
+          "end": 56.248,
+          "score": 0.876
+        },
+        {
+          "word": "oceanographic",
+          "start": 56.328,
+          "end": 56.929,
+          "score": 0.876
+        },
+        {
+          "word": "institution",
+          "start": 56.989,
+          "end": 57.51,
+          "score": 0.781
+        },
+        {
+          "word": "in",
+          "start": 57.57,
+          "end": 57.63,
+          "score": 0.912
+        },
+        {
+          "word": "the",
+          "start": 57.67,
+          "end": 57.73,
+          "score": 0.973
+        },
+        {
+          "word": "country",
+          "start": 57.79,
+          "end": 58.131,
+          "score": 0.824
+        },
+        {
+          "word": "and",
+          "start": 59.012,
+          "end": 59.112,
+          "score": 0.655
+        },
+        {
+          "word": "was",
+          "start": 59.173,
+          "end": 59.453,
+          "score": 0.978
+        },
+        {
+          "word": "the",
+          "start": 59.493,
+          "end": 59.633,
+          "score": 0.806
+        },
+        {
+          "word": "nucleus",
+          "start": 59.693,
+          "end": 60.134,
+          "score": 0.82
+        },
+        {
+          "word": "on",
+          "start": 60.575,
+          "end": 60.635,
+          "score": 0.998
+        },
+        {
+          "word": "which",
+          "start": 60.675,
+          "end": 60.795,
+          "score": 0.9
+        },
+        {
+          "word": "the",
+          "start": 60.815,
+          "end": 60.915,
+          "score": 0.756
+        },
+        {
+          "word": "scientific",
+          "start": 60.956,
+          "end": 61.456,
+          "score": 0.828
+        },
+        {
+          "word": "development",
+          "start": 61.476,
+          "end": 61.937,
+          "score": 0.807
+        },
+        {
+          "word": "could",
+          "start": 61.977,
+          "end": 62.117,
+          "score": 0.896
+        },
+        {
+          "word": "be",
+          "start": 62.158,
+          "end": 62.258,
+          "score": 0.949
+        },
+        {
+          "word": "built.",
+          "start": 62.318,
+          "end": 63.079,
+          "score": 0.757
+        }
+      ]
+    },
+    {
+      "start": 64.898,
+      "end": 74.773,
+      "text": " The third was the Office of Naval Research Organization for the purpose of supporting research in the government.",
+      "words": [
+        {
+          "word": "The",
+          "start": 64.898,
+          "end": 65.038,
+          "score": 0.689
+        },
+        {
+          "word": "third",
+          "start": 65.098,
+          "end": 65.359,
+          "score": 0.823
+        },
+        {
+          "word": "was",
+          "start": 65.96,
+          "end": 66.1,
+          "score": 0.981
+        },
+        {
+          "word": "the",
+          "start": 66.2,
+          "end": 66.3,
+          "score": 0.362
+        },
+        {
+          "word": "Office",
+          "start": 67.121,
+          "end": 67.402,
+          "score": 0.972
+        },
+        {
+          "word": "of",
+          "start": 67.442,
+          "end": 67.482,
+          "score": 0.994
+        },
+        {
+          "word": "Naval",
+          "start": 67.542,
+          "end": 67.822,
+          "score": 0.846
+        },
+        {
+          "word": "Research",
+          "start": 67.863,
+          "end": 68.283,
+          "score": 0.71
+        },
+        {
+          "word": "Organization",
+          "start": 68.724,
+          "end": 69.325,
+          "score": 0.9
+        },
+        {
+          "word": "for",
+          "start": 69.365,
+          "end": 70.306,
+          "score": 0.92
+        },
+        {
+          "word": "the",
+          "start": 70.386,
+          "end": 70.446,
+          "score": 0.982
+        },
+        {
+          "word": "purpose",
+          "start": 70.527,
+          "end": 70.887,
+          "score": 0.929
+        },
+        {
+          "word": "of",
+          "start": 71.508,
+          "end": 71.588,
+          "score": 0.94
+        },
+        {
+          "word": "supporting",
+          "start": 72.67,
+          "end": 73.111,
+          "score": 0.924
+        },
+        {
+          "word": "research",
+          "start": 73.131,
+          "end": 73.531,
+          "score": 0.648
+        },
+        {
+          "word": "in",
+          "start": 74.132,
+          "end": 74.212,
+          "score": 0.782
+        },
+        {
+          "word": "the",
+          "start": 74.252,
+          "end": 74.312,
+          "score": 0.814
+        },
+        {
+          "word": "government.",
+          "start": 74.393,
+          "end": 74.773,
+          "score": 0.857
+        }
+      ]
+    },
+    {
+      "start": 77.577,
+      "end": 92.34,
+      "text": "Organization-wise, oh, and then you must put into consideration the work of Revelle and Bennett and Wakelin and all of that group",
+      "words": [
+        {
+          "word": "Organization-wise,",
+          "start": 77.577,
+          "end": 78.699,
+          "score": 0.873
+        },
+        {
+          "word": "oh,",
+          "start": 78.719,
+          "end": 79.741,
+          "score": 0.795
+        },
+        {
+          "word": "and",
+          "start": 81.203,
+          "end": 81.303,
+          "score": 0.59
+        },
+        {
+          "word": "then",
+          "start": 81.363,
+          "end": 81.523,
+          "score": 0.941
+        },
+        {
+          "word": "you",
+          "start": 82.004,
+          "end": 82.124,
+          "score": 0.874
+        },
+        {
+          "word": "must",
+          "start": 82.184,
+          "end": 82.325,
+          "score": 0.886
+        },
+        {
+          "word": "put",
+          "start": 82.405,
+          "end": 82.565,
+          "score": 0.835
+        },
+        {
+          "word": "into",
+          "start": 82.585,
+          "end": 82.825,
+          "score": 0.775
+        },
+        {
+          "word": "consideration",
+          "start": 83.587,
+          "end": 84.328,
+          "score": 0.949
+        },
+        {
+          "word": "the",
+          "start": 85.149,
+          "end": 85.229,
+          "score": 0.681
+        },
+        {
+          "word": "work",
+          "start": 85.289,
+          "end": 85.53,
+          "score": 0.785
+        },
+        {
+          "word": "of",
+          "start": 85.75,
+          "end": 85.81,
+          "score": 0.92
+        },
+        {
+          "word": "Revelle",
+          "start": 86.291,
+          "end": 86.772,
+          "score": 0.887
+        },
+        {
+          "word": "and",
+          "start": 87.453,
+          "end": 87.533,
+          "score": 0.976
+        },
+        {
+          "word": "Bennett",
+          "start": 87.613,
+          "end": 87.933,
+          "score": 0.831
+        },
+        {
+          "word": "and",
+          "start": 89.596,
+          "end": 89.696,
+          "score": 0.8
+        },
+        {
+          "word": "Wakelin",
+          "start": 90.157,
+          "end": 90.577,
+          "score": 0.873
+        },
+        {
+          "word": "and",
+          "start": 91.399,
+          "end": 91.499,
+          "score": 0.841
+        },
+        {
+          "word": "all",
+          "start": 91.639,
+          "end": 91.739,
+          "score": 0.898
+        },
+        {
+          "word": "of",
+          "start": 91.779,
+          "end": 91.819,
+          "score": 0.602
+        },
+        {
+          "word": "that",
+          "start": 91.839,
+          "end": 92.02,
+          "score": 0.531
+        },
+        {
+          "word": "group",
+          "start": 92.1,
+          "end": 92.34,
+          "score": 0.827
+        }
+      ]
+    },
+    {
+      "start": 92.793,
+      "end": 107.834,
+      "text": " and the expansion of oceanography in such things as the International Geophysical Year, and following on down through those projects to the International Decade of Ocean Exploration, which is now going on.",
+      "words": [
+        {
+          "word": "and",
+          "start": 92.793,
+          "end": 92.973,
+          "score": 0.621
+        },
+        {
+          "word": "the",
+          "start": 92.993,
+          "end": 93.073,
+          "score": 0.006
+        },
+        {
+          "word": "expansion",
+          "start": 93.093,
+          "end": 93.614,
+          "score": 0.96
+        },
+        {
+          "word": "of",
+          "start": 93.654,
+          "end": 93.714,
+          "score": 0.914
+        },
+        {
+          "word": "oceanography",
+          "start": 93.814,
+          "end": 94.475,
+          "score": 0.917
+        },
+        {
+          "word": "in",
+          "start": 94.576,
+          "end": 94.656,
+          "score": 0.843
+        },
+        {
+          "word": "such",
+          "start": 94.696,
+          "end": 94.856,
+          "score": 0.858
+        },
+        {
+          "word": "things",
+          "start": 94.956,
+          "end": 95.196,
+          "score": 0.974
+        },
+        {
+          "word": "as",
+          "start": 95.497,
+          "end": 95.577,
+          "score": 0.862
+        },
+        {
+          "word": "the",
+          "start": 95.617,
+          "end": 95.697,
+          "score": 0.347
+        },
+        {
+          "word": "International",
+          "start": 95.877,
+          "end": 96.398,
+          "score": 0.914
+        },
+        {
+          "word": "Geophysical",
+          "start": 96.418,
+          "end": 97.039,
+          "score": 0.88
+        },
+        {
+          "word": "Year,",
+          "start": 97.119,
+          "end": 97.379,
+          "score": 0.77
+        },
+        {
+          "word": "and",
+          "start": 98.882,
+          "end": 98.962,
+          "score": 0.788
+        },
+        {
+          "word": "following",
+          "start": 99.022,
+          "end": 99.362,
+          "score": 0.825
+        },
+        {
+          "word": "on",
+          "start": 99.422,
+          "end": 99.522,
+          "score": 0.984
+        },
+        {
+          "word": "down",
+          "start": 99.583,
+          "end": 99.763,
+          "score": 0.8
+        },
+        {
+          "word": "through",
+          "start": 99.823,
+          "end": 100.023,
+          "score": 0.905
+        },
+        {
+          "word": "those",
+          "start": 100.063,
+          "end": 100.243,
+          "score": 0.819
+        },
+        {
+          "word": "projects",
+          "start": 100.344,
+          "end": 100.844,
+          "score": 0.919
+        },
+        {
+          "word": "to",
+          "start": 101.545,
+          "end": 101.686,
+          "score": 0.997
+        },
+        {
+          "word": "the",
+          "start": 101.746,
+          "end": 101.886,
+          "score": 0.82
+        },
+        {
+          "word": "International",
+          "start": 103.668,
+          "end": 104.289,
+          "score": 0.902
+        },
+        {
+          "word": "Decade",
+          "start": 104.75,
+          "end": 105.17,
+          "score": 0.942
+        },
+        {
+          "word": "of",
+          "start": 105.19,
+          "end": 105.231,
+          "score": 0.5
+        },
+        {
+          "word": "Ocean",
+          "start": 105.651,
+          "end": 105.992,
+          "score": 0.707
+        },
+        {
+          "word": "Exploration,",
+          "start": 106.072,
+          "end": 106.673,
+          "score": 0.86
+        },
+        {
+          "word": "which",
+          "start": 106.713,
+          "end": 106.853,
+          "score": 0.951
+        },
+        {
+          "word": "is",
+          "start": 106.933,
+          "end": 106.993,
+          "score": 0.903
+        },
+        {
+          "word": "now",
+          "start": 107.033,
+          "end": 107.193,
+          "score": 0.939
+        },
+        {
+          "word": "going",
+          "start": 107.293,
+          "end": 107.554,
+          "score": 0.797
+        },
+        {
+          "word": "on.",
+          "start": 107.734,
+          "end": 107.834,
+          "score": 0.964
+        }
+      ]
+    },
+    {
+      "start": 109.156,
+      "end": 112.0,
+      "text": "Those plans were absolutely essential.",
+      "words": [
+        {
+          "word": "Those",
+          "start": 109.156,
+          "end": 109.356,
+          "score": 0.994
+        },
+        {
+          "word": "plans",
+          "start": 109.436,
+          "end": 109.777,
+          "score": 0.703
+        },
+        {
+          "word": "were",
+          "start": 109.817,
+          "end": 110.318,
+          "score": 0.919
+        },
+        {
+          "word": "absolutely",
+          "start": 110.398,
+          "end": 110.878,
+          "score": 0.923
+        },
+        {
+          "word": "essential.",
+          "start": 111.439,
+          "end": 112.0,
+          "score": 0.83
+        }
+      ]
+    },
+    {
+      "start": 114.241,
+      "end": 133.891,
+      "text": " Also important, both scientifically and organization-wise, was the Informal Coordinating Committee within the Navy, which became the Interagency Oceanographic Committee, which became Wenck's commission under Humphrey toward the last.",
+      "words": [
+        {
+          "word": "Also",
+          "start": 114.241,
+          "end": 114.682,
+          "score": 0.942
+        },
+        {
+          "word": "important,",
+          "start": 114.722,
+          "end": 116.404,
+          "score": 0.98
+        },
+        {
+          "word": "both",
+          "start": 116.424,
+          "end": 116.585,
+          "score": 0.898
+        },
+        {
+          "word": "scientifically",
+          "start": 116.665,
+          "end": 117.366,
+          "score": 0.676
+        },
+        {
+          "word": "and",
+          "start": 117.506,
+          "end": 117.586,
+          "score": 0.85
+        },
+        {
+          "word": "organization-wise,",
+          "start": 117.686,
+          "end": 118.728,
+          "score": 0.827
+        },
+        {
+          "word": "was",
+          "start": 119.689,
+          "end": 119.91,
+          "score": 0.776
+        },
+        {
+          "word": "the",
+          "start": 120.53,
+          "end": 120.711,
+          "score": 0.782
+        },
+        {
+          "word": "Informal",
+          "start": 120.931,
+          "end": 121.392,
+          "score": 0.916
+        },
+        {
+          "word": "Coordinating",
+          "start": 121.472,
+          "end": 122.013,
+          "score": 0.901
+        },
+        {
+          "word": "Committee",
+          "start": 122.073,
+          "end": 122.413,
+          "score": 0.936
+        },
+        {
+          "word": "within",
+          "start": 122.473,
+          "end": 122.714,
+          "score": 0.934
+        },
+        {
+          "word": "the",
+          "start": 122.774,
+          "end": 122.834,
+          "score": 0.992
+        },
+        {
+          "word": "Navy,",
+          "start": 122.894,
+          "end": 123.194,
+          "score": 0.94
+        },
+        {
+          "word": "which",
+          "start": 123.375,
+          "end": 123.535,
+          "score": 0.876
+        },
+        {
+          "word": "became",
+          "start": 123.615,
+          "end": 123.936,
+          "score": 0.91
+        },
+        {
+          "word": "the",
+          "start": 123.976,
+          "end": 124.136,
+          "score": 0.766
+        },
+        {
+          "word": "Interagency",
+          "start": 124.316,
+          "end": 125.137,
+          "score": 0.603
+        },
+        {
+          "word": "Oceanographic",
+          "start": 125.238,
+          "end": 125.798,
+          "score": 0.777
+        },
+        {
+          "word": "Committee,",
+          "start": 126.099,
+          "end": 126.459,
+          "score": 0.872
+        },
+        {
+          "word": "which",
+          "start": 126.9,
+          "end": 127.06,
+          "score": 0.881
+        },
+        {
+          "word": "became",
+          "start": 127.12,
+          "end": 127.481,
+          "score": 0.857
+        },
+        {
+          "word": "Wenck's",
+          "start": 128.082,
+          "end": 128.382,
+          "score": 0.638
+        },
+        {
+          "word": "commission",
+          "start": 129.344,
+          "end": 129.824,
+          "score": 0.872
+        },
+        {
+          "word": "under",
+          "start": 130.245,
+          "end": 130.425,
+          "score": 0.8
+        },
+        {
+          "word": "Humphrey",
+          "start": 132.228,
+          "end": 132.589,
+          "score": 0.875
+        },
+        {
+          "word": "toward",
+          "start": 133.169,
+          "end": 133.39,
+          "score": 0.801
+        },
+        {
+          "word": "the",
+          "start": 133.41,
+          "end": 133.49,
+          "score": 0.817
+        },
+        {
+          "word": "last.",
+          "start": 133.53,
+          "end": 133.891,
+          "score": 0.919
+        }
+      ]
+    },
+    {
+      "start": 136.014,
+      "end": 143.505,
+      "text": "The TANOC plans put out by ONR, the establishment under Harrison Brown",
+      "words": [
+        {
+          "word": "The",
+          "start": 136.014,
+          "end": 136.194,
+          "score": 0.943
+        },
+        {
+          "word": "TANOC",
+          "start": 138.157,
+          "end": 138.538,
+          "score": 0.767
+        },
+        {
+          "word": "plans",
+          "start": 138.618,
+          "end": 138.998,
+          "score": 0.636
+        },
+        {
+          "word": "put",
+          "start": 139.499,
+          "end": 139.639,
+          "score": 0.84
+        },
+        {
+          "word": "out",
+          "start": 139.739,
+          "end": 139.84,
+          "score": 0.987
+        },
+        {
+          "word": "by",
+          "start": 139.9,
+          "end": 140.0,
+          "score": 0.99
+        },
+        {
+          "word": "ONR,",
+          "start": 140.04,
+          "end": 140.681,
+          "score": 0.802
+        },
+        {
+          "word": "the",
+          "start": 141.702,
+          "end": 141.782,
+          "score": 0.958
+        },
+        {
+          "word": "establishment",
+          "start": 141.822,
+          "end": 142.403,
+          "score": 0.655
+        },
+        {
+          "word": "under",
+          "start": 142.443,
+          "end": 142.604,
+          "score": 0.396
+        },
+        {
+          "word": "Harrison",
+          "start": 142.624,
+          "end": 143.024,
+          "score": 0.924
+        },
+        {
+          "word": "Brown",
+          "start": 143.064,
+          "end": 143.505,
+          "score": 0.864
+        }
+      ]
+    },
+    {
+      "start": 144.228,
+      "end": 165.821,
+      "text": " the great work of defining what oceanography should do, the National Committee on Oceanography, NASCO, the follow-through of the Stratton Report, which unfortunately met a political situation which was not fruitful.",
+      "words": [
+        {
+          "word": "the",
+          "start": 144.228,
+          "end": 144.428,
+          "score": 0.736
+        },
+        {
+          "word": "great",
+          "start": 144.468,
+          "end": 144.669,
+          "score": 0.864
+        },
+        {
+          "word": "work",
+          "start": 144.729,
+          "end": 144.949,
+          "score": 0.777
+        },
+        {
+          "word": "of",
+          "start": 144.989,
+          "end": 145.029,
+          "score": 0.99
+        },
+        {
+          "word": "defining",
+          "start": 145.109,
+          "end": 145.49,
+          "score": 0.959
+        },
+        {
+          "word": "what",
+          "start": 145.53,
+          "end": 145.63,
+          "score": 0.968
+        },
+        {
+          "word": "oceanography",
+          "start": 145.67,
+          "end": 146.291,
+          "score": 0.894
+        },
+        {
+          "word": "should",
+          "start": 146.331,
+          "end": 146.512,
+          "score": 0.955
+        },
+        {
+          "word": "do,",
+          "start": 146.592,
+          "end": 146.792,
+          "score": 0.999
+        },
+        {
+          "word": "the",
+          "start": 146.812,
+          "end": 146.872,
+          "score": 0.327
+        },
+        {
+          "word": "National",
+          "start": 146.912,
+          "end": 147.433,
+          "score": 0.829
+        },
+        {
+          "word": "Committee",
+          "start": 147.493,
+          "end": 147.793,
+          "score": 0.964
+        },
+        {
+          "word": "on",
+          "start": 147.854,
+          "end": 147.934,
+          "score": 0.962
+        },
+        {
+          "word": "Oceanography,",
+          "start": 147.994,
+          "end": 148.695,
+          "score": 0.921
+        },
+        {
+          "word": "NASCO,",
+          "start": 149.015,
+          "end": 149.556,
+          "score": 0.866
+        },
+        {
+          "word": "the",
+          "start": 152.2,
+          "end": 152.38,
+          "score": 0.895
+        },
+        {
+          "word": "follow-through",
+          "start": 154.544,
+          "end": 155.125,
+          "score": 0.816
+        },
+        {
+          "word": "of",
+          "start": 155.145,
+          "end": 155.185,
+          "score": 0.5
+        },
+        {
+          "word": "the",
+          "start": 158.61,
+          "end": 158.71,
+          "score": 0.954
+        },
+        {
+          "word": "Stratton",
+          "start": 158.73,
+          "end": 159.111,
+          "score": 0.656
+        },
+        {
+          "word": "Report,",
+          "start": 159.151,
+          "end": 159.572,
+          "score": 0.989
+        },
+        {
+          "word": "which",
+          "start": 161.334,
+          "end": 161.494,
+          "score": 0.925
+        },
+        {
+          "word": "unfortunately",
+          "start": 161.855,
+          "end": 162.356,
+          "score": 0.802
+        },
+        {
+          "word": "met",
+          "start": 162.416,
+          "end": 162.576,
+          "score": 0.965
+        },
+        {
+          "word": "a",
+          "start": 163.317,
+          "end": 163.357,
+          "score": 0.991
+        },
+        {
+          "word": "political",
+          "start": 163.397,
+          "end": 163.798,
+          "score": 0.867
+        },
+        {
+          "word": "situation",
+          "start": 163.858,
+          "end": 164.419,
+          "score": 0.841
+        },
+        {
+          "word": "which",
+          "start": 164.599,
+          "end": 164.739,
+          "score": 0.985
+        },
+        {
+          "word": "was",
+          "start": 164.78,
+          "end": 164.88,
+          "score": 0.993
+        },
+        {
+          "word": "not",
+          "start": 164.92,
+          "end": 165.08,
+          "score": 0.86
+        },
+        {
+          "word": "fruitful.",
+          "start": 165.38,
+          "end": 165.821,
+          "score": 0.891
+        }
+      ]
+    },
+    {
+      "start": 168.045,
+      "end": 172.952,
+      "text": "These were some of the milestones, as I saw them,",
+      "words": [
+        {
+          "word": "These",
+          "start": 168.045,
+          "end": 168.285,
+          "score": 0.664
+        },
+        {
+          "word": "were",
+          "start": 169.607,
+          "end": 169.747,
+          "score": 0.96
+        },
+        {
+          "word": "some",
+          "start": 169.787,
+          "end": 170.168,
+          "score": 0.792
+        },
+        {
+          "word": "of",
+          "start": 170.368,
+          "end": 170.428,
+          "score": 0.993
+        },
+        {
+          "word": "the",
+          "start": 170.488,
+          "end": 170.548,
+          "score": 0.952
+        },
+        {
+          "word": "milestones,",
+          "start": 170.608,
+          "end": 171.31,
+          "score": 0.951
+        },
+        {
+          "word": "as",
+          "start": 172.191,
+          "end": 172.271,
+          "score": 0.994
+        },
+        {
+          "word": "I",
+          "start": 172.371,
+          "end": 172.431,
+          "score": 0.962
+        },
+        {
+          "word": "saw",
+          "start": 172.511,
+          "end": 172.712,
+          "score": 0.986
+        },
+        {
+          "word": "them,",
+          "start": 172.752,
+          "end": 172.952,
+          "score": 0.826
+        }
+      ]
+    },
+    {
+      "start": 175.598,
+      "end": 182.098,
+      "text": " Now, finally, if you should like to be remembered for your major contribution to oceanography, what would you choose?",
+      "words": [
+        {
+          "word": "Now,",
+          "start": 175.598,
+          "end": 176.12,
+          "score": 0.852
+        },
+        {
+          "word": "finally,",
+          "start": 176.14,
+          "end": 176.501,
+          "score": 0.858
+        },
+        {
+          "word": "if",
+          "start": 176.641,
+          "end": 176.721,
+          "score": 0.639
+        },
+        {
+          "word": "you",
+          "start": 177.925,
+          "end": 178.066,
+          "score": 0.908
+        },
+        {
+          "word": "should",
+          "start": 178.106,
+          "end": 178.266,
+          "score": 0.939
+        },
+        {
+          "word": "like",
+          "start": 178.306,
+          "end": 178.407,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "start": 178.447,
+          "end": 178.487,
+          "score": 0.975
+        },
+        {
+          "word": "be",
+          "start": 178.547,
+          "end": 178.607,
+          "score": 0.938
+        },
+        {
+          "word": "remembered",
+          "start": 178.647,
+          "end": 179.009,
+          "score": 0.731
+        },
+        {
+          "word": "for",
+          "start": 179.069,
+          "end": 179.169,
+          "score": 0.823
+        },
+        {
+          "word": "your",
+          "start": 179.249,
+          "end": 179.41,
+          "score": 0.897
+        },
+        {
+          "word": "major",
+          "start": 179.47,
+          "end": 179.771,
+          "score": 0.903
+        },
+        {
+          "word": "contribution",
+          "start": 179.811,
+          "end": 180.413,
+          "score": 0.943
+        },
+        {
+          "word": "to",
+          "start": 180.453,
+          "end": 180.513,
+          "score": 0.86
+        },
+        {
+          "word": "oceanography,",
+          "start": 180.634,
+          "end": 181.215,
+          "score": 0.549
+        },
+        {
+          "word": "what",
+          "start": 181.256,
+          "end": 181.376,
+          "score": 0.909
+        },
+        {
+          "word": "would",
+          "start": 181.416,
+          "end": 181.557,
+          "score": 0.745
+        },
+        {
+          "word": "you",
+          "start": 181.577,
+          "end": 181.697,
+          "score": 0.96
+        },
+        {
+          "word": "choose?",
+          "start": 181.777,
+          "end": 182.098,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "start": 183.563,
+      "end": 184.004,
+      "text": "Myself?",
+      "words": [
+        {
+          "word": "Myself?",
+          "start": 183.563,
+          "end": 184.004,
+          "score": 0.694
+        }
+      ]
+    },
+    {
+      "start": 184.165,
+      "end": 184.646,
+      "text": "For yourself.",
+      "words": [
+        {
+          "word": "For",
+          "start": 184.165,
+          "end": 184.265,
+          "score": 0.993
+        },
+        {
+          "word": "yourself.",
+          "start": 184.305,
+          "end": 184.646,
+          "score": 0.969
+        }
+      ]
+    },
+    {
+      "start": 187.154,
+      "end": 188.157,
+      "text": "That was a good program, man.",
+      "words": [
+        {
+          "word": "That",
+          "start": 187.154,
+          "end": 187.294,
+          "score": 0.76
+        },
+        {
+          "word": "was",
+          "start": 187.314,
+          "end": 187.375,
+          "score": 0.639
+        },
+        {
+          "word": "a",
+          "start": 187.415,
+          "end": 187.435,
+          "score": 0.991
+        },
+        {
+          "word": "good",
+          "start": 187.475,
+          "end": 187.615,
+          "score": 0.817
+        },
+        {
+          "word": "program,",
+          "start": 187.696,
+          "end": 188.057,
+          "score": 0.708
+        },
+        {
+          "word": "man.",
+          "start": 188.077,
+          "end": 188.157,
+          "score": 0.218
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Okay,",
+      "start": 8.654,
+      "end": 9.215,
+      "score": 0.482
+    },
+    {
+      "word": "is",
+      "start": 9.235,
+      "end": 9.395,
+      "score": 0.186
+    },
+    {
+      "word": "it",
+      "start": 9.415,
+      "end": 9.515,
+      "score": 0.767
+    },
+    {
+      "word": "15?",
+      "start": 13.859,
+      "end": 13.939,
+      "score": 0.626
+    },
+    {
+      "word": "Okay,",
+      "start": 13.959,
+      "end": 14.119,
+      "score": 0.56
+    },
+    {
+      "word": "now,",
+      "start": 14.139,
+      "end": 14.299,
+      "score": 0.833
+    },
+    {
+      "word": "would",
+      "start": 14.52,
+      "end": 14.68,
+      "score": 0.709
+    },
+    {
+      "word": "you",
+      "start": 14.72,
+      "end": 14.84,
+      "score": 0.98
+    },
+    {
+      "word": "list",
+      "start": 14.9,
+      "end": 15.14,
+      "score": 0.708
+    },
+    {
+      "word": "the",
+      "start": 15.18,
+      "end": 15.28,
+      "score": 0.552
+    },
+    {
+      "word": "important",
+      "start": 15.34,
+      "end": 15.781,
+      "score": 0.877
+    },
+    {
+      "word": "events",
+      "start": 15.821,
+      "end": 16.161,
+      "score": 0.763
+    },
+    {
+      "word": "you",
+      "start": 16.201,
+      "end": 16.321,
+      "score": 0.962
+    },
+    {
+      "word": "think",
+      "start": 16.361,
+      "end": 16.602,
+      "score": 0.848
+    },
+    {
+      "word": "of",
+      "start": 16.702,
+      "end": 16.762,
+      "score": 0.882
+    },
+    {
+      "word": "in",
+      "start": 16.842,
+      "end": 16.882,
+      "score": 0.992
+    },
+    {
+      "word": "terms",
+      "start": 16.942,
+      "end": 17.202,
+      "score": 0.977
+    },
+    {
+      "word": "of",
+      "start": 17.242,
+      "end": 17.282,
+      "score": 0.53
+    },
+    {
+      "word": "organization",
+      "start": 17.783,
+      "end": 18.444,
+      "score": 0.784
+    },
+    {
+      "word": "that",
+      "start": 18.484,
+      "end": 18.584,
+      "score": 0.863
+    },
+    {
+      "word": "occur",
+      "start": 18.664,
+      "end": 18.964,
+      "score": 0.904
+    },
+    {
+      "word": "that",
+      "start": 19.004,
+      "end": 19.104,
+      "score": 0.384
+    },
+    {
+      "word": "change",
+      "start": 19.164,
+      "end": 19.424,
+      "score": 0.879
+    },
+    {
+      "word": "the",
+      "start": 19.464,
+      "end": 19.545,
+      "score": 0.2
+    },
+    {
+      "word": "nature",
+      "start": 19.605,
+      "end": 19.845,
+      "score": 0.966
+    },
+    {
+      "word": "of",
+      "start": 19.865,
+      "end": 19.905,
+      "score": 0.988
+    },
+    {
+      "word": "oceanography?",
+      "start": 20.005,
+      "end": 22.568,
+      "score": 0.361
+    },
+    {
+      "word": "Well,",
+      "start": 22.588,
+      "end": 22.688,
+      "score": 0.195
+    },
+    {
+      "word": "scientifically,",
+      "start": 22.708,
+      "end": 24.489,
+      "score": 0.555
+    },
+    {
+      "word": "from",
+      "start": 24.509,
+      "end": 24.63,
+      "score": 0.637
+    },
+    {
+      "word": "the",
+      "start": 24.67,
+      "end": 24.73,
+      "score": 0.938
+    },
+    {
+      "word": "scientific",
+      "start": 24.75,
+      "end": 25.19,
+      "score": 0.727
+    },
+    {
+      "word": "point",
+      "start": 25.25,
+      "end": 25.41,
+      "score": 0.809
+    },
+    {
+      "word": "of",
+      "start": 25.45,
+      "end": 25.49,
+      "score": 0.997
+    },
+    {
+      "word": "view,",
+      "start": 25.53,
+      "end": 25.671,
+      "score": 0.754
+    },
+    {
+      "word": "the",
+      "start": 25.731,
+      "end": 25.911,
+      "score": 0.7
+    },
+    {
+      "word": "first",
+      "start": 25.951,
+      "end": 26.231,
+      "score": 0.781
+    },
+    {
+      "word": "that",
+      "start": 26.972,
+      "end": 27.112,
+      "score": 0.907
+    },
+    {
+      "word": "I",
+      "start": 27.212,
+      "end": 27.292,
+      "score": 0.908
+    },
+    {
+      "word": "can,",
+      "start": 27.332,
+      "end": 27.873,
+      "score": 0.92
+    },
+    {
+      "word": "in",
+      "start": 27.893,
+      "end": 27.973,
+      "score": 0.924
+    },
+    {
+      "word": "my",
+      "start": 28.013,
+      "end": 28.213,
+      "score": 0.985
+    },
+    {
+      "word": "time,",
+      "start": 28.794,
+      "end": 29.094,
+      "score": 0.838
+    },
+    {
+      "word": "was",
+      "start": 29.114,
+      "end": 29.234,
+      "score": 0.989
+    },
+    {
+      "word": "the",
+      "start": 29.294,
+      "end": 29.374,
+      "score": 0.91
+    },
+    {
+      "word": "writing",
+      "start": 29.414,
+      "end": 29.734,
+      "score": 0.955
+    },
+    {
+      "word": "of",
+      "start": 30.375,
+      "end": 30.435,
+      "score": 0.995
+    },
+    {
+      "word": "the",
+      "start": 30.475,
+      "end": 30.575,
+      "score": 0.753
+    },
+    {
+      "word": "book",
+      "start": 30.655,
+      "end": 30.836,
+      "score": 0.993
+    },
+    {
+      "word": "The",
+      "start": 30.976,
+      "end": 31.056,
+      "score": 0.908
+    },
+    {
+      "word": "Oceans",
+      "start": 31.176,
+      "end": 31.496,
+      "score": 0.921
+    },
+    {
+      "word": "by",
+      "start": 31.556,
+      "end": 31.676,
+      "score": 0.836
+    },
+    {
+      "word": "Spherdrup,",
+      "start": 31.776,
+      "end": 32.817,
+      "score": 0.709
+    },
+    {
+      "word": "Johnson,",
+      "start": 32.837,
+      "end": 33.238,
+      "score": 0.814
+    },
+    {
+      "word": "and",
+      "start": 33.258,
+      "end": 33.358,
+      "score": 0.929
+    },
+    {
+      "word": "Fleming.",
+      "start": 33.398,
+      "end": 33.798,
+      "score": 0.919
+    },
+    {
+      "word": "The",
+      "start": 36.581,
+      "end": 36.681,
+      "score": 0.822
+    },
+    {
+      "word": "second",
+      "start": 36.721,
+      "end": 37.002,
+      "score": 0.826
+    },
+    {
+      "word": "was",
+      "start": 37.042,
+      "end": 37.222,
+      "score": 0.907
+    },
+    {
+      "word": "due",
+      "start": 37.742,
+      "end": 37.942,
+      "score": 0.766
+    },
+    {
+      "word": "to",
+      "start": 37.962,
+      "end": 38.023,
+      "score": 0.712
+    },
+    {
+      "word": "his",
+      "start": 38.063,
+      "end": 38.543,
+      "score": 0.912
+    },
+    {
+      "word": "And",
+      "start": 39.4,
+      "end": 39.6,
+      "score": 0.821
+    },
+    {
+      "word": "Sproul's",
+      "start": 39.66,
+      "end": 40.181,
+      "score": 0.69
+    },
+    {
+      "word": "forethought,",
+      "start": 41.744,
+      "end": 42.505,
+      "score": 0.785
+    },
+    {
+      "word": "getting",
+      "start": 43.286,
+      "end": 43.547,
+      "score": 0.967
+    },
+    {
+      "word": "15",
+      "start": 43.567,
+      "end": 43.607,
+      "score": 1.0
+    },
+    {
+      "word": "and",
+      "start": 44.929,
+      "end": 46.392,
+      "score": 0.913
+    },
+    {
+      "word": "more",
+      "start": 46.452,
+      "end": 46.712,
+      "score": 0.895
+    },
+    {
+      "word": "picked",
+      "start": 48.174,
+      "end": 48.415,
+      "score": 0.968
+    },
+    {
+      "word": "young",
+      "start": 48.916,
+      "end": 49.156,
+      "score": 0.898
+    },
+    {
+      "word": "scientists",
+      "start": 50.098,
+      "end": 50.659,
+      "score": 0.777
+    },
+    {
+      "word": "trained",
+      "start": 51.5,
+      "end": 51.841,
+      "score": 0.875
+    },
+    {
+      "word": "who",
+      "start": 52.361,
+      "end": 52.482,
+      "score": 0.969
+    },
+    {
+      "word": "became",
+      "start": 52.542,
+      "end": 52.902,
+      "score": 0.93
+    },
+    {
+      "word": "head",
+      "start": 52.922,
+      "end": 53.784,
+      "score": 0.632
+    },
+    {
+      "word": "or",
+      "start": 53.844,
+      "end": 54.966,
+      "score": 0.79
+    },
+    {
+      "word": "leaders",
+      "start": 55.026,
+      "end": 55.306,
+      "score": 0.848
+    },
+    {
+      "word": "in",
+      "start": 55.386,
+      "end": 55.446,
+      "score": 0.99
+    },
+    {
+      "word": "practically",
+      "start": 55.487,
+      "end": 55.927,
+      "score": 0.798
+    },
+    {
+      "word": "every",
+      "start": 55.967,
+      "end": 56.248,
+      "score": 0.876
+    },
+    {
+      "word": "oceanographic",
+      "start": 56.328,
+      "end": 56.929,
+      "score": 0.876
+    },
+    {
+      "word": "institution",
+      "start": 56.989,
+      "end": 57.51,
+      "score": 0.781
+    },
+    {
+      "word": "in",
+      "start": 57.57,
+      "end": 57.63,
+      "score": 0.912
+    },
+    {
+      "word": "the",
+      "start": 57.67,
+      "end": 57.73,
+      "score": 0.973
+    },
+    {
+      "word": "country",
+      "start": 57.79,
+      "end": 58.131,
+      "score": 0.824
+    },
+    {
+      "word": "and",
+      "start": 59.012,
+      "end": 59.112,
+      "score": 0.655
+    },
+    {
+      "word": "was",
+      "start": 59.173,
+      "end": 59.453,
+      "score": 0.978
+    },
+    {
+      "word": "the",
+      "start": 59.493,
+      "end": 59.633,
+      "score": 0.806
+    },
+    {
+      "word": "nucleus",
+      "start": 59.693,
+      "end": 60.134,
+      "score": 0.82
+    },
+    {
+      "word": "on",
+      "start": 60.575,
+      "end": 60.635,
+      "score": 0.998
+    },
+    {
+      "word": "which",
+      "start": 60.675,
+      "end": 60.795,
+      "score": 0.9
+    },
+    {
+      "word": "the",
+      "start": 60.815,
+      "end": 60.915,
+      "score": 0.756
+    },
+    {
+      "word": "scientific",
+      "start": 60.956,
+      "end": 61.456,
+      "score": 0.828
+    },
+    {
+      "word": "development",
+      "start": 61.476,
+      "end": 61.937,
+      "score": 0.807
+    },
+    {
+      "word": "could",
+      "start": 61.977,
+      "end": 62.117,
+      "score": 0.896
+    },
+    {
+      "word": "be",
+      "start": 62.158,
+      "end": 62.258,
+      "score": 0.949
+    },
+    {
+      "word": "built.",
+      "start": 62.318,
+      "end": 63.079,
+      "score": 0.757
+    },
+    {
+      "word": "The",
+      "start": 64.898,
+      "end": 65.038,
+      "score": 0.689
+    },
+    {
+      "word": "third",
+      "start": 65.098,
+      "end": 65.359,
+      "score": 0.823
+    },
+    {
+      "word": "was",
+      "start": 65.96,
+      "end": 66.1,
+      "score": 0.981
+    },
+    {
+      "word": "the",
+      "start": 66.2,
+      "end": 66.3,
+      "score": 0.362
+    },
+    {
+      "word": "Office",
+      "start": 67.121,
+      "end": 67.402,
+      "score": 0.972
+    },
+    {
+      "word": "of",
+      "start": 67.442,
+      "end": 67.482,
+      "score": 0.994
+    },
+    {
+      "word": "Naval",
+      "start": 67.542,
+      "end": 67.822,
+      "score": 0.846
+    },
+    {
+      "word": "Research",
+      "start": 67.863,
+      "end": 68.283,
+      "score": 0.71
+    },
+    {
+      "word": "Organization",
+      "start": 68.724,
+      "end": 69.325,
+      "score": 0.9
+    },
+    {
+      "word": "for",
+      "start": 69.365,
+      "end": 70.306,
+      "score": 0.92
+    },
+    {
+      "word": "the",
+      "start": 70.386,
+      "end": 70.446,
+      "score": 0.982
+    },
+    {
+      "word": "purpose",
+      "start": 70.527,
+      "end": 70.887,
+      "score": 0.929
+    },
+    {
+      "word": "of",
+      "start": 71.508,
+      "end": 71.588,
+      "score": 0.94
+    },
+    {
+      "word": "supporting",
+      "start": 72.67,
+      "end": 73.111,
+      "score": 0.924
+    },
+    {
+      "word": "research",
+      "start": 73.131,
+      "end": 73.531,
+      "score": 0.648
+    },
+    {
+      "word": "in",
+      "start": 74.132,
+      "end": 74.212,
+      "score": 0.782
+    },
+    {
+      "word": "the",
+      "start": 74.252,
+      "end": 74.312,
+      "score": 0.814
+    },
+    {
+      "word": "government.",
+      "start": 74.393,
+      "end": 74.773,
+      "score": 0.857
+    },
+    {
+      "word": "Organization-wise,",
+      "start": 77.577,
+      "end": 78.699,
+      "score": 0.873
+    },
+    {
+      "word": "oh,",
+      "start": 78.719,
+      "end": 79.741,
+      "score": 0.795
+    },
+    {
+      "word": "and",
+      "start": 81.203,
+      "end": 81.303,
+      "score": 0.59
+    },
+    {
+      "word": "then",
+      "start": 81.363,
+      "end": 81.523,
+      "score": 0.941
+    },
+    {
+      "word": "you",
+      "start": 82.004,
+      "end": 82.124,
+      "score": 0.874
+    },
+    {
+      "word": "must",
+      "start": 82.184,
+      "end": 82.325,
+      "score": 0.886
+    },
+    {
+      "word": "put",
+      "start": 82.405,
+      "end": 82.565,
+      "score": 0.835
+    },
+    {
+      "word": "into",
+      "start": 82.585,
+      "end": 82.825,
+      "score": 0.775
+    },
+    {
+      "word": "consideration",
+      "start": 83.587,
+      "end": 84.328,
+      "score": 0.949
+    },
+    {
+      "word": "the",
+      "start": 85.149,
+      "end": 85.229,
+      "score": 0.681
+    },
+    {
+      "word": "work",
+      "start": 85.289,
+      "end": 85.53,
+      "score": 0.785
+    },
+    {
+      "word": "of",
+      "start": 85.75,
+      "end": 85.81,
+      "score": 0.92
+    },
+    {
+      "word": "Revelle",
+      "start": 86.291,
+      "end": 86.772,
+      "score": 0.887
+    },
+    {
+      "word": "and",
+      "start": 87.453,
+      "end": 87.533,
+      "score": 0.976
+    },
+    {
+      "word": "Bennett",
+      "start": 87.613,
+      "end": 87.933,
+      "score": 0.831
+    },
+    {
+      "word": "and",
+      "start": 89.596,
+      "end": 89.696,
+      "score": 0.8
+    },
+    {
+      "word": "Wakelin",
+      "start": 90.157,
+      "end": 90.577,
+      "score": 0.873
+    },
+    {
+      "word": "and",
+      "start": 91.399,
+      "end": 91.499,
+      "score": 0.841
+    },
+    {
+      "word": "all",
+      "start": 91.639,
+      "end": 91.739,
+      "score": 0.898
+    },
+    {
+      "word": "of",
+      "start": 91.779,
+      "end": 91.819,
+      "score": 0.602
+    },
+    {
+      "word": "that",
+      "start": 91.839,
+      "end": 92.02,
+      "score": 0.531
+    },
+    {
+      "word": "group",
+      "start": 92.1,
+      "end": 92.34,
+      "score": 0.827
+    },
+    {
+      "word": "and",
+      "start": 92.793,
+      "end": 92.973,
+      "score": 0.621
+    },
+    {
+      "word": "the",
+      "start": 92.993,
+      "end": 93.073,
+      "score": 0.006
+    },
+    {
+      "word": "expansion",
+      "start": 93.093,
+      "end": 93.614,
+      "score": 0.96
+    },
+    {
+      "word": "of",
+      "start": 93.654,
+      "end": 93.714,
+      "score": 0.914
+    },
+    {
+      "word": "oceanography",
+      "start": 93.814,
+      "end": 94.475,
+      "score": 0.917
+    },
+    {
+      "word": "in",
+      "start": 94.576,
+      "end": 94.656,
+      "score": 0.843
+    },
+    {
+      "word": "such",
+      "start": 94.696,
+      "end": 94.856,
+      "score": 0.858
+    },
+    {
+      "word": "things",
+      "start": 94.956,
+      "end": 95.196,
+      "score": 0.974
+    },
+    {
+      "word": "as",
+      "start": 95.497,
+      "end": 95.577,
+      "score": 0.862
+    },
+    {
+      "word": "the",
+      "start": 95.617,
+      "end": 95.697,
+      "score": 0.347
+    },
+    {
+      "word": "International",
+      "start": 95.877,
+      "end": 96.398,
+      "score": 0.914
+    },
+    {
+      "word": "Geophysical",
+      "start": 96.418,
+      "end": 97.039,
+      "score": 0.88
+    },
+    {
+      "word": "Year,",
+      "start": 97.119,
+      "end": 97.379,
+      "score": 0.77
+    },
+    {
+      "word": "and",
+      "start": 98.882,
+      "end": 98.962,
+      "score": 0.788
+    },
+    {
+      "word": "following",
+      "start": 99.022,
+      "end": 99.362,
+      "score": 0.825
+    },
+    {
+      "word": "on",
+      "start": 99.422,
+      "end": 99.522,
+      "score": 0.984
+    },
+    {
+      "word": "down",
+      "start": 99.583,
+      "end": 99.763,
+      "score": 0.8
+    },
+    {
+      "word": "through",
+      "start": 99.823,
+      "end": 100.023,
+      "score": 0.905
+    },
+    {
+      "word": "those",
+      "start": 100.063,
+      "end": 100.243,
+      "score": 0.819
+    },
+    {
+      "word": "projects",
+      "start": 100.344,
+      "end": 100.844,
+      "score": 0.919
+    },
+    {
+      "word": "to",
+      "start": 101.545,
+      "end": 101.686,
+      "score": 0.997
+    },
+    {
+      "word": "the",
+      "start": 101.746,
+      "end": 101.886,
+      "score": 0.82
+    },
+    {
+      "word": "International",
+      "start": 103.668,
+      "end": 104.289,
+      "score": 0.902
+    },
+    {
+      "word": "Decade",
+      "start": 104.75,
+      "end": 105.17,
+      "score": 0.942
+    },
+    {
+      "word": "of",
+      "start": 105.19,
+      "end": 105.231,
+      "score": 0.5
+    },
+    {
+      "word": "Ocean",
+      "start": 105.651,
+      "end": 105.992,
+      "score": 0.707
+    },
+    {
+      "word": "Exploration,",
+      "start": 106.072,
+      "end": 106.673,
+      "score": 0.86
+    },
+    {
+      "word": "which",
+      "start": 106.713,
+      "end": 106.853,
+      "score": 0.951
+    },
+    {
+      "word": "is",
+      "start": 106.933,
+      "end": 106.993,
+      "score": 0.903
+    },
+    {
+      "word": "now",
+      "start": 107.033,
+      "end": 107.193,
+      "score": 0.939
+    },
+    {
+      "word": "going",
+      "start": 107.293,
+      "end": 107.554,
+      "score": 0.797
+    },
+    {
+      "word": "on.",
+      "start": 107.734,
+      "end": 107.834,
+      "score": 0.964
+    },
+    {
+      "word": "Those",
+      "start": 109.156,
+      "end": 109.356,
+      "score": 0.994
+    },
+    {
+      "word": "plans",
+      "start": 109.436,
+      "end": 109.777,
+      "score": 0.703
+    },
+    {
+      "word": "were",
+      "start": 109.817,
+      "end": 110.318,
+      "score": 0.919
+    },
+    {
+      "word": "absolutely",
+      "start": 110.398,
+      "end": 110.878,
+      "score": 0.923
+    },
+    {
+      "word": "essential.",
+      "start": 111.439,
+      "end": 112.0,
+      "score": 0.83
+    },
+    {
+      "word": "Also",
+      "start": 114.241,
+      "end": 114.682,
+      "score": 0.942
+    },
+    {
+      "word": "important,",
+      "start": 114.722,
+      "end": 116.404,
+      "score": 0.98
+    },
+    {
+      "word": "both",
+      "start": 116.424,
+      "end": 116.585,
+      "score": 0.898
+    },
+    {
+      "word": "scientifically",
+      "start": 116.665,
+      "end": 117.366,
+      "score": 0.676
+    },
+    {
+      "word": "and",
+      "start": 117.506,
+      "end": 117.586,
+      "score": 0.85
+    },
+    {
+      "word": "organization-wise,",
+      "start": 117.686,
+      "end": 118.728,
+      "score": 0.827
+    },
+    {
+      "word": "was",
+      "start": 119.689,
+      "end": 119.91,
+      "score": 0.776
+    },
+    {
+      "word": "the",
+      "start": 120.53,
+      "end": 120.711,
+      "score": 0.782
+    },
+    {
+      "word": "Informal",
+      "start": 120.931,
+      "end": 121.392,
+      "score": 0.916
+    },
+    {
+      "word": "Coordinating",
+      "start": 121.472,
+      "end": 122.013,
+      "score": 0.901
+    },
+    {
+      "word": "Committee",
+      "start": 122.073,
+      "end": 122.413,
+      "score": 0.936
+    },
+    {
+      "word": "within",
+      "start": 122.473,
+      "end": 122.714,
+      "score": 0.934
+    },
+    {
+      "word": "the",
+      "start": 122.774,
+      "end": 122.834,
+      "score": 0.992
+    },
+    {
+      "word": "Navy,",
+      "start": 122.894,
+      "end": 123.194,
+      "score": 0.94
+    },
+    {
+      "word": "which",
+      "start": 123.375,
+      "end": 123.535,
+      "score": 0.876
+    },
+    {
+      "word": "became",
+      "start": 123.615,
+      "end": 123.936,
+      "score": 0.91
+    },
+    {
+      "word": "the",
+      "start": 123.976,
+      "end": 124.136,
+      "score": 0.766
+    },
+    {
+      "word": "Interagency",
+      "start": 124.316,
+      "end": 125.137,
+      "score": 0.603
+    },
+    {
+      "word": "Oceanographic",
+      "start": 125.238,
+      "end": 125.798,
+      "score": 0.777
+    },
+    {
+      "word": "Committee,",
+      "start": 126.099,
+      "end": 126.459,
+      "score": 0.872
+    },
+    {
+      "word": "which",
+      "start": 126.9,
+      "end": 127.06,
+      "score": 0.881
+    },
+    {
+      "word": "became",
+      "start": 127.12,
+      "end": 127.481,
+      "score": 0.857
+    },
+    {
+      "word": "Wenck's",
+      "start": 128.082,
+      "end": 128.382,
+      "score": 0.638
+    },
+    {
+      "word": "commission",
+      "start": 129.344,
+      "end": 129.824,
+      "score": 0.872
+    },
+    {
+      "word": "under",
+      "start": 130.245,
+      "end": 130.425,
+      "score": 0.8
+    },
+    {
+      "word": "Humphrey",
+      "start": 132.228,
+      "end": 132.589,
+      "score": 0.875
+    },
+    {
+      "word": "toward",
+      "start": 133.169,
+      "end": 133.39,
+      "score": 0.801
+    },
+    {
+      "word": "the",
+      "start": 133.41,
+      "end": 133.49,
+      "score": 0.817
+    },
+    {
+      "word": "last.",
+      "start": 133.53,
+      "end": 133.891,
+      "score": 0.919
+    },
+    {
+      "word": "The",
+      "start": 136.014,
+      "end": 136.194,
+      "score": 0.943
+    },
+    {
+      "word": "TANOC",
+      "start": 138.157,
+      "end": 138.538,
+      "score": 0.767
+    },
+    {
+      "word": "plans",
+      "start": 138.618,
+      "end": 138.998,
+      "score": 0.636
+    },
+    {
+      "word": "put",
+      "start": 139.499,
+      "end": 139.639,
+      "score": 0.84
+    },
+    {
+      "word": "out",
+      "start": 139.739,
+      "end": 139.84,
+      "score": 0.987
+    },
+    {
+      "word": "by",
+      "start": 139.9,
+      "end": 140.0,
+      "score": 0.99
+    },
+    {
+      "word": "ONR,",
+      "start": 140.04,
+      "end": 140.681,
+      "score": 0.802
+    },
+    {
+      "word": "the",
+      "start": 141.702,
+      "end": 141.782,
+      "score": 0.958
+    },
+    {
+      "word": "establishment",
+      "start": 141.822,
+      "end": 142.403,
+      "score": 0.655
+    },
+    {
+      "word": "under",
+      "start": 142.443,
+      "end": 142.604,
+      "score": 0.396
+    },
+    {
+      "word": "Harrison",
+      "start": 142.624,
+      "end": 143.024,
+      "score": 0.924
+    },
+    {
+      "word": "Brown",
+      "start": 143.064,
+      "end": 143.505,
+      "score": 0.864
+    },
+    {
+      "word": "the",
+      "start": 144.228,
+      "end": 144.428,
+      "score": 0.736
+    },
+    {
+      "word": "great",
+      "start": 144.468,
+      "end": 144.669,
+      "score": 0.864
+    },
+    {
+      "word": "work",
+      "start": 144.729,
+      "end": 144.949,
+      "score": 0.777
+    },
+    {
+      "word": "of",
+      "start": 144.989,
+      "end": 145.029,
+      "score": 0.99
+    },
+    {
+      "word": "defining",
+      "start": 145.109,
+      "end": 145.49,
+      "score": 0.959
+    },
+    {
+      "word": "what",
+      "start": 145.53,
+      "end": 145.63,
+      "score": 0.968
+    },
+    {
+      "word": "oceanography",
+      "start": 145.67,
+      "end": 146.291,
+      "score": 0.894
+    },
+    {
+      "word": "should",
+      "start": 146.331,
+      "end": 146.512,
+      "score": 0.955
+    },
+    {
+      "word": "do,",
+      "start": 146.592,
+      "end": 146.792,
+      "score": 0.999
+    },
+    {
+      "word": "the",
+      "start": 146.812,
+      "end": 146.872,
+      "score": 0.327
+    },
+    {
+      "word": "National",
+      "start": 146.912,
+      "end": 147.433,
+      "score": 0.829
+    },
+    {
+      "word": "Committee",
+      "start": 147.493,
+      "end": 147.793,
+      "score": 0.964
+    },
+    {
+      "word": "on",
+      "start": 147.854,
+      "end": 147.934,
+      "score": 0.962
+    },
+    {
+      "word": "Oceanography,",
+      "start": 147.994,
+      "end": 148.695,
+      "score": 0.921
+    },
+    {
+      "word": "NASCO,",
+      "start": 149.015,
+      "end": 149.556,
+      "score": 0.866
+    },
+    {
+      "word": "the",
+      "start": 152.2,
+      "end": 152.38,
+      "score": 0.895
+    },
+    {
+      "word": "follow-through",
+      "start": 154.544,
+      "end": 155.125,
+      "score": 0.816
+    },
+    {
+      "word": "of",
+      "start": 155.145,
+      "end": 155.185,
+      "score": 0.5
+    },
+    {
+      "word": "the",
+      "start": 158.61,
+      "end": 158.71,
+      "score": 0.954
+    },
+    {
+      "word": "Stratton",
+      "start": 158.73,
+      "end": 159.111,
+      "score": 0.656
+    },
+    {
+      "word": "Report,",
+      "start": 159.151,
+      "end": 159.572,
+      "score": 0.989
+    },
+    {
+      "word": "which",
+      "start": 161.334,
+      "end": 161.494,
+      "score": 0.925
+    },
+    {
+      "word": "unfortunately",
+      "start": 161.855,
+      "end": 162.356,
+      "score": 0.802
+    },
+    {
+      "word": "met",
+      "start": 162.416,
+      "end": 162.576,
+      "score": 0.965
+    },
+    {
+      "word": "a",
+      "start": 163.317,
+      "end": 163.357,
+      "score": 0.991
+    },
+    {
+      "word": "political",
+      "start": 163.397,
+      "end": 163.798,
+      "score": 0.867
+    },
+    {
+      "word": "situation",
+      "start": 163.858,
+      "end": 164.419,
+      "score": 0.841
+    },
+    {
+      "word": "which",
+      "start": 164.599,
+      "end": 164.739,
+      "score": 0.985
+    },
+    {
+      "word": "was",
+      "start": 164.78,
+      "end": 164.88,
+      "score": 0.993
+    },
+    {
+      "word": "not",
+      "start": 164.92,
+      "end": 165.08,
+      "score": 0.86
+    },
+    {
+      "word": "fruitful.",
+      "start": 165.38,
+      "end": 165.821,
+      "score": 0.891
+    },
+    {
+      "word": "These",
+      "start": 168.045,
+      "end": 168.285,
+      "score": 0.664
+    },
+    {
+      "word": "were",
+      "start": 169.607,
+      "end": 169.747,
+      "score": 0.96
+    },
+    {
+      "word": "some",
+      "start": 169.787,
+      "end": 170.168,
+      "score": 0.792
+    },
+    {
+      "word": "of",
+      "start": 170.368,
+      "end": 170.428,
+      "score": 0.993
+    },
+    {
+      "word": "the",
+      "start": 170.488,
+      "end": 170.548,
+      "score": 0.952
+    },
+    {
+      "word": "milestones,",
+      "start": 170.608,
+      "end": 171.31,
+      "score": 0.951
+    },
+    {
+      "word": "as",
+      "start": 172.191,
+      "end": 172.271,
+      "score": 0.994
+    },
+    {
+      "word": "I",
+      "start": 172.371,
+      "end": 172.431,
+      "score": 0.962
+    },
+    {
+      "word": "saw",
+      "start": 172.511,
+      "end": 172.712,
+      "score": 0.986
+    },
+    {
+      "word": "them,",
+      "start": 172.752,
+      "end": 172.952,
+      "score": 0.826
+    },
+    {
+      "word": "Now,",
+      "start": 175.598,
+      "end": 176.12,
+      "score": 0.852
+    },
+    {
+      "word": "finally,",
+      "start": 176.14,
+      "end": 176.501,
+      "score": 0.858
+    },
+    {
+      "word": "if",
+      "start": 176.641,
+      "end": 176.721,
+      "score": 0.639
+    },
+    {
+      "word": "you",
+      "start": 177.925,
+      "end": 178.066,
+      "score": 0.908
+    },
+    {
+      "word": "should",
+      "start": 178.106,
+      "end": 178.266,
+      "score": 0.939
+    },
+    {
+      "word": "like",
+      "start": 178.306,
+      "end": 178.407,
+      "score": 0.99
+    },
+    {
+      "word": "to",
+      "start": 178.447,
+      "end": 178.487,
+      "score": 0.975
+    },
+    {
+      "word": "be",
+      "start": 178.547,
+      "end": 178.607,
+      "score": 0.938
+    },
+    {
+      "word": "remembered",
+      "start": 178.647,
+      "end": 179.009,
+      "score": 0.731
+    },
+    {
+      "word": "for",
+      "start": 179.069,
+      "end": 179.169,
+      "score": 0.823
+    },
+    {
+      "word": "your",
+      "start": 179.249,
+      "end": 179.41,
+      "score": 0.897
+    },
+    {
+      "word": "major",
+      "start": 179.47,
+      "end": 179.771,
+      "score": 0.903
+    },
+    {
+      "word": "contribution",
+      "start": 179.811,
+      "end": 180.413,
+      "score": 0.943
+    },
+    {
+      "word": "to",
+      "start": 180.453,
+      "end": 180.513,
+      "score": 0.86
+    },
+    {
+      "word": "oceanography,",
+      "start": 180.634,
+      "end": 181.215,
+      "score": 0.549
+    },
+    {
+      "word": "what",
+      "start": 181.256,
+      "end": 181.376,
+      "score": 0.909
+    },
+    {
+      "word": "would",
+      "start": 181.416,
+      "end": 181.557,
+      "score": 0.745
+    },
+    {
+      "word": "you",
+      "start": 181.577,
+      "end": 181.697,
+      "score": 0.96
+    },
+    {
+      "word": "choose?",
+      "start": 181.777,
+      "end": 182.098,
+      "score": 0.96
+    },
+    {
+      "word": "Myself?",
+      "start": 183.563,
+      "end": 184.004,
+      "score": 0.694
+    },
+    {
+      "word": "For",
+      "start": 184.165,
+      "end": 184.265,
+      "score": 0.993
+    },
+    {
+      "word": "yourself.",
+      "start": 184.305,
+      "end": 184.646,
+      "score": 0.969
+    },
+    {
+      "word": "That",
+      "start": 187.154,
+      "end": 187.294,
+      "score": 0.76
+    },
+    {
+      "word": "was",
+      "start": 187.314,
+      "end": 187.375,
+      "score": 0.639
+    },
+    {
+      "word": "a",
+      "start": 187.415,
+      "end": 187.435,
+      "score": 0.991
+    },
+    {
+      "word": "good",
+      "start": 187.475,
+      "end": 187.615,
+      "score": 0.817
+    },
+    {
+      "word": "program,",
+      "start": 187.696,
+      "end": 188.057,
+      "score": 0.708
+    },
+    {
+      "word": "man.",
+      "start": 188.077,
+      "end": 188.157,
+      "score": 0.218
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.94,
+    "Neutral": 0.873,
+    "Bad": 0.781
+  }
+}
