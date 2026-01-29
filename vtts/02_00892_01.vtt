@@ -1,0 +1,1455 @@
+WEBVTT
+
+00:01.803 --> 00:26.646
+We were talking about the second method course 
+that we have and I was telling you that in that one we
+
+00:01.803 --> 00:26.646
+cover about five, six different topics and one is 
+the land use transportation methods and it's a
+
+00:01.803 --> 00:26.646
+little perhaps mathematical and theoretical but 
+the intention is that to cover the concepts which
+
+00:26.626 --> 00:31.314
+would be helpful for planners to understand the 
+urban and especially the regional area. By
+
+00:31.454 --> 00:34.058
+regional, I mean like Dallas-Fort Worth region. I 
+don't mean big regions like Texas, etc. And I found
+
+00:37.464 --> 00:45.938
+out that that is very much helpful for planners to 
+go through that exposition to understand all
+
+00:37.464 --> 00:45.938
+those theories. And then another topic of 
+importance is evaluation we go through the
+
+00:52.090 --> 01:09.306
+basically cost benefit type of things and we have 
+exercises to do and in fact the planning related
+
+00:52.090 --> 01:09.306
+exercise to go through I think that's very 
+important for them to basically to be exposed to
+
+01:09.286 --> 01:18.326
+Then we have population and employment 
+projection methods, which I think any planner
+
+01:09.286 --> 01:18.326
+should be able to do rough calculation of the 
+projection of what's going to happen in the
+
+01:09.286 --> 01:18.326
+future. Do you use cohort? The cohort survival and 
+also the trend analysis of linear trend, curve
+
+01:21.373 --> 01:27.065
+linear trends, etc. Their formulation, how to do 
+it. In fact, there is an assignment for them to do
+
+01:28.709 --> 01:32.857
+that, to do these type of things. Do they do it by 
+hand, or do they use a computer program? No, in this
+
+01:37.305 --> 01:39.089
+course, no computer. Computer is mostly in the 
+statistics course, and they do basically... I
+
+01:43.317 --> 01:49.268
+have cut all the proofs, et cetera, in the 
+statistics course, as basically to... I'm
+
+01:49.288 --> 01:50.751
+presenting them where... the conceptual things 
+that in my mind they need to know but there are five
+
+01:51.372 --> 02:15.304
+major computer assignments that they put 
+together data and basically starting from the
+
+01:51.372 --> 02:15.304
+simplest one they do one by one and get to the 
+regression assignment which is the most complex
+
+01:51.372 --> 02:15.304
+one and then we repeat the regression assignment 
+also in the second method course as just the review
+
+02:15.284 --> 02:44.464
+just again because of my own view that I think 
+regression is the most applied and close to
+
+02:15.284 --> 02:44.464
+planning and can be applied and they put together 
+some planning related one in the second course and
+
+02:15.284 --> 02:44.464
+basically do that here they learn both a major 
+statistical package computer package both
+
+02:15.284 --> 02:44.464
+courses I mean and also they go and apply that so 
+hopefully they're gonna become efficient with
+
+02:15.284 --> 02:44.464
+that but then rest of the course all the 
+assignments are manual like that population
+
+02:45.035 --> 03:14.991
+projection one is a manual one and then the 
+evaluation one which is a major development case
+
+02:45.035 --> 03:14.991
+in the downtown and they're going to evaluate to 
+see if does it work to make to basically build it it
+
+02:45.035 --> 03:14.991
+is for cities like a parking structure or 
+something a feasibility study basically to see is
+
+02:45.035 --> 03:14.991
+it beneficial for them to they have a piece of land 
+and they're gonna see that if it is good for them to
+
+02:45.035 --> 03:14.991
+build a big parking structure public parking or 
+would be better for them to sell to someone else to
+
+03:14.971 --> 03:30.887
+make an office building or whatever something 
+like that but there's so many issues involved like
+
+03:14.971 --> 03:30.887
+transportation they have a rail system coming and 
+the benefit of putting a parking here versus
+
+03:14.971 --> 03:30.887
+reducing the rail, transit riders, etc. Then we 
+have overview of shift and share and input output,
+
+03:34.112 --> 03:44.707
+those type of regional economic analysis that I 
+thought the concepts is necessary for them. We
+
+03:45.428 --> 03:56.183
+have review of linear programming in a sense that 
+linear programming in some senses are exactly
+
+03:45.428 --> 03:56.183
+planning because you want to maximize the 
+benefits to the society under given such
+
+03:56.163 --> 04:00.931
+constants, and that is basically the definition 
+of planning. And then you have a methodology that
+
+04:01.312 --> 04:04.016
+basically does that. Again, we don't want to make 
+them applied linear programmers or something. We
+
+04:08.985 --> 04:15.977
+just want them to know that there is such a concept 
+very similar to planning and a basic mathematical
+
+04:08.985 --> 04:15.977
+concept that can be done. There are a bunch of these 
+type of small methods. I have written a small
+
+04:19.858 --> 04:23.742
+paper, which unfortunately I haven't been able to 
+publish that. We're basically going through my
+
+04:23.762 --> 04:28.747
+philosophy of the method courses for planning. If 
+you are interested, I can provide you with a copy.
+
+04:31.650 --> 04:33.332
+Yeah, I'd like that very much. I used to teach the 
+course in methods and techniques at A&M.
+
+04:40.259 --> 04:43.062
+So here is another architect teaching. It was a 
+course that I came to enjoy, but I was backed into it
+
+04:43.598 --> 04:52.792
+because no one else wanted to teach it. And so I had 
+to become familiar with demographic forecasting
+
+04:54.214 --> 05:03.989
+and different economic-based theories and 
+whatnot. And then, of course, we got computers in
+
+05:04.009 --> 05:08.656
+our department. Everybody thought that we should 
+get computerized in that course. which I was
+
+05:13.147 --> 05:39.238
+reluctant to do because I felt that the students 
+should know how to do this by hand, and that
+
+05:13.147 --> 05:39.238
+particularly with the cohort survival 
+technique, that they might lose one of the
+
+05:13.147 --> 05:39.238
+essential attributes of the technique in not 
+cranking in changes in migration rates by cohort
+
+05:39.674 --> 05:57.091
+or survival rates or whatever, and that they would 
+just simply punch a button and the computer would
+
+05:39.674 --> 05:57.091
+assume everything would stay the same and it would 
+grind out numbers, which is exactly what happened
+
+05:39.674 --> 05:57.091
+after I was almost forced to go to computer on it by 
+outside pressures in the department. So it
+
+05:58.452 --> 06:09.563
+happened, and I predicted it would, and I think 
+that it was a mistake to do that. the computers to be
+
+06:09.661 --> 06:28.868
+used at all, I think it should be at the end of the 
+semester where it's a hands-on sort of thing and
+
+06:09.661 --> 06:28.868
+the students are required to make changes in 
+migration rights and birth and death rates and so
+
+06:09.661 --> 06:28.868
+forth. cohort and by time increment. You know, I 
+don't use computer in that course exactly for,
+
+06:33.780 --> 06:50.772
+partly for that reason and partly because up to now 
+there is no good packages available to do that, to
+
+06:33.780 --> 06:50.772
+do gravity model, to do land use model, etc. And 
+even if become available, I guess that would be
+
+06:51.308 --> 06:57.927
+another course that, OK, we covered the theory. 
+Now let us go and do applied in the computer.
+
+07:02.952 --> 07:06.216
+Personally, I don't want to spend time of learning 
+those computer things. Every day, they are
+
+07:06.396 --> 07:08.539
+changing all these packages. But I guess if ever I 
+was forced to do the same way, I'd have to do
+
+07:09.140 --> 07:14.947
+something about it. I think for us as the planners, 
+it's more important to understand the concepts.
+
+07:18.971 --> 07:23.737
+And if we really need to use it, we can always go 
+ahead and learn the packages. And especially that
+
+07:23.857 --> 07:29.124
+nowadays, they try to put the packages in a way that 
+one can learn by himself. So they can go and learn it
+
+07:29.144 --> 07:31.727
+and apply it. Taking a look at the future of 
+planning education in Texas, do you see any
+
+07:33.310 --> 07:55.729
+changes in the whole system of having three
+
+07:33.310 --> 07:55.729
+certified programs?
+
+07:55.749 --> 08:03.115
+You know, I know that we have three programs which 
+may look a little small for such a big state. But on
+
+08:03.635 --> 08:10.484
+the other hand, I believe that none of the schools 
+has been too big to justify any other program. As
+
+08:10.524 --> 08:15.191
+far as I know, all three programs have had only a 
+handful of students. Am I right? I think so. Well,
+
+08:16.893 --> 08:23.281
+we usually have, at any one time, around 65 to 70 
+enrolled. In master program or? Well, in all three
+
+08:24.924 --> 08:26.966
+degree programs. We have the Master of Science in 
+Land Development, the MUP, and the PhD. But if you
+
+08:33.942 --> 08:44.198
+put the PhD separate, and perhaps in the land 
+development a little bit separate, you are going
+
+08:33.942 --> 08:44.198
+to have about 40, am I right? 40 is not, I mean, 40 you 
+and perhaps about 30, 40... If we stay with 40 that
+
+08:51.340 --> 08:56.626
+we are now, it would be 120. And I remember coming 
+from Los Angeles area, in Los Angeles alone, there
+
+08:58.588 --> 09:06.096
+were three, four planning programs. Each one of 
+them, at least UCLA and USC, I believe, had about
+
+09:07.477 --> 09:14.465
+50, 60 each. And then there was Cal Poly program 
+that had 150 students or something. Pomona one.
+
+09:22.112 --> 09:31.824
+And then there was that private school I forgot 
+which the name of the program wasn't directly
+
+09:22.112 --> 09:31.824
+planning, it was something like public 
+administration. Pepperdine? Pepperdine. They
+
+09:33.446 --> 09:34.948
+had some students there too. So one metropolitan 
+area almost having twice of all our students. So in
+
+09:41.076 --> 09:45.782
+some sense I don't think that we need more schools, 
+at least for now. But on the other hand, I believe
+
+09:45.998 --> 09:59.674
+that this growth which happened in Texas happened 
+so fast that so many of the communities couldn't
+
+09:45.998 --> 09:59.674
+realize that they needed planners to handle that. 
+But now that the wave is gone and they have seen how
+
+10:00.294 --> 10:07.683
+much mistakes they have done, hopefully they 
+realize that they have done mistakes. Some of them
+
+10:07.883 --> 10:11.247
+I'm sure they won't realize. Some of them are 
+realizing now and they are starting to hire or to
+
+10:11.918 --> 10:19.691
+feel that gradually they need to have such staff 
+there. So I feel that gradually, very slowly, the
+
+10:19.711 --> 10:29.927
+demand for planners is going to increase a little 
+bit, at least in the public sector, especially in
+
+10:19.711 --> 10:29.927
+cities and counties, et cetera. if that trend is 
+correct then perhaps we're going to have a little
+
+10:30.211 --> 10:50.532
+bit more demand but that doesn't to me that doesn't 
+mean that we're going to have 100 students each or
+
+10:30.211 --> 10:50.532
+something means that we're going to move from 40 to 
+50 because we are talking about stable type of
+
+10:30.211 --> 10:50.532
+situations but in regard to what area we'll need to 
+cover for those things. Of course, one area is just
+
+10:54.582 --> 11:13.374
+dealing with the growth and managing the urban 
+areas, because it is traditional in Texas that so
+
+10:54.582 --> 11:13.374
+many areas have just used to manage the urban areas 
+without planning, or even without zoning, as the
+
+10:54.582 --> 11:13.374
+case of Houston, etc. And gradually, I think, 
+these things would, the wave has started, of
+
+11:16.634 --> 11:23.601
+course, years ago to come from west and east to 
+here. And if we consider that trend, we're going to
+
+11:24.782 --> 11:33.751
+see that more cities are going to have formal 
+planning organizations or counties. So there is a
+
+11:34.052 --> 11:36.354
+need in that side to be fulfilled. I think we have a 
+mission to teach actual practice of planning in
+
+11:36.374 --> 11:45.223
+terms of physical planning, that they go and do it. 
+On the other hand, there are all the new areas of
+
+11:45.710 --> 11:56.322
+planning, which has been, I don't know, the output 
+of, say, 60s and 70s. And perhaps in some regions,
+
+11:56.862 --> 12:01.347
+it's starting to come down and semi-die off. Some 
+of those ways are going to come here, like social
+
+12:01.367 --> 12:08.595
+planning a little bit, or I don't know, other 
+health planning. other discussions which may not
+
+12:08.795 --> 12:37.789
+be directly a core area of planning or physical 
+planning or so and those I think being already
+
+12:08.795 --> 12:37.789
+discovered by different communities and 
+organizations even private sector one as we were
+
+12:08.795 --> 12:37.789
+talking real estate etc I think there is also 
+demand there that we got to try to fulfill those so
+
+12:08.795 --> 12:37.789
+overall the way I see planning here and I think that 
+we should gear up to train people for both of those,
+
+12:38.039 --> 12:52.661
+both the public side, which is the actual physical 
+planning side, but also the other social and art
+
+12:38.039 --> 12:52.661
+things.
+
+12:52.681 --> 13:01.515
+We have one student that graduated with a clear 
+idea of going into institutional planning.
+
+13:02.204 --> 13:04.567
+I didn't quite know what he meant by that. I don't 
+know what you're talking about. But what he wanted
+
+13:08.511 --> 13:21.045
+to do was actually restructure organizations
+
+13:08.511 --> 13:21.045
+and to look at them from an effectiveness point of 
+view. And he started out in the New Orleans school
+
+13:21.806 --> 13:26.311
+district. So there are all sorts of little niches 
+that people can move into. The question that has
+
+13:32.596 --> 13:54.540
+come up with Paul that perhaps the three 
+accredited schools can't teach every specialty
+
+13:32.596 --> 13:54.540
+and that maybe we ought to get together and 
+identify what the needs of Texas are. And then
+
+13:55.141 --> 13:56.382
+separate the area. And then who has what kinds of 
+current capabilities and then draw some
+
+14:01.823 --> 14:04.325
+conclusions from that. And we already have a 
+cooperative agreement with the University of
+
+14:05.646 --> 14:13.373
+Texas at Austin. And that, frankly, is on paper 
+only. It doesn't seem to be functioning very well.
+
+14:21.100 --> 14:22.261
+Which is what? Pardon? Which is what? That a 
+student can take a course at the University of
+
+14:23.863 --> 14:29.468
+Texas If it is similar to what offered at A&M, they 
+can take it, for example, during the summertime if
+
+14:29.785 --> 14:36.575
+they are in an internship there. And we can include 
+it in their degree program for credit at A&M, which
+
+14:36.835 --> 14:44.907
+seems only logical. But logic does not prevail in 
+academia. Yeah, especially by the way of funding.
+
+14:52.773 --> 14:57.058
+I don't know how is your funding system, but I 
+believe it would be very similar to ours.
+
+14:57.078 --> 15:00.261
+Eventually, we are one type of system, I think. If 
+you are going to create ours, you've got to
+
+15:00.281 --> 15:08.110
+naturally try to keep all the created ours for 
+yourself, and that would create the problem.
+
+15:08.130 --> 15:09.872
+Sure. So it's a problem. We ran into all sorts of red 
+tape with this one particular student. Not all of
+
+15:18.655 --> 15:33.235
+it because of the institutional arrangements, 
+some of it was because of the enthusiasm of the
+
+15:18.655 --> 15:33.235
+student in moving ahead of the ability of the 
+organizational structure to handle it. But these
+
+15:33.255 --> 15:38.983
+sorts of things can be worked out, it seems to me. 
+And not that I think that there's an advantage of
+
+15:39.243 --> 15:45.912
+having multiple schools and planning. And I also 
+think that UT Arlington is geographically
+
+15:46.516 --> 15:54.208
+situated the best of any of them. Yeah, because the 
+other one is in Austin, and there's nothing in
+
+15:54.228 --> 15:58.534
+Houston. You are the closest one to Houston. Well, 
+Texas Southern. But they are not accurate. Do they
+
+16:06.146 --> 16:08.049
+have a planning program? Essentially no longer.
+
+16:13.017 --> 16:15.240
+That, it's... predominantly Negro college, and 
+John Shanahan taught there for a while, but he's no
+
+16:15.980 --> 16:27.056
+longer with them.
+
+16:27.196 --> 16:32.444
+Are there any thoughts that you want to include 
+that we haven't already touched on? Not really at
+
+16:32.825 --> 16:35.689
+this moment. Just come to my mind later. Okay, 
+well, you'll be getting a transcript of this
+
+16:38.052 --> 16:41.177
+whenever It's completed. Sure. And then you can go 
+over it again and make any notations you wish.
+
+16:49.695 --> 16:50.476
+Okay. Thank you very much. Thank you.
+
+16:55.002 --> 16:58.267
+This is June 19, 1987. We are in the office of Dr. 
+Joel Goldstein at the University of Texas in
+
+16:58.848 --> 17:04.296
+Arlington. Joel, let's begin with your 
+background, your education, your first
+
+17:05.137 --> 17:21.480
+professional work, and then how it came that you 
+landed at Arlington. Let's go back in history. I
+
+17:23.222 --> 17:28.630
+was an undergraduate to a bachelor's degree in 
+architecture from the University of
+
+17:23.222 --> 17:28.630
+Pennsylvania in Philadelphia. and was an 
+assistant for a number of planning professors and
+
+17:29.740 --> 17:39.730
+courses, a work assistant as an undergraduate. 
+Got interested in planning, took planning
+
+17:39.750 --> 17:49.360
+courses, had joint studios with Paul Davidoff and 
+Ian McCarr and a bunch of others. Was Myerson there
+
+17:49.480 --> 17:50.601
+then? Yes. Everybody was there. Dykman, Wheaton. 
+Yes. The golden era. Right. The golden era. I got
+
+17:59.710 --> 18:05.438
+interested in planning and knew that I wasn't 
+going to... What was the date you got your
+
+17:59.710 --> 18:05.438
+architecture degree? June 1963. And it was... I 
+knew that I wasn't going to just be an architect
+
+18:10.886 --> 18:15.613
+with my professional planning degree. I was going 
+to get a professional planning degree someday or
+
+18:15.633 --> 18:18.637
+other. And I ended up working and practicing and 
+getting licensed in Philadelphia, Pennsylvania
+
+18:19.959 --> 18:28.671
+first. I'm taking the licensing exam for New 
+Jersey, no reciprocity across the river. I take
+
+18:35.087 --> 18:36.449
+the exam all over again. I'm licensed in New Jersey 
+as an architect, and I look for graduate schools.
+
+18:42.177 --> 18:44.701
+It was after about six years of practice in 
+Philadelphia.
+
+18:49.208 --> 18:51.070
+Okay. And ended up looking at schools and ended up 
+getting a master's in urban design at Washington
+
+18:54.740 --> 19:20.486
+University in St. Louis, spending about a year 
+there on campus, and then went for a couple of years
+
+18:54.740 --> 19:20.486
+to Tulsa, Oklahoma to run a community design 
+center in a black neighborhood in a low-income
+
+18:54.740 --> 19:20.486
+Indian neighborhood in Tulsa for a couple of 
+years. What year was that? That was 1969-70.
+
+19:26.600 --> 19:39.114
+And during that time, I lived in Tulsa, worked at 
+the design center, and commuted to Stillwater
+
+19:26.600 --> 19:39.114
+three days a week for classes, other classes I was 
+responsible for as a faculty member. And worked in
+
+19:40.836 --> 19:52.590
+Citizens Action there, and then more or less had a 
+better offer in Detroit and went on the faculty of
+
+19:40.836 --> 19:52.590
+the University of Detroit. as an associate 
+professor, jumping rank from assistant to
+
+19:52.570 --> 19:57.055
+associate. And at the same time, worked in the 
+profession as second in charge of architectural
+
+19:58.137 --> 20:13.815
+design and chief planner for Giffles Associates 
+in Detroit, the third largest AE firm in the world.
+
+20:15.257 --> 20:21.244
+Flew all around the country doing projects while I 
+was on the faculty. at the University of Detroit,
+
+20:22.051 --> 20:26.056
+teaching planning, urban design, and 
+architecture. Sounds like a good combination.
+
+20:29.200 --> 20:35.227
+Yeah, it was for a couple of years, and then I took my 
+PhD while I was doing all of that. And ended up,
+
+20:37.210 --> 20:50.286
+about the five years I was in Detroit, the last 
+three years, not teaching at University of
+
+20:37.210 --> 20:50.286
+Detroit, but just doing my PhD in Giffles 
+Associates. and got my PhD at Michigan State
+
+20:51.768 --> 21:11.339
+University, East Lansing, in urban and regional 
+planning with cognate areas in social psychology
+
+20:51.768 --> 21:11.339
+and political science, social change, studying 
+psychology and psychometric, psychological
+
+20:51.768 --> 21:11.339
+statistics. Strange combination. So you moved 
+away from physical design. Totally into this
+
+21:16.706 --> 21:20.910
+social planning. Then I
+
+21:20.930 --> 21:30.160
+was offered the job here to come in as the first 
+director of the planning program in the School of
+
+21:20.930 --> 21:30.160
+Architecture. Probably in 1975,
+
+21:31.061 --> 21:42.193
+fall of 1975, as their first director of the 
+planning program. the new planning program here
+
+21:42.393 --> 21:45.738
+at UT Arlington. That's when we met. Right.
+
+21:50.185 --> 22:12.197
+And one thing, as an inexperienced planning 
+professor
+
+21:50.185 --> 22:12.197
+at this school, inexperienced with Texas, I began 
+to learn and practice in my spare time when I wasn't
+
+21:50.185 --> 22:12.197
+involved with university duties.
+
+22:13.730 --> 22:20.424
+Dallas-Fort Worth and big projects around the 
+country.
+
+22:20.444 --> 22:28.640
+Taking a look at the program here, what would you 
+say are its strong points and its weak points?
+
+22:29.823 --> 22:31.286
+Strong ones first. Definite strong points is its 
+balanced balanced emphasis towards development
+
+22:35.937 --> 22:46.516
+and
+
+22:35.937 --> 22:46.516
+cities. In other words, the social aspects, the 
+residents, are not seen as black hats or white
+
+22:54.500 --> 22:56.442
+hats. The developers are not seen as black hats or 
+white hats. Both sides seem to be taught by the
+
+22:59.886 --> 23:04.672
+faculty as being equally as important. The 
+balance is there. Number two, I think that the
+
+23:07.375 --> 23:22.752
+strong point is that as a commuting school, the 
+only one in the region that we know of, by region I
+
+23:07.375 --> 23:22.752
+mean broad, let's say six, seven, eight state 
+regions, where are primarily a commuting school,
+
+23:24.200 --> 23:29.287
+a night program. And that's a strength because in 
+the tight times of planning jobs in this almost 12
+
+23:30.709 --> 23:48.452
+years that I've been here, it has given students an 
+opportunity to enroll in a planning program, get
+
+23:30.709 --> 23:48.452
+their first job while a student, and graduate with 
+two or three years experience by the time they
+
+23:49.512 --> 23:55.761
+finish their coursework and they've graduated. 
+So they're already working in their job when they
+
+23:56.542 --> 23:59.126
+graduate. Or they're moving to their second job 
+with two or three years experience. So I think
+
+24:04.193 --> 24:05.315
+that's very strong. Yeah, it has benefits in the 
+classroom, too. Yes, it does. There's lots of war
+
+24:08.660 --> 24:10.963
+stories that get told. And there's a lot of 
+networking that the students do between each
+
+24:12.547 --> 24:18.354
+other in the classroom. The disadvantages are the 
+same thing. Those commuting students are tired
+
+24:20.637 --> 24:23.241
+from having worked all day. They come in the 
+classroom at night, 7 o'clock at night. Many of
+
+24:26.705 --> 24:32.673
+them can't keep their head up because they've been 
+studying hard the nights before in preparation
+
+24:26.705 --> 24:32.673
+for classwork. And you can't go as late as you'd 
+like. What about the faculty? Faculty are sleepy,
+
+24:39.477 --> 24:40.639
+too. Demands on the faculty. Faculty, if you teach 
+two nights a week, which is our typical teaching
+
+24:42.361 --> 24:58.079
+load, until 10.30 at night, from 7 to 10.30, the 
+pressures, the social pressures of the job are to
+
+24:42.361 --> 24:58.079
+be in your office all during the day. And if you're 
+not in in the morning, the other faculty kind of
+
+24:58.961 --> 25:01.604
+wander. So there's a lot of pressure, so you end up 
+with a lot of unproductive time because you're so
+
+25:05.197 --> 25:08.001
+physically tired. It is not the ideal academic 
+situation. It's great for students. It's been
+
+25:14.309 --> 25:15.470
+great for students. The way the economy is, it's 
+been bad for faculty. In
+
+25:18.414 --> 25:33.634
+terms of the substance of the curriculum here in 
+your Master of City and Regional Planning degree,
+
+25:34.677 --> 25:42.026
+How do you feel that this compares with other 
+master's degrees in planning around the
+
+25:34.677 --> 25:42.026
+countryside?
+
+25:45.490 --> 26:00.448
+I would say that a number of schools we've heard 
+about, your side, not with checking, they have
+
+25:45.490 --> 26:00.448
+their actual, any kind of, running any actual 
+testing of their graduates or anything. appears
+
+26:01.154 --> 26:05.140
+many of them are just social welfare planning 
+oriented programs. Some of the others are
+
+26:06.301 --> 26:15.475
+strictly public agency training kinds of 
+programs as a result of accreditation
+
+26:06.301 --> 26:15.475
+guidelines. I think where we kind of have 
+succeeded over the years is that we're trying to
+
+26:15.495 --> 26:24.107
+train people to go into real estate and land 
+development jobs as well as consulting jobs in
+
+26:24.644 --> 26:34.435
+addition to the public sector traditional 
+planning jobs. And because of the job market the
+
+26:35.496 --> 26:40.682
+way it is in the metro area, the job opportunities 
+have existed. And we have a number of students that
+
+26:41.223 --> 26:47.230
+have entered our program and worked for major 
+developers, major national developers.
+
+26:47.770 --> 26:50.854
+Dallas-Fort Worth has the advantage of having 
+some the most major development companies in the
+
+26:51.323 --> 26:57.110
+United States and Canada here. So it's been a 
+confluence of real estate and land development
+
+26:57.130 --> 27:02.317
+dollars for the United States. They've spilled in 
+here from Germany, from Canada, bounce in Dallas,
+
+27:02.377 --> 27:10.667
+Fort Worth, and then spill over into Houston, 
+California, to Chicago. So there's been a
+
+27:11.888 --> 27:13.430
+bouncing effect. So there's been an opportunity 
+for our students to get to work for the banking
+
+27:13.510 --> 27:21.280
+community, the financial institutions, as well 
+as the real estate and land development
+
+27:21.766 --> 27:24.348
+community. So that the planning accreditation 
+guidelines of having this public sector base
+
+27:25.750 --> 27:39.083
+begins to get broadened through the way that we've 
+been teaching in our classes.
+
+27:42.246 --> 27:50.794
+There's no doubt about it, your location is very 
+advantageous for an urban planner. certainly
+
+27:51.095 --> 27:54.559
+much better than Austin or College Station. Next 
+year you are facing the visiting team from the
+
+27:56.262 --> 28:03.731
+Accreditation Committee of APA.
+
+28:07.256 --> 28:14.726
+Recently we underwent such an examination and it 
+resulted in some changes in our core curriculum.
+
+28:14.766 --> 28:20.393
+Do you anticipate any such changes to your 
+curriculum or structure?
+
+28:23.039 --> 28:33.397
+I would say the curriculum has been just worked on 
+over the past two or three years in creating a new
+
+28:23.039 --> 28:33.397
+program that was just initiated about a year ago. I 
+don't think that any fault will be found in the new
+
+28:33.417 --> 28:40.428
+program by the accreditation team. I think there 
+may be some structural changes according to the
+
+28:41.170 --> 28:49.063
+way the planning program has been administered in 
+to the Institute of Urban Studies that go
+
+28:49.499 --> 29:02.497
+negatively to the guidelines for accreditation. 
+Well then it might help the program quite a bit by
+
+29:02.517 --> 29:10.327
+having the outside comments.
+
+29:10.347 --> 29:11.008
+I believe so. Politically I don't really wish to 
+elaborate on that. Okay, we'll go on to another
+
+29:17.116 --> 29:19.219
+topic. Regarding the future of Texas and 
+particularly planning for the future in Texas, do
+
+29:20.245 --> 29:41.967
+you see any changes in the offing in regard to 
+planning education to meet any possible changes?
+
+29:41.987 --> 29:48.514
+I think the most critical thing today is learning 
+to effectively infiltrate citizens groups to
+
+29:50.013 --> 29:58.282
+create behavioral change, that planning is being 
+stopped by residents. Any kind of change is being
+
+29:58.422 --> 30:01.745
+affected. City budgets are being affected by 
+residents. The not in my backyard syndrome is
+
+30:05.689 --> 30:16.721
+rampant with all the displacees that have come 
+here to make their fortunes, to live in the
+
+30:05.689 --> 30:16.721
+Dallas-Fort Worth area and into Texas. People are 
+settling in. And I think that it's almost going to
+
+30:19.308 --> 30:41.060
+have to be for the same kind of citizens' action 
+kinds of activities by planners into the 90s, the
+
+30:19.308 --> 30:41.060
+1990s, that are going to be very similar to the 60s 
+of the years of social planning, social welfare
+
+30:19.308 --> 30:41.060
+planning, for opposite reasons. A rebirth of 
+advocacy planning? Not advocacy, but let's say
+
+30:44.685 --> 30:48.471
+reverse advocacy planning. in favor of 
+pro-development in order for people to be able to
+
+30:48.755 --> 30:55.164
+get through the economic conditions of the times. 
+In other words, I see fiscal stress due to a federal
+
+30:55.845 --> 31:05.059
+deficit, budget deficit, and people having less 
+and less discretionary income. As a result of
+
+31:05.620 --> 31:18.238
+that, they can very well benefit by planning, by 
+having sound fiscal planning that is through
+
+31:05.620 --> 31:18.238
+effective pro-development postures being to 
+their ultimate advantage, that planning on the
+
+31:19.383 --> 31:42.353
+basis of what people want for them, they may not, 
+they need to be led to what they should have through
+
+31:19.383 --> 31:42.353
+professionalism, more of an elitist attitude, 
+but yet through a participatory mode. It's
+
+31:43.582 --> 31:44.403
+interesting. Paul Geisel, in answer to that 
+question, felt that planning had resurrected its
+
+31:44.884 --> 32:06.609
+good name, which came to me as a surprise because I 
+think that in our area of Texas and College Station
+
+31:44.884 --> 32:06.609
+and East Central Texas, planning is still a dirty 
+word. But he felt that in the Metroplex area, that
+
+32:10.818 --> 32:31.105
+because of citizen participation and citizen 
+planning of neighborhoods, that planning had
+
+32:10.818 --> 32:31.105
+again become quite a
+
+32:10.818 --> 32:31.105
+positive force and had achieved a new degree of 
+respect.
+
+32:33.734 --> 32:53.513
+I think there's a respect there, but I think the 
+respect is there on the part of the local elected
+
+32:33.734 --> 32:53.513
+officials who are running all the land use 
+decision-making, because they can hide behind it
+
+32:33.734 --> 32:53.513
+effectively from a legal perspective and make 
+their own self-interest decisions. So I think
+
+32:55.315 --> 33:02.222
+that's where planning may be considered 
+resurrected in the minds of the elected
+
+32:55.315 --> 33:02.222
+officials. As far as actual planning goes, I think 
+not. I think that they're clearly doing
+
+33:07.502 --> 33:16.774
+themselves in with exclusionary planning and 
+exclusionary zoning without planning. Without
+
+33:18.556 --> 33:28.549
+planning, yes, which is conceptually an 
+unacceptable procedure. Absolutely. they
+
+33:30.738 --> 33:35.347
+certainly wouldn't be able to get away with that in 
+Oregon, where planning has mattered. Or
+
+33:35.367 --> 33:44.625
+Michigan, or Wisconsin, or Florida, 
+Pennsylvania, which isn't as strong as other
+
+33:35.367 --> 33:44.625
+states, and on and on, Tennessee.
+
+33:47.731 --> 33:50.316
+Planning has been very undeveloped in Texas. And 
+you can see it and you can feel it when you operate in
+
+33:50.532 --> 33:54.517
+the arena of planning. It's clear. It's been 
+undeveloped. There's been no traditional
+
+33:57.341 --> 34:03.288
+planning that I can put my finger on except for Fort 
+Worth, Texas. Fort Worth has had the tradition
+
+34:03.869 --> 34:18.447
+because it's been almost like a city of beautiful 
+activity by the elite who have been dilettantes in
+
+34:03.869 --> 34:18.447
+the planning since the 54 Victor Gruen plant and 
+going back even earlier than that. I haven't
+
+34:19.608 --> 34:23.072
+written about Fort Worth yet, but I have written 
+about El Paso. And El Paso's planning program got
+
+34:23.412 --> 34:26.616
+started in 1919. And they've been doing it ever 
+since. In fact, there's a question about whether
+
+34:30.481 --> 34:41.133
+or not their city council was the first in the 
+country to adopt a comprehensive plan that was
+
+34:30.481 --> 34:41.133
+professionally formulated. One usually thinks 
+that this happened in 1925 in, was it Cincinnati? I
+
+34:49.392 --> 34:52.116
+think it was Cincinnati. With Bettman? Yes, with 
+Bettman and others. And the question I'm going to
+
+34:56.302 --> 35:05.857
+have to research is the exact date on which all city 
+councils took action. Because it might be that El
+
+35:05.877 --> 35:11.485
+Paso, we might have to rewrite history. When I 
+first began here in 1975, the dean was Dean Hal Box,
+
+35:13.338 --> 35:27.112
+who was an architect and was in practice in Dallas 
+with the two others. Architectural.
+
+35:28.553 --> 35:29.734
+Architectural practice. And Hal Box was dean for 
+approximately a year during my time to a year and a
+
+35:39.393 --> 35:49.897
+half, I forget exactly which, but sometime either 
+fall of 76 or spring of 77 he left to become dean of UT
+
+35:39.393 --> 35:49.897
+Austin. At that time an acting dean, or interim 
+dean, was George Wright, for about a year or two,
+
+35:56.251 --> 36:03.486
+and they had a search, and the university selected 
+George Wright to be the new dean. George Wright
+
+36:03.946 --> 36:05.009
+stayed there. Another architect? Another 
+architect from Albuquerque. They'd been in an
+
+36:09.117 --> 36:12.724
+unsuccessful practice in Albuquerque. And he had 
+been an assistant to Hal Box, and that's how he
+
+36:13.447 --> 36:20.414
+basically got it. Older man, the oldest person on 
+the faculty just about, so therefore you must know
+
+36:20.695 --> 36:28.503
+something because he's of age. And
+
+36:29.864 --> 36:42.998
+what then happened was that planning was 
+considered a program with a shared budget with a
+
+36:43.585 --> 36:52.454
+landscape architecture program, architecture 
+and interior design. The numbers were
+
+36:54.096 --> 37:03.806
+misbalanced and all of the undergraduates 
+selecting a major were advised by architecture
+
+36:54.096 --> 37:03.806
+professors. Sounds like A&M. So the architecture 
+professors steered, in my opinion, steered
+
+37:11.497 --> 37:30.077
+students into architecture, the bulk was in 
+architecture, a very few in number or interior
+
+37:11.497 --> 37:30.077
+design, and planning got, did not get their share 
+in the undergraduate emphasis. As far as the
+
+37:30.938 --> 37:39.867
+graduate program went, we were left alone, but we 
+shared budgets with architecture and planning,
+
+37:30.938 --> 37:39.867
+graduate. Our first students were... Is that 
+still the situation? No, let me give you the
+
+37:44.118 --> 37:45.741
+history. Upon applying for accreditation and 
+working with it, the former dean, Dean Wright,
+
+37:47.043 --> 38:01.144
+gave separate budgeting power and autonomy of 
+program to the planning program. And we obtained
+
+38:02.346 --> 38:09.617
+our accreditation, I believe, in 77 or 78, 
+remarkably quick. because of their support. And
+
+38:15.267 --> 38:38.743
+we had four years within the School of 
+Architecture, and during that time, the planning
+
+38:15.267 --> 38:38.743
+faculty, Gene Brooks and a fellow named Barry 
+Rubin, who was a graduate of the University of
+
+38:15.267 --> 38:38.743
+Wisconsin, and some graduate students, of ours 
+made a political move to get planning out of the
+
+38:39.888 --> 39:00.467
+School of Architecture and successfully moved it 
+out of architecture, succeeded in doing so, and
+
+38:39.888 --> 39:00.467
+moved it into the graduate school. Jean Brooks 
+stayed behind in the School of Architecture as a
+
+39:01.168 --> 39:06.773
+teacher of undergraduate urban design Barry 
+Rubin got a distaste for the university and left to
+
+39:07.580 --> 39:16.210
+go to the University of Indiana to teach planning.
+
+39:20.514 --> 39:36.152
+So we were under the graduate dean as an 
+interdisciplinary program for two years with a
+
+39:20.514 --> 39:36.152
+sociologist for a department chairman. who had 
+been appointed by new disciplinary planning
+
+39:37.448 --> 39:41.313
+faculty. Who was that? That was Lee Taylor, 
+L-E-E-T-A-Y-L-O-R.
+
+39:42.314 --> 40:06.426
+Lee Taylor's interest was Newtowns as a 
+sociologist, and at the end of two years,
+
+39:42.314 --> 40:06.426
+we clearly did not have faculty representation on 
+campus on any committees, faculty senate, and all
+
+40:07.317 --> 40:07.958
+that. And the dean of the graduate school had us as 
+the only academic unit under his tutelage. So he
+
+40:13.582 --> 40:14.383
+didn't want us. So we were asked to recommend a 
+place on campus. Vice President for Academic
+
+40:20.768 --> 40:32.798
+Affairs went to our faculty, and we agreed with his 
+recommendation to come into the Institute of
+
+40:20.768 --> 40:32.798
+Urban Studies, which we are now. We came in as a 
+full-fledged department. with accreditation.
+
+40:39.391 --> 40:42.055
+We had an accreditation team visit within two 
+years. At that time, which was about six years
+
+40:42.696 --> 40:54.513
+thereafter of me coming here, I again became 
+chairman of the Department of City and Regional
+
+40:42.696 --> 40:54.513
+Planning. At this time it was a department. It was a 
+department for a full year, and the dean made a
+
+40:57.357 --> 41:06.670
+decision that there would be no departments, that 
+we would be called a program.
+
+41:09.215 --> 41:15.268
+So my business cards went from chairman to 
+director. And there were directors of criminal
+
+41:16.410 --> 41:21.621
+justice, director of urban affairs, director of 
+city and regional planning. That was, we had... We
+
+41:28.537 --> 41:33.685
+had a space on the second floor of University Hall 
+that was just city and regional planning. We were
+
+41:33.725 --> 41:37.530
+not integrated with the Institute of Urban 
+Studies on the fifth floor. We were separate and
+
+41:37.790 --> 41:44.961
+distinct from the very high visibility portion of 
+the building where everyone could see us up at the
+
+41:37.790 --> 41:44.961
+stairwell.
+
+41:47.585 --> 41:53.894
+And we succeeded to gain in enrollments and we were 
+doing just fine. The dean made a decision to
+
+41:58.169 --> 42:26.185
+integrate us fully with the institute of urban 
+studies
+
+41:58.169 --> 42:26.185
+well you the dean had just asked you to take the job 
+as chairman and you declined and i declined i had
+
+41:58.169 --> 42:26.185
+some research interest and i felt that for my own 
+professional academic career, it was time for me
+
+42:26.603 --> 42:32.470
+to work toward promotion to full professor level. 
+And I had also some interesting outside
+
+42:34.332 --> 42:40.800
+consulting projects directly related to my 
+university teaching. Comprehensive plans for
+
+42:41.280 --> 42:53.995
+communities to do, advisory to different cities 
+on urban design matters, and some ordinance
+
+42:41.280 --> 42:53.995
+writing.
+
+42:55.190 --> 43:01.438
+So you continued on as a teaching professor 
+without administrative responsibilities.
+
+43:01.458 --> 43:02.739
+Which is where I am now. And who took over as 
+department chairman? Well, it appears from what
+
+43:06.304 --> 43:12.251
+has been said that the dean of the Institute of 
+Urban Studies has. There was no department
+
+43:12.992 --> 43:15.034
+chairman. Has not been for two years.
+
+43:21.282 --> 43:23.965
+What will happen when the APA accreditation team 
+visits, and they discover you have no department
+
+43:24.687 --> 43:29.533
+head.
+
+43:32.476 --> 43:36.721
+I would assume that that will be one of the items 
+that they write up as being a deficiency. I would
+
+43:37.282 --> 43:38.383
+think so, too. And do you have control over your 
+budget currently? No, the dean controls the
+
+43:44.771 --> 43:48.556
+budget. When did that change? That changed when I 
+was no longer when he eliminated all the directors
+
+43:55.130 --> 43:58.514
+in the Institute of Urban Studies. And
+
+43:59.055 --> 44:04.801
+does he understand the consequences of that?
+
+44:07.825 --> 44:09.066
+It had been explained to him.
+
+44:16.815 --> 44:24.124
+As far as
+
+44:16.815 --> 44:24.124
+the day-to-day operations of the department go, 
+You mentioned that Arj Anjamani is in charge of the
+
+44:24.813 --> 44:33.265
+graduate studies. He is graduate advisor. 
+Advisor. And what does Bob Wagner do these days?
+
+44:42.118 --> 44:53.554
+Bob Wagner teaches in the planning program, 
+teaches courses in the planning program,
+
+44:42.118 --> 44:53.554
+graduate, and he works on the Texas chapter APA 
+newsletter. And he is working as an editor on the
+
+44:54.091 --> 45:03.503
+Texas Planning Magazine, which had been at A&M 
+University. He's quite busy. And he also does
+
+45:04.444 --> 45:10.792
+training courses for lay planning 
+practitioners. Lay planners, rather. There's
+
+45:13.335 --> 45:20.925
+some question in my mind about whether or not that 
+is in competition with the short course offered by
+
+45:13.335 --> 45:20.925
+the Texas chapter.
+
+45:23.673 --> 45:32.448
+I think that it is not because it ends up being a 
+special course for one community that he'll
+
+45:23.673 --> 45:32.448
+travel down to. If the vehicle,
+
+45:33.409 --> 45:45.630
+the annual short course is a large operation. 
+where people come from all over the country, all
+
+45:45.982 --> 45:49.685
+over the state, rather. I really don't think that 
+it is in competition. At first I thought that, but
+
+45:53.989 --> 45:59.975
+not since I've seen some of his attendance lists. I 
+think a lot would depend upon the material
+
+46:01.916 --> 46:04.199
+covered. It varies. Sometimes he's talking to 
+them about capital budgets. Sometimes it's
+
+46:10.364 --> 46:15.769
+strictly about what planning is and why you should 
+plan. Other times it's about ordinances. Well, we
+
+46:19.344 --> 46:28.189
+certainly don't need to have any paucity of 
+spreading the word about planning.
+
+46:31.021 --> 46:40.232
+The fiscal condition of the University of Texas at 
+Arlington has been abysmal for the last five years
+
+46:31.021 --> 46:40.232
+as far as planning goes and the Institute of Urban 
+Studies. Faculty raises have not been of any
+
+46:40.913 --> 46:44.197
+substance whatsoever. They've been less than 
+Texas A&M and UT Austin. And the raises, the
+
+46:48.882 --> 46:57.332
+faculty raises, have been demoralizing
+
+46:48.882 --> 46:57.332
+and insulting.
+
