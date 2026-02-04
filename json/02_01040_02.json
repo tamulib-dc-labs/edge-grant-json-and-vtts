@@ -1,0 +1,136 @@
+{
+  "segments": [
+    {
+      "start": 12.08,
+      "end": 38.12,
+      "text": " Come here.",
+      "words": [
+        {
+          "word": "Come",
+          "start": 12.08,
+          "end": 38.0,
+          "score": 0.24
+        },
+        {
+          "word": "here.",
+          "start": 38.02,
+          "end": 38.12,
+          "score": 0.012
+        }
+      ]
+    },
+    {
+      "start": 38.14,
+      "end": 38.34,
+      "text": "Come here.",
+      "words": [
+        {
+          "word": "Come",
+          "start": 38.14,
+          "end": 38.22,
+          "score": 0.008
+        },
+        {
+          "word": "here.",
+          "start": 38.24,
+          "end": 38.34,
+          "score": 0.201
+        }
+      ]
+    },
+    {
+      "start": 38.793,
+      "end": 67.298,
+      "text": " so so",
+      "words": [
+        {
+          "word": "so",
+          "start": 38.793,
+          "end": 67.238,
+          "score": 0.458
+        },
+        {
+          "word": "so",
+          "start": 67.258,
+          "end": 67.298,
+          "score": 0.441
+        }
+      ]
+    },
+    {
+      "start": 67.835,
+      "end": 84.308,
+      "text": " All right.",
+      "words": [
+        {
+          "word": "All",
+          "start": 67.835,
+          "end": 84.168,
+          "score": 0.29
+        },
+        {
+          "word": "right.",
+          "start": 84.188,
+          "end": 84.308,
+          "score": 0.184
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Come",
+      "start": 12.08,
+      "end": 38.0,
+      "score": 0.24
+    },
+    {
+      "word": "here.",
+      "start": 38.02,
+      "end": 38.12,
+      "score": 0.012
+    },
+    {
+      "word": "Come",
+      "start": 38.14,
+      "end": 38.22,
+      "score": 0.008
+    },
+    {
+      "word": "here.",
+      "start": 38.24,
+      "end": 38.34,
+      "score": 0.201
+    },
+    {
+      "word": "so",
+      "start": 38.793,
+      "end": 67.238,
+      "score": 0.458
+    },
+    {
+      "word": "so",
+      "start": 67.258,
+      "end": 67.298,
+      "score": 0.441
+    },
+    {
+      "word": "All",
+      "start": 67.835,
+      "end": 84.168,
+      "score": 0.29
+    },
+    {
+      "word": "right.",
+      "start": 84.188,
+      "end": 84.308,
+      "score": 0.184
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.441,
+    "Neutral": 0.24,
+    "Bad": 0.184
+  }
+}

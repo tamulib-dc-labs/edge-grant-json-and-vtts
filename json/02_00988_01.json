@@ -1,0 +1,273 @@
+{
+  "segments": [
+    {
+      "start": 2.562,
+      "end": 3.364,
+      "text": " by Kelly Wood.",
+      "words": [
+        {
+          "word": "by",
+          "start": 2.562,
+          "end": 2.783,
+          "score": 0.83
+        },
+        {
+          "word": "Kelly",
+          "start": 2.863,
+          "end": 3.124,
+          "score": 0.796
+        },
+        {
+          "word": "Wood.",
+          "start": 3.144,
+          "end": 3.364,
+          "score": 0.756
+        }
+      ]
+    },
+    {
+      "start": 3.404,
+      "end": 8.078,
+      "text": "It's December 6th and the interview concerns the 60s movement.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 3.404,
+          "end": 3.525,
+          "score": 0.629
+        },
+        {
+          "word": "December",
+          "start": 3.565,
+          "end": 4.046,
+          "score": 0.94
+        },
+        {
+          "word": "6th",
+          "start": 4.066,
+          "end": 4.548,
+          "score": 0.61
+        },
+        {
+          "word": "and",
+          "start": 5.471,
+          "end": 5.591,
+          "score": 0.883
+        },
+        {
+          "word": "the",
+          "start": 5.611,
+          "end": 5.751,
+          "score": 0.731
+        },
+        {
+          "word": "interview",
+          "start": 5.812,
+          "end": 6.253,
+          "score": 0.885
+        },
+        {
+          "word": "concerns",
+          "start": 6.393,
+          "end": 6.935,
+          "score": 0.894
+        },
+        {
+          "word": "the",
+          "start": 6.975,
+          "end": 7.055,
+          "score": 0.442
+        },
+        {
+          "word": "60s",
+          "start": 7.075,
+          "end": 7.577,
+          "score": 0.68
+        },
+        {
+          "word": "movement.",
+          "start": 7.657,
+          "end": 8.078,
+          "score": 0.942
+        }
+      ]
+    },
+    {
+      "start": 10.104,
+      "end": 12.471,
+      "text": "Hi, I'm Kelly and I'm really happy.",
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 10.104,
+          "end": 10.465,
+          "score": 0.957
+        },
+        {
+          "word": "I'm",
+          "start": 10.786,
+          "end": 10.906,
+          "score": 0.768
+        },
+        {
+          "word": "Kelly",
+          "start": 10.967,
+          "end": 11.308,
+          "score": 0.837
+        },
+        {
+          "word": "and",
+          "start": 11.408,
+          "end": 11.468,
+          "score": 0.931
+        },
+        {
+          "word": "I'm",
+          "start": 11.508,
+          "end": 11.669,
+          "score": 0.721
+        },
+        {
+          "word": "really",
+          "start": 11.729,
+          "end": 11.97,
+          "score": 0.78
+        },
+        {
+          "word": "happy.",
+          "start": 12.05,
+          "end": 12.471,
+          "score": 0.838
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "by",
+      "start": 2.562,
+      "end": 2.783,
+      "score": 0.83
+    },
+    {
+      "word": "Kelly",
+      "start": 2.863,
+      "end": 3.124,
+      "score": 0.796
+    },
+    {
+      "word": "Wood.",
+      "start": 3.144,
+      "end": 3.364,
+      "score": 0.756
+    },
+    {
+      "word": "It's",
+      "start": 3.404,
+      "end": 3.525,
+      "score": 0.629
+    },
+    {
+      "word": "December",
+      "start": 3.565,
+      "end": 4.046,
+      "score": 0.94
+    },
+    {
+      "word": "6th",
+      "start": 4.066,
+      "end": 4.548,
+      "score": 0.61
+    },
+    {
+      "word": "and",
+      "start": 5.471,
+      "end": 5.591,
+      "score": 0.883
+    },
+    {
+      "word": "the",
+      "start": 5.611,
+      "end": 5.751,
+      "score": 0.731
+    },
+    {
+      "word": "interview",
+      "start": 5.812,
+      "end": 6.253,
+      "score": 0.885
+    },
+    {
+      "word": "concerns",
+      "start": 6.393,
+      "end": 6.935,
+      "score": 0.894
+    },
+    {
+      "word": "the",
+      "start": 6.975,
+      "end": 7.055,
+      "score": 0.442
+    },
+    {
+      "word": "60s",
+      "start": 7.075,
+      "end": 7.577,
+      "score": 0.68
+    },
+    {
+      "word": "movement.",
+      "start": 7.657,
+      "end": 8.078,
+      "score": 0.942
+    },
+    {
+      "word": "Hi,",
+      "start": 10.104,
+      "end": 10.465,
+      "score": 0.957
+    },
+    {
+      "word": "I'm",
+      "start": 10.786,
+      "end": 10.906,
+      "score": 0.768
+    },
+    {
+      "word": "Kelly",
+      "start": 10.967,
+      "end": 11.308,
+      "score": 0.837
+    },
+    {
+      "word": "and",
+      "start": 11.408,
+      "end": 11.468,
+      "score": 0.931
+    },
+    {
+      "word": "I'm",
+      "start": 11.508,
+      "end": 11.669,
+      "score": 0.721
+    },
+    {
+      "word": "really",
+      "start": 11.729,
+      "end": 11.97,
+      "score": 0.78
+    },
+    {
+      "word": "happy.",
+      "start": 12.05,
+      "end": 12.471,
+      "score": 0.838
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.894,
+    "Neutral": 0.83,
+    "Bad": 0.731
+  }
+}

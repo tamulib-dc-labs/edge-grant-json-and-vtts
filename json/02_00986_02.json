@@ -1,0 +1,309 @@
+{
+  "segments": [
+    {
+      "start": 2.663,
+      "end": 7.543,
+      "text": " How quietly can you talk and still be heard on this microphone here?",
+      "words": [
+        {
+          "word": "How",
+          "start": 2.663,
+          "end": 2.944,
+          "score": 0.535
+        },
+        {
+          "word": "quietly",
+          "start": 3.024,
+          "end": 3.527,
+          "score": 0.93
+        },
+        {
+          "word": "can",
+          "start": 3.607,
+          "end": 3.767,
+          "score": 0.982
+        },
+        {
+          "word": "you",
+          "start": 3.808,
+          "end": 3.928,
+          "score": 0.729
+        },
+        {
+          "word": "talk",
+          "start": 3.988,
+          "end": 4.35,
+          "score": 0.98
+        },
+        {
+          "word": "and",
+          "start": 4.45,
+          "end": 4.531,
+          "score": 0.961
+        },
+        {
+          "word": "still",
+          "start": 4.611,
+          "end": 4.892,
+          "score": 0.906
+        },
+        {
+          "word": "be",
+          "start": 4.932,
+          "end": 5.093,
+          "score": 0.894
+        },
+        {
+          "word": "heard",
+          "start": 5.213,
+          "end": 5.615,
+          "score": 0.763
+        },
+        {
+          "word": "on",
+          "start": 5.756,
+          "end": 5.836,
+          "score": 0.992
+        },
+        {
+          "word": "this",
+          "start": 5.896,
+          "end": 6.037,
+          "score": 0.875
+        },
+        {
+          "word": "microphone",
+          "start": 6.157,
+          "end": 7.001,
+          "score": 0.569
+        },
+        {
+          "word": "here?",
+          "start": 7.262,
+          "end": 7.543,
+          "score": 0.78
+        }
+      ]
+    },
+    {
+      "start": 8.346,
+      "end": 10.294,
+      "text": "Can you hear this right now?",
+      "words": [
+        {
+          "word": "Can",
+          "start": 8.346,
+          "end": 8.507,
+          "score": 0.846
+        },
+        {
+          "word": "you",
+          "start": 8.547,
+          "end": 8.647,
+          "score": 0.907
+        },
+        {
+          "word": "hear",
+          "start": 8.688,
+          "end": 8.888,
+          "score": 0.842
+        },
+        {
+          "word": "this",
+          "start": 8.969,
+          "end": 9.149,
+          "score": 0.805
+        },
+        {
+          "word": "right",
+          "start": 9.27,
+          "end": 9.511,
+          "score": 0.661
+        },
+        {
+          "word": "now?",
+          "start": 9.571,
+          "end": 10.294,
+          "score": 0.786
+        }
+      ]
+    },
+    {
+      "start": 61.979,
+      "end": 63.519,
+      "text": " I'm here testing the...",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 61.979,
+          "end": 62.266,
+          "score": 0.63
+        },
+        {
+          "word": "here",
+          "start": 62.307,
+          "end": 62.513,
+          "score": 0.814
+        },
+        {
+          "word": "testing",
+          "start": 62.615,
+          "end": 63.313,
+          "score": 0.868
+        },
+        {
+          "word": "the...",
+          "start": 63.354,
+          "end": 63.519,
+          "score": 0.693
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "How",
+      "start": 2.663,
+      "end": 2.944,
+      "score": 0.535
+    },
+    {
+      "word": "quietly",
+      "start": 3.024,
+      "end": 3.527,
+      "score": 0.93
+    },
+    {
+      "word": "can",
+      "start": 3.607,
+      "end": 3.767,
+      "score": 0.982
+    },
+    {
+      "word": "you",
+      "start": 3.808,
+      "end": 3.928,
+      "score": 0.729
+    },
+    {
+      "word": "talk",
+      "start": 3.988,
+      "end": 4.35,
+      "score": 0.98
+    },
+    {
+      "word": "and",
+      "start": 4.45,
+      "end": 4.531,
+      "score": 0.961
+    },
+    {
+      "word": "still",
+      "start": 4.611,
+      "end": 4.892,
+      "score": 0.906
+    },
+    {
+      "word": "be",
+      "start": 4.932,
+      "end": 5.093,
+      "score": 0.894
+    },
+    {
+      "word": "heard",
+      "start": 5.213,
+      "end": 5.615,
+      "score": 0.763
+    },
+    {
+      "word": "on",
+      "start": 5.756,
+      "end": 5.836,
+      "score": 0.992
+    },
+    {
+      "word": "this",
+      "start": 5.896,
+      "end": 6.037,
+      "score": 0.875
+    },
+    {
+      "word": "microphone",
+      "start": 6.157,
+      "end": 7.001,
+      "score": 0.569
+    },
+    {
+      "word": "here?",
+      "start": 7.262,
+      "end": 7.543,
+      "score": 0.78
+    },
+    {
+      "word": "Can",
+      "start": 8.346,
+      "end": 8.507,
+      "score": 0.846
+    },
+    {
+      "word": "you",
+      "start": 8.547,
+      "end": 8.647,
+      "score": 0.907
+    },
+    {
+      "word": "hear",
+      "start": 8.688,
+      "end": 8.888,
+      "score": 0.842
+    },
+    {
+      "word": "this",
+      "start": 8.969,
+      "end": 9.149,
+      "score": 0.805
+    },
+    {
+      "word": "right",
+      "start": 9.27,
+      "end": 9.511,
+      "score": 0.661
+    },
+    {
+      "word": "now?",
+      "start": 9.571,
+      "end": 10.294,
+      "score": 0.786
+    },
+    {
+      "word": "I'm",
+      "start": 61.979,
+      "end": 62.266,
+      "score": 0.63
+    },
+    {
+      "word": "here",
+      "start": 62.307,
+      "end": 62.513,
+      "score": 0.814
+    },
+    {
+      "word": "testing",
+      "start": 62.615,
+      "end": 63.313,
+      "score": 0.868
+    },
+    {
+      "word": "the...",
+      "start": 63.354,
+      "end": 63.519,
+      "score": 0.693
+    }
+  ],
+  "language": "en",
+  "word_score_buckets": {
+    "Good": 0.907,
+    "Neutral": 0.842,
+    "Bad": 0.729
+  }
+}
