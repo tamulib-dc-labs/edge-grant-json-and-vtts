@@ -1,0 +1,2097 @@
+{
+  "segments": [
+    {
+      "start": 5.195,
+      "end": 16.247,
+      "text": " Es un retrato de su hermana, que tiene 91 años, vive en Galapagar, anda mal de salud, como corresponde a su edad, y no puede venir a la recepción del Cervantes.",
+      "words": [
+        {
+          "word": "Es",
+          "start": 5.195,
+          "end": 6.016,
+          "score": 0.492
+        },
+        {
+          "word": "un",
+          "start": 6.036,
+          "end": 6.116,
+          "score": 0.896
+        },
+        {
+          "word": "retrato",
+          "start": 6.176,
+          "end": 6.556,
+          "score": 0.954
+        },
+        {
+          "word": "de",
+          "start": 6.597,
+          "end": 6.657,
+          "score": 0.866
+        },
+        {
+          "word": "su",
+          "start": 6.717,
+          "end": 6.797,
+          "score": 0.164
+        },
+        {
+          "word": "hermana,",
+          "start": 6.817,
+          "end": 7.257,
+          "score": 0.86
+        },
+        {
+          "word": "que",
+          "start": 7.978,
+          "end": 8.078,
+          "score": 0.898
+        },
+        {
+          "word": "tiene",
+          "start": 8.158,
+          "end": 8.358,
+          "score": 0.661
+        },
+        {
+          "word": "91",
+          "start": 8.378,
+          "end": 8.419,
+          "score": 0.995
+        },
+        {
+          "word": "años,",
+          "start": 8.919,
+          "end": 9.5,
+          "score": 0.881
+        },
+        {
+          "word": "vive",
+          "start": 9.74,
+          "end": 9.9,
+          "score": 0.765
+        },
+        {
+          "word": "en",
+          "start": 9.92,
+          "end": 9.98,
+          "score": 0.792
+        },
+        {
+          "word": "Galapagar,",
+          "start": 10.04,
+          "end": 10.621,
+          "score": 0.89
+        },
+        {
+          "word": "anda",
+          "start": 11.402,
+          "end": 11.722,
+          "score": 0.894
+        },
+        {
+          "word": "mal",
+          "start": 11.782,
+          "end": 11.982,
+          "score": 0.97
+        },
+        {
+          "word": "de",
+          "start": 12.042,
+          "end": 12.103,
+          "score": 0.8
+        },
+        {
+          "word": "salud,",
+          "start": 12.183,
+          "end": 12.483,
+          "score": 0.915
+        },
+        {
+          "word": "como",
+          "start": 12.523,
+          "end": 12.703,
+          "score": 0.776
+        },
+        {
+          "word": "corresponde",
+          "start": 12.783,
+          "end": 13.224,
+          "score": 0.874
+        },
+        {
+          "word": "a",
+          "start": 13.264,
+          "end": 13.284,
+          "score": 0.132
+        },
+        {
+          "word": "su",
+          "start": 13.304,
+          "end": 13.384,
+          "score": 0.391
+        },
+        {
+          "word": "edad,",
+          "start": 13.404,
+          "end": 13.584,
+          "score": 0.947
+        },
+        {
+          "word": "y",
+          "start": 13.604,
+          "end": 13.624,
+          "score": 0.992
+        },
+        {
+          "word": "no",
+          "start": 14.165,
+          "end": 14.245,
+          "score": 0.99
+        },
+        {
+          "word": "puede",
+          "start": 14.405,
+          "end": 14.585,
+          "score": 0.936
+        },
+        {
+          "word": "venir",
+          "start": 14.645,
+          "end": 14.846,
+          "score": 0.896
+        },
+        {
+          "word": "a",
+          "start": 14.866,
+          "end": 14.886,
+          "score": 0.877
+        },
+        {
+          "word": "la",
+          "start": 14.926,
+          "end": 14.986,
+          "score": 0.184
+        },
+        {
+          "word": "recepción",
+          "start": 15.026,
+          "end": 15.486,
+          "score": 0.869
+        },
+        {
+          "word": "del",
+          "start": 15.526,
+          "end": 15.646,
+          "score": 0.798
+        },
+        {
+          "word": "Cervantes.",
+          "start": 15.706,
+          "end": 16.247,
+          "score": 0.954
+        }
+      ]
+    },
+    {
+      "start": 16.267,
+      "end": 22.634,
+      "text": "Y entonces es un soneto ya escrito hace tiempo, al parecer.",
+      "words": [
+        {
+          "word": "Y",
+          "start": 16.267,
+          "end": 16.287,
+          "score": 0.988
+        },
+        {
+          "word": "entonces",
+          "start": 17.128,
+          "end": 17.629,
+          "score": 0.883
+        },
+        {
+          "word": "es",
+          "start": 17.709,
+          "end": 17.749,
+          "score": 0.013
+        },
+        {
+          "word": "un",
+          "start": 17.769,
+          "end": 17.829,
+          "score": 0.922
+        },
+        {
+          "word": "soneto",
+          "start": 17.889,
+          "end": 18.349,
+          "score": 0.936
+        },
+        {
+          "word": "ya",
+          "start": 18.369,
+          "end": 19.35,
+          "score": 0.81
+        },
+        {
+          "word": "escrito",
+          "start": 19.431,
+          "end": 19.911,
+          "score": 0.805
+        },
+        {
+          "word": "hace",
+          "start": 19.931,
+          "end": 20.231,
+          "score": 0.601
+        },
+        {
+          "word": "tiempo,",
+          "start": 20.352,
+          "end": 20.732,
+          "score": 0.918
+        },
+        {
+          "word": "al",
+          "start": 20.772,
+          "end": 20.872,
+          "score": 0.886
+        },
+        {
+          "word": "parecer.",
+          "start": 20.952,
+          "end": 22.634,
+          "score": 0.915
+        }
+      ]
+    },
+    {
+      "start": 22.674,
+      "end": 27.079,
+      "text": "Eso es lo que figura en el programa de mano como texto elegido por Gerardo Díaz.",
+      "words": [
+        {
+          "word": "Eso",
+          "start": 22.674,
+          "end": 22.814,
+          "score": 0.931
+        },
+        {
+          "word": "es",
+          "start": 22.854,
+          "end": 22.914,
+          "score": 0.948
+        },
+        {
+          "word": "lo",
+          "start": 22.974,
+          "end": 23.014,
+          "score": 0.984
+        },
+        {
+          "word": "que",
+          "start": 23.034,
+          "end": 23.115,
+          "score": 0.66
+        },
+        {
+          "word": "figura",
+          "start": 23.195,
+          "end": 23.455,
+          "score": 0.912
+        },
+        {
+          "word": "en",
+          "start": 23.475,
+          "end": 23.515,
+          "score": 0.062
+        },
+        {
+          "word": "el",
+          "start": 23.535,
+          "end": 23.595,
+          "score": 0.763
+        },
+        {
+          "word": "programa",
+          "start": 23.695,
+          "end": 23.995,
+          "score": 0.967
+        },
+        {
+          "word": "de",
+          "start": 24.076,
+          "end": 24.136,
+          "score": 0.498
+        },
+        {
+          "word": "mano",
+          "start": 24.216,
+          "end": 25.257,
+          "score": 0.636
+        },
+        {
+          "word": "como",
+          "start": 25.297,
+          "end": 25.437,
+          "score": 0.895
+        },
+        {
+          "word": "texto",
+          "start": 25.577,
+          "end": 25.858,
+          "score": 0.82
+        },
+        {
+          "word": "elegido",
+          "start": 25.898,
+          "end": 26.298,
+          "score": 0.847
+        },
+        {
+          "word": "por",
+          "start": 26.378,
+          "end": 26.498,
+          "score": 0.352
+        },
+        {
+          "word": "Gerardo",
+          "start": 26.518,
+          "end": 26.839,
+          "score": 0.701
+        },
+        {
+          "word": "Díaz.",
+          "start": 26.859,
+          "end": 27.079,
+          "score": 0.634
+        }
+      ]
+    },
+    {
+      "start": 27.219,
+      "end": 29.421,
+      "text": "¿Y en tanto Borges hablará sobre...?",
+      "words": [
+        {
+          "word": "¿Y",
+          "start": 27.219,
+          "end": 27.259,
+          "score": 0.257
+        },
+        {
+          "word": "en",
+          "start": 27.339,
+          "end": 27.399,
+          "score": 0.76
+        },
+        {
+          "word": "tanto",
+          "start": 27.439,
+          "end": 27.7,
+          "score": 0.913
+        },
+        {
+          "word": "Borges",
+          "start": 27.78,
+          "end": 28.12,
+          "score": 0.693
+        },
+        {
+          "word": "hablará",
+          "start": 28.14,
+          "end": 28.4,
+          "score": 0.762
+        },
+        {
+          "word": "sobre...?",
+          "start": 28.44,
+          "end": 29.421,
+          "score": 0.879
+        }
+      ]
+    },
+    {
+      "start": 29.441,
+      "end": 33.666,
+      "text": "Y Borges eligió un texto de su propia obra sobre Lugones en prosa.",
+      "words": [
+        {
+          "word": "Y",
+          "start": 29.441,
+          "end": 29.461,
+          "score": 0.0
+        },
+        {
+          "word": "Borges",
+          "start": 29.481,
+          "end": 29.902,
+          "score": 0.991
+        },
+        {
+          "word": "eligió",
+          "start": 29.922,
+          "end": 30.663,
+          "score": 0.928
+        },
+        {
+          "word": "un",
+          "start": 30.703,
+          "end": 30.783,
+          "score": 0.73
+        },
+        {
+          "word": "texto",
+          "start": 30.883,
+          "end": 31.163,
+          "score": 0.826
+        },
+        {
+          "word": "de",
+          "start": 31.243,
+          "end": 31.303,
+          "score": 0.909
+        },
+        {
+          "word": "su",
+          "start": 31.364,
+          "end": 31.444,
+          "score": 0.994
+        },
+        {
+          "word": "propia",
+          "start": 31.504,
+          "end": 31.784,
+          "score": 0.9
+        },
+        {
+          "word": "obra",
+          "start": 31.824,
+          "end": 32.144,
+          "score": 0.885
+        },
+        {
+          "word": "sobre",
+          "start": 32.305,
+          "end": 32.545,
+          "score": 0.88
+        },
+        {
+          "word": "Lugones",
+          "start": 32.625,
+          "end": 33.005,
+          "score": 0.84
+        },
+        {
+          "word": "en",
+          "start": 33.105,
+          "end": 33.185,
+          "score": 0.746
+        },
+        {
+          "word": "prosa.",
+          "start": 33.246,
+          "end": 33.666,
+          "score": 0.904
+        }
+      ]
+    },
+    {
+      "start": 35.705,
+      "end": 45.397,
+      "text": " sobre Lugones como homenaje y además hoy me ratificó que no podía ser de otro modo, que era el maestro para él y que en esta circunstancia lo quería recordar.",
+      "words": [
+        {
+          "word": "sobre",
+          "start": 35.705,
+          "end": 36.126,
+          "score": 0.849
+        },
+        {
+          "word": "Lugones",
+          "start": 36.186,
+          "end": 36.546,
+          "score": 0.743
+        },
+        {
+          "word": "como",
+          "start": 36.626,
+          "end": 36.746,
+          "score": 0.907
+        },
+        {
+          "word": "homenaje",
+          "start": 36.786,
+          "end": 37.267,
+          "score": 0.773
+        },
+        {
+          "word": "y",
+          "start": 37.968,
+          "end": 38.028,
+          "score": 0.979
+        },
+        {
+          "word": "además",
+          "start": 38.068,
+          "end": 38.328,
+          "score": 0.904
+        },
+        {
+          "word": "hoy",
+          "start": 38.769,
+          "end": 38.889,
+          "score": 0.931
+        },
+        {
+          "word": "me",
+          "start": 38.969,
+          "end": 39.069,
+          "score": 0.788
+        },
+        {
+          "word": "ratificó",
+          "start": 39.37,
+          "end": 39.85,
+          "score": 0.932
+        },
+        {
+          "word": "que",
+          "start": 39.93,
+          "end": 40.01,
+          "score": 0.924
+        },
+        {
+          "word": "no",
+          "start": 40.051,
+          "end": 40.111,
+          "score": 0.954
+        },
+        {
+          "word": "podía",
+          "start": 40.171,
+          "end": 40.371,
+          "score": 0.845
+        },
+        {
+          "word": "ser",
+          "start": 40.431,
+          "end": 40.531,
+          "score": 0.878
+        },
+        {
+          "word": "de",
+          "start": 40.631,
+          "end": 40.711,
+          "score": 0.81
+        },
+        {
+          "word": "otro",
+          "start": 40.731,
+          "end": 40.892,
+          "score": 0.4
+        },
+        {
+          "word": "modo,",
+          "start": 40.912,
+          "end": 41.212,
+          "score": 0.745
+        },
+        {
+          "word": "que",
+          "start": 41.252,
+          "end": 41.312,
+          "score": 0.7
+        },
+        {
+          "word": "era",
+          "start": 41.332,
+          "end": 41.392,
+          "score": 0.125
+        },
+        {
+          "word": "el",
+          "start": 41.412,
+          "end": 41.472,
+          "score": 0.497
+        },
+        {
+          "word": "maestro",
+          "start": 41.532,
+          "end": 42.013,
+          "score": 0.794
+        },
+        {
+          "word": "para",
+          "start": 42.113,
+          "end": 42.273,
+          "score": 0.935
+        },
+        {
+          "word": "él",
+          "start": 42.414,
+          "end": 42.654,
+          "score": 0.978
+        },
+        {
+          "word": "y",
+          "start": 42.694,
+          "end": 42.714,
+          "score": 0.446
+        },
+        {
+          "word": "que",
+          "start": 43.515,
+          "end": 43.595,
+          "score": 0.648
+        },
+        {
+          "word": "en",
+          "start": 43.635,
+          "end": 43.735,
+          "score": 0.762
+        },
+        {
+          "word": "esta",
+          "start": 43.775,
+          "end": 43.936,
+          "score": 0.863
+        },
+        {
+          "word": "circunstancia",
+          "start": 43.996,
+          "end": 44.456,
+          "score": 0.729
+        },
+        {
+          "word": "lo",
+          "start": 44.516,
+          "end": 44.576,
+          "score": 0.783
+        },
+        {
+          "word": "quería",
+          "start": 44.616,
+          "end": 44.817,
+          "score": 0.921
+        },
+        {
+          "word": "recordar.",
+          "start": 44.917,
+          "end": 45.397,
+          "score": 0.978
+        }
+      ]
+    },
+    {
+      "start": 45.457,
+      "end": 54.209,
+      "text": "Además dice que está sumergido en el olvido, en la Argentina, que acá hay un piadoso y ominoso silencio cada vez que lo menciona y ocurrió en el almuerzo de hoy.",
+      "words": [
+        {
+          "word": "Además",
+          "start": 45.457,
+          "end": 45.718,
+          "score": 0.892
+        },
+        {
+          "word": "dice",
+          "start": 46.359,
+          "end": 46.519,
+          "score": 0.914
+        },
+        {
+          "word": "que",
+          "start": 46.539,
+          "end": 46.599,
+          "score": 0.935
+        },
+        {
+          "word": "está",
+          "start": 46.619,
+          "end": 46.759,
+          "score": 0.786
+        },
+        {
+          "word": "sumergido",
+          "start": 46.819,
+          "end": 47.24,
+          "score": 0.892
+        },
+        {
+          "word": "en",
+          "start": 47.28,
+          "end": 47.36,
+          "score": 0.623
+        },
+        {
+          "word": "el",
+          "start": 47.38,
+          "end": 47.44,
+          "score": 0.75
+        },
+        {
+          "word": "olvido,",
+          "start": 47.5,
+          "end": 47.961,
+          "score": 0.969
+        },
+        {
+          "word": "en",
+          "start": 47.981,
+          "end": 48.081,
+          "score": 0.423
+        },
+        {
+          "word": "la",
+          "start": 48.121,
+          "end": 48.161,
+          "score": 0.419
+        },
+        {
+          "word": "Argentina,",
+          "start": 48.181,
+          "end": 48.842,
+          "score": 0.847
+        },
+        {
+          "word": "que",
+          "start": 49.382,
+          "end": 49.463,
+          "score": 0.909
+        },
+        {
+          "word": "acá",
+          "start": 49.503,
+          "end": 49.663,
+          "score": 0.405
+        },
+        {
+          "word": "hay",
+          "start": 49.683,
+          "end": 49.743,
+          "score": 0.193
+        },
+        {
+          "word": "un",
+          "start": 49.823,
+          "end": 49.983,
+          "score": 0.446
+        },
+        {
+          "word": "piadoso",
+          "start": 50.003,
+          "end": 50.444,
+          "score": 0.952
+        },
+        {
+          "word": "y",
+          "start": 50.464,
+          "end": 50.484,
+          "score": 0.973
+        },
+        {
+          "word": "ominoso",
+          "start": 50.604,
+          "end": 51.025,
+          "score": 0.826
+        },
+        {
+          "word": "silencio",
+          "start": 51.105,
+          "end": 51.485,
+          "score": 0.812
+        },
+        {
+          "word": "cada",
+          "start": 51.525,
+          "end": 51.665,
+          "score": 0.449
+        },
+        {
+          "word": "vez",
+          "start": 51.685,
+          "end": 51.745,
+          "score": 0.313
+        },
+        {
+          "word": "que",
+          "start": 51.766,
+          "end": 51.846,
+          "score": 0.533
+        },
+        {
+          "word": "lo",
+          "start": 51.886,
+          "end": 51.946,
+          "score": 0.772
+        },
+        {
+          "word": "menciona",
+          "start": 52.006,
+          "end": 52.286,
+          "score": 0.794
+        },
+        {
+          "word": "y",
+          "start": 52.306,
+          "end": 52.326,
+          "score": 0.979
+        },
+        {
+          "word": "ocurrió",
+          "start": 52.827,
+          "end": 53.207,
+          "score": 0.925
+        },
+        {
+          "word": "en",
+          "start": 53.247,
+          "end": 53.307,
+          "score": 0.694
+        },
+        {
+          "word": "el",
+          "start": 53.328,
+          "end": 53.428,
+          "score": 0.434
+        },
+        {
+          "word": "almuerzo",
+          "start": 53.488,
+          "end": 53.848,
+          "score": 0.812
+        },
+        {
+          "word": "de",
+          "start": 53.888,
+          "end": 53.948,
+          "score": 0.817
+        },
+        {
+          "word": "hoy.",
+          "start": 54.028,
+          "end": 54.209,
+          "score": 0.602
+        }
+      ]
+    },
+    {
+      "start": 54.229,
+      "end": 55.831,
+      "text": "¿Viste que lo siguió mencionando?",
+      "words": [
+        {
+          "word": "¿Viste",
+          "start": 54.229,
+          "end": 54.809,
+          "score": 0.189
+        },
+        {
+          "word": "que",
+          "start": 54.829,
+          "end": 54.89,
+          "score": 0.049
+        },
+        {
+          "word": "lo",
+          "start": 54.91,
+          "end": 54.97,
+          "score": 0.645
+        },
+        {
+          "word": "siguió",
+          "start": 55.03,
+          "end": 55.23,
+          "score": 0.792
+        },
+        {
+          "word": "mencionando?",
+          "start": 55.33,
+          "end": 55.831,
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "start": 55.991,
+      "end": 57.473,
+      "text": "Sí, sí, sí, siguió hablando.",
+      "words": [
+        {
+          "word": "Sí,",
+          "start": 55.991,
+          "end": 56.451,
+          "score": 0.343
+        },
+        {
+          "word": "sí,",
+          "start": 56.472,
+          "end": 56.612,
+          "score": 0.361
+        },
+        {
+          "word": "sí,",
+          "start": 56.712,
+          "end": 56.772,
+          "score": 0.303
+        },
+        {
+          "word": "siguió",
+          "start": 56.792,
+          "end": 56.912,
+          "score": 0.107
+        },
+        {
+          "word": "hablando.",
+          "start": 56.952,
+          "end": 57.473,
+          "score": 0.213
+        }
+      ]
+    },
+    {
+      "start": 57.493,
+      "end": 59.215,
+      "text": "Se lo metió bastante al alcalde.",
+      "words": [
+        {
+          "word": "Se",
+          "start": 57.493,
+          "end": 57.533,
+          "score": 0.0
+        },
+        {
+          "word": "lo",
+          "start": 57.553,
+          "end": 57.593,
+          "score": 0.072
+        },
+        {
+          "word": "metió",
+          "start": 57.613,
+          "end": 57.853,
+          "score": 0.362
+        },
+        {
+          "word": "bastante",
+          "start": 57.893,
+          "end": 58.254,
+          "score": 0.491
+        },
+        {
+          "word": "al",
+          "start": 58.274,
+          "end": 58.374,
+          "score": 0.207
+        },
+        {
+          "word": "alcalde.",
+          "start": 58.394,
+          "end": 59.215,
+          "score": 0.685
+        }
+      ]
+    },
+    {
+      "start": 59.718,
+      "end": 61.407,
+      "text": " Perdón, ¿cómo se llama en latín la sastería?",
+      "words": [
+        {
+          "word": "Perdón,",
+          "start": 59.718,
+          "end": 60.04,
+          "score": 0.379
+        },
+        {
+          "word": "¿cómo",
+          "start": 60.06,
+          "end": 60.201,
+          "score": 0.95
+        },
+        {
+          "word": "se",
+          "start": 60.241,
+          "end": 60.281,
+          "score": 0.902
+        },
+        {
+          "word": "llama",
+          "start": 60.301,
+          "end": 60.402,
+          "score": 0.282
+        },
+        {
+          "word": "en",
+          "start": 60.442,
+          "end": 60.482,
+          "score": 0.014
+        },
+        {
+          "word": "latín",
+          "start": 60.502,
+          "end": 60.784,
+          "score": 0.72
+        },
+        {
+          "word": "la",
+          "start": 60.824,
+          "end": 60.965,
+          "score": 0.494
+        },
+        {
+          "word": "sastería?",
+          "start": 61.025,
+          "end": 61.407,
+          "score": 0.725
+        }
+      ]
+    },
+    {
+      "start": 61.93,
+      "end": 62.955,
+      "text": "Gilarrán.",
+      "words": [
+        {
+          "word": "Gilarrán.",
+          "start": 61.93,
+          "end": 62.955,
+          "score": 0.647
+        }
+      ]
+    },
+    {
+      "start": 62.975,
+      "end": 63.398,
+      "text": "Gilarrán.",
+      "words": [
+        {
+          "word": "Gilarrán.",
+          "start": 62.975,
+          "end": 63.398,
+          "score": 0.695
+        }
+      ]
+    },
+    {
+      "start": 63.619,
+      "end": 65.931,
+      "text": "Gilarrán.",
+      "words": [
+        {
+          "word": "Gilarrán.",
+          "start": 63.619,
+          "end": 65.931,
+          "score": 0.816
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Es",
+      "start": 5.195,
+      "end": 6.016,
+      "score": 0.492
+    },
+    {
+      "word": "un",
+      "start": 6.036,
+      "end": 6.116,
+      "score": 0.896
+    },
+    {
+      "word": "retrato",
+      "start": 6.176,
+      "end": 6.556,
+      "score": 0.954
+    },
+    {
+      "word": "de",
+      "start": 6.597,
+      "end": 6.657,
+      "score": 0.866
+    },
+    {
+      "word": "su",
+      "start": 6.717,
+      "end": 6.797,
+      "score": 0.164
+    },
+    {
+      "word": "hermana,",
+      "start": 6.817,
+      "end": 7.257,
+      "score": 0.86
+    },
+    {
+      "word": "que",
+      "start": 7.978,
+      "end": 8.078,
+      "score": 0.898
+    },
+    {
+      "word": "tiene",
+      "start": 8.158,
+      "end": 8.358,
+      "score": 0.661
+    },
+    {
+      "word": "91",
+      "start": 8.378,
+      "end": 8.419,
+      "score": 0.995
+    },
+    {
+      "word": "años,",
+      "start": 8.919,
+      "end": 9.5,
+      "score": 0.881
+    },
+    {
+      "word": "vive",
+      "start": 9.74,
+      "end": 9.9,
+      "score": 0.765
+    },
+    {
+      "word": "en",
+      "start": 9.92,
+      "end": 9.98,
+      "score": 0.792
+    },
+    {
+      "word": "Galapagar,",
+      "start": 10.04,
+      "end": 10.621,
+      "score": 0.89
+    },
+    {
+      "word": "anda",
+      "start": 11.402,
+      "end": 11.722,
+      "score": 0.894
+    },
+    {
+      "word": "mal",
+      "start": 11.782,
+      "end": 11.982,
+      "score": 0.97
+    },
+    {
+      "word": "de",
+      "start": 12.042,
+      "end": 12.103,
+      "score": 0.8
+    },
+    {
+      "word": "salud,",
+      "start": 12.183,
+      "end": 12.483,
+      "score": 0.915
+    },
+    {
+      "word": "como",
+      "start": 12.523,
+      "end": 12.703,
+      "score": 0.776
+    },
+    {
+      "word": "corresponde",
+      "start": 12.783,
+      "end": 13.224,
+      "score": 0.874
+    },
+    {
+      "word": "a",
+      "start": 13.264,
+      "end": 13.284,
+      "score": 0.132
+    },
+    {
+      "word": "su",
+      "start": 13.304,
+      "end": 13.384,
+      "score": 0.391
+    },
+    {
+      "word": "edad,",
+      "start": 13.404,
+      "end": 13.584,
+      "score": 0.947
+    },
+    {
+      "word": "y",
+      "start": 13.604,
+      "end": 13.624,
+      "score": 0.992
+    },
+    {
+      "word": "no",
+      "start": 14.165,
+      "end": 14.245,
+      "score": 0.99
+    },
+    {
+      "word": "puede",
+      "start": 14.405,
+      "end": 14.585,
+      "score": 0.936
+    },
+    {
+      "word": "venir",
+      "start": 14.645,
+      "end": 14.846,
+      "score": 0.896
+    },
+    {
+      "word": "a",
+      "start": 14.866,
+      "end": 14.886,
+      "score": 0.877
+    },
+    {
+      "word": "la",
+      "start": 14.926,
+      "end": 14.986,
+      "score": 0.184
+    },
+    {
+      "word": "recepción",
+      "start": 15.026,
+      "end": 15.486,
+      "score": 0.869
+    },
+    {
+      "word": "del",
+      "start": 15.526,
+      "end": 15.646,
+      "score": 0.798
+    },
+    {
+      "word": "Cervantes.",
+      "start": 15.706,
+      "end": 16.247,
+      "score": 0.954
+    },
+    {
+      "word": "Y",
+      "start": 16.267,
+      "end": 16.287,
+      "score": 0.988
+    },
+    {
+      "word": "entonces",
+      "start": 17.128,
+      "end": 17.629,
+      "score": 0.883
+    },
+    {
+      "word": "es",
+      "start": 17.709,
+      "end": 17.749,
+      "score": 0.013
+    },
+    {
+      "word": "un",
+      "start": 17.769,
+      "end": 17.829,
+      "score": 0.922
+    },
+    {
+      "word": "soneto",
+      "start": 17.889,
+      "end": 18.349,
+      "score": 0.936
+    },
+    {
+      "word": "ya",
+      "start": 18.369,
+      "end": 19.35,
+      "score": 0.81
+    },
+    {
+      "word": "escrito",
+      "start": 19.431,
+      "end": 19.911,
+      "score": 0.805
+    },
+    {
+      "word": "hace",
+      "start": 19.931,
+      "end": 20.231,
+      "score": 0.601
+    },
+    {
+      "word": "tiempo,",
+      "start": 20.352,
+      "end": 20.732,
+      "score": 0.918
+    },
+    {
+      "word": "al",
+      "start": 20.772,
+      "end": 20.872,
+      "score": 0.886
+    },
+    {
+      "word": "parecer.",
+      "start": 20.952,
+      "end": 22.634,
+      "score": 0.915
+    },
+    {
+      "word": "Eso",
+      "start": 22.674,
+      "end": 22.814,
+      "score": 0.931
+    },
+    {
+      "word": "es",
+      "start": 22.854,
+      "end": 22.914,
+      "score": 0.948
+    },
+    {
+      "word": "lo",
+      "start": 22.974,
+      "end": 23.014,
+      "score": 0.984
+    },
+    {
+      "word": "que",
+      "start": 23.034,
+      "end": 23.115,
+      "score": 0.66
+    },
+    {
+      "word": "figura",
+      "start": 23.195,
+      "end": 23.455,
+      "score": 0.912
+    },
+    {
+      "word": "en",
+      "start": 23.475,
+      "end": 23.515,
+      "score": 0.062
+    },
+    {
+      "word": "el",
+      "start": 23.535,
+      "end": 23.595,
+      "score": 0.763
+    },
+    {
+      "word": "programa",
+      "start": 23.695,
+      "end": 23.995,
+      "score": 0.967
+    },
+    {
+      "word": "de",
+      "start": 24.076,
+      "end": 24.136,
+      "score": 0.498
+    },
+    {
+      "word": "mano",
+      "start": 24.216,
+      "end": 25.257,
+      "score": 0.636
+    },
+    {
+      "word": "como",
+      "start": 25.297,
+      "end": 25.437,
+      "score": 0.895
+    },
+    {
+      "word": "texto",
+      "start": 25.577,
+      "end": 25.858,
+      "score": 0.82
+    },
+    {
+      "word": "elegido",
+      "start": 25.898,
+      "end": 26.298,
+      "score": 0.847
+    },
+    {
+      "word": "por",
+      "start": 26.378,
+      "end": 26.498,
+      "score": 0.352
+    },
+    {
+      "word": "Gerardo",
+      "start": 26.518,
+      "end": 26.839,
+      "score": 0.701
+    },
+    {
+      "word": "Díaz.",
+      "start": 26.859,
+      "end": 27.079,
+      "score": 0.634
+    },
+    {
+      "word": "¿Y",
+      "start": 27.219,
+      "end": 27.259,
+      "score": 0.257
+    },
+    {
+      "word": "en",
+      "start": 27.339,
+      "end": 27.399,
+      "score": 0.76
+    },
+    {
+      "word": "tanto",
+      "start": 27.439,
+      "end": 27.7,
+      "score": 0.913
+    },
+    {
+      "word": "Borges",
+      "start": 27.78,
+      "end": 28.12,
+      "score": 0.693
+    },
+    {
+      "word": "hablará",
+      "start": 28.14,
+      "end": 28.4,
+      "score": 0.762
+    },
+    {
+      "word": "sobre...?",
+      "start": 28.44,
+      "end": 29.421,
+      "score": 0.879
+    },
+    {
+      "word": "Y",
+      "start": 29.441,
+      "end": 29.461,
+      "score": 0.0
+    },
+    {
+      "word": "Borges",
+      "start": 29.481,
+      "end": 29.902,
+      "score": 0.991
+    },
+    {
+      "word": "eligió",
+      "start": 29.922,
+      "end": 30.663,
+      "score": 0.928
+    },
+    {
+      "word": "un",
+      "start": 30.703,
+      "end": 30.783,
+      "score": 0.73
+    },
+    {
+      "word": "texto",
+      "start": 30.883,
+      "end": 31.163,
+      "score": 0.826
+    },
+    {
+      "word": "de",
+      "start": 31.243,
+      "end": 31.303,
+      "score": 0.909
+    },
+    {
+      "word": "su",
+      "start": 31.364,
+      "end": 31.444,
+      "score": 0.994
+    },
+    {
+      "word": "propia",
+      "start": 31.504,
+      "end": 31.784,
+      "score": 0.9
+    },
+    {
+      "word": "obra",
+      "start": 31.824,
+      "end": 32.144,
+      "score": 0.885
+    },
+    {
+      "word": "sobre",
+      "start": 32.305,
+      "end": 32.545,
+      "score": 0.88
+    },
+    {
+      "word": "Lugones",
+      "start": 32.625,
+      "end": 33.005,
+      "score": 0.84
+    },
+    {
+      "word": "en",
+      "start": 33.105,
+      "end": 33.185,
+      "score": 0.746
+    },
+    {
+      "word": "prosa.",
+      "start": 33.246,
+      "end": 33.666,
+      "score": 0.904
+    },
+    {
+      "word": "sobre",
+      "start": 35.705,
+      "end": 36.126,
+      "score": 0.849
+    },
+    {
+      "word": "Lugones",
+      "start": 36.186,
+      "end": 36.546,
+      "score": 0.743
+    },
+    {
+      "word": "como",
+      "start": 36.626,
+      "end": 36.746,
+      "score": 0.907
+    },
+    {
+      "word": "homenaje",
+      "start": 36.786,
+      "end": 37.267,
+      "score": 0.773
+    },
+    {
+      "word": "y",
+      "start": 37.968,
+      "end": 38.028,
+      "score": 0.979
+    },
+    {
+      "word": "además",
+      "start": 38.068,
+      "end": 38.328,
+      "score": 0.904
+    },
+    {
+      "word": "hoy",
+      "start": 38.769,
+      "end": 38.889,
+      "score": 0.931
+    },
+    {
+      "word": "me",
+      "start": 38.969,
+      "end": 39.069,
+      "score": 0.788
+    },
+    {
+      "word": "ratificó",
+      "start": 39.37,
+      "end": 39.85,
+      "score": 0.932
+    },
+    {
+      "word": "que",
+      "start": 39.93,
+      "end": 40.01,
+      "score": 0.924
+    },
+    {
+      "word": "no",
+      "start": 40.051,
+      "end": 40.111,
+      "score": 0.954
+    },
+    {
+      "word": "podía",
+      "start": 40.171,
+      "end": 40.371,
+      "score": 0.845
+    },
+    {
+      "word": "ser",
+      "start": 40.431,
+      "end": 40.531,
+      "score": 0.878
+    },
+    {
+      "word": "de",
+      "start": 40.631,
+      "end": 40.711,
+      "score": 0.81
+    },
+    {
+      "word": "otro",
+      "start": 40.731,
+      "end": 40.892,
+      "score": 0.4
+    },
+    {
+      "word": "modo,",
+      "start": 40.912,
+      "end": 41.212,
+      "score": 0.745
+    },
+    {
+      "word": "que",
+      "start": 41.252,
+      "end": 41.312,
+      "score": 0.7
+    },
+    {
+      "word": "era",
+      "start": 41.332,
+      "end": 41.392,
+      "score": 0.125
+    },
+    {
+      "word": "el",
+      "start": 41.412,
+      "end": 41.472,
+      "score": 0.497
+    },
+    {
+      "word": "maestro",
+      "start": 41.532,
+      "end": 42.013,
+      "score": 0.794
+    },
+    {
+      "word": "para",
+      "start": 42.113,
+      "end": 42.273,
+      "score": 0.935
+    },
+    {
+      "word": "él",
+      "start": 42.414,
+      "end": 42.654,
+      "score": 0.978
+    },
+    {
+      "word": "y",
+      "start": 42.694,
+      "end": 42.714,
+      "score": 0.446
+    },
+    {
+      "word": "que",
+      "start": 43.515,
+      "end": 43.595,
+      "score": 0.648
+    },
+    {
+      "word": "en",
+      "start": 43.635,
+      "end": 43.735,
+      "score": 0.762
+    },
+    {
+      "word": "esta",
+      "start": 43.775,
+      "end": 43.936,
+      "score": 0.863
+    },
+    {
+      "word": "circunstancia",
+      "start": 43.996,
+      "end": 44.456,
+      "score": 0.729
+    },
+    {
+      "word": "lo",
+      "start": 44.516,
+      "end": 44.576,
+      "score": 0.783
+    },
+    {
+      "word": "quería",
+      "start": 44.616,
+      "end": 44.817,
+      "score": 0.921
+    },
+    {
+      "word": "recordar.",
+      "start": 44.917,
+      "end": 45.397,
+      "score": 0.978
+    },
+    {
+      "word": "Además",
+      "start": 45.457,
+      "end": 45.718,
+      "score": 0.892
+    },
+    {
+      "word": "dice",
+      "start": 46.359,
+      "end": 46.519,
+      "score": 0.914
+    },
+    {
+      "word": "que",
+      "start": 46.539,
+      "end": 46.599,
+      "score": 0.935
+    },
+    {
+      "word": "está",
+      "start": 46.619,
+      "end": 46.759,
+      "score": 0.786
+    },
+    {
+      "word": "sumergido",
+      "start": 46.819,
+      "end": 47.24,
+      "score": 0.892
+    },
+    {
+      "word": "en",
+      "start": 47.28,
+      "end": 47.36,
+      "score": 0.623
+    },
+    {
+      "word": "el",
+      "start": 47.38,
+      "end": 47.44,
+      "score": 0.75
+    },
+    {
+      "word": "olvido,",
+      "start": 47.5,
+      "end": 47.961,
+      "score": 0.969
+    },
+    {
+      "word": "en",
+      "start": 47.981,
+      "end": 48.081,
+      "score": 0.423
+    },
+    {
+      "word": "la",
+      "start": 48.121,
+      "end": 48.161,
+      "score": 0.419
+    },
+    {
+      "word": "Argentina,",
+      "start": 48.181,
+      "end": 48.842,
+      "score": 0.847
+    },
+    {
+      "word": "que",
+      "start": 49.382,
+      "end": 49.463,
+      "score": 0.909
+    },
+    {
+      "word": "acá",
+      "start": 49.503,
+      "end": 49.663,
+      "score": 0.405
+    },
+    {
+      "word": "hay",
+      "start": 49.683,
+      "end": 49.743,
+      "score": 0.193
+    },
+    {
+      "word": "un",
+      "start": 49.823,
+      "end": 49.983,
+      "score": 0.446
+    },
+    {
+      "word": "piadoso",
+      "start": 50.003,
+      "end": 50.444,
+      "score": 0.952
+    },
+    {
+      "word": "y",
+      "start": 50.464,
+      "end": 50.484,
+      "score": 0.973
+    },
+    {
+      "word": "ominoso",
+      "start": 50.604,
+      "end": 51.025,
+      "score": 0.826
+    },
+    {
+      "word": "silencio",
+      "start": 51.105,
+      "end": 51.485,
+      "score": 0.812
+    },
+    {
+      "word": "cada",
+      "start": 51.525,
+      "end": 51.665,
+      "score": 0.449
+    },
+    {
+      "word": "vez",
+      "start": 51.685,
+      "end": 51.745,
+      "score": 0.313
+    },
+    {
+      "word": "que",
+      "start": 51.766,
+      "end": 51.846,
+      "score": 0.533
+    },
+    {
+      "word": "lo",
+      "start": 51.886,
+      "end": 51.946,
+      "score": 0.772
+    },
+    {
+      "word": "menciona",
+      "start": 52.006,
+      "end": 52.286,
+      "score": 0.794
+    },
+    {
+      "word": "y",
+      "start": 52.306,
+      "end": 52.326,
+      "score": 0.979
+    },
+    {
+      "word": "ocurrió",
+      "start": 52.827,
+      "end": 53.207,
+      "score": 0.925
+    },
+    {
+      "word": "en",
+      "start": 53.247,
+      "end": 53.307,
+      "score": 0.694
+    },
+    {
+      "word": "el",
+      "start": 53.328,
+      "end": 53.428,
+      "score": 0.434
+    },
+    {
+      "word": "almuerzo",
+      "start": 53.488,
+      "end": 53.848,
+      "score": 0.812
+    },
+    {
+      "word": "de",
+      "start": 53.888,
+      "end": 53.948,
+      "score": 0.817
+    },
+    {
+      "word": "hoy.",
+      "start": 54.028,
+      "end": 54.209,
+      "score": 0.602
+    },
+    {
+      "word": "¿Viste",
+      "start": 54.229,
+      "end": 54.809,
+      "score": 0.189
+    },
+    {
+      "word": "que",
+      "start": 54.829,
+      "end": 54.89,
+      "score": 0.049
+    },
+    {
+      "word": "lo",
+      "start": 54.91,
+      "end": 54.97,
+      "score": 0.645
+    },
+    {
+      "word": "siguió",
+      "start": 55.03,
+      "end": 55.23,
+      "score": 0.792
+    },
+    {
+      "word": "mencionando?",
+      "start": 55.33,
+      "end": 55.831,
+      "score": 0.85
+    },
+    {
+      "word": "Sí,",
+      "start": 55.991,
+      "end": 56.451,
+      "score": 0.343
+    },
+    {
+      "word": "sí,",
+      "start": 56.472,
+      "end": 56.612,
+      "score": 0.361
+    },
+    {
+      "word": "sí,",
+      "start": 56.712,
+      "end": 56.772,
+      "score": 0.303
+    },
+    {
+      "word": "siguió",
+      "start": 56.792,
+      "end": 56.912,
+      "score": 0.107
+    },
+    {
+      "word": "hablando.",
+      "start": 56.952,
+      "end": 57.473,
+      "score": 0.213
+    },
+    {
+      "word": "Se",
+      "start": 57.493,
+      "end": 57.533,
+      "score": 0.0
+    },
+    {
+      "word": "lo",
+      "start": 57.553,
+      "end": 57.593,
+      "score": 0.072
+    },
+    {
+      "word": "metió",
+      "start": 57.613,
+      "end": 57.853,
+      "score": 0.362
+    },
+    {
+      "word": "bastante",
+      "start": 57.893,
+      "end": 58.254,
+      "score": 0.491
+    },
+    {
+      "word": "al",
+      "start": 58.274,
+      "end": 58.374,
+      "score": 0.207
+    },
+    {
+      "word": "alcalde.",
+      "start": 58.394,
+      "end": 59.215,
+      "score": 0.685
+    },
+    {
+      "word": "Perdón,",
+      "start": 59.718,
+      "end": 60.04,
+      "score": 0.379
+    },
+    {
+      "word": "¿cómo",
+      "start": 60.06,
+      "end": 60.201,
+      "score": 0.95
+    },
+    {
+      "word": "se",
+      "start": 60.241,
+      "end": 60.281,
+      "score": 0.902
+    },
+    {
+      "word": "llama",
+      "start": 60.301,
+      "end": 60.402,
+      "score": 0.282
+    },
+    {
+      "word": "en",
+      "start": 60.442,
+      "end": 60.482,
+      "score": 0.014
+    },
+    {
+      "word": "latín",
+      "start": 60.502,
+      "end": 60.784,
+      "score": 0.72
+    },
+    {
+      "word": "la",
+      "start": 60.824,
+      "end": 60.965,
+      "score": 0.494
+    },
+    {
+      "word": "sastería?",
+      "start": 61.025,
+      "end": 61.407,
+      "score": 0.725
+    },
+    {
+      "word": "Gilarrán.",
+      "start": 61.93,
+      "end": 62.955,
+      "score": 0.647
+    },
+    {
+      "word": "Gilarrán.",
+      "start": 62.975,
+      "end": 63.398,
+      "score": 0.695
+    },
+    {
+      "word": "Gilarrán.",
+      "start": 63.619,
+      "end": 65.931,
+      "score": 0.816
+    }
+  ],
+  "language": "es",
+  "alignment_stats": {
+    "total_segments": 3,
+    "successful_alignments": 14,
+    "failed_alignments": 0,
+    "success_rate": 466.7,
+    "total_words": 165
+  },
+  "word_score_buckets": {
+    "Good": 0.909,
+    "Neutral": 0.81,
+    "Bad": 0.602
+  }
+}
