@@ -1,0 +1,1812 @@
+{
+  "segments": [
+    {
+      "start": 4.688,
+      "end": 10.295,
+      "text": " Lo amo a Mancio, parece el más grande cantautor español.",
+      "words": [
+        {
+          "word": "Lo",
+          "start": 4.688,
+          "end": 6.57,
+          "score": 0.446
+        },
+        {
+          "word": "amo",
+          "start": 6.59,
+          "end": 6.65,
+          "score": 0.002
+        },
+        {
+          "word": "a",
+          "start": 6.67,
+          "end": 6.69,
+          "score": 0.006
+        },
+        {
+          "word": "Mancio,",
+          "start": 6.71,
+          "end": 6.851,
+          "score": 0.086
+        },
+        {
+          "word": "parece",
+          "start": 6.871,
+          "end": 7.051,
+          "score": 0.411
+        },
+        {
+          "word": "el",
+          "start": 7.091,
+          "end": 7.131,
+          "score": 0.506
+        },
+        {
+          "word": "más",
+          "start": 7.171,
+          "end": 7.291,
+          "score": 0.191
+        },
+        {
+          "word": "grande",
+          "start": 7.311,
+          "end": 7.612,
+          "score": 0.894
+        },
+        {
+          "word": "cantautor",
+          "start": 7.672,
+          "end": 10.014,
+          "score": 0.728
+        },
+        {
+          "word": "español.",
+          "start": 10.034,
+          "end": 10.295,
+          "score": 0.179
+        }
+      ]
+    },
+    {
+      "start": 10.675,
+      "end": 13.619,
+      "text": "Así que pondré eso y después seguimos con todo el material que tenemos.",
+      "words": [
+        {
+          "word": "Así",
+          "start": 10.675,
+          "end": 10.735,
+          "score": 0.056
+        },
+        {
+          "word": "que",
+          "start": 10.755,
+          "end": 10.875,
+          "score": 0.704
+        },
+        {
+          "word": "pondré",
+          "start": 11.256,
+          "end": 11.556,
+          "score": 0.616
+        },
+        {
+          "word": "eso",
+          "start": 11.576,
+          "end": 11.676,
+          "score": 0.571
+        },
+        {
+          "word": "y",
+          "start": 11.716,
+          "end": 11.736,
+          "score": 0.972
+        },
+        {
+          "word": "después",
+          "start": 11.777,
+          "end": 12.057,
+          "score": 0.39
+        },
+        {
+          "word": "seguimos",
+          "start": 12.077,
+          "end": 12.417,
+          "score": 0.906
+        },
+        {
+          "word": "con",
+          "start": 12.497,
+          "end": 12.598,
+          "score": 0.954
+        },
+        {
+          "word": "todo",
+          "start": 12.678,
+          "end": 12.798,
+          "score": 0.454
+        },
+        {
+          "word": "el",
+          "start": 12.818,
+          "end": 12.858,
+          "score": 0.293
+        },
+        {
+          "word": "material",
+          "start": 12.878,
+          "end": 13.158,
+          "score": 0.313
+        },
+        {
+          "word": "que",
+          "start": 13.178,
+          "end": 13.258,
+          "score": 0.623
+        },
+        {
+          "word": "tenemos.",
+          "start": 13.318,
+          "end": 13.619,
+          "score": 0.924
+        }
+      ]
+    },
+    {
+      "start": 18.845,
+      "end": 19.125,
+      "text": "Está muy bien.",
+      "words": [
+        {
+          "word": "Está",
+          "start": 18.845,
+          "end": 18.925,
+          "score": 0.0
+        },
+        {
+          "word": "muy",
+          "start": 18.945,
+          "end": 19.005,
+          "score": 0.0
+        },
+        {
+          "word": "bien.",
+          "start": 19.025,
+          "end": 19.125,
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "start": 19.145,
+      "end": 19.466,
+      "text": "Entonces, bueno.",
+      "words": [
+        {
+          "word": "Entonces,",
+          "start": 19.145,
+          "end": 19.326,
+          "score": 0.0
+        },
+        {
+          "word": "bueno.",
+          "start": 19.346,
+          "end": 19.466,
+          "score": 0.001
+        }
+      ]
+    },
+    {
+      "start": 19.486,
+      "end": 19.586,
+      "text": "Bien.",
+      "words": [
+        {
+          "word": "Bien.",
+          "start": 19.486,
+          "end": 19.586,
+          "score": 0.063
+        }
+      ]
+    },
+    {
+      "start": 19.606,
+      "end": 22.049,
+      "text": "No, esto después yo lo borro, no te preocupes.",
+      "words": [
+        {
+          "word": "No,",
+          "start": 19.606,
+          "end": 20.187,
+          "score": 0.542
+        },
+        {
+          "word": "esto",
+          "start": 20.207,
+          "end": 20.347,
+          "score": 0.892
+        },
+        {
+          "word": "después",
+          "start": 20.367,
+          "end": 20.547,
+          "score": 0.856
+        },
+        {
+          "word": "yo",
+          "start": 20.607,
+          "end": 20.647,
+          "score": 0.027
+        },
+        {
+          "word": "lo",
+          "start": 20.667,
+          "end": 21.108,
+          "score": 0.738
+        },
+        {
+          "word": "borro,",
+          "start": 21.168,
+          "end": 21.408,
+          "score": 0.924
+        },
+        {
+          "word": "no",
+          "start": 21.428,
+          "end": 21.488,
+          "score": 0.84
+        },
+        {
+          "word": "te",
+          "start": 21.528,
+          "end": 21.608,
+          "score": 0.906
+        },
+        {
+          "word": "preocupes.",
+          "start": 21.628,
+          "end": 22.049,
+          "score": 0.769
+        }
+      ]
+    },
+    {
+      "start": 22.089,
+      "end": 27.135,
+      "text": "Lo que quiero es entonces ahora sí que quede bien el agradecimiento.",
+      "words": [
+        {
+          "word": "Lo",
+          "start": 22.089,
+          "end": 22.129,
+          "score": 0.986
+        },
+        {
+          "word": "que",
+          "start": 22.169,
+          "end": 22.249,
+          "score": 0.966
+        },
+        {
+          "word": "quiero",
+          "start": 22.309,
+          "end": 22.489,
+          "score": 0.765
+        },
+        {
+          "word": "es",
+          "start": 22.509,
+          "end": 22.69,
+          "score": 0.722
+        },
+        {
+          "word": "entonces",
+          "start": 22.73,
+          "end": 23.07,
+          "score": 0.803
+        },
+        {
+          "word": "ahora",
+          "start": 23.09,
+          "end": 23.31,
+          "score": 0.519
+        },
+        {
+          "word": "sí",
+          "start": 23.411,
+          "end": 23.491,
+          "score": 0.802
+        },
+        {
+          "word": "que",
+          "start": 23.551,
+          "end": 23.631,
+          "score": 0.946
+        },
+        {
+          "word": "quede",
+          "start": 23.711,
+          "end": 23.951,
+          "score": 0.821
+        },
+        {
+          "word": "bien",
+          "start": 24.011,
+          "end": 24.191,
+          "score": 0.981
+        },
+        {
+          "word": "el",
+          "start": 24.232,
+          "end": 25.874,
+          "score": 0.524
+        },
+        {
+          "word": "agradecimiento.",
+          "start": 25.914,
+          "end": 27.135,
+          "score": 0.691
+        }
+      ]
+    },
+    {
+      "start": 29.68,
+      "end": 50.997,
+      "text": " Olvido, quiero agradecerte este encuentro de esta noche para los palabristas, este alimento para el ávido pájaro nocturno de Buenos Aires, que hayas cruzado el mar, que nos hayas traído este panorama de la poesía con tu generosidad, de la poesía española de estos últimos años, y que también nos hayas dado tu propio panorama",
+      "words": [
+        {
+          "word": "Olvido,",
+          "start": 29.68,
+          "end": 30.241,
+          "score": 0.13
+        },
+        {
+          "word": "quiero",
+          "start": 30.261,
+          "end": 30.501,
+          "score": 0.802
+        },
+        {
+          "word": "agradecerte",
+          "start": 30.762,
+          "end": 31.403,
+          "score": 0.686
+        },
+        {
+          "word": "este",
+          "start": 33.026,
+          "end": 33.226,
+          "score": 0.947
+        },
+        {
+          "word": "encuentro",
+          "start": 33.286,
+          "end": 33.787,
+          "score": 0.918
+        },
+        {
+          "word": "de",
+          "start": 33.847,
+          "end": 33.907,
+          "score": 0.761
+        },
+        {
+          "word": "esta",
+          "start": 33.927,
+          "end": 34.108,
+          "score": 0.632
+        },
+        {
+          "word": "noche",
+          "start": 34.168,
+          "end": 34.328,
+          "score": 0.951
+        },
+        {
+          "word": "para",
+          "start": 34.428,
+          "end": 34.528,
+          "score": 0.969
+        },
+        {
+          "word": "los",
+          "start": 34.609,
+          "end": 34.669,
+          "score": 0.88
+        },
+        {
+          "word": "palabristas,",
+          "start": 34.729,
+          "end": 35.27,
+          "score": 0.943
+        },
+        {
+          "word": "este",
+          "start": 35.33,
+          "end": 36.913,
+          "score": 0.968
+        },
+        {
+          "word": "alimento",
+          "start": 36.953,
+          "end": 37.333,
+          "score": 0.896
+        },
+        {
+          "word": "para",
+          "start": 37.454,
+          "end": 37.714,
+          "score": 0.973
+        },
+        {
+          "word": "el",
+          "start": 37.834,
+          "end": 37.934,
+          "score": 0.788
+        },
+        {
+          "word": "ávido",
+          "start": 38.115,
+          "end": 38.315,
+          "score": 0.79
+        },
+        {
+          "word": "pájaro",
+          "start": 38.435,
+          "end": 38.816,
+          "score": 0.707
+        },
+        {
+          "word": "nocturno",
+          "start": 38.856,
+          "end": 39.417,
+          "score": 0.865
+        },
+        {
+          "word": "de",
+          "start": 39.477,
+          "end": 39.517,
+          "score": 0.826
+        },
+        {
+          "word": "Buenos",
+          "start": 39.597,
+          "end": 39.838,
+          "score": 0.793
+        },
+        {
+          "word": "Aires,",
+          "start": 39.978,
+          "end": 40.178,
+          "score": 0.897
+        },
+        {
+          "word": "que",
+          "start": 40.218,
+          "end": 40.92,
+          "score": 0.615
+        },
+        {
+          "word": "hayas",
+          "start": 40.96,
+          "end": 41.2,
+          "score": 0.58
+        },
+        {
+          "word": "cruzado",
+          "start": 41.22,
+          "end": 41.521,
+          "score": 0.94
+        },
+        {
+          "word": "el",
+          "start": 41.601,
+          "end": 41.661,
+          "score": 0.988
+        },
+        {
+          "word": "mar,",
+          "start": 41.721,
+          "end": 41.861,
+          "score": 0.943
+        },
+        {
+          "word": "que",
+          "start": 41.941,
+          "end": 42.021,
+          "score": 0.816
+        },
+        {
+          "word": "nos",
+          "start": 42.062,
+          "end": 42.142,
+          "score": 0.671
+        },
+        {
+          "word": "hayas",
+          "start": 42.202,
+          "end": 42.402,
+          "score": 0.347
+        },
+        {
+          "word": "traído",
+          "start": 42.422,
+          "end": 42.663,
+          "score": 0.987
+        },
+        {
+          "word": "este",
+          "start": 42.703,
+          "end": 42.863,
+          "score": 0.822
+        },
+        {
+          "word": "panorama",
+          "start": 42.923,
+          "end": 43.304,
+          "score": 0.915
+        },
+        {
+          "word": "de",
+          "start": 43.344,
+          "end": 43.404,
+          "score": 0.888
+        },
+        {
+          "word": "la",
+          "start": 43.444,
+          "end": 43.484,
+          "score": 0.703
+        },
+        {
+          "word": "poesía",
+          "start": 43.544,
+          "end": 43.925,
+          "score": 0.833
+        },
+        {
+          "word": "con",
+          "start": 44.686,
+          "end": 44.866,
+          "score": 0.855
+        },
+        {
+          "word": "tu",
+          "start": 44.886,
+          "end": 44.987,
+          "score": 0.832
+        },
+        {
+          "word": "generosidad,",
+          "start": 45.027,
+          "end": 45.548,
+          "score": 0.902
+        },
+        {
+          "word": "de",
+          "start": 45.568,
+          "end": 45.608,
+          "score": 0.498
+        },
+        {
+          "word": "la",
+          "start": 46.109,
+          "end": 46.149,
+          "score": 0.402
+        },
+        {
+          "word": "poesía",
+          "start": 46.209,
+          "end": 46.469,
+          "score": 0.512
+        },
+        {
+          "word": "española",
+          "start": 46.509,
+          "end": 46.85,
+          "score": 0.716
+        },
+        {
+          "word": "de",
+          "start": 46.89,
+          "end": 46.93,
+          "score": 0.486
+        },
+        {
+          "word": "estos",
+          "start": 47.01,
+          "end": 47.331,
+          "score": 0.738
+        },
+        {
+          "word": "últimos",
+          "start": 47.451,
+          "end": 47.731,
+          "score": 0.732
+        },
+        {
+          "word": "años,",
+          "start": 48.092,
+          "end": 48.312,
+          "score": 0.88
+        },
+        {
+          "word": "y",
+          "start": 48.332,
+          "end": 48.352,
+          "score": 0.973
+        },
+        {
+          "word": "que",
+          "start": 49.134,
+          "end": 49.214,
+          "score": 0.957
+        },
+        {
+          "word": "también",
+          "start": 49.274,
+          "end": 49.434,
+          "score": 0.902
+        },
+        {
+          "word": "nos",
+          "start": 49.494,
+          "end": 49.595,
+          "score": 0.667
+        },
+        {
+          "word": "hayas",
+          "start": 49.635,
+          "end": 49.875,
+          "score": 0.46
+        },
+        {
+          "word": "dado",
+          "start": 49.895,
+          "end": 50.055,
+          "score": 0.888
+        },
+        {
+          "word": "tu",
+          "start": 50.216,
+          "end": 50.336,
+          "score": 0.881
+        },
+        {
+          "word": "propio",
+          "start": 50.476,
+          "end": 50.817,
+          "score": 0.915
+        },
+        {
+          "word": "panorama",
+          "start": 50.837,
+          "end": 50.997,
+          "score": 0.126
+        }
+      ]
+    },
+    {
+      "start": 51.196,
+      "end": 61.053,
+      "text": " pan poético que son estos bellísimos poemas y que nos hayas dado también cuenta de cuál es el camino, el sentido de tu propia palabra.",
+      "words": [
+        {
+          "word": "pan",
+          "start": 51.196,
+          "end": 51.657,
+          "score": 0.63
+        },
+        {
+          "word": "poético",
+          "start": 51.757,
+          "end": 52.178,
+          "score": 0.871
+        },
+        {
+          "word": "que",
+          "start": 52.198,
+          "end": 52.258,
+          "score": 0.334
+        },
+        {
+          "word": "son",
+          "start": 52.378,
+          "end": 52.538,
+          "score": 0.555
+        },
+        {
+          "word": "estos",
+          "start": 52.578,
+          "end": 52.819,
+          "score": 0.484
+        },
+        {
+          "word": "bellísimos",
+          "start": 52.939,
+          "end": 53.42,
+          "score": 0.868
+        },
+        {
+          "word": "poemas",
+          "start": 53.5,
+          "end": 53.76,
+          "score": 0.8
+        },
+        {
+          "word": "y",
+          "start": 53.78,
+          "end": 53.8,
+          "score": 0.983
+        },
+        {
+          "word": "que",
+          "start": 54.962,
+          "end": 55.043,
+          "score": 0.922
+        },
+        {
+          "word": "nos",
+          "start": 55.083,
+          "end": 55.163,
+          "score": 0.794
+        },
+        {
+          "word": "hayas",
+          "start": 55.223,
+          "end": 55.503,
+          "score": 0.575
+        },
+        {
+          "word": "dado",
+          "start": 55.523,
+          "end": 55.684,
+          "score": 0.886
+        },
+        {
+          "word": "también",
+          "start": 55.804,
+          "end": 56.084,
+          "score": 0.766
+        },
+        {
+          "word": "cuenta",
+          "start": 56.124,
+          "end": 56.826,
+          "score": 0.832
+        },
+        {
+          "word": "de",
+          "start": 57.186,
+          "end": 57.266,
+          "score": 0.917
+        },
+        {
+          "word": "cuál",
+          "start": 57.367,
+          "end": 57.567,
+          "score": 0.857
+        },
+        {
+          "word": "es",
+          "start": 57.627,
+          "end": 57.727,
+          "score": 0.725
+        },
+        {
+          "word": "el",
+          "start": 58.268,
+          "end": 58.529,
+          "score": 0.663
+        },
+        {
+          "word": "camino,",
+          "start": 58.589,
+          "end": 58.969,
+          "score": 0.842
+        },
+        {
+          "word": "el",
+          "start": 59.37,
+          "end": 59.45,
+          "score": 0.984
+        },
+        {
+          "word": "sentido",
+          "start": 59.55,
+          "end": 60.031,
+          "score": 0.961
+        },
+        {
+          "word": "de",
+          "start": 60.091,
+          "end": 60.171,
+          "score": 0.947
+        },
+        {
+          "word": "tu",
+          "start": 60.272,
+          "end": 60.372,
+          "score": 0.885
+        },
+        {
+          "word": "propia",
+          "start": 60.412,
+          "end": 60.672,
+          "score": 0.852
+        },
+        {
+          "word": "palabra.",
+          "start": 60.752,
+          "end": 61.053,
+          "score": 0.851
+        }
+      ]
+    },
+    {
+      "start": 61.293,
+      "end": 65.38,
+      "text": "Muchas gracias y que tengas muy buena estancia en Buenos Aires.",
+      "words": [
+        {
+          "word": "Muchas",
+          "start": 61.293,
+          "end": 61.494,
+          "score": 0.879
+        },
+        {
+          "word": "gracias",
+          "start": 61.534,
+          "end": 61.834,
+          "score": 0.833
+        },
+        {
+          "word": "y",
+          "start": 61.854,
+          "end": 61.874,
+          "score": 0.956
+        },
+        {
+          "word": "que",
+          "start": 61.914,
+          "end": 62.215,
+          "score": 0.426
+        },
+        {
+          "word": "tengas",
+          "start": 62.275,
+          "end": 62.495,
+          "score": 0.642
+        },
+        {
+          "word": "muy",
+          "start": 62.576,
+          "end": 62.676,
+          "score": 0.875
+        },
+        {
+          "word": "buena",
+          "start": 62.696,
+          "end": 62.836,
+          "score": 0.789
+        },
+        {
+          "word": "estancia",
+          "start": 62.876,
+          "end": 63.237,
+          "score": 0.818
+        },
+        {
+          "word": "en",
+          "start": 63.277,
+          "end": 63.317,
+          "score": 0.585
+        },
+        {
+          "word": "Buenos",
+          "start": 63.357,
+          "end": 63.678,
+          "score": 0.442
+        },
+        {
+          "word": "Aires.",
+          "start": 63.698,
+          "end": 65.38,
+          "score": 0.358
+        }
+      ]
+    },
+    {
+      "start": 65.4,
+      "end": 66.302,
+      "text": "Muchas gracias.",
+      "words": [
+        {
+          "word": "Muchas",
+          "start": 65.4,
+          "end": 65.521,
+          "score": 0.192
+        },
+        {
+          "word": "gracias.",
+          "start": 65.561,
+          "end": 66.302,
+          "score": 0.314
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Lo",
+      "start": 4.688,
+      "end": 6.57,
+      "score": 0.446
+    },
+    {
+      "word": "amo",
+      "start": 6.59,
+      "end": 6.65,
+      "score": 0.002
+    },
+    {
+      "word": "a",
+      "start": 6.67,
+      "end": 6.69,
+      "score": 0.006
+    },
+    {
+      "word": "Mancio,",
+      "start": 6.71,
+      "end": 6.851,
+      "score": 0.086
+    },
+    {
+      "word": "parece",
+      "start": 6.871,
+      "end": 7.051,
+      "score": 0.411
+    },
+    {
+      "word": "el",
+      "start": 7.091,
+      "end": 7.131,
+      "score": 0.506
+    },
+    {
+      "word": "más",
+      "start": 7.171,
+      "end": 7.291,
+      "score": 0.191
+    },
+    {
+      "word": "grande",
+      "start": 7.311,
+      "end": 7.612,
+      "score": 0.894
+    },
+    {
+      "word": "cantautor",
+      "start": 7.672,
+      "end": 10.014,
+      "score": 0.728
+    },
+    {
+      "word": "español.",
+      "start": 10.034,
+      "end": 10.295,
+      "score": 0.179
+    },
+    {
+      "word": "Así",
+      "start": 10.675,
+      "end": 10.735,
+      "score": 0.056
+    },
+    {
+      "word": "que",
+      "start": 10.755,
+      "end": 10.875,
+      "score": 0.704
+    },
+    {
+      "word": "pondré",
+      "start": 11.256,
+      "end": 11.556,
+      "score": 0.616
+    },
+    {
+      "word": "eso",
+      "start": 11.576,
+      "end": 11.676,
+      "score": 0.571
+    },
+    {
+      "word": "y",
+      "start": 11.716,
+      "end": 11.736,
+      "score": 0.972
+    },
+    {
+      "word": "después",
+      "start": 11.777,
+      "end": 12.057,
+      "score": 0.39
+    },
+    {
+      "word": "seguimos",
+      "start": 12.077,
+      "end": 12.417,
+      "score": 0.906
+    },
+    {
+      "word": "con",
+      "start": 12.497,
+      "end": 12.598,
+      "score": 0.954
+    },
+    {
+      "word": "todo",
+      "start": 12.678,
+      "end": 12.798,
+      "score": 0.454
+    },
+    {
+      "word": "el",
+      "start": 12.818,
+      "end": 12.858,
+      "score": 0.293
+    },
+    {
+      "word": "material",
+      "start": 12.878,
+      "end": 13.158,
+      "score": 0.313
+    },
+    {
+      "word": "que",
+      "start": 13.178,
+      "end": 13.258,
+      "score": 0.623
+    },
+    {
+      "word": "tenemos.",
+      "start": 13.318,
+      "end": 13.619,
+      "score": 0.924
+    },
+    {
+      "word": "Está",
+      "start": 18.845,
+      "end": 18.925,
+      "score": 0.0
+    },
+    {
+      "word": "muy",
+      "start": 18.945,
+      "end": 19.005,
+      "score": 0.0
+    },
+    {
+      "word": "bien.",
+      "start": 19.025,
+      "end": 19.125,
+      "score": 0.0
+    },
+    {
+      "word": "Entonces,",
+      "start": 19.145,
+      "end": 19.326,
+      "score": 0.0
+    },
+    {
+      "word": "bueno.",
+      "start": 19.346,
+      "end": 19.466,
+      "score": 0.001
+    },
+    {
+      "word": "Bien.",
+      "start": 19.486,
+      "end": 19.586,
+      "score": 0.063
+    },
+    {
+      "word": "No,",
+      "start": 19.606,
+      "end": 20.187,
+      "score": 0.542
+    },
+    {
+      "word": "esto",
+      "start": 20.207,
+      "end": 20.347,
+      "score": 0.892
+    },
+    {
+      "word": "después",
+      "start": 20.367,
+      "end": 20.547,
+      "score": 0.856
+    },
+    {
+      "word": "yo",
+      "start": 20.607,
+      "end": 20.647,
+      "score": 0.027
+    },
+    {
+      "word": "lo",
+      "start": 20.667,
+      "end": 21.108,
+      "score": 0.738
+    },
+    {
+      "word": "borro,",
+      "start": 21.168,
+      "end": 21.408,
+      "score": 0.924
+    },
+    {
+      "word": "no",
+      "start": 21.428,
+      "end": 21.488,
+      "score": 0.84
+    },
+    {
+      "word": "te",
+      "start": 21.528,
+      "end": 21.608,
+      "score": 0.906
+    },
+    {
+      "word": "preocupes.",
+      "start": 21.628,
+      "end": 22.049,
+      "score": 0.769
+    },
+    {
+      "word": "Lo",
+      "start": 22.089,
+      "end": 22.129,
+      "score": 0.986
+    },
+    {
+      "word": "que",
+      "start": 22.169,
+      "end": 22.249,
+      "score": 0.966
+    },
+    {
+      "word": "quiero",
+      "start": 22.309,
+      "end": 22.489,
+      "score": 0.765
+    },
+    {
+      "word": "es",
+      "start": 22.509,
+      "end": 22.69,
+      "score": 0.722
+    },
+    {
+      "word": "entonces",
+      "start": 22.73,
+      "end": 23.07,
+      "score": 0.803
+    },
+    {
+      "word": "ahora",
+      "start": 23.09,
+      "end": 23.31,
+      "score": 0.519
+    },
+    {
+      "word": "sí",
+      "start": 23.411,
+      "end": 23.491,
+      "score": 0.802
+    },
+    {
+      "word": "que",
+      "start": 23.551,
+      "end": 23.631,
+      "score": 0.946
+    },
+    {
+      "word": "quede",
+      "start": 23.711,
+      "end": 23.951,
+      "score": 0.821
+    },
+    {
+      "word": "bien",
+      "start": 24.011,
+      "end": 24.191,
+      "score": 0.981
+    },
+    {
+      "word": "el",
+      "start": 24.232,
+      "end": 25.874,
+      "score": 0.524
+    },
+    {
+      "word": "agradecimiento.",
+      "start": 25.914,
+      "end": 27.135,
+      "score": 0.691
+    },
+    {
+      "word": "Olvido,",
+      "start": 29.68,
+      "end": 30.241,
+      "score": 0.13
+    },
+    {
+      "word": "quiero",
+      "start": 30.261,
+      "end": 30.501,
+      "score": 0.802
+    },
+    {
+      "word": "agradecerte",
+      "start": 30.762,
+      "end": 31.403,
+      "score": 0.686
+    },
+    {
+      "word": "este",
+      "start": 33.026,
+      "end": 33.226,
+      "score": 0.947
+    },
+    {
+      "word": "encuentro",
+      "start": 33.286,
+      "end": 33.787,
+      "score": 0.918
+    },
+    {
+      "word": "de",
+      "start": 33.847,
+      "end": 33.907,
+      "score": 0.761
+    },
+    {
+      "word": "esta",
+      "start": 33.927,
+      "end": 34.108,
+      "score": 0.632
+    },
+    {
+      "word": "noche",
+      "start": 34.168,
+      "end": 34.328,
+      "score": 0.951
+    },
+    {
+      "word": "para",
+      "start": 34.428,
+      "end": 34.528,
+      "score": 0.969
+    },
+    {
+      "word": "los",
+      "start": 34.609,
+      "end": 34.669,
+      "score": 0.88
+    },
+    {
+      "word": "palabristas,",
+      "start": 34.729,
+      "end": 35.27,
+      "score": 0.943
+    },
+    {
+      "word": "este",
+      "start": 35.33,
+      "end": 36.913,
+      "score": 0.968
+    },
+    {
+      "word": "alimento",
+      "start": 36.953,
+      "end": 37.333,
+      "score": 0.896
+    },
+    {
+      "word": "para",
+      "start": 37.454,
+      "end": 37.714,
+      "score": 0.973
+    },
+    {
+      "word": "el",
+      "start": 37.834,
+      "end": 37.934,
+      "score": 0.788
+    },
+    {
+      "word": "ávido",
+      "start": 38.115,
+      "end": 38.315,
+      "score": 0.79
+    },
+    {
+      "word": "pájaro",
+      "start": 38.435,
+      "end": 38.816,
+      "score": 0.707
+    },
+    {
+      "word": "nocturno",
+      "start": 38.856,
+      "end": 39.417,
+      "score": 0.865
+    },
+    {
+      "word": "de",
+      "start": 39.477,
+      "end": 39.517,
+      "score": 0.826
+    },
+    {
+      "word": "Buenos",
+      "start": 39.597,
+      "end": 39.838,
+      "score": 0.793
+    },
+    {
+      "word": "Aires,",
+      "start": 39.978,
+      "end": 40.178,
+      "score": 0.897
+    },
+    {
+      "word": "que",
+      "start": 40.218,
+      "end": 40.92,
+      "score": 0.615
+    },
+    {
+      "word": "hayas",
+      "start": 40.96,
+      "end": 41.2,
+      "score": 0.58
+    },
+    {
+      "word": "cruzado",
+      "start": 41.22,
+      "end": 41.521,
+      "score": 0.94
+    },
+    {
+      "word": "el",
+      "start": 41.601,
+      "end": 41.661,
+      "score": 0.988
+    },
+    {
+      "word": "mar,",
+      "start": 41.721,
+      "end": 41.861,
+      "score": 0.943
+    },
+    {
+      "word": "que",
+      "start": 41.941,
+      "end": 42.021,
+      "score": 0.816
+    },
+    {
+      "word": "nos",
+      "start": 42.062,
+      "end": 42.142,
+      "score": 0.671
+    },
+    {
+      "word": "hayas",
+      "start": 42.202,
+      "end": 42.402,
+      "score": 0.347
+    },
+    {
+      "word": "traído",
+      "start": 42.422,
+      "end": 42.663,
+      "score": 0.987
+    },
+    {
+      "word": "este",
+      "start": 42.703,
+      "end": 42.863,
+      "score": 0.822
+    },
+    {
+      "word": "panorama",
+      "start": 42.923,
+      "end": 43.304,
+      "score": 0.915
+    },
+    {
+      "word": "de",
+      "start": 43.344,
+      "end": 43.404,
+      "score": 0.888
+    },
+    {
+      "word": "la",
+      "start": 43.444,
+      "end": 43.484,
+      "score": 0.703
+    },
+    {
+      "word": "poesía",
+      "start": 43.544,
+      "end": 43.925,
+      "score": 0.833
+    },
+    {
+      "word": "con",
+      "start": 44.686,
+      "end": 44.866,
+      "score": 0.855
+    },
+    {
+      "word": "tu",
+      "start": 44.886,
+      "end": 44.987,
+      "score": 0.832
+    },
+    {
+      "word": "generosidad,",
+      "start": 45.027,
+      "end": 45.548,
+      "score": 0.902
+    },
+    {
+      "word": "de",
+      "start": 45.568,
+      "end": 45.608,
+      "score": 0.498
+    },
+    {
+      "word": "la",
+      "start": 46.109,
+      "end": 46.149,
+      "score": 0.402
+    },
+    {
+      "word": "poesía",
+      "start": 46.209,
+      "end": 46.469,
+      "score": 0.512
+    },
+    {
+      "word": "española",
+      "start": 46.509,
+      "end": 46.85,
+      "score": 0.716
+    },
+    {
+      "word": "de",
+      "start": 46.89,
+      "end": 46.93,
+      "score": 0.486
+    },
+    {
+      "word": "estos",
+      "start": 47.01,
+      "end": 47.331,
+      "score": 0.738
+    },
+    {
+      "word": "últimos",
+      "start": 47.451,
+      "end": 47.731,
+      "score": 0.732
+    },
+    {
+      "word": "años,",
+      "start": 48.092,
+      "end": 48.312,
+      "score": 0.88
+    },
+    {
+      "word": "y",
+      "start": 48.332,
+      "end": 48.352,
+      "score": 0.973
+    },
+    {
+      "word": "que",
+      "start": 49.134,
+      "end": 49.214,
+      "score": 0.957
+    },
+    {
+      "word": "también",
+      "start": 49.274,
+      "end": 49.434,
+      "score": 0.902
+    },
+    {
+      "word": "nos",
+      "start": 49.494,
+      "end": 49.595,
+      "score": 0.667
+    },
+    {
+      "word": "hayas",
+      "start": 49.635,
+      "end": 49.875,
+      "score": 0.46
+    },
+    {
+      "word": "dado",
+      "start": 49.895,
+      "end": 50.055,
+      "score": 0.888
+    },
+    {
+      "word": "tu",
+      "start": 50.216,
+      "end": 50.336,
+      "score": 0.881
+    },
+    {
+      "word": "propio",
+      "start": 50.476,
+      "end": 50.817,
+      "score": 0.915
+    },
+    {
+      "word": "panorama",
+      "start": 50.837,
+      "end": 50.997,
+      "score": 0.126
+    },
+    {
+      "word": "pan",
+      "start": 51.196,
+      "end": 51.657,
+      "score": 0.63
+    },
+    {
+      "word": "poético",
+      "start": 51.757,
+      "end": 52.178,
+      "score": 0.871
+    },
+    {
+      "word": "que",
+      "start": 52.198,
+      "end": 52.258,
+      "score": 0.334
+    },
+    {
+      "word": "son",
+      "start": 52.378,
+      "end": 52.538,
+      "score": 0.555
+    },
+    {
+      "word": "estos",
+      "start": 52.578,
+      "end": 52.819,
+      "score": 0.484
+    },
+    {
+      "word": "bellísimos",
+      "start": 52.939,
+      "end": 53.42,
+      "score": 0.868
+    },
+    {
+      "word": "poemas",
+      "start": 53.5,
+      "end": 53.76,
+      "score": 0.8
+    },
+    {
+      "word": "y",
+      "start": 53.78,
+      "end": 53.8,
+      "score": 0.983
+    },
+    {
+      "word": "que",
+      "start": 54.962,
+      "end": 55.043,
+      "score": 0.922
+    },
+    {
+      "word": "nos",
+      "start": 55.083,
+      "end": 55.163,
+      "score": 0.794
+    },
+    {
+      "word": "hayas",
+      "start": 55.223,
+      "end": 55.503,
+      "score": 0.575
+    },
+    {
+      "word": "dado",
+      "start": 55.523,
+      "end": 55.684,
+      "score": 0.886
+    },
+    {
+      "word": "también",
+      "start": 55.804,
+      "end": 56.084,
+      "score": 0.766
+    },
+    {
+      "word": "cuenta",
+      "start": 56.124,
+      "end": 56.826,
+      "score": 0.832
+    },
+    {
+      "word": "de",
+      "start": 57.186,
+      "end": 57.266,
+      "score": 0.917
+    },
+    {
+      "word": "cuál",
+      "start": 57.367,
+      "end": 57.567,
+      "score": 0.857
+    },
+    {
+      "word": "es",
+      "start": 57.627,
+      "end": 57.727,
+      "score": 0.725
+    },
+    {
+      "word": "el",
+      "start": 58.268,
+      "end": 58.529,
+      "score": 0.663
+    },
+    {
+      "word": "camino,",
+      "start": 58.589,
+      "end": 58.969,
+      "score": 0.842
+    },
+    {
+      "word": "el",
+      "start": 59.37,
+      "end": 59.45,
+      "score": 0.984
+    },
+    {
+      "word": "sentido",
+      "start": 59.55,
+      "end": 60.031,
+      "score": 0.961
+    },
+    {
+      "word": "de",
+      "start": 60.091,
+      "end": 60.171,
+      "score": 0.947
+    },
+    {
+      "word": "tu",
+      "start": 60.272,
+      "end": 60.372,
+      "score": 0.885
+    },
+    {
+      "word": "propia",
+      "start": 60.412,
+      "end": 60.672,
+      "score": 0.852
+    },
+    {
+      "word": "palabra.",
+      "start": 60.752,
+      "end": 61.053,
+      "score": 0.851
+    },
+    {
+      "word": "Muchas",
+      "start": 61.293,
+      "end": 61.494,
+      "score": 0.879
+    },
+    {
+      "word": "gracias",
+      "start": 61.534,
+      "end": 61.834,
+      "score": 0.833
+    },
+    {
+      "word": "y",
+      "start": 61.854,
+      "end": 61.874,
+      "score": 0.956
+    },
+    {
+      "word": "que",
+      "start": 61.914,
+      "end": 62.215,
+      "score": 0.426
+    },
+    {
+      "word": "tengas",
+      "start": 62.275,
+      "end": 62.495,
+      "score": 0.642
+    },
+    {
+      "word": "muy",
+      "start": 62.576,
+      "end": 62.676,
+      "score": 0.875
+    },
+    {
+      "word": "buena",
+      "start": 62.696,
+      "end": 62.836,
+      "score": 0.789
+    },
+    {
+      "word": "estancia",
+      "start": 62.876,
+      "end": 63.237,
+      "score": 0.818
+    },
+    {
+      "word": "en",
+      "start": 63.277,
+      "end": 63.317,
+      "score": 0.585
+    },
+    {
+      "word": "Buenos",
+      "start": 63.357,
+      "end": 63.678,
+      "score": 0.442
+    },
+    {
+      "word": "Aires.",
+      "start": 63.698,
+      "end": 65.38,
+      "score": 0.358
+    },
+    {
+      "word": "Muchas",
+      "start": 65.4,
+      "end": 65.521,
+      "score": 0.192
+    },
+    {
+      "word": "gracias.",
+      "start": 65.561,
+      "end": 66.302,
+      "score": 0.314
+    }
+  ],
+  "language": "es",
+  "alignment_stats": {
+    "total_segments": 3,
+    "successful_alignments": 11,
+    "failed_alignments": 0,
+    "success_rate": 366.7,
+    "total_words": 143
+  },
+  "word_score_buckets": {
+    "Good": 0.896,
+    "Neutral": 0.793,
+    "Bad": 0.519
+  }
+}
