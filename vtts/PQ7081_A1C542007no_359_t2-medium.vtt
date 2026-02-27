@@ -1,0 +1,837 @@
+WEBVTT
+
+00:00.605 --> 00:10.776
+computadora personal es básicamente en tiempo 
+real, mientras uno escribe, comparar cada una de
+
+00:00.605 --> 00:10.776
+las palabras que uno acaba de tipear con un 
+diccionario que tiene incorporado. Lo hace muy
+
+00:10.796 --> 00:17.924
+rápido, lo hace en segundo plano, de modo que no 
+interfiere con la escritura, pero esto es todo. Lo
+
+00:18.164 --> 00:20.747
+que hace es una comparación. Compara. Entonces, 
+si de golpe uno escribe estoy vivo y vivo lo escribe
+
+00:20.948 --> 00:30.358
+la primera con B larga, la máquina va a buscar vivo, 
+no va a encontrar y lo va a subrayar con El problema
+
+00:31.553 --> 00:34.978
+es cuando hay control gramatical. La computadora 
+hace cualquier cosa. La gramática se escapa a la
+
+00:37.722 --> 00:41.087
+lógica de la computadora. O mejor dicho, la 
+computadora es lógica. Toda la computación se
+
+00:44.752 --> 00:47.035
+basa en la lógica booleana. No hay más que eso. La 
+lógica booleana, la lógica proposicional. Si
+
+00:52.663 --> 00:54.205
+llueve no salgo, etc. Lo que estudiaron en la 
+secundaria, las tablas de verdad. La gramática
+
+00:57.330 --> 00:58.371
+no. No es lo mismo la doble negación en inglés, que 
+en francés, que en latino, que en castellano. Y de
+
+01:04.014 --> 01:06.779
+ahí para abajo, millones de cosas. Lo que puede 
+hacer es, tiene una serie de reglas, es cierto, han
+
+01:07.019 --> 01:15.634
+trabajado mucho y demás, y puede comparar la 
+gramática de un texto con un modelo. ejemplo, el
+
+01:15.867 --> 01:20.672
+texto periodístico, o un informe, o un 
+memorándum, etcétera. Pero bueno, yo he hecho
+
+01:21.413 --> 01:25.577
+montones de pruebas con esto, ¿no? Se la puede 
+fácilmente sacar de caja a la computadora. Y otro
+
+01:29.541 --> 01:31.423
+tanto pasa con los traductores. No hace mucho se 
+publicó ahí en Enfoques un artículo muy jocoso de
+
+01:32.524 --> 01:45.638
+Humberto Eco, donde rescataba el tema de la 
+traducción, que le daba mucho goce a él haber
+
+01:32.524 --> 01:45.638
+descubierto las Las barbaridades que aparecían 
+en las traducciones, esas que se hacen de modo
+
+01:45.871 --> 01:50.898
+automático. Sí, pero no son barbaridades en la 
+medida en que ningún programa pretende ser
+
+01:51.119 --> 01:56.486
+exacto. Cualquier paquete de traducción dice 
+afuera, señor, esto es una ayuda para usted que es
+
+01:56.627 --> 02:05.179
+traductor, tómese el trabajo luego de revisar la 
+traducción. si uno lo usa bien, acelera bastante
+
+02:05.429 --> 02:09.314
+el trabajo. Mi pregunta iba a partir de esto que lo 
+da Antonio Jocoyo, Humberto Eco, y dado que ya se ha
+
+02:09.755 --> 02:31.504
+conseguido y muchísimos asuntos que uno cuando 
+navega por internet quiere recoger los que no
+
+02:09.755 --> 02:31.504
+conocen idiomas, encuentran el Translate allí al 
+lado para poder, y después tiene todas las
+
+02:09.755 --> 02:31.504
+posibilidades, al alemán, al japonés, la idioma 
+que puede ser, Viene esto así en bruto con una
+
+02:32.564 --> 02:53.290
+sintaxis muy rota y todo esto es de una gran ayuda, 
+pero uno dice o uno supone enseguida que si esto se
+
+02:32.564 --> 02:53.290
+ha conseguido, esto que es absolutamente todavía 
+arcaico,
+
+02:32.564 --> 02:53.290
+desestructurado, informe, quiere decir que no 
+está lejos el guía. que también podrán trabajar
+
+02:54.113 --> 02:58.819
+con la sintaxis de cada idioma de un modo más 
+refinado. Posiblemente. ¿No te parece? Sí, pero
+
+03:00.861 --> 03:07.149
+también creo que hay fronteras que se comportan un 
+poco como el horizonte. Uno siempre piensa que
+
+03:07.670 --> 03:10.954
+está ahí a punto de llegar y se vuelven a escapar. Mi 
+impresión es que el lenguaje es una de ellas. El
+
+03:15.560 --> 03:19.885
+lenguaje es también la manera en que los 
+científicos trabajan. Una fórmula lógica, un
+
+03:20.438 --> 03:27.087
+razonamiento lógico, la matemática, no son más 
+que derivados del lenguaje humano. Se los llama
+
+03:27.547 --> 03:31.152
+formales por eso, porque significan mediante la 
+forma. Son condensaciones del lenguaje humano.
+
+03:33.375 --> 03:36.620
+Se les ha quitado la parte semántica, si vos 
+querés. Y la retórica. Por supuesto, desde ya. Y el
+
+03:39.403 --> 03:41.266
+contexto desde ya. Entonces son una especie de 
+clones muy amputados del lenguaje. Entonces
+
+03:44.830 --> 03:49.737
+estamos tratando, con esta herramienta, 
+entender al lenguaje. del cual derivan de modo que
+
+03:49.987 --> 04:17.226
+el lenguaje es una especie de faro que está ahí y 
+sigue atrayendo constantemente a los
+
+03:49.987 --> 04:17.226
+científicos sobre todo a la computación y por 
+supuesto a los lingüistas para encontrarle la
+
+03:49.987 --> 04:17.226
+vuelta y mi impresión vengo de la UBA hice 
+lingüística en la UBA y aparte veo lo que están
+
+03:49.987 --> 04:17.226
+haciendo en informática y mi impresión es que el 
+lenguaje le sigue haciendo siempre una
+
+03:49.987 --> 04:17.226
+zancadilla que siempre encuentra la vuelta para 
+qué una persona con dos palabras confunda la
+
+04:17.746 --> 04:21.773
+computadora. Entonces, sí puede ser que haya, de 
+hecho va a haber, casi es indudable, lo vemos
+
+04:21.813 --> 04:32.491
+semana a semana en el suplemento, cuando vemos 
+nuevas tecnologías, que consiguen cosas
+
+04:21.813 --> 04:32.491
+mejores. Pero la comprensión absoluta del 
+idioma, es decir, que un cerebro electrónico
+
+04:32.791 --> 04:41.526
+consiga entender completamente y entender acá 
+entre comillas, vamos a ver qué quiere decir esto
+
+04:41.742 --> 04:48.768
+de entender, vamos a decir de codificar el 
+lenguaje, me parece algo excesivamente lejano.
+
+04:48.908 --> 05:01.039
+Sería absurdo pretender que la computadora 
+consiguiera una perfecta traducción cuando de
+
+04:48.908 --> 05:01.039
+hecho la traducción es una traición, aún en el acto 
+vivo de realizar un traslado. Eso por un lado. Por
+
+05:02.621 --> 05:10.568
+el lado tecnológico, daría a pensar que si una 
+computadora logra por fin entender lo que los
+
+05:02.621 --> 05:10.568
+humanos estamos diciendo, entonces va a cobrar 
+conciencia. Porque ¿qué otra cosa es? Claro, es
+
+05:14.919 --> 05:15.259
+cierto. Entonces es un punto que... Los 
+lingüistas vienen discutiendo esto hace rato y
+
+05:15.279 --> 05:30.595
+por supuesto también los tecnólogos y los 
+trabajos interdisciplinarios dejan una zona
+
+05:15.279 --> 05:30.595
+gris donde uno se dice exactamente ¿qué pasaría si 
+una máquina...? Por lo pronto ya sabemos que las
+
+05:30.615 --> 05:35.960
+máquinas no sienten y no entienden nada porque son 
+un amasijo de circuitos. Ahora, si nosotros
+
+05:36.340 --> 05:40.825
+multiplicamos la tecnología y la proyectamos no 
+como hacen los científicos que... Son muy cautos y
+
+05:41.058 --> 05:44.003
+hablan de aquí a 10 años como mucho. Pero yo tengo 
+las 100 años. Hagamos ciencia ficción. ¿Qué pasa
+
+05:46.888 --> 05:49.472
+si una máquina entiende por fin? Ariel Torres, ¿y 
+acaso no somos nosotros también un amasijo de...?
+
+05:53.959 --> 05:54.861
+Yo creo que no. Esta es la cuestión. Borges tal vez 
+dijera que sí. Borges tal vez dijera que sí. Yo creo
+
+05:59.829 --> 06:00.711
+que no. Yo creo que hay algo que está más allá de la 
+comprensión. Yo creo en la modestia. yo soy
+
+06:05.898 --> 06:15.486
+modesto frente a lo que veo basta subirse a una 
+terraza en una noche clara en Buenos Aires donde
+
+06:05.898 --> 06:15.486
+tampoco hay muchas estrellas, mirar para arriba y 
+darse cuenta de que es hasta todo lo que hemos
+
+06:16.040 --> 06:44.663
+aprendido del cosmos nos sentimos orgullosos de 
+esto y es mucho todo está sujeto a duda porque en
+
+06:16.040 --> 06:44.663
+definitiva no es más que una interpretación de lo 
+que podemos captar yo lo dije en ese sentido en el
+
+06:16.040 --> 06:44.663
+sentido del demiurgo que se cree que se la sabe toda 
+hay un cuento muy lindo de Lem donde
+
+06:16.040 --> 06:44.663
+hay un informático que crea un programa de 
+inteligencia artificial, donde unos
+
+06:45.098 --> 06:51.867
+programitas muy chiquitos pelean por la memoria, 
+cosa que se ha hecho en realidad. Y además tienen
+
+06:52.307 --> 06:54.490
+sus leyes y su ética. Y el libro se basa en las 
+discusiones acerca de Dios, de estas criaturas. Y
+
+06:58.515 --> 07:01.860
+uno se siente pasmado. Pero pasmado porque es 
+un... Bueno, por supuesto, este es el mensaje del
+
+07:01.880 --> 07:05.445
+libro. ¿En qué libro del M está esto? En Vacío 
+Perfecto. Esto para los oyentes que quieran...
+
+07:10.782 --> 07:17.210
+conseguirlo y meterse en este mundo que es nuestro 
+mundo y el mundo que nos continuará. Ariel, a
+
+07:17.230 --> 07:29.944
+propósito tenías, creo, después de este llamado 
+de Beatriz de Villa por alrededor respecto de la
+
+07:17.230 --> 07:29.944
+corrección del lenguaje humano por las 
+computadoras, tenías algunas anécdotas. Sí,
+
+07:29.965 --> 07:33.288
+bueno, era lo que te estaba contando. Es fácil que 
+la computadora indique errores que no existen en
+
+07:33.348 --> 07:38.094
+absoluto. Es muy fácil. Pero no ortográfico. Es 
+ortográfico, es casi seguramente que está bien. A
+
+07:44.033 --> 07:50.124
+menos que, es típico, por ejemplo, en los 
+programas para corrección en español, el porteño
+
+07:44.033 --> 07:50.124
+se vuelve loco. ¿Por qué? Porque usa voceo. Claro. 
+Tan pronto como utiliza el voceo, el programa no lo
+
+07:52.108 --> 07:54.673
+reconoce. O, mejor dicho, lo reconoce como un 
+error. Pero el diccionario se puede ampliar, de
+
+07:56.155 --> 07:59.040
+modo que no es un problema. Pero en cuanto se active 
+la corrección gramatical, pásele al corrector
+
+07:59.181 --> 08:04.971
+gramatical un buen poema. Y el corrector no 
+interpreta que está todo mal, o por lo menos el 80%.
+
+08:10.184 --> 08:14.270
+Cosa que por otra parte hace más de un crítico, que 
+recibe poemas y por ahí no entiende nada. Hace eso.
+
+08:17.334 --> 08:18.957
+Y los traductores es lo mismo. Y los 
+interpretadores de voz. Yo estaba probando hace
+
+08:21.501 --> 08:25.947
+poco estos productos y me di cuenta de que aun 
+cuando uno no hablara, Uno hacía ruidos, ladraba,
+
+08:26.939 --> 08:30.142
+maullaba, hacía ruidos de explosiones. Y la 
+máquina también interpretaba palabras y
+
+08:30.162 --> 08:33.906
+escribía cosas. Sí, sí, salían sílabas. La 
+respiración solamente. ¿A qué generaba
+
+08:37.910 --> 08:39.272
+palabras? Pero esto es un nuevo modo de escritura. 
+Vamos a hacer una escritura, una traducción,
+
+08:42.635 --> 08:47.901
+estas ediciones en dos idiomas. De un lado mis 
+ruidos y de otro lado lo que la máquina interpretó.
+
+08:51.762 --> 08:54.265
+Y algunas eran frases casi con sentido. En ese 
+sentido son joicianas. Absolutamente. Lo
+
+08:59.352 --> 09:11.950
+interesante es que la gente tiene que entender que 
+la máquina no está pensando, no está
+
+08:59.352 --> 09:11.950
+interpretando, y en general todo lo que es una 
+computadora constantemente se reduce a dos
+
+08:59.352 --> 09:11.950
+cosas. Cálculos aritméticos y comparación. No 
+más. La máquina dice, si ocurre esto, hago esto. Si
+
+09:20.381 --> 09:20.942
+no, hago esto. Si la palabra está en el 
+diccionario, la acepto. Si no, la marco como que
+
+09:23.570 --> 09:25.312
+está mal. Con esto solo no alcanza para el 
+lenguaje. El lenguaje está mucho más allá de esto.
+
+09:29.797 --> 09:32.921
+El lenguaje inventó la comparación, no al revés. 
+Qué curioso este aparato que es el hombre, ¿no? Que
+
+09:37.887 --> 09:40.990
+hace las cosas y después se sorprende tanto de lo 
+que ha hecho. Esto es que no lo ve como su propia
+
+09:41.931 --> 09:46.597
+prótesis, que en el fondo lo es. Es muy importante. 
+Sí, sin duda. Creo que hay que confiar más en lo que
+
+09:49.559 --> 09:53.203
+somos y menos en lo que hacemos. Al revés de lo que en 
+general se dice. Al hombre se lo juzga por sus
+
+09:57.448 --> 09:58.670
+actos. Un momentito, ¿por qué? El hombre es en el 
+fondo algo, tiene algo muy allá en el fondo. Muchas
+
+10:04.256 --> 10:13.407
+veces, digamos, tratamos de ocultarlo, nos da 
+miedo, aparecen sueños, aparece en un momento de
+
+10:04.256 --> 10:13.407
+enojo o todo lo contrario. Pero ahí abajo... fondo 
+de la conciencia, en lo que propiamente somos, en
+
+10:16.238 --> 10:25.788
+lo que el creador dijo quiero que sean, hay algo que 
+es en lo que hay que confiar. ¿Qué es lo que sale en
+
+10:26.169 --> 10:28.091
+los momentos críticos? ¿Qué te hace o una gran 
+persona o todo lo contrario? Esto es lo que en el
+
+10:34.017 --> 10:35.038
+fondo somos. Creo que hay que confiar en eso. Las 
+computadoras están bien, los libros incluso
+
+10:36.159 --> 10:39.102
+están muy bien. Está muy bien, pero no conviene, 
+como decís vos, tomarlo como si fuera... Ay,
+
+10:45.820 --> 10:47.162
+caramba lo que logré. Esto es una falta de modestia 
+también, me parece a mí. Muy bien, muy bien
+
+10:50.106 --> 10:52.129
+apuntado. Ariel Torres, que nos visita esta noche 
+en Los Palabristas. Esta noche es que estamos
+
+10:56.435 --> 11:05.628
+hablando de estos asuntos del ciberespacio, que 
+como alguien ha señalado y lo reitero, es ese lugar
+
+10:56.435 --> 11:05.628
+donde estamos cuando hablamos por teléfono.
+
+11:11.956 --> 11:13.819
+Está Ariel Torres, está este gran asunto también 
+tiene que ver con el hecho literario, saliendo un
+
+11:14.187 --> 11:35.436
+poco ahora de lo que es la tecnología en sí, de qué 
+modo parece que en algún caso casi
+
+11:14.187 --> 11:35.436
+de modo fundamentalista algunos escritores se 
+han puesto como cruzados de la informática para el
+
+11:35.703 --> 11:46.859
+trabajo de creación literaria y creen en la PC, en 
+su PC, más que en sus maquinitas de escribir de
+
+11:35.703 --> 11:46.859
+antaño. Otros se resisten porque consideran que 
+es como desnaturalizarse. ¿Cuál es la tendencia?
+
+11:53.168 --> 11:53.749
+¿Cómo lo ves? No hay una tendencia sola, digamos. 
+Hay una cantidad de tendencias. Supongo que el
+
+11:59.457 --> 12:03.803
+escritor que está forzado a publicar por 
+contratos y demás Tarde o temprano apelará a la
+
+12:04.441 --> 12:13.112
+computadora porque lo cierto es que facilita y 
+hace mucho más rápido el trabajo y no tiene ninguna
+
+12:04.441 --> 12:13.112
+desventaja respecto de la máquina de escribir. Sí 
+tiene desventajas respecto de la pluma, que es, te
+
+12:13.933 --> 12:19.341
+confieso, mi manera de hacer literatura. Yo no 
+podría hacer literatura con una máquina. A pesar
+
+12:22.164 --> 12:30.415
+de que la pluma en definitiva es casi una 
+maquinaria, pero de nuevo, es un instrumento que
+
+12:22.164 --> 12:30.415
+no tiene partes móviles que me permite... como 
+moldear, como tocar, es distinto de esta cosa
+
+12:30.800 --> 12:39.292
+interpósita que hay en la máquina de escribir. La 
+máquina de escribir nunca me gustó,
+
+12:39.312 --> 12:41.876
+honestamente. Soy de esa generación que cayó en la 
+máquina de escribir a días de la PC prácticamente.
+
+12:46.863 --> 12:48.786
+Y sí, escribir con la PC me parece maravilloso. En 
+el diario obviamente trabajamos con eso y todos
+
+12:48.806 --> 12:53.112
+los artículos periodísticos los voy a escribir. 
+Siempre con la computadora porque hacen este
+
+12:53.598 --> 12:57.243
+trabajo enormemente fácil. Pero primero la 
+libretita de hule negro y... No, en realidad
+
+12:57.263 --> 13:05.154
+cuando tomo un reportaje por teléfono, como 
+escribo muy rápido, lo mismo con la computadora.
+
+13:05.714 --> 13:07.356
+Hay un diccionario de sinónimos ahí. Está la web a 
+un paso por si uno se olvida un dato, etcétera,
+
+13:08.057 --> 13:12.463
+etcétera. La computadora facilita mucho este 
+trabajo. Así que me temo que el escritor que debe
+
+13:14.146 --> 13:21.175
+producir imperiosamente está dándose cuenta de 
+esto. Lo que creo, por lo tanto no creo que haya una
+
+13:21.526 --> 13:24.290
+tendencia. Seguramente hay gente que le encanta 
+la máquina de escribir y gente como yo que sigue
+
+13:24.310 --> 13:32.140
+escribiendo sus cosas, sus propias cosas, con 
+pluma. Lo que creo es que todo este conflicto se
+
+13:32.160 --> 13:36.045
+resuelve un poco con ser sinceros. ¿Qué es lo que 
+realmente te gusta? Hay gente que le gusta la
+
+13:38.409 --> 13:40.311
+computadora pero no lo acepta. Hay gente que le 
+gusta escribir con la máquina de escribir pero
+
+13:40.872 --> 13:45.018
+dice no voy a cambiar a la computadora porque todo 
+el mundo lo hace. También está eso. Es una cuestión
+
+13:46.800 --> 13:48.302
+de sinceridad. Lo cierto es que el medio que 
+utilicemos para escribir cambia la escritura.
+
+13:52.715 --> 14:06.860
+Esto no lo digo yo, lo han dicho casi todos los 
+escritores que regularmente entrevistamos en el
+
+13:52.715 --> 14:06.860
+suplemento, tenemos una columna que se llama Mi 
+PC, donde muchas veces un escritor habla de esto.
+
+14:06.880 --> 14:08.944
+Cuéntanos si es distinta mi prosa ahora. Y lo que es 
+más interesante, aparecen cosas nuevas como el
+
+14:09.525 --> 14:12.711
+hipertexto, los textos en la web, los textos 
+combinados con imágenes, combinados con objetos
+
+14:13.450 --> 14:19.919
+tridimensionales, etc. Hay algo nuevo que está 
+apareciendo. Si se llama literatura o se llama de
+
+14:22.022 --> 14:27.389
+otra manera, creo que es más bien un juicio que va a 
+hacer el tiempo. Yo te repito, para mí en la palabra
+
+14:27.409 --> 14:31.836
+humana está el secreto de esto. Si se le agregaba un 
+grabado o no a las obras completas de Shakespeare,
+
+14:31.996 --> 14:36.542
+a mí no me hacía mucho problema. Creo que el gran 
+truco está acá. Aloro las imágenes... valoro todo
+
+14:41.699 --> 14:47.748
+esto que se está haciendo y estoy seguro de que en 
+algún momento va a coagular en una forma de arte. Lo
+
+14:47.768 --> 14:50.553
+que sigo pensando es que el texto no necesita otras 
+cosas. Es cierto. Yo que tengo ya mi edad, vos sos
+
+14:51.855 --> 15:06.778
+muy joven, Ariel, yo he pasado de aquellos lápices 
+Faber de mi infancia, aquellas plumas
+
+14:51.855 --> 15:06.778
+cucharitas, que era la tecnología punta de mi 
+escuela 35 de Benicio, a la PC que para mí es como una
+
+15:06.758 --> 15:11.927
+doncella fiel, una especie de aladina que tengo. 
+Tienes una buena experiencia con la PC. No, no, yo
+
+15:13.950 --> 15:24.649
+la quiero mucho, es políglota, es aladina, me ha 
+hecho bígamo, porque creo que la amo como si fuera
+
+15:13.950 --> 15:24.649
+una mujer. Esto es porque me hace feliz. Me hace 
+feliz el hecho de poder desarrollar. Yo no sé por
+
+15:32.359 --> 15:34.341
+qué la gente se compra automóviles. Porque se va 
+más lejos con una PC y es mucho más barata. ¿Cuál es
+
+15:39.425 --> 15:43.549
+el parque computador de la Argentina? Así como hay 
+un parque automotor. Se calcula en alrededor de 2
+
+15:44.810 --> 15:47.372
+millones de computadoras. Ya hay 2 millones. Este 
+es un país sin estadísticas. De modo que cuesta
+
+15:51.235 --> 15:52.556
+bastante saber. Este es un caldo. Y unos 
+100.000... Internet, o sea, personas que están
+
+15:54.886 --> 15:59.053
+conectadas a la Internet. Estos son los números 
+que oficialmente, digamos, de común acuerdo se
+
+15:59.073 --> 16:04.080
+manejan. No debe ser mucho más ni mucho menos. En 
+una noche que se nos acaba tan rápidamente, porque
+
+16:06.725 --> 16:15.358
+este asunto es realmente como todo prodigio, es 
+magnético. Y lo traeremos en otra ocasión, lo
+
+16:15.794 --> 16:24.994
+invitaremos, lo convocaremos nuevamente a Ariel 
+Torres para seguir conversando de estos asuntos.
+
+16:25.632 --> 16:30.621
+Hay algunas cosas que me quedan así como de enorme 
+interés por preguntarle. Alguna vez leí por ahí, y
+
+16:31.102 --> 16:47.353
+a mí me llamó muchísimo la atención, que una de esas 
+revistas inglesas que siempre tienen como la fama
+
+16:31.102 --> 16:47.353
+de ser las más serias en lo científico, creo que en 
+este caso era Lancet, daba como... daba
+
+16:48.110 --> 17:16.733
+como perspectiva, no loca, que en 50 años, en 2050, 
+dado que a su vez habría cierta compatibilidad
+
+16:48.110 --> 17:16.733
+entre el carbono que tenemos en el cerebro y el 
+silicio que tienen los chips, de que fuera posible
+
+16:48.110 --> 17:16.733
+alcanzar a colocar en el cerebro humano 
+microchips que tuviese, por ejemplo, la
+
+17:17.219 --> 17:19.622
+enciclopedia británica. Esto que parece... No, 
+no es un disparate, en realidad.
+
+17:28.134 --> 17:35.084
+En principio no es absolutamente incompatible la 
+informática con el organismo humano. Lo que pasa
+
+17:36.646 --> 17:40.712
+es que 50 años es mucho tiempo y la idea en sí... 
+Parece bella y parece monstruosa
+
+17:42.262 --> 17:44.910
+simultáneamente. Lo que no sé es si es atractiva. 
+Supongamos, habrá que hacer alguna clase de
+
+17:47.738 --> 17:54.718
+enchufe en la cabeza de la persona para cuando haya 
+que actualizar esta enciclopedia. Quiere decir
+
+17:56.318 --> 17:57.961
+que vamos a andar con un enchufe. Es posible, pero 
+me suena muy a película de ciencia ficción. El
+
+18:01.066 --> 18:03.690
+hecho es que sí, eventualmente es posible. De 
+hecho, ya hay experiencias transmitiendo
+
+18:03.710 --> 18:11.002
+información luminosa a través del nervio óptico 
+para darle visión de nuevo a los ciegos. Por ahora
+
+18:11.022 --> 18:16.251
+es muy rudimentaria, pero se espera que en una 
+cierta cantidad de tiempo vamos a tener... ojos
+
+18:16.855 --> 18:41.007
+electrónicos van a permitir a los hijos esto es 
+posible, ahora poner la enciclopedia británica o
+
+18:16.855 --> 18:41.007
+cualquier otra enciclopedia para el caso dejemos 
+a Funes el memorioso donde está es algo así Ariel
+
+18:16.855 --> 18:41.007
+Torres
+
+18:16.855 --> 18:41.007
+hay notables asuntos aquí por seguir revelando te 
+agradezco mucho esta presencia de esta noche aquí
+
+18:16.855 --> 18:41.007
+en Los Palabristas pero no quiero que se nos vaya el 
+tiempo sin preguntarte sobre tu obra personal. Sé
+
+18:45.555 --> 18:56.612
+que has escrito cuentos, que has sido editado en 
+los Estados Unidos, algunos de tus cuentos, que
+
+18:45.555 --> 18:56.612
+tenés un altísimo rigor para editar, pero que hay 
+una obra, ¿no? En realidad, una vez, haciendo un
+
+18:56.632 --> 19:07.129
+reportaje a Borges, me acuerdo que vos lo 
+mencionaste, Borges, que en ese momento lo
+
+18:56.632 --> 19:07.129
+quedaban dos años antes de morir, es una cosa por 
+eso, no recuerdo el año exactamente, pero lo vi en
+
+19:07.362 --> 19:13.430
+el 84, estuve bastante con él, me pareció un tipo 
+bárbaro. Y me dijo, le hablé obviamente de que yo
+
+19:14.051 --> 19:28.309
+escribía con mucha modestia, no le leí nada a mí, no 
+me hubiera atrevido, pero él me dijo, no sé por qué
+
+19:14.051 --> 19:28.309
+me lo dijo, pero lo dijo, espera para publicar. 
+¿Cómo usted espere para publicar? No sé de eso. Yo
+
+19:33.676 --> 19:36.620
+lo pasé muy mal por haber publicado joven. Hoy, 12 
+años después de eso, más, 15 años después de eso,
+
+19:37.838 --> 20:07.542
+digo, caramba, aquella novela de ciencia ficción 
+que está por ahí todavía, que me pincharon tanto
+
+19:37.838 --> 20:07.542
+para que la publicara, y yo dije, no, y no, y no, si 
+hoy estuviera a publicar me sentiría muy
+
+19:37.838 --> 20:07.542
+avergonzado, está muy bien, está muy linda, pero 
+no, yo creo que lo que está publicado a mí es lo que
+
+19:37.838 --> 20:07.542
+debe estar publicado, no estoy desesperado por 
+publicar, creo que el escritor escribe, no
+
+19:37.838 --> 20:07.542
+publica, el publicador publica, y está muy bien, 
+si en algún momento algo mío Debe ser publicado o va
+
+20:07.808 --> 20:09.931
+a ser publicado. Está ahí y va a ocurrir. El tiempo 
+no es como nosotros lo vemos. De modo que lo que yo
+
+20:13.816 --> 20:16.720
+hago es escribir. Este cuento publicado en los 
+Estados Unidos, yo no hice nada. Se lo llevo a
+
+20:20.585 --> 20:23.488
+alguien, lo mostró allá y ellos lo quisieron 
+publicar. Yo me enteré después. Es la mejor forma
+
+20:25.170 --> 20:30.718
+que las cosas... Además, no es algo que yo haga 
+bien. Esto de salir con mi obra, palabra que me
+
+20:30.738 --> 20:36.465
+suena muy grande también, yo escribo sobre todo 
+poesía, no me saldría, honestamente. Así que creo
+
+20:40.400 --> 20:56.294
+que lo que ha sido publicado ha sido publicado en 
+este sentido, o el premio más allá, este cuento
+
+20:40.400 --> 20:56.294
+publicado en fase 1, que fue una sola edición con 
+todos los cuentos premiados, pero a empujones me
+
+20:40.400 --> 20:56.294
+llevaron a que pusiera el sobre para el concurso. 
+Gracias, Ariel Torres, por tus palabras de esta
+
+20:56.314 --> 21:05.322
+noche, por alimentar al ávido pájaro de la noche, 
+que es siempre ávido y agradece. Te llamaremos, te
+
+21:06.365 --> 21:13.476
+convocaremos a nuevas visitas en algún otro 
+momento y que continúe la maravilla. Gracias a vos
+
+21:13.737 --> 21:14.759
+por invitarme. Por favor, gracias. Hasta mañana.
+
+22:12.228 --> 22:14.273
+¡Coro Matai!
+
+23:15.408 --> 23:16.677
+No lo matéis.
+
+24:19.094 --> 24:33.490
+En los palabristas de Esteban Pejkovic estuvimos 
+escuchando recién Lucila Campos haciendo Toro
+
+24:19.094 --> 24:33.490
+Mata, anteriormente a Debbie Byrne con María 
+Lando y también Cecilia Barraza con Canterurias.
+
+24:33.510 --> 24:38.476
+¡Cara,
+
+24:33.510 --> 24:38.476
+cara, cara! ¡Cara, cara, cara!
+
+24:50.347 --> 25:02.163
+Hasta aquí, Los Palabristas, un programa 
+dedicado a los escritores, porque su obra es la
+
+24:50.347 --> 25:02.163
+única noticia que perdura. Idea y conducción, 
+Esteban Pejkovic.
+
+25:12.418 --> 25:17.805
+AM1110,
+
+25:12.418 --> 25:17.805
+Radio Municipal, la radio de la ciudad.
+
