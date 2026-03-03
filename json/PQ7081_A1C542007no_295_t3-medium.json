@@ -1,0 +1,8672 @@
+{
+  "segments": [
+    {
+      "start": 2.208,
+      "end": 14.766,
+      "text": " Hasta aquí, Los Palabristas, un programa dedicado a los escritores, porque su obra es la única noticia que perdura.",
+      "words": [
+        {
+          "word": "Hasta",
+          "start": 2.208,
+          "end": 2.709,
+          "score": 0.725
+        },
+        {
+          "word": "aquí,",
+          "start": 2.769,
+          "end": 3.009,
+          "score": 0.819
+        },
+        {
+          "word": "Los",
+          "start": 4.491,
+          "end": 4.611,
+          "score": 0.915
+        },
+        {
+          "word": "Palabristas,",
+          "start": 4.812,
+          "end": 5.553,
+          "score": 0.968
+        },
+        {
+          "word": "un",
+          "start": 6.574,
+          "end": 6.654,
+          "score": 0.94
+        },
+        {
+          "word": "programa",
+          "start": 6.734,
+          "end": 7.135,
+          "score": 0.944
+        },
+        {
+          "word": "dedicado",
+          "start": 7.215,
+          "end": 7.676,
+          "score": 0.949
+        },
+        {
+          "word": "a",
+          "start": 7.716,
+          "end": 7.796,
+          "score": 0.466
+        },
+        {
+          "word": "los",
+          "start": 7.856,
+          "end": 7.976,
+          "score": 0.887
+        },
+        {
+          "word": "escritores,",
+          "start": 8.056,
+          "end": 8.677,
+          "score": 0.908
+        },
+        {
+          "word": "porque",
+          "start": 8.737,
+          "end": 9.659,
+          "score": 0.932
+        },
+        {
+          "word": "su",
+          "start": 9.759,
+          "end": 9.879,
+          "score": 0.98
+        },
+        {
+          "word": "obra",
+          "start": 9.979,
+          "end": 10.26,
+          "score": 0.976
+        },
+        {
+          "word": "es",
+          "start": 10.68,
+          "end": 10.8,
+          "score": 0.958
+        },
+        {
+          "word": "la",
+          "start": 10.921,
+          "end": 11.021,
+          "score": 0.994
+        },
+        {
+          "word": "única",
+          "start": 11.161,
+          "end": 11.541,
+          "score": 0.844
+        },
+        {
+          "word": "noticia",
+          "start": 11.622,
+          "end": 12.042,
+          "score": 0.889
+        },
+        {
+          "word": "que",
+          "start": 12.142,
+          "end": 12.222,
+          "score": 0.947
+        },
+        {
+          "word": "perdura.",
+          "start": 12.302,
+          "end": 14.766,
+          "score": 0.875
+        }
+      ]
+    },
+    {
+      "start": 14.786,
+      "end": 26.122,
+      "text": "Idea y conducción, Esteban Pejkovic.",
+      "words": [
+        {
+          "word": "Idea",
+          "start": 14.786,
+          "end": 15.107,
+          "score": 0.964
+        },
+        {
+          "word": "y",
+          "start": 15.187,
+          "end": 15.247,
+          "score": 0.759
+        },
+        {
+          "word": "conducción,",
+          "start": 15.367,
+          "end": 15.868,
+          "score": 0.843
+        },
+        {
+          "word": "Esteban",
+          "start": 15.908,
+          "end": 17.37,
+          "score": 0.628
+        },
+        {
+          "word": "Pejkovic.",
+          "start": 17.39,
+          "end": 26.122,
+          "score": 0.719
+        }
+      ]
+    },
+    {
+      "start": 26.142,
+      "end": 30.088,
+      "text": "Desde Buenos Aires, la ciudad que ganó la gente,",
+      "words": [
+        {
+          "word": "Desde",
+          "start": 26.142,
+          "end": 26.303,
+          "score": 0.459
+        },
+        {
+          "word": "Buenos",
+          "start": 26.383,
+          "end": 26.623,
+          "score": 0.756
+        },
+        {
+          "word": "Aires,",
+          "start": 26.743,
+          "end": 27.104,
+          "score": 0.658
+        },
+        {
+          "word": "la",
+          "start": 27.905,
+          "end": 27.985,
+          "score": 0.99
+        },
+        {
+          "word": "ciudad",
+          "start": 28.125,
+          "end": 28.446,
+          "score": 0.939
+        },
+        {
+          "word": "que",
+          "start": 28.606,
+          "end": 28.706,
+          "score": 0.791
+        },
+        {
+          "word": "ganó",
+          "start": 28.826,
+          "end": 29.187,
+          "score": 0.966
+        },
+        {
+          "word": "la",
+          "start": 29.287,
+          "end": 29.367,
+          "score": 0.974
+        },
+        {
+          "word": "gente,",
+          "start": 29.487,
+          "end": 30.088,
+          "score": 0.868
+        }
+      ]
+    },
+    {
+      "start": 30.929,
+      "end": 60.193,
+      "text": " AM 710 Radio Municipal La radio de la ciudad Hoy en la ciudad Buenos Aires, el país y el mundo Noticias",
+      "words": [
+        {
+          "word": "AM",
+          "start": 30.929,
+          "end": 31.65,
+          "score": 0.411
+        },
+        {
+          "word": "710",
+          "start": 31.67,
+          "end": 32.431,
+          "score": 0.754
+        },
+        {
+          "word": "Radio",
+          "start": 33.613,
+          "end": 34.194,
+          "score": 0.77
+        },
+        {
+          "word": "Municipal",
+          "start": 34.214,
+          "end": 34.835,
+          "score": 0.672
+        },
+        {
+          "word": "La",
+          "start": 35.596,
+          "end": 35.696,
+          "score": 0.983
+        },
+        {
+          "word": "radio",
+          "start": 35.896,
+          "end": 36.317,
+          "score": 0.9
+        },
+        {
+          "word": "de",
+          "start": 36.517,
+          "end": 36.618,
+          "score": 0.944
+        },
+        {
+          "word": "la",
+          "start": 36.678,
+          "end": 36.758,
+          "score": 0.916
+        },
+        {
+          "word": "ciudad",
+          "start": 36.858,
+          "end": 37.279,
+          "score": 0.743
+        },
+        {
+          "word": "Hoy",
+          "start": 46.352,
+          "end": 46.553,
+          "score": 0.946
+        },
+        {
+          "word": "en",
+          "start": 47.073,
+          "end": 47.214,
+          "score": 0.948
+        },
+        {
+          "word": "la",
+          "start": 47.334,
+          "end": 47.434,
+          "score": 0.935
+        },
+        {
+          "word": "ciudad",
+          "start": 47.534,
+          "end": 51.901,
+          "score": 0.873
+        },
+        {
+          "word": "Buenos",
+          "start": 51.921,
+          "end": 52.221,
+          "score": 0.852
+        },
+        {
+          "word": "Aires,",
+          "start": 52.321,
+          "end": 52.662,
+          "score": 0.853
+        },
+        {
+          "word": "el",
+          "start": 53.122,
+          "end": 53.263,
+          "score": 0.84
+        },
+        {
+          "word": "país",
+          "start": 53.403,
+          "end": 53.663,
+          "score": 0.844
+        },
+        {
+          "word": "y",
+          "start": 53.683,
+          "end": 53.703,
+          "score": 0.991
+        },
+        {
+          "word": "el",
+          "start": 54.545,
+          "end": 54.625,
+          "score": 0.906
+        },
+        {
+          "word": "mundo",
+          "start": 54.705,
+          "end": 54.985,
+          "score": 0.879
+        },
+        {
+          "word": "Noticias",
+          "start": 59.492,
+          "end": 60.193,
+          "score": 0.922
+        }
+      ]
+    },
+    {
+      "start": 61.338,
+      "end": 65.042,
+      "text": " Ya es viernes 17 de octubre, es la hora cero.",
+      "words": [
+        {
+          "word": "Ya",
+          "start": 61.338,
+          "end": 61.478,
+          "score": 0.378
+        },
+        {
+          "word": "es",
+          "start": 61.558,
+          "end": 62.339,
+          "score": 0.7
+        },
+        {
+          "word": "viernes",
+          "start": 62.619,
+          "end": 63.2,
+          "score": 0.657
+        },
+        {
+          "word": "17",
+          "start": 63.22,
+          "end": 63.26,
+          "score": 0.989
+        },
+        {
+          "word": "de",
+          "start": 63.3,
+          "end": 63.36,
+          "score": 0.917
+        },
+        {
+          "word": "octubre,",
+          "start": 63.42,
+          "end": 64.001,
+          "score": 0.906
+        },
+        {
+          "word": "es",
+          "start": 64.081,
+          "end": 64.161,
+          "score": 0.6
+        },
+        {
+          "word": "la",
+          "start": 64.241,
+          "end": 64.301,
+          "score": 0.841
+        },
+        {
+          "word": "hora",
+          "start": 64.341,
+          "end": 64.481,
+          "score": 0.881
+        },
+        {
+          "word": "cero.",
+          "start": 64.701,
+          "end": 65.042,
+          "score": 0.972
+        }
+      ]
+    },
+    {
+      "start": 65.062,
+      "end": 69.326,
+      "text": "La temperatura es de 12 grados, 5 décimos, 59 por ciento.",
+      "words": [
+        {
+          "word": "La",
+          "start": 65.062,
+          "end": 65.762,
+          "score": 0.714
+        },
+        {
+          "word": "temperatura",
+          "start": 65.823,
+          "end": 66.383,
+          "score": 0.878
+        },
+        {
+          "word": "es",
+          "start": 66.403,
+          "end": 66.443,
+          "score": 0.145
+        },
+        {
+          "word": "de",
+          "start": 66.463,
+          "end": 66.523,
+          "score": 0.86
+        },
+        {
+          "word": "12",
+          "start": 66.543,
+          "end": 66.824,
+          "score": 0.647
+        },
+        {
+          "word": "grados,",
+          "start": 66.844,
+          "end": 67.104,
+          "score": 0.857
+        },
+        {
+          "word": "5",
+          "start": 67.124,
+          "end": 67.404,
+          "score": 0.589
+        },
+        {
+          "word": "décimos,",
+          "start": 67.444,
+          "end": 67.825,
+          "score": 0.818
+        },
+        {
+          "word": "59",
+          "start": 67.885,
+          "end": 68.265,
+          "score": 0.788
+        },
+        {
+          "word": "por",
+          "start": 68.285,
+          "end": 68.345,
+          "score": 0.333
+        },
+        {
+          "word": "ciento.",
+          "start": 68.385,
+          "end": 69.326,
+          "score": 0.289
+        }
+      ]
+    },
+    {
+      "start": 69.406,
+      "end": 75.372,
+      "text": "La humedad del cielo está ligeramente nublado.",
+      "words": [
+        {
+          "word": "La",
+          "start": 69.406,
+          "end": 69.446,
+          "score": 0.996
+        },
+        {
+          "word": "humedad",
+          "start": 69.506,
+          "end": 69.847,
+          "score": 0.907
+        },
+        {
+          "word": "del",
+          "start": 69.887,
+          "end": 70.007,
+          "score": 0.706
+        },
+        {
+          "word": "cielo",
+          "start": 70.087,
+          "end": 70.247,
+          "score": 0.793
+        },
+        {
+          "word": "está",
+          "start": 70.287,
+          "end": 70.467,
+          "score": 0.664
+        },
+        {
+          "word": "ligeramente",
+          "start": 70.567,
+          "end": 71.368,
+          "score": 0.996
+        },
+        {
+          "word": "nublado.",
+          "start": 71.688,
+          "end": 75.372,
+          "score": 0.872
+        }
+      ]
+    },
+    {
+      "start": 75.392,
+      "end": 87.244,
+      "text": "La Policía Federal acaba de informar que en los disturbios de anoche en los sectores del Barrio Norte, protagonizados por elementos de los grupos Quebracho y Patria Libre, hubo 206 detenciones.",
+      "words": [
+        {
+          "word": "La",
+          "start": 75.392,
+          "end": 75.452,
+          "score": 0.968
+        },
+        {
+          "word": "Policía",
+          "start": 75.552,
+          "end": 75.933,
+          "score": 0.899
+        },
+        {
+          "word": "Federal",
+          "start": 76.093,
+          "end": 76.453,
+          "score": 0.94
+        },
+        {
+          "word": "acaba",
+          "start": 76.473,
+          "end": 76.854,
+          "score": 0.86
+        },
+        {
+          "word": "de",
+          "start": 76.894,
+          "end": 76.994,
+          "score": 0.929
+        },
+        {
+          "word": "informar",
+          "start": 77.074,
+          "end": 77.594,
+          "score": 0.947
+        },
+        {
+          "word": "que",
+          "start": 77.614,
+          "end": 77.674,
+          "score": 0.333
+        },
+        {
+          "word": "en",
+          "start": 77.815,
+          "end": 77.975,
+          "score": 0.704
+        },
+        {
+          "word": "los",
+          "start": 78.015,
+          "end": 78.095,
+          "score": 0.969
+        },
+        {
+          "word": "disturbios",
+          "start": 78.155,
+          "end": 78.655,
+          "score": 0.882
+        },
+        {
+          "word": "de",
+          "start": 78.735,
+          "end": 78.796,
+          "score": 0.858
+        },
+        {
+          "word": "anoche",
+          "start": 78.876,
+          "end": 79.216,
+          "score": 0.83
+        },
+        {
+          "word": "en",
+          "start": 79.236,
+          "end": 79.296,
+          "score": 0.788
+        },
+        {
+          "word": "los",
+          "start": 79.336,
+          "end": 79.396,
+          "score": 0.814
+        },
+        {
+          "word": "sectores",
+          "start": 79.456,
+          "end": 79.897,
+          "score": 0.906
+        },
+        {
+          "word": "del",
+          "start": 79.977,
+          "end": 80.097,
+          "score": 0.648
+        },
+        {
+          "word": "Barrio",
+          "start": 80.177,
+          "end": 80.457,
+          "score": 0.851
+        },
+        {
+          "word": "Norte,",
+          "start": 80.577,
+          "end": 80.978,
+          "score": 0.998
+        },
+        {
+          "word": "protagonizados",
+          "start": 81.358,
+          "end": 82.239,
+          "score": 0.934
+        },
+        {
+          "word": "por",
+          "start": 82.319,
+          "end": 82.419,
+          "score": 0.827
+        },
+        {
+          "word": "elementos",
+          "start": 82.439,
+          "end": 82.84,
+          "score": 0.851
+        },
+        {
+          "word": "de",
+          "start": 82.88,
+          "end": 82.94,
+          "score": 0.744
+        },
+        {
+          "word": "los",
+          "start": 82.98,
+          "end": 83.06,
+          "score": 0.961
+        },
+        {
+          "word": "grupos",
+          "start": 83.1,
+          "end": 83.32,
+          "score": 0.925
+        },
+        {
+          "word": "Quebracho",
+          "start": 83.48,
+          "end": 84.001,
+          "score": 0.899
+        },
+        {
+          "word": "y",
+          "start": 84.041,
+          "end": 84.081,
+          "score": 0.494
+        },
+        {
+          "word": "Patria",
+          "start": 84.201,
+          "end": 84.541,
+          "score": 0.864
+        },
+        {
+          "word": "Libre,",
+          "start": 84.601,
+          "end": 84.922,
+          "score": 0.979
+        },
+        {
+          "word": "hubo",
+          "start": 85.362,
+          "end": 85.522,
+          "score": 0.923
+        },
+        {
+          "word": "206",
+          "start": 85.562,
+          "end": 86.123,
+          "score": 0.867
+        },
+        {
+          "word": "detenciones.",
+          "start": 86.303,
+          "end": 87.244,
+          "score": 0.826
+        }
+      ]
+    },
+    {
+      "start": 87.578,
+      "end": 102.887,
+      "text": " Asimismo, durante la marcha de repudio por la presencia del presidente de los Estados Unidos, Bill Clinton, se secuestró gran cantidad de proyectiles, bombas, molotov, gomeras, cadenas, capuchas y palos.",
+      "words": [
+        {
+          "word": "Asimismo,",
+          "start": 87.578,
+          "end": 88.339,
+          "score": 0.959
+        },
+        {
+          "word": "durante",
+          "start": 88.72,
+          "end": 88.961,
+          "score": 0.871
+        },
+        {
+          "word": "la",
+          "start": 89.041,
+          "end": 89.101,
+          "score": 0.958
+        },
+        {
+          "word": "marcha",
+          "start": 89.181,
+          "end": 89.401,
+          "score": 0.914
+        },
+        {
+          "word": "de",
+          "start": 89.462,
+          "end": 89.502,
+          "score": 0.898
+        },
+        {
+          "word": "repudio",
+          "start": 89.622,
+          "end": 89.983,
+          "score": 0.925
+        },
+        {
+          "word": "por",
+          "start": 90.043,
+          "end": 90.143,
+          "score": 0.976
+        },
+        {
+          "word": "la",
+          "start": 90.183,
+          "end": 90.243,
+          "score": 0.956
+        },
+        {
+          "word": "presencia",
+          "start": 90.303,
+          "end": 90.684,
+          "score": 0.948
+        },
+        {
+          "word": "del",
+          "start": 90.744,
+          "end": 90.824,
+          "score": 0.54
+        },
+        {
+          "word": "presidente",
+          "start": 90.884,
+          "end": 91.285,
+          "score": 0.762
+        },
+        {
+          "word": "de",
+          "start": 91.325,
+          "end": 91.385,
+          "score": 0.59
+        },
+        {
+          "word": "los",
+          "start": 91.425,
+          "end": 91.505,
+          "score": 0.909
+        },
+        {
+          "word": "Estados",
+          "start": 91.586,
+          "end": 91.846,
+          "score": 0.71
+        },
+        {
+          "word": "Unidos,",
+          "start": 91.926,
+          "end": 92.167,
+          "score": 0.987
+        },
+        {
+          "word": "Bill",
+          "start": 92.267,
+          "end": 92.407,
+          "score": 0.669
+        },
+        {
+          "word": "Clinton,",
+          "start": 92.507,
+          "end": 92.948,
+          "score": 0.958
+        },
+        {
+          "word": "se",
+          "start": 93.309,
+          "end": 93.389,
+          "score": 0.97
+        },
+        {
+          "word": "secuestró",
+          "start": 93.449,
+          "end": 93.95,
+          "score": 0.905
+        },
+        {
+          "word": "gran",
+          "start": 94.01,
+          "end": 94.571,
+          "score": 0.868
+        },
+        {
+          "word": "cantidad",
+          "start": 94.691,
+          "end": 95.072,
+          "score": 0.935
+        },
+        {
+          "word": "de",
+          "start": 95.112,
+          "end": 95.172,
+          "score": 0.536
+        },
+        {
+          "word": "proyectiles,",
+          "start": 95.293,
+          "end": 95.954,
+          "score": 0.908
+        },
+        {
+          "word": "bombas,",
+          "start": 96.395,
+          "end": 96.775,
+          "score": 0.925
+        },
+        {
+          "word": "molotov,",
+          "start": 96.876,
+          "end": 97.357,
+          "score": 0.909
+        },
+        {
+          "word": "gomeras,",
+          "start": 97.697,
+          "end": 98.178,
+          "score": 0.912
+        },
+        {
+          "word": "cadenas,",
+          "start": 98.298,
+          "end": 98.739,
+          "score": 0.948
+        },
+        {
+          "word": "capuchas",
+          "start": 98.859,
+          "end": 99.4,
+          "score": 0.943
+        },
+        {
+          "word": "y",
+          "start": 99.42,
+          "end": 99.441,
+          "score": 0.916
+        },
+        {
+          "word": "palos.",
+          "start": 100.022,
+          "end": 102.887,
+          "score": 0.692
+        }
+      ]
+    },
+    {
+      "start": 104.386,
+      "end": 122.547,
+      "text": " 800 personas, aproximadamente en su mayoría... ...pertenecientes a la política y el empresariado nacional... ...compartieron esta noche la cena ofrecida por el presidente Menem... ...a su par norteamericano Bill Clinton... ...un imponente menú criollo que salió de una enorme parrilla... ...bioasados, chivitos, corderos...",
+      "words": [
+        {
+          "word": "800",
+          "start": 104.386,
+          "end": 104.967,
+          "score": 0.445
+        },
+        {
+          "word": "personas,",
+          "start": 105.068,
+          "end": 105.468,
+          "score": 0.85
+        },
+        {
+          "word": "aproximadamente",
+          "start": 105.629,
+          "end": 106.411,
+          "score": 0.961
+        },
+        {
+          "word": "en",
+          "start": 106.431,
+          "end": 106.531,
+          "score": 0.617
+        },
+        {
+          "word": "su",
+          "start": 106.591,
+          "end": 106.671,
+          "score": 0.964
+        },
+        {
+          "word": "mayoría...",
+          "start": 106.731,
+          "end": 107.092,
+          "score": 0.929
+        },
+        {
+          "word": "...pertenecientes",
+          "start": 107.172,
+          "end": 107.894,
+          "score": 0.761
+        },
+        {
+          "word": "a",
+          "start": 108.014,
+          "end": 108.074,
+          "score": 0.326
+        },
+        {
+          "word": "la",
+          "start": 108.094,
+          "end": 108.195,
+          "score": 0.71
+        },
+        {
+          "word": "política",
+          "start": 108.275,
+          "end": 108.756,
+          "score": 0.891
+        },
+        {
+          "word": "y",
+          "start": 108.776,
+          "end": 108.796,
+          "score": 1.0
+        },
+        {
+          "word": "el",
+          "start": 108.816,
+          "end": 108.856,
+          "score": 0.495
+        },
+        {
+          "word": "empresariado",
+          "start": 108.976,
+          "end": 109.718,
+          "score": 0.894
+        },
+        {
+          "word": "nacional...",
+          "start": 109.778,
+          "end": 110.299,
+          "score": 0.927
+        },
+        {
+          "word": "...compartieron",
+          "start": 110.319,
+          "end": 111.482,
+          "score": 0.842
+        },
+        {
+          "word": "esta",
+          "start": 111.542,
+          "end": 111.682,
+          "score": 0.838
+        },
+        {
+          "word": "noche",
+          "start": 111.723,
+          "end": 111.903,
+          "score": 0.748
+        },
+        {
+          "word": "la",
+          "start": 111.923,
+          "end": 111.963,
+          "score": 0.473
+        },
+        {
+          "word": "cena",
+          "start": 112.123,
+          "end": 112.284,
+          "score": 0.834
+        },
+        {
+          "word": "ofrecida",
+          "start": 112.364,
+          "end": 112.845,
+          "score": 0.811
+        },
+        {
+          "word": "por",
+          "start": 112.945,
+          "end": 113.026,
+          "score": 0.845
+        },
+        {
+          "word": "el",
+          "start": 113.086,
+          "end": 113.146,
+          "score": 0.83
+        },
+        {
+          "word": "presidente",
+          "start": 113.206,
+          "end": 113.687,
+          "score": 0.92
+        },
+        {
+          "word": "Menem...",
+          "start": 113.787,
+          "end": 114.268,
+          "score": 0.79
+        },
+        {
+          "word": "...a",
+          "start": 114.288,
+          "end": 114.369,
+          "score": 0.411
+        },
+        {
+          "word": "su",
+          "start": 114.389,
+          "end": 114.489,
+          "score": 0.871
+        },
+        {
+          "word": "par",
+          "start": 114.549,
+          "end": 114.729,
+          "score": 0.874
+        },
+        {
+          "word": "norteamericano",
+          "start": 114.749,
+          "end": 115.511,
+          "score": 0.765
+        },
+        {
+          "word": "Bill",
+          "start": 115.571,
+          "end": 115.752,
+          "score": 0.472
+        },
+        {
+          "word": "Clinton...",
+          "start": 115.812,
+          "end": 116.814,
+          "score": 0.752
+        },
+        {
+          "word": "...un",
+          "start": 116.834,
+          "end": 116.934,
+          "score": 0.579
+        },
+        {
+          "word": "imponente",
+          "start": 116.994,
+          "end": 117.395,
+          "score": 0.939
+        },
+        {
+          "word": "menú",
+          "start": 117.516,
+          "end": 117.736,
+          "score": 0.793
+        },
+        {
+          "word": "criollo",
+          "start": 117.756,
+          "end": 118.277,
+          "score": 0.708
+        },
+        {
+          "word": "que",
+          "start": 118.297,
+          "end": 118.398,
+          "score": 0.635
+        },
+        {
+          "word": "salió",
+          "start": 118.438,
+          "end": 118.799,
+          "score": 0.899
+        },
+        {
+          "word": "de",
+          "start": 118.859,
+          "end": 118.939,
+          "score": 0.963
+        },
+        {
+          "word": "una",
+          "start": 118.999,
+          "end": 119.079,
+          "score": 0.829
+        },
+        {
+          "word": "enorme",
+          "start": 119.139,
+          "end": 119.42,
+          "score": 0.919
+        },
+        {
+          "word": "parrilla...",
+          "start": 119.46,
+          "end": 120.041,
+          "score": 0.89
+        },
+        {
+          "word": "...bioasados,",
+          "start": 120.402,
+          "end": 121.104,
+          "score": 0.745
+        },
+        {
+          "word": "chivitos,",
+          "start": 121.164,
+          "end": 121.645,
+          "score": 0.822
+        },
+        {
+          "word": "corderos...",
+          "start": 121.745,
+          "end": 122.547,
+          "score": 0.671
+        }
+      ]
+    },
+    {
+      "start": 124.315,
+      "end": 129.325,
+      "text": " Cabritos de los Andes, jabalíes, costillares de vaca, patos y pollos, entre otros manjares.",
+      "words": [
+        {
+          "word": "Cabritos",
+          "start": 124.315,
+          "end": 124.876,
+          "score": 0.793
+        },
+        {
+          "word": "de",
+          "start": 124.916,
+          "end": 124.976,
+          "score": 0.823
+        },
+        {
+          "word": "los",
+          "start": 125.016,
+          "end": 125.117,
+          "score": 0.697
+        },
+        {
+          "word": "Andes,",
+          "start": 125.217,
+          "end": 125.517,
+          "score": 0.76
+        },
+        {
+          "word": "jabalíes,",
+          "start": 125.578,
+          "end": 126.139,
+          "score": 0.862
+        },
+        {
+          "word": "costillares",
+          "start": 126.239,
+          "end": 126.78,
+          "score": 0.838
+        },
+        {
+          "word": "de",
+          "start": 126.82,
+          "end": 126.88,
+          "score": 0.61
+        },
+        {
+          "word": "vaca,",
+          "start": 126.94,
+          "end": 127.301,
+          "score": 0.642
+        },
+        {
+          "word": "patos",
+          "start": 127.321,
+          "end": 127.582,
+          "score": 0.867
+        },
+        {
+          "word": "y",
+          "start": 127.622,
+          "end": 127.642,
+          "score": 0.974
+        },
+        {
+          "word": "pollos,",
+          "start": 127.822,
+          "end": 128.123,
+          "score": 0.86
+        },
+        {
+          "word": "entre",
+          "start": 128.223,
+          "end": 128.443,
+          "score": 0.833
+        },
+        {
+          "word": "otros",
+          "start": 128.463,
+          "end": 128.704,
+          "score": 0.582
+        },
+        {
+          "word": "manjares.",
+          "start": 128.764,
+          "end": 129.325,
+          "score": 0.861
+        }
+      ]
+    },
+    {
+      "start": 129.746,
+      "end": 145.918,
+      "text": "Compartieron asimismo estos manjares el expresidente Alfonsín, el jefe de gobierno porteño, doctor Fernando de la Rúa, el titular de la DAIA, Rubén Beraja, y los empresarios periodísticos Ernestina Herrera de Nogle, Claudio Escribano y Eduardo Eurnequiano.",
+      "words": [
+        {
+          "word": "Compartieron",
+          "start": 129.746,
+          "end": 130.327,
+          "score": 0.919
+        },
+        {
+          "word": "asimismo",
+          "start": 130.367,
+          "end": 130.868,
+          "score": 0.97
+        },
+        {
+          "word": "estos",
+          "start": 130.888,
+          "end": 131.229,
+          "score": 0.074
+        },
+        {
+          "word": "manjares",
+          "start": 131.269,
+          "end": 131.77,
+          "score": 0.862
+        },
+        {
+          "word": "el",
+          "start": 132.171,
+          "end": 132.251,
+          "score": 0.874
+        },
+        {
+          "word": "expresidente",
+          "start": 132.271,
+          "end": 132.872,
+          "score": 0.963
+        },
+        {
+          "word": "Alfonsín,",
+          "start": 132.932,
+          "end": 133.513,
+          "score": 0.903
+        },
+        {
+          "word": "el",
+          "start": 133.914,
+          "end": 133.974,
+          "score": 0.842
+        },
+        {
+          "word": "jefe",
+          "start": 134.074,
+          "end": 134.275,
+          "score": 0.717
+        },
+        {
+          "word": "de",
+          "start": 134.355,
+          "end": 134.395,
+          "score": 0.906
+        },
+        {
+          "word": "gobierno",
+          "start": 134.495,
+          "end": 134.816,
+          "score": 0.817
+        },
+        {
+          "word": "porteño,",
+          "start": 134.856,
+          "end": 135.497,
+          "score": 0.791
+        },
+        {
+          "word": "doctor",
+          "start": 135.517,
+          "end": 135.898,
+          "score": 0.566
+        },
+        {
+          "word": "Fernando",
+          "start": 135.998,
+          "end": 136.399,
+          "score": 0.882
+        },
+        {
+          "word": "de",
+          "start": 136.419,
+          "end": 136.499,
+          "score": 0.846
+        },
+        {
+          "word": "la",
+          "start": 136.519,
+          "end": 136.66,
+          "score": 0.662
+        },
+        {
+          "word": "Rúa,",
+          "start": 136.68,
+          "end": 136.92,
+          "score": 0.858
+        },
+        {
+          "word": "el",
+          "start": 137.341,
+          "end": 137.401,
+          "score": 0.919
+        },
+        {
+          "word": "titular",
+          "start": 137.461,
+          "end": 137.782,
+          "score": 0.927
+        },
+        {
+          "word": "de",
+          "start": 137.842,
+          "end": 137.902,
+          "score": 0.808
+        },
+        {
+          "word": "la",
+          "start": 137.942,
+          "end": 138.002,
+          "score": 0.722
+        },
+        {
+          "word": "DAIA,",
+          "start": 138.062,
+          "end": 138.343,
+          "score": 0.9
+        },
+        {
+          "word": "Rubén",
+          "start": 138.463,
+          "end": 138.704,
+          "score": 0.536
+        },
+        {
+          "word": "Beraja,",
+          "start": 138.724,
+          "end": 139.125,
+          "score": 0.986
+        },
+        {
+          "word": "y",
+          "start": 139.165,
+          "end": 139.185,
+          "score": 0.948
+        },
+        {
+          "word": "los",
+          "start": 139.205,
+          "end": 139.265,
+          "score": 0.334
+        },
+        {
+          "word": "empresarios",
+          "start": 139.465,
+          "end": 139.946,
+          "score": 0.953
+        },
+        {
+          "word": "periodísticos",
+          "start": 140.026,
+          "end": 140.627,
+          "score": 0.935
+        },
+        {
+          "word": "Ernestina",
+          "start": 140.668,
+          "end": 141.609,
+          "score": 0.731
+        },
+        {
+          "word": "Herrera",
+          "start": 141.65,
+          "end": 142.03,
+          "score": 0.756
+        },
+        {
+          "word": "de",
+          "start": 142.09,
+          "end": 142.151,
+          "score": 0.905
+        },
+        {
+          "word": "Nogle,",
+          "start": 142.191,
+          "end": 142.571,
+          "score": 0.927
+        },
+        {
+          "word": "Claudio",
+          "start": 142.932,
+          "end": 143.293,
+          "score": 0.871
+        },
+        {
+          "word": "Escribano",
+          "start": 143.353,
+          "end": 143.874,
+          "score": 0.922
+        },
+        {
+          "word": "y",
+          "start": 143.894,
+          "end": 143.914,
+          "score": 0.99
+        },
+        {
+          "word": "Eduardo",
+          "start": 143.954,
+          "end": 144.836,
+          "score": 0.963
+        },
+        {
+          "word": "Eurnequiano.",
+          "start": 145.136,
+          "end": 145.918,
+          "score": 0.675
+        }
+      ]
+    },
+    {
+      "start": 150.252,
+      "end": 155.178,
+      "text": " Por la Supercopa jugaron anoche en Avellaneda Independiente y Boca Juniors.",
+      "words": [
+        {
+          "word": "Por",
+          "start": 150.252,
+          "end": 150.693,
+          "score": 0.256
+        },
+        {
+          "word": "la",
+          "start": 150.713,
+          "end": 150.933,
+          "score": 0.558
+        },
+        {
+          "word": "Supercopa",
+          "start": 150.953,
+          "end": 151.814,
+          "score": 0.833
+        },
+        {
+          "word": "jugaron",
+          "start": 151.934,
+          "end": 152.335,
+          "score": 0.881
+        },
+        {
+          "word": "anoche",
+          "start": 152.395,
+          "end": 152.735,
+          "score": 0.808
+        },
+        {
+          "word": "en",
+          "start": 152.775,
+          "end": 152.815,
+          "score": 0.493
+        },
+        {
+          "word": "Avellaneda",
+          "start": 152.835,
+          "end": 153.536,
+          "score": 0.693
+        },
+        {
+          "word": "Independiente",
+          "start": 153.656,
+          "end": 154.277,
+          "score": 0.95
+        },
+        {
+          "word": "y",
+          "start": 154.297,
+          "end": 154.317,
+          "score": 0.994
+        },
+        {
+          "word": "Boca",
+          "start": 154.357,
+          "end": 154.737,
+          "score": 0.498
+        },
+        {
+          "word": "Juniors.",
+          "start": 154.757,
+          "end": 155.178,
+          "score": 0.737
+        }
+      ]
+    },
+    {
+      "start": 155.699,
+      "end": 165.551,
+      "text": "Los rojos se impusieron por 2 a 1 para ser perdedores en la primera etapa por 1 a 0.",
+      "words": [
+        {
+          "word": "Los",
+          "start": 155.699,
+          "end": 155.879,
+          "score": 0.737
+        },
+        {
+          "word": "rojos",
+          "start": 155.899,
+          "end": 156.159,
+          "score": 0.919
+        },
+        {
+          "word": "se",
+          "start": 156.219,
+          "end": 156.319,
+          "score": 0.882
+        },
+        {
+          "word": "impusieron",
+          "start": 156.379,
+          "end": 156.84,
+          "score": 0.958
+        },
+        {
+          "word": "por",
+          "start": 156.94,
+          "end": 157.06,
+          "score": 0.991
+        },
+        {
+          "word": "2",
+          "start": 157.08,
+          "end": 157.1,
+          "score": 0.988
+        },
+        {
+          "word": "a",
+          "start": 157.341,
+          "end": 157.361,
+          "score": 0.856
+        },
+        {
+          "word": "1",
+          "start": 157.381,
+          "end": 157.741,
+          "score": 0.684
+        },
+        {
+          "word": "para",
+          "start": 158.182,
+          "end": 158.322,
+          "score": 0.911
+        },
+        {
+          "word": "ser",
+          "start": 158.442,
+          "end": 158.562,
+          "score": 0.933
+        },
+        {
+          "word": "perdedores",
+          "start": 158.722,
+          "end": 159.383,
+          "score": 0.939
+        },
+        {
+          "word": "en",
+          "start": 159.443,
+          "end": 159.503,
+          "score": 0.883
+        },
+        {
+          "word": "la",
+          "start": 159.563,
+          "end": 159.603,
+          "score": 0.87
+        },
+        {
+          "word": "primera",
+          "start": 159.663,
+          "end": 159.904,
+          "score": 0.816
+        },
+        {
+          "word": "etapa",
+          "start": 159.964,
+          "end": 160.224,
+          "score": 0.947
+        },
+        {
+          "word": "por",
+          "start": 160.264,
+          "end": 160.444,
+          "score": 0.79
+        },
+        {
+          "word": "1",
+          "start": 160.464,
+          "end": 160.925,
+          "score": 0.858
+        },
+        {
+          "word": "a",
+          "start": 161.305,
+          "end": 161.385,
+          "score": 0.646
+        },
+        {
+          "word": "0.",
+          "start": 161.406,
+          "end": 165.551,
+          "score": 0.887
+        }
+      ]
+    },
+    {
+      "start": 165.571,
+      "end": 167.473,
+      "text": "El cielo está ligeramente nublado.",
+      "words": [
+        {
+          "word": "El",
+          "start": 165.571,
+          "end": 165.611,
+          "score": 0.003
+        },
+        {
+          "word": "cielo",
+          "start": 165.631,
+          "end": 165.911,
+          "score": 0.925
+        },
+        {
+          "word": "está",
+          "start": 166.191,
+          "end": 166.372,
+          "score": 0.9
+        },
+        {
+          "word": "ligeramente",
+          "start": 166.432,
+          "end": 166.932,
+          "score": 0.913
+        },
+        {
+          "word": "nublado.",
+          "start": 167.032,
+          "end": 167.473,
+          "score": 0.872
+        }
+      ]
+    },
+    {
+      "start": 167.493,
+      "end": 169.776,
+      "text": "La visibilidad es la normal 10 kilómetros.",
+      "words": [
+        {
+          "word": "La",
+          "start": 167.493,
+          "end": 167.533,
+          "score": 0.481
+        },
+        {
+          "word": "visibilidad",
+          "start": 167.573,
+          "end": 168.354,
+          "score": 0.826
+        },
+        {
+          "word": "es",
+          "start": 168.414,
+          "end": 168.514,
+          "score": 0.502
+        },
+        {
+          "word": "la",
+          "start": 168.554,
+          "end": 168.614,
+          "score": 0.902
+        },
+        {
+          "word": "normal",
+          "start": 168.674,
+          "end": 168.955,
+          "score": 0.847
+        },
+        {
+          "word": "10",
+          "start": 168.975,
+          "end": 169.195,
+          "score": 0.67
+        },
+        {
+          "word": "kilómetros.",
+          "start": 169.215,
+          "end": 169.776,
+          "score": 0.707
+        }
+      ]
+    },
+    {
+      "start": 169.796,
+      "end": 171.538,
+      "text": "Viento del sur a 11 kilómetros por hora.",
+      "words": [
+        {
+          "word": "Viento",
+          "start": 169.796,
+          "end": 169.956,
+          "score": 0.607
+        },
+        {
+          "word": "del",
+          "start": 169.996,
+          "end": 170.096,
+          "score": 0.897
+        },
+        {
+          "word": "sur",
+          "start": 170.156,
+          "end": 170.296,
+          "score": 0.923
+        },
+        {
+          "word": "a",
+          "start": 170.336,
+          "end": 170.356,
+          "score": 0.879
+        },
+        {
+          "word": "11",
+          "start": 170.416,
+          "end": 170.557,
+          "score": 0.705
+        },
+        {
+          "word": "kilómetros",
+          "start": 170.657,
+          "end": 171.077,
+          "score": 0.856
+        },
+        {
+          "word": "por",
+          "start": 171.137,
+          "end": 171.257,
+          "score": 0.98
+        },
+        {
+          "word": "hora.",
+          "start": 171.297,
+          "end": 171.538,
+          "score": 0.892
+        }
+      ]
+    },
+    {
+      "start": 172.018,
+      "end": 175.082,
+      "text": "Presión atmosférica medida en hectopascales alta.",
+      "words": [
+        {
+          "word": "Presión",
+          "start": 172.018,
+          "end": 172.399,
+          "score": 0.725
+        },
+        {
+          "word": "atmosférica",
+          "start": 172.419,
+          "end": 172.959,
+          "score": 0.812
+        },
+        {
+          "word": "medida",
+          "start": 173.06,
+          "end": 173.26,
+          "score": 0.572
+        },
+        {
+          "word": "en",
+          "start": 173.3,
+          "end": 173.34,
+          "score": 0.492
+        },
+        {
+          "word": "hectopascales",
+          "start": 173.36,
+          "end": 174.161,
+          "score": 0.837
+        },
+        {
+          "word": "alta.",
+          "start": 174.742,
+          "end": 175.082,
+          "score": 0.948
+        }
+      ]
+    },
+    {
+      "start": 175.102,
+      "end": 177.525,
+      "text": "1020, decimal 8.",
+      "words": [
+        {
+          "word": "1020,",
+          "start": 175.102,
+          "end": 176.263,
+          "score": 0.834
+        },
+        {
+          "word": "decimal",
+          "start": 176.584,
+          "end": 177.105,
+          "score": 0.543
+        },
+        {
+          "word": "8.",
+          "start": 177.125,
+          "end": 177.525,
+          "score": 0.764
+        }
+      ]
+    },
+    {
+      "start": 178.079,
+      "end": 187.239,
+      "text": " 59% la humedad de la temperatura actual, 12 grados, 5 décimos.",
+      "words": [
+        {
+          "word": "59%",
+          "start": 178.079,
+          "end": 178.72,
+          "score": 0.774
+        },
+        {
+          "word": "la",
+          "start": 178.74,
+          "end": 178.781,
+          "score": 0.964
+        },
+        {
+          "word": "humedad",
+          "start": 179.803,
+          "end": 180.123,
+          "score": 0.936
+        },
+        {
+          "word": "de",
+          "start": 180.163,
+          "end": 180.204,
+          "score": 0.897
+        },
+        {
+          "word": "la",
+          "start": 180.264,
+          "end": 180.324,
+          "score": 0.956
+        },
+        {
+          "word": "temperatura",
+          "start": 180.404,
+          "end": 181.005,
+          "score": 0.916
+        },
+        {
+          "word": "actual,",
+          "start": 181.045,
+          "end": 181.526,
+          "score": 0.897
+        },
+        {
+          "word": "12",
+          "start": 181.546,
+          "end": 181.587,
+          "score": 0.996
+        },
+        {
+          "word": "grados,",
+          "start": 183.07,
+          "end": 183.491,
+          "score": 0.998
+        },
+        {
+          "word": "5",
+          "start": 183.511,
+          "end": 183.531,
+          "score": 0.978
+        },
+        {
+          "word": "décimos.",
+          "start": 184.713,
+          "end": 187.239,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "start": 187.259,
+      "end": 197.1,
+      "text": "En cualquier momento, otro servicio informativo de la Radio de la Ciudad.",
+      "words": [
+        {
+          "word": "En",
+          "start": 187.259,
+          "end": 191.408,
+          "score": 0.976
+        },
+        {
+          "word": "cualquier",
+          "start": 191.568,
+          "end": 191.989,
+          "score": 0.723
+        },
+        {
+          "word": "momento,",
+          "start": 192.089,
+          "end": 192.53,
+          "score": 0.99
+        },
+        {
+          "word": "otro",
+          "start": 192.57,
+          "end": 193.292,
+          "score": 0.921
+        },
+        {
+          "word": "servicio",
+          "start": 193.412,
+          "end": 193.913,
+          "score": 0.982
+        },
+        {
+          "word": "informativo",
+          "start": 193.953,
+          "end": 194.715,
+          "score": 0.796
+        },
+        {
+          "word": "de",
+          "start": 194.735,
+          "end": 194.775,
+          "score": 0.498
+        },
+        {
+          "word": "la",
+          "start": 195.517,
+          "end": 195.577,
+          "score": 0.584
+        },
+        {
+          "word": "Radio",
+          "start": 195.797,
+          "end": 196.158,
+          "score": 0.954
+        },
+        {
+          "word": "de",
+          "start": 196.278,
+          "end": 196.378,
+          "score": 0.95
+        },
+        {
+          "word": "la",
+          "start": 196.439,
+          "end": 196.519,
+          "score": 0.95
+        },
+        {
+          "word": "Ciudad.",
+          "start": 196.599,
+          "end": 197.1,
+          "score": 0.83
+        }
+      ]
+    },
+    {
+      "start": 208.943,
+      "end": 236.47,
+      "text": " Apáguense las nuevas luces del viejo barriete",
+      "words": [
+        {
+          "word": "Apáguense",
+          "start": 208.943,
+          "end": 229.043,
+          "score": 0.474
+        },
+        {
+          "word": "las",
+          "start": 229.063,
+          "end": 229.783,
+          "score": 0.576
+        },
+        {
+          "word": "nuevas",
+          "start": 229.803,
+          "end": 233.047,
+          "score": 0.566
+        },
+        {
+          "word": "luces",
+          "start": 233.067,
+          "end": 233.347,
+          "score": 0.276
+        },
+        {
+          "word": "del",
+          "start": 233.367,
+          "end": 233.427,
+          "score": 0.172
+        },
+        {
+          "word": "viejo",
+          "start": 233.527,
+          "end": 234.788,
+          "score": 0.703
+        },
+        {
+          "word": "barriete",
+          "start": 234.808,
+          "end": 236.47,
+          "score": 0.641
+        }
+      ]
+    },
+    {
+      "start": 239.42,
+      "end": 255.414,
+      "text": " Recuerdos.",
+      "words": [
+        {
+          "word": "Recuerdos.",
+          "start": 239.42,
+          "end": 255.414,
+          "score": 0.635
+        }
+      ]
+    },
+    {
+      "start": 257.096,
+      "end": 267.165,
+      "text": "Hoy no es ayer, pero lo mismo buscamos el placer.",
+      "words": [
+        {
+          "word": "Hoy",
+          "start": 257.096,
+          "end": 257.156,
+          "score": 0.01
+        },
+        {
+          "word": "no",
+          "start": 257.176,
+          "end": 257.316,
+          "score": 0.93
+        },
+        {
+          "word": "es",
+          "start": 257.516,
+          "end": 257.757,
+          "score": 0.722
+        },
+        {
+          "word": "ayer,",
+          "start": 257.777,
+          "end": 260.739,
+          "score": 0.451
+        },
+        {
+          "word": "pero",
+          "start": 260.759,
+          "end": 261.42,
+          "score": 0.856
+        },
+        {
+          "word": "lo",
+          "start": 261.44,
+          "end": 262.661,
+          "score": 0.766
+        },
+        {
+          "word": "mismo",
+          "start": 262.681,
+          "end": 264.082,
+          "score": 0.261
+        },
+        {
+          "word": "buscamos",
+          "start": 264.102,
+          "end": 264.883,
+          "score": 0.397
+        },
+        {
+          "word": "el",
+          "start": 264.983,
+          "end": 265.584,
+          "score": 0.398
+        },
+        {
+          "word": "placer.",
+          "start": 265.604,
+          "end": 267.165,
+          "score": 0.303
+        }
+      ]
+    },
+    {
+      "start": 268.04,
+      "end": 283.458,
+      "text": " de oír a los cantantes que manga de farsantes que hacen la vida rejuvenecer.",
+      "words": [
+        {
+          "word": "de",
+          "start": 268.04,
+          "end": 275.569,
+          "score": 0.457
+        },
+        {
+          "word": "oír",
+          "start": 275.589,
+          "end": 275.649,
+          "score": 0.015
+        },
+        {
+          "word": "a",
+          "start": 275.669,
+          "end": 275.689,
+          "score": 0.003
+        },
+        {
+          "word": "los",
+          "start": 275.709,
+          "end": 275.769,
+          "score": 0.017
+        },
+        {
+          "word": "cantantes",
+          "start": 275.789,
+          "end": 275.969,
+          "score": 0.004
+        },
+        {
+          "word": "que",
+          "start": 275.989,
+          "end": 276.049,
+          "score": 0.001
+        },
+        {
+          "word": "manga",
+          "start": 276.069,
+          "end": 276.17,
+          "score": 0.002
+        },
+        {
+          "word": "de",
+          "start": 276.19,
+          "end": 276.23,
+          "score": 0.01
+        },
+        {
+          "word": "farsantes",
+          "start": 276.25,
+          "end": 276.43,
+          "score": 0.0
+        },
+        {
+          "word": "que",
+          "start": 276.45,
+          "end": 276.51,
+          "score": 0.004
+        },
+        {
+          "word": "hacen",
+          "start": 276.53,
+          "end": 276.63,
+          "score": 0.001
+        },
+        {
+          "word": "la",
+          "start": 276.65,
+          "end": 276.77,
+          "score": 0.974
+        },
+        {
+          "word": "vida",
+          "start": 276.89,
+          "end": 277.952,
+          "score": 0.833
+        },
+        {
+          "word": "rejuvenecer.",
+          "start": 278.632,
+          "end": 283.458,
+          "score": 0.578
+        }
+      ]
+    },
+    {
+      "start": 283.478,
+      "end": 286.181,
+      "text": "Un homenaje permanente al espectáculo argentino.",
+      "words": [
+        {
+          "word": "Un",
+          "start": 283.478,
+          "end": 283.538,
+          "score": 0.64
+        },
+        {
+          "word": "homenaje",
+          "start": 283.758,
+          "end": 284.039,
+          "score": 0.338
+        },
+        {
+          "word": "permanente",
+          "start": 284.139,
+          "end": 284.84,
+          "score": 0.908
+        },
+        {
+          "word": "al",
+          "start": 284.86,
+          "end": 284.94,
+          "score": 0.613
+        },
+        {
+          "word": "espectáculo",
+          "start": 285.0,
+          "end": 285.56,
+          "score": 0.757
+        },
+        {
+          "word": "argentino.",
+          "start": 285.641,
+          "end": 286.181,
+          "score": 0.787
+        }
+      ]
+    },
+    {
+      "start": 288.304,
+      "end": 292.849,
+      "text": "El Music Hall entona un poco, ¿verdad?, como el alcohol.",
+      "words": [
+        {
+          "word": "El",
+          "start": 288.304,
+          "end": 288.924,
+          "score": 0.394
+        },
+        {
+          "word": "Music",
+          "start": 288.944,
+          "end": 289.045,
+          "score": 0.011
+        },
+        {
+          "word": "Hall",
+          "start": 289.065,
+          "end": 289.625,
+          "score": 0.397
+        },
+        {
+          "word": "entona",
+          "start": 289.645,
+          "end": 289.906,
+          "score": 0.195
+        },
+        {
+          "word": "un",
+          "start": 289.926,
+          "end": 289.966,
+          "score": 0.024
+        },
+        {
+          "word": "poco,",
+          "start": 289.986,
+          "end": 290.266,
+          "score": 0.509
+        },
+        {
+          "word": "¿verdad?,",
+          "start": 290.326,
+          "end": 291.568,
+          "score": 0.508
+        },
+        {
+          "word": "como",
+          "start": 291.588,
+          "end": 291.808,
+          "score": 0.605
+        },
+        {
+          "word": "el",
+          "start": 291.828,
+          "end": 291.868,
+          "score": 0.03
+        },
+        {
+          "word": "alcohol.",
+          "start": 291.888,
+          "end": 292.849,
+          "score": 0.388
+        }
+      ]
+    },
+    {
+      "start": 293.437,
+      "end": 300.149,
+      "text": " Uno se va, tal vez a casa, con menos soledad.",
+      "words": [
+        {
+          "word": "Uno",
+          "start": 293.437,
+          "end": 295.621,
+          "score": 0.312
+        },
+        {
+          "word": "se",
+          "start": 295.641,
+          "end": 295.681,
+          "score": 0.002
+        },
+        {
+          "word": "va,",
+          "start": 295.701,
+          "end": 295.981,
+          "score": 0.466
+        },
+        {
+          "word": "tal",
+          "start": 296.001,
+          "end": 296.062,
+          "score": 0.193
+        },
+        {
+          "word": "vez",
+          "start": 296.202,
+          "end": 296.422,
+          "score": 0.512
+        },
+        {
+          "word": "a",
+          "start": 296.442,
+          "end": 296.482,
+          "score": 0.905
+        },
+        {
+          "word": "casa,",
+          "start": 296.663,
+          "end": 297.204,
+          "score": 0.944
+        },
+        {
+          "word": "con",
+          "start": 298.325,
+          "end": 298.506,
+          "score": 0.878
+        },
+        {
+          "word": "menos",
+          "start": 298.766,
+          "end": 299.167,
+          "score": 0.968
+        },
+        {
+          "word": "soledad.",
+          "start": 299.407,
+          "end": 300.149,
+          "score": 0.864
+        }
+      ]
+    },
+    {
+      "start": 300.369,
+      "end": 318.06,
+      "text": "Un programa mágico, con la presencia del ayer y del hoy, con la conducción de Aníbal Fernández, Charo Popi y Andrés Pérez Arcas.",
+      "words": [
+        {
+          "word": "Un",
+          "start": 300.369,
+          "end": 300.429,
+          "score": 0.874
+        },
+        {
+          "word": "programa",
+          "start": 300.469,
+          "end": 300.85,
+          "score": 0.911
+        },
+        {
+          "word": "mágico,",
+          "start": 301.331,
+          "end": 301.832,
+          "score": 0.983
+        },
+        {
+          "word": "con",
+          "start": 301.872,
+          "end": 302.553,
+          "score": 0.928
+        },
+        {
+          "word": "la",
+          "start": 302.593,
+          "end": 302.633,
+          "score": 0.87
+        },
+        {
+          "word": "presencia",
+          "start": 302.793,
+          "end": 303.194,
+          "score": 0.192
+        },
+        {
+          "word": "del",
+          "start": 303.214,
+          "end": 303.334,
+          "score": 0.495
+        },
+        {
+          "word": "ayer",
+          "start": 303.394,
+          "end": 303.655,
+          "score": 0.906
+        },
+        {
+          "word": "y",
+          "start": 303.675,
+          "end": 303.695,
+          "score": 0.98
+        },
+        {
+          "word": "del",
+          "start": 303.995,
+          "end": 304.075,
+          "score": 0.569
+        },
+        {
+          "word": "hoy,",
+          "start": 304.176,
+          "end": 304.336,
+          "score": 0.857
+        },
+        {
+          "word": "con",
+          "start": 305.157,
+          "end": 305.257,
+          "score": 0.991
+        },
+        {
+          "word": "la",
+          "start": 305.318,
+          "end": 305.358,
+          "score": 0.998
+        },
+        {
+          "word": "conducción",
+          "start": 305.438,
+          "end": 305.838,
+          "score": 0.85
+        },
+        {
+          "word": "de",
+          "start": 305.919,
+          "end": 305.979,
+          "score": 0.887
+        },
+        {
+          "word": "Aníbal",
+          "start": 306.079,
+          "end": 306.5,
+          "score": 0.474
+        },
+        {
+          "word": "Fernández,",
+          "start": 306.52,
+          "end": 308.102,
+          "score": 0.647
+        },
+        {
+          "word": "Charo",
+          "start": 308.122,
+          "end": 309.465,
+          "score": 0.562
+        },
+        {
+          "word": "Popi",
+          "start": 309.485,
+          "end": 309.565,
+          "score": 0.011
+        },
+        {
+          "word": "y",
+          "start": 309.585,
+          "end": 309.605,
+          "score": 0.001
+        },
+        {
+          "word": "Andrés",
+          "start": 309.625,
+          "end": 317.799,
+          "score": 0.242
+        },
+        {
+          "word": "Pérez",
+          "start": 317.819,
+          "end": 317.919,
+          "score": 0.0
+        },
+        {
+          "word": "Arcas.",
+          "start": 317.939,
+          "end": 318.06,
+          "score": 0.087
+        }
+      ]
+    },
+    {
+      "start": 318.08,
+      "end": 318.921,
+      "text": "Hasta la próxima.",
+      "words": [
+        {
+          "word": "Hasta",
+          "start": 318.08,
+          "end": 318.18,
+          "score": 0.057
+        },
+        {
+          "word": "la",
+          "start": 318.2,
+          "end": 318.24,
+          "score": 0.49
+        },
+        {
+          "word": "próxima.",
+          "start": 318.28,
+          "end": 318.921,
+          "score": 0.56
+        }
+      ]
+    },
+    {
+      "start": 320.032,
+      "end": 321.654,
+      "text": " Muy buenos días.",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 320.032,
+          "end": 320.433,
+          "score": 0.771
+        },
+        {
+          "word": "buenos",
+          "start": 320.533,
+          "end": 320.973,
+          "score": 0.89
+        },
+        {
+          "word": "días.",
+          "start": 321.314,
+          "end": 321.654,
+          "score": 0.873
+        }
+      ]
+    },
+    {
+      "start": 322.275,
+      "end": 322.676,
+      "text": "Noches.",
+      "words": [
+        {
+          "word": "Noches.",
+          "start": 322.275,
+          "end": 322.676,
+          "score": 0.877
+        }
+      ]
+    },
+    {
+      "start": 323.077,
+      "end": 323.377,
+      "text": "Días.",
+      "words": [
+        {
+          "word": "Días.",
+          "start": 323.077,
+          "end": 323.377,
+          "score": 0.883
+        }
+      ]
+    },
+    {
+      "start": 323.698,
+      "end": 324.058,
+      "text": "Días.",
+      "words": [
+        {
+          "word": "Días.",
+          "start": 323.698,
+          "end": 324.058,
+          "score": 0.924
+        }
+      ]
+    },
+    {
+      "start": 324.399,
+      "end": 329.927,
+      "text": "Pero hace cinco minutos que estamos en los albores de este 17 de octubre de 1997.",
+      "words": [
+        {
+          "word": "Pero",
+          "start": 324.399,
+          "end": 324.539,
+          "score": 0.856
+        },
+        {
+          "word": "hace",
+          "start": 324.599,
+          "end": 324.879,
+          "score": 0.738
+        },
+        {
+          "word": "cinco",
+          "start": 324.979,
+          "end": 325.22,
+          "score": 0.91
+        },
+        {
+          "word": "minutos",
+          "start": 325.3,
+          "end": 325.62,
+          "score": 0.87
+        },
+        {
+          "word": "que",
+          "start": 325.66,
+          "end": 325.721,
+          "score": 0.334
+        },
+        {
+          "word": "estamos",
+          "start": 325.741,
+          "end": 326.422,
+          "score": 0.873
+        },
+        {
+          "word": "en",
+          "start": 326.522,
+          "end": 326.562,
+          "score": 0.731
+        },
+        {
+          "word": "los",
+          "start": 326.602,
+          "end": 326.662,
+          "score": 0.798
+        },
+        {
+          "word": "albores",
+          "start": 326.762,
+          "end": 327.083,
+          "score": 0.922
+        },
+        {
+          "word": "de",
+          "start": 327.123,
+          "end": 327.163,
+          "score": 0.746
+        },
+        {
+          "word": "este",
+          "start": 327.183,
+          "end": 327.363,
+          "score": 0.843
+        },
+        {
+          "word": "17",
+          "start": 327.383,
+          "end": 328.024,
+          "score": 0.74
+        },
+        {
+          "word": "de",
+          "start": 328.084,
+          "end": 328.144,
+          "score": 0.713
+        },
+        {
+          "word": "octubre",
+          "start": 328.204,
+          "end": 328.545,
+          "score": 0.958
+        },
+        {
+          "word": "de",
+          "start": 328.605,
+          "end": 328.925,
+          "score": 0.84
+        },
+        {
+          "word": "1997.",
+          "start": 328.945,
+          "end": 329.927,
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "start": 330.207,
+      "end": 331.409,
+      "text": "Es de día.",
+      "words": [
+        {
+          "word": "Es",
+          "start": 330.207,
+          "end": 331.008,
+          "score": 0.863
+        },
+        {
+          "word": "de",
+          "start": 331.049,
+          "end": 331.129,
+          "score": 0.843
+        },
+        {
+          "word": "día.",
+          "start": 331.169,
+          "end": 331.409,
+          "score": 0.826
+        }
+      ]
+    },
+    {
+      "start": 332.29,
+      "end": 335.595,
+      "text": "Discúlpenme, pero buenas noches a la audiencia.",
+      "words": [
+        {
+          "word": "Discúlpenme,",
+          "start": 332.29,
+          "end": 332.931,
+          "score": 0.878
+        },
+        {
+          "word": "pero",
+          "start": 333.032,
+          "end": 333.192,
+          "score": 0.947
+        },
+        {
+          "word": "buenas",
+          "start": 333.853,
+          "end": 334.073,
+          "score": 0.792
+        },
+        {
+          "word": "noches",
+          "start": 334.153,
+          "end": 334.594,
+          "score": 0.634
+        },
+        {
+          "word": "a",
+          "start": 334.654,
+          "end": 334.694,
+          "score": 0.735
+        },
+        {
+          "word": "la",
+          "start": 334.734,
+          "end": 334.794,
+          "score": 0.861
+        },
+        {
+          "word": "audiencia.",
+          "start": 334.854,
+          "end": 335.595,
+          "score": 0.646
+        }
+      ]
+    },
+    {
+      "start": 335.615,
+      "end": 336.316,
+      "text": "Buenas noches.",
+      "words": [
+        {
+          "word": "Buenas",
+          "start": 335.615,
+          "end": 335.736,
+          "score": 0.194
+        },
+        {
+          "word": "noches.",
+          "start": 335.876,
+          "end": 336.316,
+          "score": 0.443
+        }
+      ]
+    },
+    {
+      "start": 336.737,
+      "end": 337.138,
+      "text": "Buenas noches.",
+      "words": [
+        {
+          "word": "Buenas",
+          "start": 336.737,
+          "end": 336.857,
+          "score": 0.01
+        },
+        {
+          "word": "noches.",
+          "start": 336.877,
+          "end": 337.138,
+          "score": 0.494
+        }
+      ]
+    },
+    {
+      "start": 337.418,
+      "end": 340.262,
+      "text": "O son ciegos porque es oscuro afuera.",
+      "words": [
+        {
+          "word": "O",
+          "start": 337.418,
+          "end": 337.478,
+          "score": 0.837
+        },
+        {
+          "word": "son",
+          "start": 337.558,
+          "end": 337.719,
+          "score": 0.945
+        },
+        {
+          "word": "ciegos",
+          "start": 337.799,
+          "end": 338.319,
+          "score": 0.88
+        },
+        {
+          "word": "porque",
+          "start": 338.62,
+          "end": 338.92,
+          "score": 0.93
+        },
+        {
+          "word": "es",
+          "start": 339.161,
+          "end": 339.321,
+          "score": 0.686
+        },
+        {
+          "word": "oscuro",
+          "start": 339.341,
+          "end": 339.762,
+          "score": 0.88
+        },
+        {
+          "word": "afuera.",
+          "start": 339.842,
+          "end": 340.262,
+          "score": 0.872
+        }
+      ]
+    },
+    {
+      "start": 340.883,
+      "end": 342.546,
+      "text": "O sea, es de noche.",
+      "words": [
+        {
+          "word": "O",
+          "start": 340.883,
+          "end": 340.943,
+          "score": 0.853
+        },
+        {
+          "word": "sea,",
+          "start": 341.003,
+          "end": 341.204,
+          "score": 0.943
+        },
+        {
+          "word": "es",
+          "start": 341.364,
+          "end": 341.444,
+          "score": 0.689
+        },
+        {
+          "word": "de",
+          "start": 341.484,
+          "end": 341.564,
+          "score": 0.698
+        },
+        {
+          "word": "noche.",
+          "start": 341.584,
+          "end": 342.546,
+          "score": 0.66
+        }
+      ]
+    },
+    {
+      "start": 342.566,
+      "end": 344.689,
+      "text": "Sí, la gente está haciendo nonito ahora.",
+      "words": [
+        {
+          "word": "Sí,",
+          "start": 342.566,
+          "end": 343.187,
+          "score": 0.86
+        },
+        {
+          "word": "la",
+          "start": 343.207,
+          "end": 343.327,
+          "score": 0.445
+        },
+        {
+          "word": "gente",
+          "start": 343.347,
+          "end": 343.527,
+          "score": 0.685
+        },
+        {
+          "word": "está",
+          "start": 343.547,
+          "end": 343.667,
+          "score": 0.534
+        },
+        {
+          "word": "haciendo",
+          "start": 343.688,
+          "end": 343.908,
+          "score": 0.795
+        },
+        {
+          "word": "nonito",
+          "start": 343.968,
+          "end": 344.409,
+          "score": 0.656
+        },
+        {
+          "word": "ahora.",
+          "start": 344.429,
+          "end": 344.689,
+          "score": 0.295
+        }
+      ]
+    },
+    {
+      "start": 345.479,
+      "end": 353.872,
+      "text": " Yo nunca vi que a las 12 de la noche le digan a la gente buen día, es cuando alguien llega demasiado temprano en todo caso.",
+      "words": [
+        {
+          "word": "Yo",
+          "start": 345.479,
+          "end": 348.704,
+          "score": 0.451
+        },
+        {
+          "word": "nunca",
+          "start": 348.724,
+          "end": 348.924,
+          "score": 0.238
+        },
+        {
+          "word": "vi",
+          "start": 348.944,
+          "end": 348.984,
+          "score": 0.401
+        },
+        {
+          "word": "que",
+          "start": 349.024,
+          "end": 349.104,
+          "score": 0.67
+        },
+        {
+          "word": "a",
+          "start": 349.285,
+          "end": 349.305,
+          "score": 0.018
+        },
+        {
+          "word": "las",
+          "start": 349.325,
+          "end": 349.385,
+          "score": 0.295
+        },
+        {
+          "word": "12",
+          "start": 349.405,
+          "end": 349.505,
+          "score": 0.483
+        },
+        {
+          "word": "de",
+          "start": 349.525,
+          "end": 349.625,
+          "score": 0.435
+        },
+        {
+          "word": "la",
+          "start": 349.645,
+          "end": 349.685,
+          "score": 0.139
+        },
+        {
+          "word": "noche",
+          "start": 349.705,
+          "end": 349.866,
+          "score": 0.184
+        },
+        {
+          "word": "le",
+          "start": 349.886,
+          "end": 349.946,
+          "score": 0.253
+        },
+        {
+          "word": "digan",
+          "start": 349.966,
+          "end": 350.146,
+          "score": 0.211
+        },
+        {
+          "word": "a",
+          "start": 350.166,
+          "end": 350.226,
+          "score": 0.736
+        },
+        {
+          "word": "la",
+          "start": 350.286,
+          "end": 350.527,
+          "score": 0.754
+        },
+        {
+          "word": "gente",
+          "start": 350.547,
+          "end": 350.647,
+          "score": 0.021
+        },
+        {
+          "word": "buen",
+          "start": 350.667,
+          "end": 350.747,
+          "score": 0.025
+        },
+        {
+          "word": "día,",
+          "start": 350.767,
+          "end": 350.847,
+          "score": 0.146
+        },
+        {
+          "word": "es",
+          "start": 350.867,
+          "end": 350.987,
+          "score": 0.732
+        },
+        {
+          "word": "cuando",
+          "start": 351.007,
+          "end": 351.208,
+          "score": 0.318
+        },
+        {
+          "word": "alguien",
+          "start": 351.228,
+          "end": 351.368,
+          "score": 0.142
+        },
+        {
+          "word": "llega",
+          "start": 351.388,
+          "end": 351.548,
+          "score": 0.544
+        },
+        {
+          "word": "demasiado",
+          "start": 351.648,
+          "end": 352.129,
+          "score": 0.807
+        },
+        {
+          "word": "temprano",
+          "start": 352.169,
+          "end": 352.95,
+          "score": 0.559
+        },
+        {
+          "word": "en",
+          "start": 352.97,
+          "end": 353.01,
+          "score": 0.168
+        },
+        {
+          "word": "todo",
+          "start": 353.03,
+          "end": 353.311,
+          "score": 0.725
+        },
+        {
+          "word": "caso.",
+          "start": 353.371,
+          "end": 353.872,
+          "score": 0.798
+        }
+      ]
+    },
+    {
+      "start": 354.412,
+      "end": 356.636,
+      "text": "Bueno, buen día, buenas noches, ¿cómo le va Charo Popi?",
+      "words": [
+        {
+          "word": "Bueno,",
+          "start": 354.412,
+          "end": 354.653,
+          "score": 0.458
+        },
+        {
+          "word": "buen",
+          "start": 354.673,
+          "end": 354.833,
+          "score": 0.678
+        },
+        {
+          "word": "día,",
+          "start": 354.853,
+          "end": 354.993,
+          "score": 0.801
+        },
+        {
+          "word": "buenas",
+          "start": 355.053,
+          "end": 355.254,
+          "score": 0.494
+        },
+        {
+          "word": "noches,",
+          "start": 355.314,
+          "end": 355.594,
+          "score": 0.55
+        },
+        {
+          "word": "¿cómo",
+          "start": 355.614,
+          "end": 355.795,
+          "score": 0.322
+        },
+        {
+          "word": "le",
+          "start": 355.815,
+          "end": 355.895,
+          "score": 0.6
+        },
+        {
+          "word": "va",
+          "start": 355.915,
+          "end": 356.015,
+          "score": 0.684
+        },
+        {
+          "word": "Charo",
+          "start": 356.035,
+          "end": 356.255,
+          "score": 0.512
+        },
+        {
+          "word": "Popi?",
+          "start": 356.295,
+          "end": 356.636,
+          "score": 0.363
+        }
+      ]
+    },
+    {
+      "start": 356.656,
+      "end": 362.505,
+      "text": "Muy bien, muy feliz de estar nuevamente con todos ustedes y llegar a los hogares de toda la gente tan linda como es.",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 356.656,
+          "end": 356.716,
+          "score": 0.002
+        },
+        {
+          "word": "bien,",
+          "start": 356.736,
+          "end": 356.956,
+          "score": 0.461
+        },
+        {
+          "word": "muy",
+          "start": 356.976,
+          "end": 357.097,
+          "score": 0.744
+        },
+        {
+          "word": "feliz",
+          "start": 357.177,
+          "end": 357.377,
+          "score": 0.646
+        },
+        {
+          "word": "de",
+          "start": 357.397,
+          "end": 357.437,
+          "score": 0.008
+        },
+        {
+          "word": "estar",
+          "start": 357.457,
+          "end": 357.577,
+          "score": 0.421
+        },
+        {
+          "word": "nuevamente",
+          "start": 357.617,
+          "end": 358.018,
+          "score": 0.763
+        },
+        {
+          "word": "con",
+          "start": 358.058,
+          "end": 358.218,
+          "score": 0.722
+        },
+        {
+          "word": "todos",
+          "start": 358.258,
+          "end": 358.439,
+          "score": 0.888
+        },
+        {
+          "word": "ustedes",
+          "start": 358.539,
+          "end": 358.899,
+          "score": 0.795
+        },
+        {
+          "word": "y",
+          "start": 358.919,
+          "end": 358.939,
+          "score": 0.976
+        },
+        {
+          "word": "llegar",
+          "start": 359.14,
+          "end": 359.28,
+          "score": 0.551
+        },
+        {
+          "word": "a",
+          "start": 359.3,
+          "end": 359.32,
+          "score": 0.849
+        },
+        {
+          "word": "los",
+          "start": 359.36,
+          "end": 359.42,
+          "score": 0.968
+        },
+        {
+          "word": "hogares",
+          "start": 359.5,
+          "end": 359.761,
+          "score": 0.784
+        },
+        {
+          "word": "de",
+          "start": 359.801,
+          "end": 359.861,
+          "score": 0.631
+        },
+        {
+          "word": "toda",
+          "start": 359.901,
+          "end": 360.061,
+          "score": 0.857
+        },
+        {
+          "word": "la",
+          "start": 360.081,
+          "end": 360.141,
+          "score": 0.574
+        },
+        {
+          "word": "gente",
+          "start": 360.201,
+          "end": 360.381,
+          "score": 0.875
+        },
+        {
+          "word": "tan",
+          "start": 360.462,
+          "end": 360.702,
+          "score": 0.539
+        },
+        {
+          "word": "linda",
+          "start": 360.722,
+          "end": 360.982,
+          "score": 0.843
+        },
+        {
+          "word": "como",
+          "start": 361.042,
+          "end": 361.203,
+          "score": 0.896
+        },
+        {
+          "word": "es.",
+          "start": 361.303,
+          "end": 362.505,
+          "score": 0.872
+        }
+      ]
+    },
+    {
+      "start": 362.525,
+      "end": 364.908,
+      "text": "Los escuchas de recuerdos, ¿qué tal Andrés?",
+      "words": [
+        {
+          "word": "Los",
+          "start": 362.525,
+          "end": 362.865,
+          "score": 0.702
+        },
+        {
+          "word": "escuchas",
+          "start": 362.885,
+          "end": 363.306,
+          "score": 0.771
+        },
+        {
+          "word": "de",
+          "start": 363.366,
+          "end": 363.466,
+          "score": 0.92
+        },
+        {
+          "word": "recuerdos,",
+          "start": 363.546,
+          "end": 364.067,
+          "score": 0.836
+        },
+        {
+          "word": "¿qué",
+          "start": 364.207,
+          "end": 364.327,
+          "score": 0.118
+        },
+        {
+          "word": "tal",
+          "start": 364.347,
+          "end": 364.488,
+          "score": 0.777
+        },
+        {
+          "word": "Andrés?",
+          "start": 364.508,
+          "end": 364.908,
+          "score": 0.895
+        }
+      ]
+    },
+    {
+      "start": 365.389,
+      "end": 366.711,
+      "text": "Muy bien, bárbaro.",
+      "words": [
+        {
+          "word": "Muy",
+          "start": 365.389,
+          "end": 365.529,
+          "score": 0.774
+        },
+        {
+          "word": "bien,",
+          "start": 365.569,
+          "end": 365.77,
+          "score": 0.845
+        },
+        {
+          "word": "bárbaro.",
+          "start": 366.05,
+          "end": 366.711,
+          "score": 0.901
+        }
+      ]
+    },
+    {
+      "start": 367.282,
+      "end": 368.764,
+      "text": " ¿Bárbaro estás?",
+      "words": [
+        {
+          "word": "¿Bárbaro",
+          "start": 367.282,
+          "end": 367.723,
+          "score": 0.378
+        },
+        {
+          "word": "estás?",
+          "start": 367.783,
+          "end": 368.764,
+          "score": 0.816
+        }
+      ]
+    },
+    {
+      "start": 368.804,
+      "end": 369.606,
+      "text": "Me parece muy bien.",
+      "words": [
+        {
+          "word": "Me",
+          "start": 368.804,
+          "end": 368.905,
+          "score": 0.828
+        },
+        {
+          "word": "parece",
+          "start": 368.965,
+          "end": 369.245,
+          "score": 0.966
+        },
+        {
+          "word": "muy",
+          "start": 369.325,
+          "end": 369.445,
+          "score": 0.705
+        },
+        {
+          "word": "bien.",
+          "start": 369.485,
+          "end": 369.606,
+          "score": 0.746
+        }
+      ]
+    },
+    {
+      "start": 369.686,
+      "end": 374.033,
+      "text": "Estás lindo hoy, estás con ánimo y con energía, hoy estás tristón.",
+      "words": [
+        {
+          "word": "Estás",
+          "start": 369.686,
+          "end": 370.026,
+          "score": 0.159
+        },
+        {
+          "word": "lindo",
+          "start": 370.046,
+          "end": 370.467,
+          "score": 0.211
+        },
+        {
+          "word": "hoy,",
+          "start": 370.487,
+          "end": 371.148,
+          "score": 0.296
+        },
+        {
+          "word": "estás",
+          "start": 371.168,
+          "end": 371.268,
+          "score": 0.001
+        },
+        {
+          "word": "con",
+          "start": 371.288,
+          "end": 371.609,
+          "score": 0.589
+        },
+        {
+          "word": "ánimo",
+          "start": 371.669,
+          "end": 371.909,
+          "score": 0.498
+        },
+        {
+          "word": "y",
+          "start": 371.989,
+          "end": 372.009,
+          "score": 0.002
+        },
+        {
+          "word": "con",
+          "start": 372.029,
+          "end": 372.089,
+          "score": 0.29
+        },
+        {
+          "word": "energía,",
+          "start": 372.11,
+          "end": 373.071,
+          "score": 0.423
+        },
+        {
+          "word": "hoy",
+          "start": 373.091,
+          "end": 373.331,
+          "score": 0.278
+        },
+        {
+          "word": "estás",
+          "start": 373.351,
+          "end": 373.532,
+          "score": 0.188
+        },
+        {
+          "word": "tristón.",
+          "start": 373.552,
+          "end": 374.033,
+          "score": 0.337
+        }
+      ]
+    },
+    {
+      "start": 374.053,
+      "end": 376.196,
+      "text": "Señora Gladys Traverso, buenas noches.",
+      "words": [
+        {
+          "word": "Señora",
+          "start": 374.053,
+          "end": 374.313,
+          "score": 0.89
+        },
+        {
+          "word": "Gladys",
+          "start": 374.393,
+          "end": 374.653,
+          "score": 0.52
+        },
+        {
+          "word": "Traverso,",
+          "start": 374.674,
+          "end": 375.134,
+          "score": 0.828
+        },
+        {
+          "word": "buenas",
+          "start": 375.395,
+          "end": 375.575,
+          "score": 0.621
+        },
+        {
+          "word": "noches.",
+          "start": 375.635,
+          "end": 376.196,
+          "score": 0.585
+        }
+      ]
+    },
+    {
+      "start": 376.216,
+      "end": 377.157,
+      "text": "¿Qué tal?",
+      "words": [
+        {
+          "word": "¿Qué",
+          "start": 376.216,
+          "end": 376.737,
+          "score": 0.347
+        },
+        {
+          "word": "tal?",
+          "start": 376.757,
+          "end": 377.157,
+          "score": 0.431
+        }
+      ]
+    },
+    {
+      "start": 377.217,
+      "end": 379.221,
+      "text": "Buenas noches o buenos días, elijan, elijan.",
+      "words": [
+        {
+          "word": "Buenas",
+          "start": 377.217,
+          "end": 377.538,
+          "score": 0.485
+        },
+        {
+          "word": "noches",
+          "start": 378.299,
+          "end": 378.419,
+          "score": 0.006
+        },
+        {
+          "word": "o",
+          "start": 378.439,
+          "end": 378.459,
+          "score": 0.0
+        },
+        {
+          "word": "buenos",
+          "start": 378.479,
+          "end": 378.6,
+          "score": 0.001
+        },
+        {
+          "word": "días,",
+          "start": 378.62,
+          "end": 378.72,
+          "score": 0.014
+        },
+        {
+          "word": "elijan,",
+          "start": 378.74,
+          "end": 379.06,
+          "score": 0.138
+        },
+        {
+          "word": "elijan.",
+          "start": 379.08,
+          "end": 379.221,
+          "score": 0.191
+        }
+      ]
+    },
+    {
+      "start": 379.741,
+      "end": 382.466,
+      "text": "Nuestros saludos a Clarita en Operación Técnica, ¿cómo estás?",
+      "words": [
+        {
+          "word": "Nuestros",
+          "start": 379.741,
+          "end": 379.982,
+          "score": 0.43
+        },
+        {
+          "word": "saludos",
+          "start": 380.042,
+          "end": 380.483,
+          "score": 0.693
+        },
+        {
+          "word": "a",
+          "start": 380.503,
+          "end": 380.583,
+          "score": 0.721
+        },
+        {
+          "word": "Clarita",
+          "start": 380.603,
+          "end": 380.963,
+          "score": 0.819
+        },
+        {
+          "word": "en",
+          "start": 381.003,
+          "end": 381.043,
+          "score": 0.888
+        },
+        {
+          "word": "Operación",
+          "start": 381.063,
+          "end": 381.464,
+          "score": 0.854
+        },
+        {
+          "word": "Técnica,",
+          "start": 381.564,
+          "end": 381.845,
+          "score": 0.991
+        },
+        {
+          "word": "¿cómo",
+          "start": 381.865,
+          "end": 382.045,
+          "score": 0.62
+        },
+        {
+          "word": "estás?",
+          "start": 382.105,
+          "end": 382.466,
+          "score": 0.834
+        }
+      ]
+    },
+    {
+      "start": 382.966,
+      "end": 389.617,
+      "text": "Y como siempre, en los teléfonos, nuestros amigos, compañeros y amigos.",
+      "words": [
+        {
+          "word": "Y",
+          "start": 382.966,
+          "end": 383.006,
+          "score": 0.979
+        },
+        {
+          "word": "como",
+          "start": 383.067,
+          "end": 383.227,
+          "score": 0.988
+        },
+        {
+          "word": "siempre,",
+          "start": 383.267,
+          "end": 383.808,
+          "score": 0.876
+        },
+        {
+          "word": "en",
+          "start": 384.99,
+          "end": 385.05,
+          "score": 0.799
+        },
+        {
+          "word": "los",
+          "start": 385.07,
+          "end": 385.15,
+          "score": 0.709
+        },
+        {
+          "word": "teléfonos,",
+          "start": 385.19,
+          "end": 385.711,
+          "score": 0.81
+        },
+        {
+          "word": "nuestros",
+          "start": 385.751,
+          "end": 386.011,
+          "score": 0.813
+        },
+        {
+          "word": "amigos,",
+          "start": 386.091,
+          "end": 386.452,
+          "score": 0.982
+        },
+        {
+          "word": "compañeros",
+          "start": 386.592,
+          "end": 387.213,
+          "score": 0.926
+        },
+        {
+          "word": "y",
+          "start": 387.233,
+          "end": 387.253,
+          "score": 0.962
+        },
+        {
+          "word": "amigos.",
+          "start": 388.876,
+          "end": 389.617,
+          "score": 0.85
+        }
+      ]
+    },
+    {
+      "start": 389.637,
+      "end": 391.54,
+      "text": "Hola, colaboradores, grandes colaboradores.",
+      "words": [
+        {
+          "word": "Hola,",
+          "start": 389.637,
+          "end": 389.917,
+          "score": 0.476
+        },
+        {
+          "word": "colaboradores,",
+          "start": 389.937,
+          "end": 390.518,
+          "score": 0.505
+        },
+        {
+          "word": "grandes",
+          "start": 390.538,
+          "end": 390.859,
+          "score": 0.892
+        },
+        {
+          "word": "colaboradores.",
+          "start": 390.999,
+          "end": 391.54,
+          "score": 0.164
+        }
+      ]
+    },
+    {
+      "start": 391.56,
+      "end": 392.361,
+      "text": "Alicia Gaspar.",
+      "words": [
+        {
+          "word": "Alicia",
+          "start": 391.56,
+          "end": 391.68,
+          "score": 0.018
+        },
+        {
+          "word": "Gaspar.",
+          "start": 391.7,
+          "end": 392.361,
+          "score": 0.939
+        }
+      ]
+    },
+    {
+      "start": 392.763,
+      "end": 393.364,
+      "text": " ¿Cómo les va?",
+      "words": [
+        {
+          "word": "¿Cómo",
+          "start": 392.763,
+          "end": 393.043,
+          "score": 0.454
+        },
+        {
+          "word": "les",
+          "start": 393.123,
+          "end": 393.243,
+          "score": 0.538
+        },
+        {
+          "word": "va?",
+          "start": 393.263,
+          "end": 393.364,
+          "score": 0.812
+        }
+      ]
+    },
+    {
+      "start": 393.404,
+      "end": 393.644,
+      "text": "¿Bien?",
+      "words": [
+        {
+          "word": "¿Bien?",
+          "start": 393.404,
+          "end": 393.644,
+          "score": 0.713
+        }
+      ]
+    },
+    {
+      "start": 394.345,
+      "end": 395.426,
+      "text": "Bien, hacen así con las manos.",
+      "words": [
+        {
+          "word": "Bien,",
+          "start": 394.345,
+          "end": 394.445,
+          "score": 0.026
+        },
+        {
+          "word": "hacen",
+          "start": 394.465,
+          "end": 394.725,
+          "score": 0.725
+        },
+        {
+          "word": "así",
+          "start": 394.745,
+          "end": 394.905,
+          "score": 0.767
+        },
+        {
+          "word": "con",
+          "start": 394.945,
+          "end": 395.065,
+          "score": 0.844
+        },
+        {
+          "word": "las",
+          "start": 395.105,
+          "end": 395.185,
+          "score": 0.893
+        },
+        {
+          "word": "manos.",
+          "start": 395.265,
+          "end": 395.426,
+          "score": 0.207
+        }
+      ]
+    },
+    {
+      "start": 395.446,
+      "end": 398.188,
+      "text": "Preparando los oídos porque van a haber muchos llamados hoy.",
+      "words": [
+        {
+          "word": "Preparando",
+          "start": 395.446,
+          "end": 395.906,
+          "score": 0.76
+        },
+        {
+          "word": "los",
+          "start": 396.026,
+          "end": 396.106,
+          "score": 0.905
+        },
+        {
+          "word": "oídos",
+          "start": 396.186,
+          "end": 396.427,
+          "score": 0.775
+        },
+        {
+          "word": "porque",
+          "start": 396.487,
+          "end": 396.667,
+          "score": 0.855
+        },
+        {
+          "word": "van",
+          "start": 396.727,
+          "end": 396.807,
+          "score": 0.621
+        },
+        {
+          "word": "a",
+          "start": 396.947,
+          "end": 397.007,
+          "score": 0.41
+        },
+        {
+          "word": "haber",
+          "start": 397.067,
+          "end": 397.207,
+          "score": 0.782
+        },
+        {
+          "word": "muchos",
+          "start": 397.287,
+          "end": 397.488,
+          "score": 0.974
+        },
+        {
+          "word": "llamados",
+          "start": 397.508,
+          "end": 397.888,
+          "score": 0.908
+        },
+        {
+          "word": "hoy.",
+          "start": 398.048,
+          "end": 398.188,
+          "score": 0.894
+        }
+      ]
+    },
+    {
+      "start": 398.689,
+      "end": 400.11,
+      "text": "¿A qué número, Charo?",
+      "words": [
+        {
+          "word": "¿A",
+          "start": 398.689,
+          "end": 399.209,
+          "score": 0.366
+        },
+        {
+          "word": "qué",
+          "start": 399.229,
+          "end": 399.289,
+          "score": 0.318
+        },
+        {
+          "word": "número,",
+          "start": 399.429,
+          "end": 399.81,
+          "score": 0.696
+        },
+        {
+          "word": "Charo?",
+          "start": 399.83,
+          "end": 400.11,
+          "score": 0.842
+        }
+      ]
+    },
+    {
+      "start": 400.29,
+      "end": 404.414,
+      "text": "Al 373-1636, al 374-3818.",
+      "words": [
+        {
+          "word": "Al",
+          "start": 400.29,
+          "end": 400.39,
+          "score": 0.58
+        },
+        {
+          "word": "373-1636,",
+          "start": 400.511,
+          "end": 401.331,
+          "score": 0.837
+        },
+        {
+          "word": "al",
+          "start": 401.351,
+          "end": 401.391,
+          "score": 0.472
+        },
+        {
+          "word": "374-3818.",
+          "start": 401.411,
+          "end": 404.414,
+          "score": 0.871
+        }
+      ]
+    },
+    {
+      "start": 404.715,
+      "end": 409.539,
+      "text": "Bueno, entonces larguemos ya la preguntita.",
+      "words": [
+        {
+          "word": "Bueno,",
+          "start": 404.715,
+          "end": 405.315,
+          "score": 0.679
+        },
+        {
+          "word": "entonces",
+          "start": 405.816,
+          "end": 408.338,
+          "score": 0.63
+        },
+        {
+          "word": "larguemos",
+          "start": 408.478,
+          "end": 408.799,
+          "score": 0.699
+        },
+        {
+          "word": "ya",
+          "start": 408.979,
+          "end": 409.139,
+          "score": 0.73
+        },
+        {
+          "word": "la",
+          "start": 409.159,
+          "end": 409.199,
+          "score": 0.458
+        },
+        {
+          "word": "preguntita.",
+          "start": 409.259,
+          "end": 409.539,
+          "score": 0.51
+        }
+      ]
+    },
+    {
+      "start": 409.559,
+      "end": 414.704,
+      "text": "La pregunta, la pregunta, a ver, a ver, decí la cosa.",
+      "words": [
+        {
+          "word": "La",
+          "start": 409.559,
+          "end": 409.599,
+          "score": 0.419
+        },
+        {
+          "word": "pregunta,",
+          "start": 409.639,
+          "end": 410.18,
+          "score": 0.677
+        },
+        {
+          "word": "la",
+          "start": 410.22,
+          "end": 410.3,
+          "score": 0.864
+        },
+        {
+          "word": "pregunta,",
+          "start": 410.36,
+          "end": 410.841,
+          "score": 0.844
+        },
+        {
+          "word": "a",
+          "start": 410.861,
+          "end": 410.881,
+          "score": 0.02
+        },
+        {
+          "word": "ver,",
+          "start": 410.901,
+          "end": 412.342,
+          "score": 0.867
+        },
+        {
+          "word": "a",
+          "start": 412.362,
+          "end": 412.382,
+          "score": 0.0
+        },
+        {
+          "word": "ver,",
+          "start": 412.402,
+          "end": 412.482,
+          "score": 0.123
+        },
+        {
+          "word": "decí",
+          "start": 412.502,
+          "end": 412.702,
+          "score": 0.694
+        },
+        {
+          "word": "la",
+          "start": 412.722,
+          "end": 412.802,
+          "score": 0.433
+        },
+        {
+          "word": "cosa.",
+          "start": 412.822,
+          "end": 414.704,
+          "score": 0.314
+        }
+      ]
+    },
+    {
+      "start": 414.724,
+      "end": 422.652,
+      "text": "Una frase muy característica en el cine argentino, y además estaba dicha por un señor argentino,",
+      "words": [
+        {
+          "word": "Una",
+          "start": 414.724,
+          "end": 414.844,
+          "score": 0.917
+        },
+        {
+          "word": "frase",
+          "start": 414.965,
+          "end": 415.385,
+          "score": 0.986
+        },
+        {
+          "word": "muy",
+          "start": 415.585,
+          "end": 415.785,
+          "score": 0.825
+        },
+        {
+          "word": "característica",
+          "start": 415.885,
+          "end": 416.706,
+          "score": 0.954
+        },
+        {
+          "word": "en",
+          "start": 416.746,
+          "end": 416.806,
+          "score": 0.713
+        },
+        {
+          "word": "el",
+          "start": 416.846,
+          "end": 416.926,
+          "score": 0.676
+        },
+        {
+          "word": "cine",
+          "start": 417.047,
+          "end": 417.287,
+          "score": 0.871
+        },
+        {
+          "word": "argentino,",
+          "start": 417.327,
+          "end": 419.749,
+          "score": 0.961
+        },
+        {
+          "word": "y",
+          "start": 419.769,
+          "end": 419.829,
+          "score": 0.816
+        },
+        {
+          "word": "además",
+          "start": 419.909,
+          "end": 420.11,
+          "score": 0.685
+        },
+        {
+          "word": "estaba",
+          "start": 420.15,
+          "end": 420.41,
+          "score": 0.784
+        },
+        {
+          "word": "dicha",
+          "start": 420.49,
+          "end": 420.71,
+          "score": 0.893
+        },
+        {
+          "word": "por",
+          "start": 420.79,
+          "end": 420.93,
+          "score": 0.912
+        },
+        {
+          "word": "un",
+          "start": 421.091,
+          "end": 421.851,
+          "score": 0.734
+        },
+        {
+          "word": "señor",
+          "start": 421.871,
+          "end": 422.432,
+          "score": 0.934
+        },
+        {
+          "word": "argentino,",
+          "start": 422.452,
+          "end": 422.652,
+          "score": 0.097
+        }
+      ]
+    },
+    {
+      "start": 422.851,
+      "end": 439.527,
+      "text": " muy importante que decía la vieja ve la vieja ve los colores queremos saber de qué actor se trata y quién era la señora que hacía de mamá y cuál era el nombre de la película",
+      "words": [
+        {
+          "word": "muy",
+          "start": 422.851,
+          "end": 423.953,
+          "score": 0.433
+        },
+        {
+          "word": "importante",
+          "start": 424.014,
+          "end": 424.515,
+          "score": 0.939
+        },
+        {
+          "word": "que",
+          "start": 424.775,
+          "end": 424.895,
+          "score": 0.736
+        },
+        {
+          "word": "decía",
+          "start": 424.976,
+          "end": 425.417,
+          "score": 0.986
+        },
+        {
+          "word": "la",
+          "start": 426.258,
+          "end": 426.339,
+          "score": 0.959
+        },
+        {
+          "word": "vieja",
+          "start": 426.419,
+          "end": 426.88,
+          "score": 0.808
+        },
+        {
+          "word": "ve",
+          "start": 426.9,
+          "end": 427.2,
+          "score": 0.884
+        },
+        {
+          "word": "la",
+          "start": 427.661,
+          "end": 427.742,
+          "score": 0.928
+        },
+        {
+          "word": "vieja",
+          "start": 427.822,
+          "end": 428.283,
+          "score": 0.702
+        },
+        {
+          "word": "ve",
+          "start": 428.303,
+          "end": 428.543,
+          "score": 0.816
+        },
+        {
+          "word": "los",
+          "start": 428.563,
+          "end": 428.684,
+          "score": 0.651
+        },
+        {
+          "word": "colores",
+          "start": 429.125,
+          "end": 430.006,
+          "score": 0.294
+        },
+        {
+          "word": "queremos",
+          "start": 430.588,
+          "end": 430.868,
+          "score": 0.872
+        },
+        {
+          "word": "saber",
+          "start": 430.888,
+          "end": 431.209,
+          "score": 0.699
+        },
+        {
+          "word": "de",
+          "start": 431.43,
+          "end": 431.53,
+          "score": 0.688
+        },
+        {
+          "word": "qué",
+          "start": 431.65,
+          "end": 431.83,
+          "score": 0.65
+        },
+        {
+          "word": "actor",
+          "start": 431.911,
+          "end": 432.211,
+          "score": 0.825
+        },
+        {
+          "word": "se",
+          "start": 432.271,
+          "end": 432.352,
+          "score": 0.914
+        },
+        {
+          "word": "trata",
+          "start": 432.472,
+          "end": 432.873,
+          "score": 0.921
+        },
+        {
+          "word": "y",
+          "start": 432.893,
+          "end": 432.913,
+          "score": 0.988
+        },
+        {
+          "word": "quién",
+          "start": 433.314,
+          "end": 433.714,
+          "score": 0.467
+        },
+        {
+          "word": "era",
+          "start": 433.735,
+          "end": 433.855,
+          "score": 0.701
+        },
+        {
+          "word": "la",
+          "start": 433.935,
+          "end": 434.175,
+          "score": 0.924
+        },
+        {
+          "word": "señora",
+          "start": 434.336,
+          "end": 434.757,
+          "score": 0.97
+        },
+        {
+          "word": "que",
+          "start": 434.857,
+          "end": 435.017,
+          "score": 0.728
+        },
+        {
+          "word": "hacía",
+          "start": 435.037,
+          "end": 435.318,
+          "score": 0.526
+        },
+        {
+          "word": "de",
+          "start": 436.521,
+          "end": 436.601,
+          "score": 0.924
+        },
+        {
+          "word": "mamá",
+          "start": 436.661,
+          "end": 436.921,
+          "score": 0.882
+        },
+        {
+          "word": "y",
+          "start": 436.941,
+          "end": 436.961,
+          "score": 0.994
+        },
+        {
+          "word": "cuál",
+          "start": 437.623,
+          "end": 437.783,
+          "score": 0.422
+        },
+        {
+          "word": "era",
+          "start": 437.803,
+          "end": 437.863,
+          "score": 0.261
+        },
+        {
+          "word": "el",
+          "start": 437.883,
+          "end": 437.964,
+          "score": 0.82
+        },
+        {
+          "word": "nombre",
+          "start": 438.024,
+          "end": 438.244,
+          "score": 0.985
+        },
+        {
+          "word": "de",
+          "start": 438.284,
+          "end": 438.344,
+          "score": 0.805
+        },
+        {
+          "word": "la",
+          "start": 438.385,
+          "end": 438.445,
+          "score": 0.782
+        },
+        {
+          "word": "película",
+          "start": 438.525,
+          "end": 439.527,
+          "score": 0.714
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Hasta",
+      "start": 2.208,
+      "end": 2.709,
+      "score": 0.725
+    },
+    {
+      "word": "aquí,",
+      "start": 2.769,
+      "end": 3.009,
+      "score": 0.819
+    },
+    {
+      "word": "Los",
+      "start": 4.491,
+      "end": 4.611,
+      "score": 0.915
+    },
+    {
+      "word": "Palabristas,",
+      "start": 4.812,
+      "end": 5.553,
+      "score": 0.968
+    },
+    {
+      "word": "un",
+      "start": 6.574,
+      "end": 6.654,
+      "score": 0.94
+    },
+    {
+      "word": "programa",
+      "start": 6.734,
+      "end": 7.135,
+      "score": 0.944
+    },
+    {
+      "word": "dedicado",
+      "start": 7.215,
+      "end": 7.676,
+      "score": 0.949
+    },
+    {
+      "word": "a",
+      "start": 7.716,
+      "end": 7.796,
+      "score": 0.466
+    },
+    {
+      "word": "los",
+      "start": 7.856,
+      "end": 7.976,
+      "score": 0.887
+    },
+    {
+      "word": "escritores,",
+      "start": 8.056,
+      "end": 8.677,
+      "score": 0.908
+    },
+    {
+      "word": "porque",
+      "start": 8.737,
+      "end": 9.659,
+      "score": 0.932
+    },
+    {
+      "word": "su",
+      "start": 9.759,
+      "end": 9.879,
+      "score": 0.98
+    },
+    {
+      "word": "obra",
+      "start": 9.979,
+      "end": 10.26,
+      "score": 0.976
+    },
+    {
+      "word": "es",
+      "start": 10.68,
+      "end": 10.8,
+      "score": 0.958
+    },
+    {
+      "word": "la",
+      "start": 10.921,
+      "end": 11.021,
+      "score": 0.994
+    },
+    {
+      "word": "única",
+      "start": 11.161,
+      "end": 11.541,
+      "score": 0.844
+    },
+    {
+      "word": "noticia",
+      "start": 11.622,
+      "end": 12.042,
+      "score": 0.889
+    },
+    {
+      "word": "que",
+      "start": 12.142,
+      "end": 12.222,
+      "score": 0.947
+    },
+    {
+      "word": "perdura.",
+      "start": 12.302,
+      "end": 14.766,
+      "score": 0.875
+    },
+    {
+      "word": "Idea",
+      "start": 14.786,
+      "end": 15.107,
+      "score": 0.964
+    },
+    {
+      "word": "y",
+      "start": 15.187,
+      "end": 15.247,
+      "score": 0.759
+    },
+    {
+      "word": "conducción,",
+      "start": 15.367,
+      "end": 15.868,
+      "score": 0.843
+    },
+    {
+      "word": "Esteban",
+      "start": 15.908,
+      "end": 17.37,
+      "score": 0.628
+    },
+    {
+      "word": "Pejkovic.",
+      "start": 17.39,
+      "end": 26.122,
+      "score": 0.719
+    },
+    {
+      "word": "Desde",
+      "start": 26.142,
+      "end": 26.303,
+      "score": 0.459
+    },
+    {
+      "word": "Buenos",
+      "start": 26.383,
+      "end": 26.623,
+      "score": 0.756
+    },
+    {
+      "word": "Aires,",
+      "start": 26.743,
+      "end": 27.104,
+      "score": 0.658
+    },
+    {
+      "word": "la",
+      "start": 27.905,
+      "end": 27.985,
+      "score": 0.99
+    },
+    {
+      "word": "ciudad",
+      "start": 28.125,
+      "end": 28.446,
+      "score": 0.939
+    },
+    {
+      "word": "que",
+      "start": 28.606,
+      "end": 28.706,
+      "score": 0.791
+    },
+    {
+      "word": "ganó",
+      "start": 28.826,
+      "end": 29.187,
+      "score": 0.966
+    },
+    {
+      "word": "la",
+      "start": 29.287,
+      "end": 29.367,
+      "score": 0.974
+    },
+    {
+      "word": "gente,",
+      "start": 29.487,
+      "end": 30.088,
+      "score": 0.868
+    },
+    {
+      "word": "AM",
+      "start": 30.929,
+      "end": 31.65,
+      "score": 0.411
+    },
+    {
+      "word": "710",
+      "start": 31.67,
+      "end": 32.431,
+      "score": 0.754
+    },
+    {
+      "word": "Radio",
+      "start": 33.613,
+      "end": 34.194,
+      "score": 0.77
+    },
+    {
+      "word": "Municipal",
+      "start": 34.214,
+      "end": 34.835,
+      "score": 0.672
+    },
+    {
+      "word": "La",
+      "start": 35.596,
+      "end": 35.696,
+      "score": 0.983
+    },
+    {
+      "word": "radio",
+      "start": 35.896,
+      "end": 36.317,
+      "score": 0.9
+    },
+    {
+      "word": "de",
+      "start": 36.517,
+      "end": 36.618,
+      "score": 0.944
+    },
+    {
+      "word": "la",
+      "start": 36.678,
+      "end": 36.758,
+      "score": 0.916
+    },
+    {
+      "word": "ciudad",
+      "start": 36.858,
+      "end": 37.279,
+      "score": 0.743
+    },
+    {
+      "word": "Hoy",
+      "start": 46.352,
+      "end": 46.553,
+      "score": 0.946
+    },
+    {
+      "word": "en",
+      "start": 47.073,
+      "end": 47.214,
+      "score": 0.948
+    },
+    {
+      "word": "la",
+      "start": 47.334,
+      "end": 47.434,
+      "score": 0.935
+    },
+    {
+      "word": "ciudad",
+      "start": 47.534,
+      "end": 51.901,
+      "score": 0.873
+    },
+    {
+      "word": "Buenos",
+      "start": 51.921,
+      "end": 52.221,
+      "score": 0.852
+    },
+    {
+      "word": "Aires,",
+      "start": 52.321,
+      "end": 52.662,
+      "score": 0.853
+    },
+    {
+      "word": "el",
+      "start": 53.122,
+      "end": 53.263,
+      "score": 0.84
+    },
+    {
+      "word": "país",
+      "start": 53.403,
+      "end": 53.663,
+      "score": 0.844
+    },
+    {
+      "word": "y",
+      "start": 53.683,
+      "end": 53.703,
+      "score": 0.991
+    },
+    {
+      "word": "el",
+      "start": 54.545,
+      "end": 54.625,
+      "score": 0.906
+    },
+    {
+      "word": "mundo",
+      "start": 54.705,
+      "end": 54.985,
+      "score": 0.879
+    },
+    {
+      "word": "Noticias",
+      "start": 59.492,
+      "end": 60.193,
+      "score": 0.922
+    },
+    {
+      "word": "Ya",
+      "start": 61.338,
+      "end": 61.478,
+      "score": 0.378
+    },
+    {
+      "word": "es",
+      "start": 61.558,
+      "end": 62.339,
+      "score": 0.7
+    },
+    {
+      "word": "viernes",
+      "start": 62.619,
+      "end": 63.2,
+      "score": 0.657
+    },
+    {
+      "word": "17",
+      "start": 63.22,
+      "end": 63.26,
+      "score": 0.989
+    },
+    {
+      "word": "de",
+      "start": 63.3,
+      "end": 63.36,
+      "score": 0.917
+    },
+    {
+      "word": "octubre,",
+      "start": 63.42,
+      "end": 64.001,
+      "score": 0.906
+    },
+    {
+      "word": "es",
+      "start": 64.081,
+      "end": 64.161,
+      "score": 0.6
+    },
+    {
+      "word": "la",
+      "start": 64.241,
+      "end": 64.301,
+      "score": 0.841
+    },
+    {
+      "word": "hora",
+      "start": 64.341,
+      "end": 64.481,
+      "score": 0.881
+    },
+    {
+      "word": "cero.",
+      "start": 64.701,
+      "end": 65.042,
+      "score": 0.972
+    },
+    {
+      "word": "La",
+      "start": 65.062,
+      "end": 65.762,
+      "score": 0.714
+    },
+    {
+      "word": "temperatura",
+      "start": 65.823,
+      "end": 66.383,
+      "score": 0.878
+    },
+    {
+      "word": "es",
+      "start": 66.403,
+      "end": 66.443,
+      "score": 0.145
+    },
+    {
+      "word": "de",
+      "start": 66.463,
+      "end": 66.523,
+      "score": 0.86
+    },
+    {
+      "word": "12",
+      "start": 66.543,
+      "end": 66.824,
+      "score": 0.647
+    },
+    {
+      "word": "grados,",
+      "start": 66.844,
+      "end": 67.104,
+      "score": 0.857
+    },
+    {
+      "word": "5",
+      "start": 67.124,
+      "end": 67.404,
+      "score": 0.589
+    },
+    {
+      "word": "décimos,",
+      "start": 67.444,
+      "end": 67.825,
+      "score": 0.818
+    },
+    {
+      "word": "59",
+      "start": 67.885,
+      "end": 68.265,
+      "score": 0.788
+    },
+    {
+      "word": "por",
+      "start": 68.285,
+      "end": 68.345,
+      "score": 0.333
+    },
+    {
+      "word": "ciento.",
+      "start": 68.385,
+      "end": 69.326,
+      "score": 0.289
+    },
+    {
+      "word": "La",
+      "start": 69.406,
+      "end": 69.446,
+      "score": 0.996
+    },
+    {
+      "word": "humedad",
+      "start": 69.506,
+      "end": 69.847,
+      "score": 0.907
+    },
+    {
+      "word": "del",
+      "start": 69.887,
+      "end": 70.007,
+      "score": 0.706
+    },
+    {
+      "word": "cielo",
+      "start": 70.087,
+      "end": 70.247,
+      "score": 0.793
+    },
+    {
+      "word": "está",
+      "start": 70.287,
+      "end": 70.467,
+      "score": 0.664
+    },
+    {
+      "word": "ligeramente",
+      "start": 70.567,
+      "end": 71.368,
+      "score": 0.996
+    },
+    {
+      "word": "nublado.",
+      "start": 71.688,
+      "end": 75.372,
+      "score": 0.872
+    },
+    {
+      "word": "La",
+      "start": 75.392,
+      "end": 75.452,
+      "score": 0.968
+    },
+    {
+      "word": "Policía",
+      "start": 75.552,
+      "end": 75.933,
+      "score": 0.899
+    },
+    {
+      "word": "Federal",
+      "start": 76.093,
+      "end": 76.453,
+      "score": 0.94
+    },
+    {
+      "word": "acaba",
+      "start": 76.473,
+      "end": 76.854,
+      "score": 0.86
+    },
+    {
+      "word": "de",
+      "start": 76.894,
+      "end": 76.994,
+      "score": 0.929
+    },
+    {
+      "word": "informar",
+      "start": 77.074,
+      "end": 77.594,
+      "score": 0.947
+    },
+    {
+      "word": "que",
+      "start": 77.614,
+      "end": 77.674,
+      "score": 0.333
+    },
+    {
+      "word": "en",
+      "start": 77.815,
+      "end": 77.975,
+      "score": 0.704
+    },
+    {
+      "word": "los",
+      "start": 78.015,
+      "end": 78.095,
+      "score": 0.969
+    },
+    {
+      "word": "disturbios",
+      "start": 78.155,
+      "end": 78.655,
+      "score": 0.882
+    },
+    {
+      "word": "de",
+      "start": 78.735,
+      "end": 78.796,
+      "score": 0.858
+    },
+    {
+      "word": "anoche",
+      "start": 78.876,
+      "end": 79.216,
+      "score": 0.83
+    },
+    {
+      "word": "en",
+      "start": 79.236,
+      "end": 79.296,
+      "score": 0.788
+    },
+    {
+      "word": "los",
+      "start": 79.336,
+      "end": 79.396,
+      "score": 0.814
+    },
+    {
+      "word": "sectores",
+      "start": 79.456,
+      "end": 79.897,
+      "score": 0.906
+    },
+    {
+      "word": "del",
+      "start": 79.977,
+      "end": 80.097,
+      "score": 0.648
+    },
+    {
+      "word": "Barrio",
+      "start": 80.177,
+      "end": 80.457,
+      "score": 0.851
+    },
+    {
+      "word": "Norte,",
+      "start": 80.577,
+      "end": 80.978,
+      "score": 0.998
+    },
+    {
+      "word": "protagonizados",
+      "start": 81.358,
+      "end": 82.239,
+      "score": 0.934
+    },
+    {
+      "word": "por",
+      "start": 82.319,
+      "end": 82.419,
+      "score": 0.827
+    },
+    {
+      "word": "elementos",
+      "start": 82.439,
+      "end": 82.84,
+      "score": 0.851
+    },
+    {
+      "word": "de",
+      "start": 82.88,
+      "end": 82.94,
+      "score": 0.744
+    },
+    {
+      "word": "los",
+      "start": 82.98,
+      "end": 83.06,
+      "score": 0.961
+    },
+    {
+      "word": "grupos",
+      "start": 83.1,
+      "end": 83.32,
+      "score": 0.925
+    },
+    {
+      "word": "Quebracho",
+      "start": 83.48,
+      "end": 84.001,
+      "score": 0.899
+    },
+    {
+      "word": "y",
+      "start": 84.041,
+      "end": 84.081,
+      "score": 0.494
+    },
+    {
+      "word": "Patria",
+      "start": 84.201,
+      "end": 84.541,
+      "score": 0.864
+    },
+    {
+      "word": "Libre,",
+      "start": 84.601,
+      "end": 84.922,
+      "score": 0.979
+    },
+    {
+      "word": "hubo",
+      "start": 85.362,
+      "end": 85.522,
+      "score": 0.923
+    },
+    {
+      "word": "206",
+      "start": 85.562,
+      "end": 86.123,
+      "score": 0.867
+    },
+    {
+      "word": "detenciones.",
+      "start": 86.303,
+      "end": 87.244,
+      "score": 0.826
+    },
+    {
+      "word": "Asimismo,",
+      "start": 87.578,
+      "end": 88.339,
+      "score": 0.959
+    },
+    {
+      "word": "durante",
+      "start": 88.72,
+      "end": 88.961,
+      "score": 0.871
+    },
+    {
+      "word": "la",
+      "start": 89.041,
+      "end": 89.101,
+      "score": 0.958
+    },
+    {
+      "word": "marcha",
+      "start": 89.181,
+      "end": 89.401,
+      "score": 0.914
+    },
+    {
+      "word": "de",
+      "start": 89.462,
+      "end": 89.502,
+      "score": 0.898
+    },
+    {
+      "word": "repudio",
+      "start": 89.622,
+      "end": 89.983,
+      "score": 0.925
+    },
+    {
+      "word": "por",
+      "start": 90.043,
+      "end": 90.143,
+      "score": 0.976
+    },
+    {
+      "word": "la",
+      "start": 90.183,
+      "end": 90.243,
+      "score": 0.956
+    },
+    {
+      "word": "presencia",
+      "start": 90.303,
+      "end": 90.684,
+      "score": 0.948
+    },
+    {
+      "word": "del",
+      "start": 90.744,
+      "end": 90.824,
+      "score": 0.54
+    },
+    {
+      "word": "presidente",
+      "start": 90.884,
+      "end": 91.285,
+      "score": 0.762
+    },
+    {
+      "word": "de",
+      "start": 91.325,
+      "end": 91.385,
+      "score": 0.59
+    },
+    {
+      "word": "los",
+      "start": 91.425,
+      "end": 91.505,
+      "score": 0.909
+    },
+    {
+      "word": "Estados",
+      "start": 91.586,
+      "end": 91.846,
+      "score": 0.71
+    },
+    {
+      "word": "Unidos,",
+      "start": 91.926,
+      "end": 92.167,
+      "score": 0.987
+    },
+    {
+      "word": "Bill",
+      "start": 92.267,
+      "end": 92.407,
+      "score": 0.669
+    },
+    {
+      "word": "Clinton,",
+      "start": 92.507,
+      "end": 92.948,
+      "score": 0.958
+    },
+    {
+      "word": "se",
+      "start": 93.309,
+      "end": 93.389,
+      "score": 0.97
+    },
+    {
+      "word": "secuestró",
+      "start": 93.449,
+      "end": 93.95,
+      "score": 0.905
+    },
+    {
+      "word": "gran",
+      "start": 94.01,
+      "end": 94.571,
+      "score": 0.868
+    },
+    {
+      "word": "cantidad",
+      "start": 94.691,
+      "end": 95.072,
+      "score": 0.935
+    },
+    {
+      "word": "de",
+      "start": 95.112,
+      "end": 95.172,
+      "score": 0.536
+    },
+    {
+      "word": "proyectiles,",
+      "start": 95.293,
+      "end": 95.954,
+      "score": 0.908
+    },
+    {
+      "word": "bombas,",
+      "start": 96.395,
+      "end": 96.775,
+      "score": 0.925
+    },
+    {
+      "word": "molotov,",
+      "start": 96.876,
+      "end": 97.357,
+      "score": 0.909
+    },
+    {
+      "word": "gomeras,",
+      "start": 97.697,
+      "end": 98.178,
+      "score": 0.912
+    },
+    {
+      "word": "cadenas,",
+      "start": 98.298,
+      "end": 98.739,
+      "score": 0.948
+    },
+    {
+      "word": "capuchas",
+      "start": 98.859,
+      "end": 99.4,
+      "score": 0.943
+    },
+    {
+      "word": "y",
+      "start": 99.42,
+      "end": 99.441,
+      "score": 0.916
+    },
+    {
+      "word": "palos.",
+      "start": 100.022,
+      "end": 102.887,
+      "score": 0.692
+    },
+    {
+      "word": "800",
+      "start": 104.386,
+      "end": 104.967,
+      "score": 0.445
+    },
+    {
+      "word": "personas,",
+      "start": 105.068,
+      "end": 105.468,
+      "score": 0.85
+    },
+    {
+      "word": "aproximadamente",
+      "start": 105.629,
+      "end": 106.411,
+      "score": 0.961
+    },
+    {
+      "word": "en",
+      "start": 106.431,
+      "end": 106.531,
+      "score": 0.617
+    },
+    {
+      "word": "su",
+      "start": 106.591,
+      "end": 106.671,
+      "score": 0.964
+    },
+    {
+      "word": "mayoría...",
+      "start": 106.731,
+      "end": 107.092,
+      "score": 0.929
+    },
+    {
+      "word": "...pertenecientes",
+      "start": 107.172,
+      "end": 107.894,
+      "score": 0.761
+    },
+    {
+      "word": "a",
+      "start": 108.014,
+      "end": 108.074,
+      "score": 0.326
+    },
+    {
+      "word": "la",
+      "start": 108.094,
+      "end": 108.195,
+      "score": 0.71
+    },
+    {
+      "word": "política",
+      "start": 108.275,
+      "end": 108.756,
+      "score": 0.891
+    },
+    {
+      "word": "y",
+      "start": 108.776,
+      "end": 108.796,
+      "score": 1.0
+    },
+    {
+      "word": "el",
+      "start": 108.816,
+      "end": 108.856,
+      "score": 0.495
+    },
+    {
+      "word": "empresariado",
+      "start": 108.976,
+      "end": 109.718,
+      "score": 0.894
+    },
+    {
+      "word": "nacional...",
+      "start": 109.778,
+      "end": 110.299,
+      "score": 0.927
+    },
+    {
+      "word": "...compartieron",
+      "start": 110.319,
+      "end": 111.482,
+      "score": 0.842
+    },
+    {
+      "word": "esta",
+      "start": 111.542,
+      "end": 111.682,
+      "score": 0.838
+    },
+    {
+      "word": "noche",
+      "start": 111.723,
+      "end": 111.903,
+      "score": 0.748
+    },
+    {
+      "word": "la",
+      "start": 111.923,
+      "end": 111.963,
+      "score": 0.473
+    },
+    {
+      "word": "cena",
+      "start": 112.123,
+      "end": 112.284,
+      "score": 0.834
+    },
+    {
+      "word": "ofrecida",
+      "start": 112.364,
+      "end": 112.845,
+      "score": 0.811
+    },
+    {
+      "word": "por",
+      "start": 112.945,
+      "end": 113.026,
+      "score": 0.845
+    },
+    {
+      "word": "el",
+      "start": 113.086,
+      "end": 113.146,
+      "score": 0.83
+    },
+    {
+      "word": "presidente",
+      "start": 113.206,
+      "end": 113.687,
+      "score": 0.92
+    },
+    {
+      "word": "Menem...",
+      "start": 113.787,
+      "end": 114.268,
+      "score": 0.79
+    },
+    {
+      "word": "...a",
+      "start": 114.288,
+      "end": 114.369,
+      "score": 0.411
+    },
+    {
+      "word": "su",
+      "start": 114.389,
+      "end": 114.489,
+      "score": 0.871
+    },
+    {
+      "word": "par",
+      "start": 114.549,
+      "end": 114.729,
+      "score": 0.874
+    },
+    {
+      "word": "norteamericano",
+      "start": 114.749,
+      "end": 115.511,
+      "score": 0.765
+    },
+    {
+      "word": "Bill",
+      "start": 115.571,
+      "end": 115.752,
+      "score": 0.472
+    },
+    {
+      "word": "Clinton...",
+      "start": 115.812,
+      "end": 116.814,
+      "score": 0.752
+    },
+    {
+      "word": "...un",
+      "start": 116.834,
+      "end": 116.934,
+      "score": 0.579
+    },
+    {
+      "word": "imponente",
+      "start": 116.994,
+      "end": 117.395,
+      "score": 0.939
+    },
+    {
+      "word": "menú",
+      "start": 117.516,
+      "end": 117.736,
+      "score": 0.793
+    },
+    {
+      "word": "criollo",
+      "start": 117.756,
+      "end": 118.277,
+      "score": 0.708
+    },
+    {
+      "word": "que",
+      "start": 118.297,
+      "end": 118.398,
+      "score": 0.635
+    },
+    {
+      "word": "salió",
+      "start": 118.438,
+      "end": 118.799,
+      "score": 0.899
+    },
+    {
+      "word": "de",
+      "start": 118.859,
+      "end": 118.939,
+      "score": 0.963
+    },
+    {
+      "word": "una",
+      "start": 118.999,
+      "end": 119.079,
+      "score": 0.829
+    },
+    {
+      "word": "enorme",
+      "start": 119.139,
+      "end": 119.42,
+      "score": 0.919
+    },
+    {
+      "word": "parrilla...",
+      "start": 119.46,
+      "end": 120.041,
+      "score": 0.89
+    },
+    {
+      "word": "...bioasados,",
+      "start": 120.402,
+      "end": 121.104,
+      "score": 0.745
+    },
+    {
+      "word": "chivitos,",
+      "start": 121.164,
+      "end": 121.645,
+      "score": 0.822
+    },
+    {
+      "word": "corderos...",
+      "start": 121.745,
+      "end": 122.547,
+      "score": 0.671
+    },
+    {
+      "word": "Cabritos",
+      "start": 124.315,
+      "end": 124.876,
+      "score": 0.793
+    },
+    {
+      "word": "de",
+      "start": 124.916,
+      "end": 124.976,
+      "score": 0.823
+    },
+    {
+      "word": "los",
+      "start": 125.016,
+      "end": 125.117,
+      "score": 0.697
+    },
+    {
+      "word": "Andes,",
+      "start": 125.217,
+      "end": 125.517,
+      "score": 0.76
+    },
+    {
+      "word": "jabalíes,",
+      "start": 125.578,
+      "end": 126.139,
+      "score": 0.862
+    },
+    {
+      "word": "costillares",
+      "start": 126.239,
+      "end": 126.78,
+      "score": 0.838
+    },
+    {
+      "word": "de",
+      "start": 126.82,
+      "end": 126.88,
+      "score": 0.61
+    },
+    {
+      "word": "vaca,",
+      "start": 126.94,
+      "end": 127.301,
+      "score": 0.642
+    },
+    {
+      "word": "patos",
+      "start": 127.321,
+      "end": 127.582,
+      "score": 0.867
+    },
+    {
+      "word": "y",
+      "start": 127.622,
+      "end": 127.642,
+      "score": 0.974
+    },
+    {
+      "word": "pollos,",
+      "start": 127.822,
+      "end": 128.123,
+      "score": 0.86
+    },
+    {
+      "word": "entre",
+      "start": 128.223,
+      "end": 128.443,
+      "score": 0.833
+    },
+    {
+      "word": "otros",
+      "start": 128.463,
+      "end": 128.704,
+      "score": 0.582
+    },
+    {
+      "word": "manjares.",
+      "start": 128.764,
+      "end": 129.325,
+      "score": 0.861
+    },
+    {
+      "word": "Compartieron",
+      "start": 129.746,
+      "end": 130.327,
+      "score": 0.919
+    },
+    {
+      "word": "asimismo",
+      "start": 130.367,
+      "end": 130.868,
+      "score": 0.97
+    },
+    {
+      "word": "estos",
+      "start": 130.888,
+      "end": 131.229,
+      "score": 0.074
+    },
+    {
+      "word": "manjares",
+      "start": 131.269,
+      "end": 131.77,
+      "score": 0.862
+    },
+    {
+      "word": "el",
+      "start": 132.171,
+      "end": 132.251,
+      "score": 0.874
+    },
+    {
+      "word": "expresidente",
+      "start": 132.271,
+      "end": 132.872,
+      "score": 0.963
+    },
+    {
+      "word": "Alfonsín,",
+      "start": 132.932,
+      "end": 133.513,
+      "score": 0.903
+    },
+    {
+      "word": "el",
+      "start": 133.914,
+      "end": 133.974,
+      "score": 0.842
+    },
+    {
+      "word": "jefe",
+      "start": 134.074,
+      "end": 134.275,
+      "score": 0.717
+    },
+    {
+      "word": "de",
+      "start": 134.355,
+      "end": 134.395,
+      "score": 0.906
+    },
+    {
+      "word": "gobierno",
+      "start": 134.495,
+      "end": 134.816,
+      "score": 0.817
+    },
+    {
+      "word": "porteño,",
+      "start": 134.856,
+      "end": 135.497,
+      "score": 0.791
+    },
+    {
+      "word": "doctor",
+      "start": 135.517,
+      "end": 135.898,
+      "score": 0.566
+    },
+    {
+      "word": "Fernando",
+      "start": 135.998,
+      "end": 136.399,
+      "score": 0.882
+    },
+    {
+      "word": "de",
+      "start": 136.419,
+      "end": 136.499,
+      "score": 0.846
+    },
+    {
+      "word": "la",
+      "start": 136.519,
+      "end": 136.66,
+      "score": 0.662
+    },
+    {
+      "word": "Rúa,",
+      "start": 136.68,
+      "end": 136.92,
+      "score": 0.858
+    },
+    {
+      "word": "el",
+      "start": 137.341,
+      "end": 137.401,
+      "score": 0.919
+    },
+    {
+      "word": "titular",
+      "start": 137.461,
+      "end": 137.782,
+      "score": 0.927
+    },
+    {
+      "word": "de",
+      "start": 137.842,
+      "end": 137.902,
+      "score": 0.808
+    },
+    {
+      "word": "la",
+      "start": 137.942,
+      "end": 138.002,
+      "score": 0.722
+    },
+    {
+      "word": "DAIA,",
+      "start": 138.062,
+      "end": 138.343,
+      "score": 0.9
+    },
+    {
+      "word": "Rubén",
+      "start": 138.463,
+      "end": 138.704,
+      "score": 0.536
+    },
+    {
+      "word": "Beraja,",
+      "start": 138.724,
+      "end": 139.125,
+      "score": 0.986
+    },
+    {
+      "word": "y",
+      "start": 139.165,
+      "end": 139.185,
+      "score": 0.948
+    },
+    {
+      "word": "los",
+      "start": 139.205,
+      "end": 139.265,
+      "score": 0.334
+    },
+    {
+      "word": "empresarios",
+      "start": 139.465,
+      "end": 139.946,
+      "score": 0.953
+    },
+    {
+      "word": "periodísticos",
+      "start": 140.026,
+      "end": 140.627,
+      "score": 0.935
+    },
+    {
+      "word": "Ernestina",
+      "start": 140.668,
+      "end": 141.609,
+      "score": 0.731
+    },
+    {
+      "word": "Herrera",
+      "start": 141.65,
+      "end": 142.03,
+      "score": 0.756
+    },
+    {
+      "word": "de",
+      "start": 142.09,
+      "end": 142.151,
+      "score": 0.905
+    },
+    {
+      "word": "Nogle,",
+      "start": 142.191,
+      "end": 142.571,
+      "score": 0.927
+    },
+    {
+      "word": "Claudio",
+      "start": 142.932,
+      "end": 143.293,
+      "score": 0.871
+    },
+    {
+      "word": "Escribano",
+      "start": 143.353,
+      "end": 143.874,
+      "score": 0.922
+    },
+    {
+      "word": "y",
+      "start": 143.894,
+      "end": 143.914,
+      "score": 0.99
+    },
+    {
+      "word": "Eduardo",
+      "start": 143.954,
+      "end": 144.836,
+      "score": 0.963
+    },
+    {
+      "word": "Eurnequiano.",
+      "start": 145.136,
+      "end": 145.918,
+      "score": 0.675
+    },
+    {
+      "word": "Por",
+      "start": 150.252,
+      "end": 150.693,
+      "score": 0.256
+    },
+    {
+      "word": "la",
+      "start": 150.713,
+      "end": 150.933,
+      "score": 0.558
+    },
+    {
+      "word": "Supercopa",
+      "start": 150.953,
+      "end": 151.814,
+      "score": 0.833
+    },
+    {
+      "word": "jugaron",
+      "start": 151.934,
+      "end": 152.335,
+      "score": 0.881
+    },
+    {
+      "word": "anoche",
+      "start": 152.395,
+      "end": 152.735,
+      "score": 0.808
+    },
+    {
+      "word": "en",
+      "start": 152.775,
+      "end": 152.815,
+      "score": 0.493
+    },
+    {
+      "word": "Avellaneda",
+      "start": 152.835,
+      "end": 153.536,
+      "score": 0.693
+    },
+    {
+      "word": "Independiente",
+      "start": 153.656,
+      "end": 154.277,
+      "score": 0.95
+    },
+    {
+      "word": "y",
+      "start": 154.297,
+      "end": 154.317,
+      "score": 0.994
+    },
+    {
+      "word": "Boca",
+      "start": 154.357,
+      "end": 154.737,
+      "score": 0.498
+    },
+    {
+      "word": "Juniors.",
+      "start": 154.757,
+      "end": 155.178,
+      "score": 0.737
+    },
+    {
+      "word": "Los",
+      "start": 155.699,
+      "end": 155.879,
+      "score": 0.737
+    },
+    {
+      "word": "rojos",
+      "start": 155.899,
+      "end": 156.159,
+      "score": 0.919
+    },
+    {
+      "word": "se",
+      "start": 156.219,
+      "end": 156.319,
+      "score": 0.882
+    },
+    {
+      "word": "impusieron",
+      "start": 156.379,
+      "end": 156.84,
+      "score": 0.958
+    },
+    {
+      "word": "por",
+      "start": 156.94,
+      "end": 157.06,
+      "score": 0.991
+    },
+    {
+      "word": "2",
+      "start": 157.08,
+      "end": 157.1,
+      "score": 0.988
+    },
+    {
+      "word": "a",
+      "start": 157.341,
+      "end": 157.361,
+      "score": 0.856
+    },
+    {
+      "word": "1",
+      "start": 157.381,
+      "end": 157.741,
+      "score": 0.684
+    },
+    {
+      "word": "para",
+      "start": 158.182,
+      "end": 158.322,
+      "score": 0.911
+    },
+    {
+      "word": "ser",
+      "start": 158.442,
+      "end": 158.562,
+      "score": 0.933
+    },
+    {
+      "word": "perdedores",
+      "start": 158.722,
+      "end": 159.383,
+      "score": 0.939
+    },
+    {
+      "word": "en",
+      "start": 159.443,
+      "end": 159.503,
+      "score": 0.883
+    },
+    {
+      "word": "la",
+      "start": 159.563,
+      "end": 159.603,
+      "score": 0.87
+    },
+    {
+      "word": "primera",
+      "start": 159.663,
+      "end": 159.904,
+      "score": 0.816
+    },
+    {
+      "word": "etapa",
+      "start": 159.964,
+      "end": 160.224,
+      "score": 0.947
+    },
+    {
+      "word": "por",
+      "start": 160.264,
+      "end": 160.444,
+      "score": 0.79
+    },
+    {
+      "word": "1",
+      "start": 160.464,
+      "end": 160.925,
+      "score": 0.858
+    },
+    {
+      "word": "a",
+      "start": 161.305,
+      "end": 161.385,
+      "score": 0.646
+    },
+    {
+      "word": "0.",
+      "start": 161.406,
+      "end": 165.551,
+      "score": 0.887
+    },
+    {
+      "word": "El",
+      "start": 165.571,
+      "end": 165.611,
+      "score": 0.003
+    },
+    {
+      "word": "cielo",
+      "start": 165.631,
+      "end": 165.911,
+      "score": 0.925
+    },
+    {
+      "word": "está",
+      "start": 166.191,
+      "end": 166.372,
+      "score": 0.9
+    },
+    {
+      "word": "ligeramente",
+      "start": 166.432,
+      "end": 166.932,
+      "score": 0.913
+    },
+    {
+      "word": "nublado.",
+      "start": 167.032,
+      "end": 167.473,
+      "score": 0.872
+    },
+    {
+      "word": "La",
+      "start": 167.493,
+      "end": 167.533,
+      "score": 0.481
+    },
+    {
+      "word": "visibilidad",
+      "start": 167.573,
+      "end": 168.354,
+      "score": 0.826
+    },
+    {
+      "word": "es",
+      "start": 168.414,
+      "end": 168.514,
+      "score": 0.502
+    },
+    {
+      "word": "la",
+      "start": 168.554,
+      "end": 168.614,
+      "score": 0.902
+    },
+    {
+      "word": "normal",
+      "start": 168.674,
+      "end": 168.955,
+      "score": 0.847
+    },
+    {
+      "word": "10",
+      "start": 168.975,
+      "end": 169.195,
+      "score": 0.67
+    },
+    {
+      "word": "kilómetros.",
+      "start": 169.215,
+      "end": 169.776,
+      "score": 0.707
+    },
+    {
+      "word": "Viento",
+      "start": 169.796,
+      "end": 169.956,
+      "score": 0.607
+    },
+    {
+      "word": "del",
+      "start": 169.996,
+      "end": 170.096,
+      "score": 0.897
+    },
+    {
+      "word": "sur",
+      "start": 170.156,
+      "end": 170.296,
+      "score": 0.923
+    },
+    {
+      "word": "a",
+      "start": 170.336,
+      "end": 170.356,
+      "score": 0.879
+    },
+    {
+      "word": "11",
+      "start": 170.416,
+      "end": 170.557,
+      "score": 0.705
+    },
+    {
+      "word": "kilómetros",
+      "start": 170.657,
+      "end": 171.077,
+      "score": 0.856
+    },
+    {
+      "word": "por",
+      "start": 171.137,
+      "end": 171.257,
+      "score": 0.98
+    },
+    {
+      "word": "hora.",
+      "start": 171.297,
+      "end": 171.538,
+      "score": 0.892
+    },
+    {
+      "word": "Presión",
+      "start": 172.018,
+      "end": 172.399,
+      "score": 0.725
+    },
+    {
+      "word": "atmosférica",
+      "start": 172.419,
+      "end": 172.959,
+      "score": 0.812
+    },
+    {
+      "word": "medida",
+      "start": 173.06,
+      "end": 173.26,
+      "score": 0.572
+    },
+    {
+      "word": "en",
+      "start": 173.3,
+      "end": 173.34,
+      "score": 0.492
+    },
+    {
+      "word": "hectopascales",
+      "start": 173.36,
+      "end": 174.161,
+      "score": 0.837
+    },
+    {
+      "word": "alta.",
+      "start": 174.742,
+      "end": 175.082,
+      "score": 0.948
+    },
+    {
+      "word": "1020,",
+      "start": 175.102,
+      "end": 176.263,
+      "score": 0.834
+    },
+    {
+      "word": "decimal",
+      "start": 176.584,
+      "end": 177.105,
+      "score": 0.543
+    },
+    {
+      "word": "8.",
+      "start": 177.125,
+      "end": 177.525,
+      "score": 0.764
+    },
+    {
+      "word": "59%",
+      "start": 178.079,
+      "end": 178.72,
+      "score": 0.774
+    },
+    {
+      "word": "la",
+      "start": 178.74,
+      "end": 178.781,
+      "score": 0.964
+    },
+    {
+      "word": "humedad",
+      "start": 179.803,
+      "end": 180.123,
+      "score": 0.936
+    },
+    {
+      "word": "de",
+      "start": 180.163,
+      "end": 180.204,
+      "score": 0.897
+    },
+    {
+      "word": "la",
+      "start": 180.264,
+      "end": 180.324,
+      "score": 0.956
+    },
+    {
+      "word": "temperatura",
+      "start": 180.404,
+      "end": 181.005,
+      "score": 0.916
+    },
+    {
+      "word": "actual,",
+      "start": 181.045,
+      "end": 181.526,
+      "score": 0.897
+    },
+    {
+      "word": "12",
+      "start": 181.546,
+      "end": 181.587,
+      "score": 0.996
+    },
+    {
+      "word": "grados,",
+      "start": 183.07,
+      "end": 183.491,
+      "score": 0.998
+    },
+    {
+      "word": "5",
+      "start": 183.511,
+      "end": 183.531,
+      "score": 0.978
+    },
+    {
+      "word": "décimos.",
+      "start": 184.713,
+      "end": 187.239,
+      "score": 0.9
+    },
+    {
+      "word": "En",
+      "start": 187.259,
+      "end": 191.408,
+      "score": 0.976
+    },
+    {
+      "word": "cualquier",
+      "start": 191.568,
+      "end": 191.989,
+      "score": 0.723
+    },
+    {
+      "word": "momento,",
+      "start": 192.089,
+      "end": 192.53,
+      "score": 0.99
+    },
+    {
+      "word": "otro",
+      "start": 192.57,
+      "end": 193.292,
+      "score": 0.921
+    },
+    {
+      "word": "servicio",
+      "start": 193.412,
+      "end": 193.913,
+      "score": 0.982
+    },
+    {
+      "word": "informativo",
+      "start": 193.953,
+      "end": 194.715,
+      "score": 0.796
+    },
+    {
+      "word": "de",
+      "start": 194.735,
+      "end": 194.775,
+      "score": 0.498
+    },
+    {
+      "word": "la",
+      "start": 195.517,
+      "end": 195.577,
+      "score": 0.584
+    },
+    {
+      "word": "Radio",
+      "start": 195.797,
+      "end": 196.158,
+      "score": 0.954
+    },
+    {
+      "word": "de",
+      "start": 196.278,
+      "end": 196.378,
+      "score": 0.95
+    },
+    {
+      "word": "la",
+      "start": 196.439,
+      "end": 196.519,
+      "score": 0.95
+    },
+    {
+      "word": "Ciudad.",
+      "start": 196.599,
+      "end": 197.1,
+      "score": 0.83
+    },
+    {
+      "word": "Apáguense",
+      "start": 208.943,
+      "end": 229.043,
+      "score": 0.474
+    },
+    {
+      "word": "las",
+      "start": 229.063,
+      "end": 229.783,
+      "score": 0.576
+    },
+    {
+      "word": "nuevas",
+      "start": 229.803,
+      "end": 233.047,
+      "score": 0.566
+    },
+    {
+      "word": "luces",
+      "start": 233.067,
+      "end": 233.347,
+      "score": 0.276
+    },
+    {
+      "word": "del",
+      "start": 233.367,
+      "end": 233.427,
+      "score": 0.172
+    },
+    {
+      "word": "viejo",
+      "start": 233.527,
+      "end": 234.788,
+      "score": 0.703
+    },
+    {
+      "word": "barriete",
+      "start": 234.808,
+      "end": 236.47,
+      "score": 0.641
+    },
+    {
+      "word": "Recuerdos.",
+      "start": 239.42,
+      "end": 255.414,
+      "score": 0.635
+    },
+    {
+      "word": "Hoy",
+      "start": 257.096,
+      "end": 257.156,
+      "score": 0.01
+    },
+    {
+      "word": "no",
+      "start": 257.176,
+      "end": 257.316,
+      "score": 0.93
+    },
+    {
+      "word": "es",
+      "start": 257.516,
+      "end": 257.757,
+      "score": 0.722
+    },
+    {
+      "word": "ayer,",
+      "start": 257.777,
+      "end": 260.739,
+      "score": 0.451
+    },
+    {
+      "word": "pero",
+      "start": 260.759,
+      "end": 261.42,
+      "score": 0.856
+    },
+    {
+      "word": "lo",
+      "start": 261.44,
+      "end": 262.661,
+      "score": 0.766
+    },
+    {
+      "word": "mismo",
+      "start": 262.681,
+      "end": 264.082,
+      "score": 0.261
+    },
+    {
+      "word": "buscamos",
+      "start": 264.102,
+      "end": 264.883,
+      "score": 0.397
+    },
+    {
+      "word": "el",
+      "start": 264.983,
+      "end": 265.584,
+      "score": 0.398
+    },
+    {
+      "word": "placer.",
+      "start": 265.604,
+      "end": 267.165,
+      "score": 0.303
+    },
+    {
+      "word": "de",
+      "start": 268.04,
+      "end": 275.569,
+      "score": 0.457
+    },
+    {
+      "word": "oír",
+      "start": 275.589,
+      "end": 275.649,
+      "score": 0.015
+    },
+    {
+      "word": "a",
+      "start": 275.669,
+      "end": 275.689,
+      "score": 0.003
+    },
+    {
+      "word": "los",
+      "start": 275.709,
+      "end": 275.769,
+      "score": 0.017
+    },
+    {
+      "word": "cantantes",
+      "start": 275.789,
+      "end": 275.969,
+      "score": 0.004
+    },
+    {
+      "word": "que",
+      "start": 275.989,
+      "end": 276.049,
+      "score": 0.001
+    },
+    {
+      "word": "manga",
+      "start": 276.069,
+      "end": 276.17,
+      "score": 0.002
+    },
+    {
+      "word": "de",
+      "start": 276.19,
+      "end": 276.23,
+      "score": 0.01
+    },
+    {
+      "word": "farsantes",
+      "start": 276.25,
+      "end": 276.43,
+      "score": 0.0
+    },
+    {
+      "word": "que",
+      "start": 276.45,
+      "end": 276.51,
+      "score": 0.004
+    },
+    {
+      "word": "hacen",
+      "start": 276.53,
+      "end": 276.63,
+      "score": 0.001
+    },
+    {
+      "word": "la",
+      "start": 276.65,
+      "end": 276.77,
+      "score": 0.974
+    },
+    {
+      "word": "vida",
+      "start": 276.89,
+      "end": 277.952,
+      "score": 0.833
+    },
+    {
+      "word": "rejuvenecer.",
+      "start": 278.632,
+      "end": 283.458,
+      "score": 0.578
+    },
+    {
+      "word": "Un",
+      "start": 283.478,
+      "end": 283.538,
+      "score": 0.64
+    },
+    {
+      "word": "homenaje",
+      "start": 283.758,
+      "end": 284.039,
+      "score": 0.338
+    },
+    {
+      "word": "permanente",
+      "start": 284.139,
+      "end": 284.84,
+      "score": 0.908
+    },
+    {
+      "word": "al",
+      "start": 284.86,
+      "end": 284.94,
+      "score": 0.613
+    },
+    {
+      "word": "espectáculo",
+      "start": 285.0,
+      "end": 285.56,
+      "score": 0.757
+    },
+    {
+      "word": "argentino.",
+      "start": 285.641,
+      "end": 286.181,
+      "score": 0.787
+    },
+    {
+      "word": "El",
+      "start": 288.304,
+      "end": 288.924,
+      "score": 0.394
+    },
+    {
+      "word": "Music",
+      "start": 288.944,
+      "end": 289.045,
+      "score": 0.011
+    },
+    {
+      "word": "Hall",
+      "start": 289.065,
+      "end": 289.625,
+      "score": 0.397
+    },
+    {
+      "word": "entona",
+      "start": 289.645,
+      "end": 289.906,
+      "score": 0.195
+    },
+    {
+      "word": "un",
+      "start": 289.926,
+      "end": 289.966,
+      "score": 0.024
+    },
+    {
+      "word": "poco,",
+      "start": 289.986,
+      "end": 290.266,
+      "score": 0.509
+    },
+    {
+      "word": "¿verdad?,",
+      "start": 290.326,
+      "end": 291.568,
+      "score": 0.508
+    },
+    {
+      "word": "como",
+      "start": 291.588,
+      "end": 291.808,
+      "score": 0.605
+    },
+    {
+      "word": "el",
+      "start": 291.828,
+      "end": 291.868,
+      "score": 0.03
+    },
+    {
+      "word": "alcohol.",
+      "start": 291.888,
+      "end": 292.849,
+      "score": 0.388
+    },
+    {
+      "word": "Uno",
+      "start": 293.437,
+      "end": 295.621,
+      "score": 0.312
+    },
+    {
+      "word": "se",
+      "start": 295.641,
+      "end": 295.681,
+      "score": 0.002
+    },
+    {
+      "word": "va,",
+      "start": 295.701,
+      "end": 295.981,
+      "score": 0.466
+    },
+    {
+      "word": "tal",
+      "start": 296.001,
+      "end": 296.062,
+      "score": 0.193
+    },
+    {
+      "word": "vez",
+      "start": 296.202,
+      "end": 296.422,
+      "score": 0.512
+    },
+    {
+      "word": "a",
+      "start": 296.442,
+      "end": 296.482,
+      "score": 0.905
+    },
+    {
+      "word": "casa,",
+      "start": 296.663,
+      "end": 297.204,
+      "score": 0.944
+    },
+    {
+      "word": "con",
+      "start": 298.325,
+      "end": 298.506,
+      "score": 0.878
+    },
+    {
+      "word": "menos",
+      "start": 298.766,
+      "end": 299.167,
+      "score": 0.968
+    },
+    {
+      "word": "soledad.",
+      "start": 299.407,
+      "end": 300.149,
+      "score": 0.864
+    },
+    {
+      "word": "Un",
+      "start": 300.369,
+      "end": 300.429,
+      "score": 0.874
+    },
+    {
+      "word": "programa",
+      "start": 300.469,
+      "end": 300.85,
+      "score": 0.911
+    },
+    {
+      "word": "mágico,",
+      "start": 301.331,
+      "end": 301.832,
+      "score": 0.983
+    },
+    {
+      "word": "con",
+      "start": 301.872,
+      "end": 302.553,
+      "score": 0.928
+    },
+    {
+      "word": "la",
+      "start": 302.593,
+      "end": 302.633,
+      "score": 0.87
+    },
+    {
+      "word": "presencia",
+      "start": 302.793,
+      "end": 303.194,
+      "score": 0.192
+    },
+    {
+      "word": "del",
+      "start": 303.214,
+      "end": 303.334,
+      "score": 0.495
+    },
+    {
+      "word": "ayer",
+      "start": 303.394,
+      "end": 303.655,
+      "score": 0.906
+    },
+    {
+      "word": "y",
+      "start": 303.675,
+      "end": 303.695,
+      "score": 0.98
+    },
+    {
+      "word": "del",
+      "start": 303.995,
+      "end": 304.075,
+      "score": 0.569
+    },
+    {
+      "word": "hoy,",
+      "start": 304.176,
+      "end": 304.336,
+      "score": 0.857
+    },
+    {
+      "word": "con",
+      "start": 305.157,
+      "end": 305.257,
+      "score": 0.991
+    },
+    {
+      "word": "la",
+      "start": 305.318,
+      "end": 305.358,
+      "score": 0.998
+    },
+    {
+      "word": "conducción",
+      "start": 305.438,
+      "end": 305.838,
+      "score": 0.85
+    },
+    {
+      "word": "de",
+      "start": 305.919,
+      "end": 305.979,
+      "score": 0.887
+    },
+    {
+      "word": "Aníbal",
+      "start": 306.079,
+      "end": 306.5,
+      "score": 0.474
+    },
+    {
+      "word": "Fernández,",
+      "start": 306.52,
+      "end": 308.102,
+      "score": 0.647
+    },
+    {
+      "word": "Charo",
+      "start": 308.122,
+      "end": 309.465,
+      "score": 0.562
+    },
+    {
+      "word": "Popi",
+      "start": 309.485,
+      "end": 309.565,
+      "score": 0.011
+    },
+    {
+      "word": "y",
+      "start": 309.585,
+      "end": 309.605,
+      "score": 0.001
+    },
+    {
+      "word": "Andrés",
+      "start": 309.625,
+      "end": 317.799,
+      "score": 0.242
+    },
+    {
+      "word": "Pérez",
+      "start": 317.819,
+      "end": 317.919,
+      "score": 0.0
+    },
+    {
+      "word": "Arcas.",
+      "start": 317.939,
+      "end": 318.06,
+      "score": 0.087
+    },
+    {
+      "word": "Hasta",
+      "start": 318.08,
+      "end": 318.18,
+      "score": 0.057
+    },
+    {
+      "word": "la",
+      "start": 318.2,
+      "end": 318.24,
+      "score": 0.49
+    },
+    {
+      "word": "próxima.",
+      "start": 318.28,
+      "end": 318.921,
+      "score": 0.56
+    },
+    {
+      "word": "Muy",
+      "start": 320.032,
+      "end": 320.433,
+      "score": 0.771
+    },
+    {
+      "word": "buenos",
+      "start": 320.533,
+      "end": 320.973,
+      "score": 0.89
+    },
+    {
+      "word": "días.",
+      "start": 321.314,
+      "end": 321.654,
+      "score": 0.873
+    },
+    {
+      "word": "Noches.",
+      "start": 322.275,
+      "end": 322.676,
+      "score": 0.877
+    },
+    {
+      "word": "Días.",
+      "start": 323.077,
+      "end": 323.377,
+      "score": 0.883
+    },
+    {
+      "word": "Días.",
+      "start": 323.698,
+      "end": 324.058,
+      "score": 0.924
+    },
+    {
+      "word": "Pero",
+      "start": 324.399,
+      "end": 324.539,
+      "score": 0.856
+    },
+    {
+      "word": "hace",
+      "start": 324.599,
+      "end": 324.879,
+      "score": 0.738
+    },
+    {
+      "word": "cinco",
+      "start": 324.979,
+      "end": 325.22,
+      "score": 0.91
+    },
+    {
+      "word": "minutos",
+      "start": 325.3,
+      "end": 325.62,
+      "score": 0.87
+    },
+    {
+      "word": "que",
+      "start": 325.66,
+      "end": 325.721,
+      "score": 0.334
+    },
+    {
+      "word": "estamos",
+      "start": 325.741,
+      "end": 326.422,
+      "score": 0.873
+    },
+    {
+      "word": "en",
+      "start": 326.522,
+      "end": 326.562,
+      "score": 0.731
+    },
+    {
+      "word": "los",
+      "start": 326.602,
+      "end": 326.662,
+      "score": 0.798
+    },
+    {
+      "word": "albores",
+      "start": 326.762,
+      "end": 327.083,
+      "score": 0.922
+    },
+    {
+      "word": "de",
+      "start": 327.123,
+      "end": 327.163,
+      "score": 0.746
+    },
+    {
+      "word": "este",
+      "start": 327.183,
+      "end": 327.363,
+      "score": 0.843
+    },
+    {
+      "word": "17",
+      "start": 327.383,
+      "end": 328.024,
+      "score": 0.74
+    },
+    {
+      "word": "de",
+      "start": 328.084,
+      "end": 328.144,
+      "score": 0.713
+    },
+    {
+      "word": "octubre",
+      "start": 328.204,
+      "end": 328.545,
+      "score": 0.958
+    },
+    {
+      "word": "de",
+      "start": 328.605,
+      "end": 328.925,
+      "score": 0.84
+    },
+    {
+      "word": "1997.",
+      "start": 328.945,
+      "end": 329.927,
+      "score": 0.8
+    },
+    {
+      "word": "Es",
+      "start": 330.207,
+      "end": 331.008,
+      "score": 0.863
+    },
+    {
+      "word": "de",
+      "start": 331.049,
+      "end": 331.129,
+      "score": 0.843
+    },
+    {
+      "word": "día.",
+      "start": 331.169,
+      "end": 331.409,
+      "score": 0.826
+    },
+    {
+      "word": "Discúlpenme,",
+      "start": 332.29,
+      "end": 332.931,
+      "score": 0.878
+    },
+    {
+      "word": "pero",
+      "start": 333.032,
+      "end": 333.192,
+      "score": 0.947
+    },
+    {
+      "word": "buenas",
+      "start": 333.853,
+      "end": 334.073,
+      "score": 0.792
+    },
+    {
+      "word": "noches",
+      "start": 334.153,
+      "end": 334.594,
+      "score": 0.634
+    },
+    {
+      "word": "a",
+      "start": 334.654,
+      "end": 334.694,
+      "score": 0.735
+    },
+    {
+      "word": "la",
+      "start": 334.734,
+      "end": 334.794,
+      "score": 0.861
+    },
+    {
+      "word": "audiencia.",
+      "start": 334.854,
+      "end": 335.595,
+      "score": 0.646
+    },
+    {
+      "word": "Buenas",
+      "start": 335.615,
+      "end": 335.736,
+      "score": 0.194
+    },
+    {
+      "word": "noches.",
+      "start": 335.876,
+      "end": 336.316,
+      "score": 0.443
+    },
+    {
+      "word": "Buenas",
+      "start": 336.737,
+      "end": 336.857,
+      "score": 0.01
+    },
+    {
+      "word": "noches.",
+      "start": 336.877,
+      "end": 337.138,
+      "score": 0.494
+    },
+    {
+      "word": "O",
+      "start": 337.418,
+      "end": 337.478,
+      "score": 0.837
+    },
+    {
+      "word": "son",
+      "start": 337.558,
+      "end": 337.719,
+      "score": 0.945
+    },
+    {
+      "word": "ciegos",
+      "start": 337.799,
+      "end": 338.319,
+      "score": 0.88
+    },
+    {
+      "word": "porque",
+      "start": 338.62,
+      "end": 338.92,
+      "score": 0.93
+    },
+    {
+      "word": "es",
+      "start": 339.161,
+      "end": 339.321,
+      "score": 0.686
+    },
+    {
+      "word": "oscuro",
+      "start": 339.341,
+      "end": 339.762,
+      "score": 0.88
+    },
+    {
+      "word": "afuera.",
+      "start": 339.842,
+      "end": 340.262,
+      "score": 0.872
+    },
+    {
+      "word": "O",
+      "start": 340.883,
+      "end": 340.943,
+      "score": 0.853
+    },
+    {
+      "word": "sea,",
+      "start": 341.003,
+      "end": 341.204,
+      "score": 0.943
+    },
+    {
+      "word": "es",
+      "start": 341.364,
+      "end": 341.444,
+      "score": 0.689
+    },
+    {
+      "word": "de",
+      "start": 341.484,
+      "end": 341.564,
+      "score": 0.698
+    },
+    {
+      "word": "noche.",
+      "start": 341.584,
+      "end": 342.546,
+      "score": 0.66
+    },
+    {
+      "word": "Sí,",
+      "start": 342.566,
+      "end": 343.187,
+      "score": 0.86
+    },
+    {
+      "word": "la",
+      "start": 343.207,
+      "end": 343.327,
+      "score": 0.445
+    },
+    {
+      "word": "gente",
+      "start": 343.347,
+      "end": 343.527,
+      "score": 0.685
+    },
+    {
+      "word": "está",
+      "start": 343.547,
+      "end": 343.667,
+      "score": 0.534
+    },
+    {
+      "word": "haciendo",
+      "start": 343.688,
+      "end": 343.908,
+      "score": 0.795
+    },
+    {
+      "word": "nonito",
+      "start": 343.968,
+      "end": 344.409,
+      "score": 0.656
+    },
+    {
+      "word": "ahora.",
+      "start": 344.429,
+      "end": 344.689,
+      "score": 0.295
+    },
+    {
+      "word": "Yo",
+      "start": 345.479,
+      "end": 348.704,
+      "score": 0.451
+    },
+    {
+      "word": "nunca",
+      "start": 348.724,
+      "end": 348.924,
+      "score": 0.238
+    },
+    {
+      "word": "vi",
+      "start": 348.944,
+      "end": 348.984,
+      "score": 0.401
+    },
+    {
+      "word": "que",
+      "start": 349.024,
+      "end": 349.104,
+      "score": 0.67
+    },
+    {
+      "word": "a",
+      "start": 349.285,
+      "end": 349.305,
+      "score": 0.018
+    },
+    {
+      "word": "las",
+      "start": 349.325,
+      "end": 349.385,
+      "score": 0.295
+    },
+    {
+      "word": "12",
+      "start": 349.405,
+      "end": 349.505,
+      "score": 0.483
+    },
+    {
+      "word": "de",
+      "start": 349.525,
+      "end": 349.625,
+      "score": 0.435
+    },
+    {
+      "word": "la",
+      "start": 349.645,
+      "end": 349.685,
+      "score": 0.139
+    },
+    {
+      "word": "noche",
+      "start": 349.705,
+      "end": 349.866,
+      "score": 0.184
+    },
+    {
+      "word": "le",
+      "start": 349.886,
+      "end": 349.946,
+      "score": 0.253
+    },
+    {
+      "word": "digan",
+      "start": 349.966,
+      "end": 350.146,
+      "score": 0.211
+    },
+    {
+      "word": "a",
+      "start": 350.166,
+      "end": 350.226,
+      "score": 0.736
+    },
+    {
+      "word": "la",
+      "start": 350.286,
+      "end": 350.527,
+      "score": 0.754
+    },
+    {
+      "word": "gente",
+      "start": 350.547,
+      "end": 350.647,
+      "score": 0.021
+    },
+    {
+      "word": "buen",
+      "start": 350.667,
+      "end": 350.747,
+      "score": 0.025
+    },
+    {
+      "word": "día,",
+      "start": 350.767,
+      "end": 350.847,
+      "score": 0.146
+    },
+    {
+      "word": "es",
+      "start": 350.867,
+      "end": 350.987,
+      "score": 0.732
+    },
+    {
+      "word": "cuando",
+      "start": 351.007,
+      "end": 351.208,
+      "score": 0.318
+    },
+    {
+      "word": "alguien",
+      "start": 351.228,
+      "end": 351.368,
+      "score": 0.142
+    },
+    {
+      "word": "llega",
+      "start": 351.388,
+      "end": 351.548,
+      "score": 0.544
+    },
+    {
+      "word": "demasiado",
+      "start": 351.648,
+      "end": 352.129,
+      "score": 0.807
+    },
+    {
+      "word": "temprano",
+      "start": 352.169,
+      "end": 352.95,
+      "score": 0.559
+    },
+    {
+      "word": "en",
+      "start": 352.97,
+      "end": 353.01,
+      "score": 0.168
+    },
+    {
+      "word": "todo",
+      "start": 353.03,
+      "end": 353.311,
+      "score": 0.725
+    },
+    {
+      "word": "caso.",
+      "start": 353.371,
+      "end": 353.872,
+      "score": 0.798
+    },
+    {
+      "word": "Bueno,",
+      "start": 354.412,
+      "end": 354.653,
+      "score": 0.458
+    },
+    {
+      "word": "buen",
+      "start": 354.673,
+      "end": 354.833,
+      "score": 0.678
+    },
+    {
+      "word": "día,",
+      "start": 354.853,
+      "end": 354.993,
+      "score": 0.801
+    },
+    {
+      "word": "buenas",
+      "start": 355.053,
+      "end": 355.254,
+      "score": 0.494
+    },
+    {
+      "word": "noches,",
+      "start": 355.314,
+      "end": 355.594,
+      "score": 0.55
+    },
+    {
+      "word": "¿cómo",
+      "start": 355.614,
+      "end": 355.795,
+      "score": 0.322
+    },
+    {
+      "word": "le",
+      "start": 355.815,
+      "end": 355.895,
+      "score": 0.6
+    },
+    {
+      "word": "va",
+      "start": 355.915,
+      "end": 356.015,
+      "score": 0.684
+    },
+    {
+      "word": "Charo",
+      "start": 356.035,
+      "end": 356.255,
+      "score": 0.512
+    },
+    {
+      "word": "Popi?",
+      "start": 356.295,
+      "end": 356.636,
+      "score": 0.363
+    },
+    {
+      "word": "Muy",
+      "start": 356.656,
+      "end": 356.716,
+      "score": 0.002
+    },
+    {
+      "word": "bien,",
+      "start": 356.736,
+      "end": 356.956,
+      "score": 0.461
+    },
+    {
+      "word": "muy",
+      "start": 356.976,
+      "end": 357.097,
+      "score": 0.744
+    },
+    {
+      "word": "feliz",
+      "start": 357.177,
+      "end": 357.377,
+      "score": 0.646
+    },
+    {
+      "word": "de",
+      "start": 357.397,
+      "end": 357.437,
+      "score": 0.008
+    },
+    {
+      "word": "estar",
+      "start": 357.457,
+      "end": 357.577,
+      "score": 0.421
+    },
+    {
+      "word": "nuevamente",
+      "start": 357.617,
+      "end": 358.018,
+      "score": 0.763
+    },
+    {
+      "word": "con",
+      "start": 358.058,
+      "end": 358.218,
+      "score": 0.722
+    },
+    {
+      "word": "todos",
+      "start": 358.258,
+      "end": 358.439,
+      "score": 0.888
+    },
+    {
+      "word": "ustedes",
+      "start": 358.539,
+      "end": 358.899,
+      "score": 0.795
+    },
+    {
+      "word": "y",
+      "start": 358.919,
+      "end": 358.939,
+      "score": 0.976
+    },
+    {
+      "word": "llegar",
+      "start": 359.14,
+      "end": 359.28,
+      "score": 0.551
+    },
+    {
+      "word": "a",
+      "start": 359.3,
+      "end": 359.32,
+      "score": 0.849
+    },
+    {
+      "word": "los",
+      "start": 359.36,
+      "end": 359.42,
+      "score": 0.968
+    },
+    {
+      "word": "hogares",
+      "start": 359.5,
+      "end": 359.761,
+      "score": 0.784
+    },
+    {
+      "word": "de",
+      "start": 359.801,
+      "end": 359.861,
+      "score": 0.631
+    },
+    {
+      "word": "toda",
+      "start": 359.901,
+      "end": 360.061,
+      "score": 0.857
+    },
+    {
+      "word": "la",
+      "start": 360.081,
+      "end": 360.141,
+      "score": 0.574
+    },
+    {
+      "word": "gente",
+      "start": 360.201,
+      "end": 360.381,
+      "score": 0.875
+    },
+    {
+      "word": "tan",
+      "start": 360.462,
+      "end": 360.702,
+      "score": 0.539
+    },
+    {
+      "word": "linda",
+      "start": 360.722,
+      "end": 360.982,
+      "score": 0.843
+    },
+    {
+      "word": "como",
+      "start": 361.042,
+      "end": 361.203,
+      "score": 0.896
+    },
+    {
+      "word": "es.",
+      "start": 361.303,
+      "end": 362.505,
+      "score": 0.872
+    },
+    {
+      "word": "Los",
+      "start": 362.525,
+      "end": 362.865,
+      "score": 0.702
+    },
+    {
+      "word": "escuchas",
+      "start": 362.885,
+      "end": 363.306,
+      "score": 0.771
+    },
+    {
+      "word": "de",
+      "start": 363.366,
+      "end": 363.466,
+      "score": 0.92
+    },
+    {
+      "word": "recuerdos,",
+      "start": 363.546,
+      "end": 364.067,
+      "score": 0.836
+    },
+    {
+      "word": "¿qué",
+      "start": 364.207,
+      "end": 364.327,
+      "score": 0.118
+    },
+    {
+      "word": "tal",
+      "start": 364.347,
+      "end": 364.488,
+      "score": 0.777
+    },
+    {
+      "word": "Andrés?",
+      "start": 364.508,
+      "end": 364.908,
+      "score": 0.895
+    },
+    {
+      "word": "Muy",
+      "start": 365.389,
+      "end": 365.529,
+      "score": 0.774
+    },
+    {
+      "word": "bien,",
+      "start": 365.569,
+      "end": 365.77,
+      "score": 0.845
+    },
+    {
+      "word": "bárbaro.",
+      "start": 366.05,
+      "end": 366.711,
+      "score": 0.901
+    },
+    {
+      "word": "¿Bárbaro",
+      "start": 367.282,
+      "end": 367.723,
+      "score": 0.378
+    },
+    {
+      "word": "estás?",
+      "start": 367.783,
+      "end": 368.764,
+      "score": 0.816
+    },
+    {
+      "word": "Me",
+      "start": 368.804,
+      "end": 368.905,
+      "score": 0.828
+    },
+    {
+      "word": "parece",
+      "start": 368.965,
+      "end": 369.245,
+      "score": 0.966
+    },
+    {
+      "word": "muy",
+      "start": 369.325,
+      "end": 369.445,
+      "score": 0.705
+    },
+    {
+      "word": "bien.",
+      "start": 369.485,
+      "end": 369.606,
+      "score": 0.746
+    },
+    {
+      "word": "Estás",
+      "start": 369.686,
+      "end": 370.026,
+      "score": 0.159
+    },
+    {
+      "word": "lindo",
+      "start": 370.046,
+      "end": 370.467,
+      "score": 0.211
+    },
+    {
+      "word": "hoy,",
+      "start": 370.487,
+      "end": 371.148,
+      "score": 0.296
+    },
+    {
+      "word": "estás",
+      "start": 371.168,
+      "end": 371.268,
+      "score": 0.001
+    },
+    {
+      "word": "con",
+      "start": 371.288,
+      "end": 371.609,
+      "score": 0.589
+    },
+    {
+      "word": "ánimo",
+      "start": 371.669,
+      "end": 371.909,
+      "score": 0.498
+    },
+    {
+      "word": "y",
+      "start": 371.989,
+      "end": 372.009,
+      "score": 0.002
+    },
+    {
+      "word": "con",
+      "start": 372.029,
+      "end": 372.089,
+      "score": 0.29
+    },
+    {
+      "word": "energía,",
+      "start": 372.11,
+      "end": 373.071,
+      "score": 0.423
+    },
+    {
+      "word": "hoy",
+      "start": 373.091,
+      "end": 373.331,
+      "score": 0.278
+    },
+    {
+      "word": "estás",
+      "start": 373.351,
+      "end": 373.532,
+      "score": 0.188
+    },
+    {
+      "word": "tristón.",
+      "start": 373.552,
+      "end": 374.033,
+      "score": 0.337
+    },
+    {
+      "word": "Señora",
+      "start": 374.053,
+      "end": 374.313,
+      "score": 0.89
+    },
+    {
+      "word": "Gladys",
+      "start": 374.393,
+      "end": 374.653,
+      "score": 0.52
+    },
+    {
+      "word": "Traverso,",
+      "start": 374.674,
+      "end": 375.134,
+      "score": 0.828
+    },
+    {
+      "word": "buenas",
+      "start": 375.395,
+      "end": 375.575,
+      "score": 0.621
+    },
+    {
+      "word": "noches.",
+      "start": 375.635,
+      "end": 376.196,
+      "score": 0.585
+    },
+    {
+      "word": "¿Qué",
+      "start": 376.216,
+      "end": 376.737,
+      "score": 0.347
+    },
+    {
+      "word": "tal?",
+      "start": 376.757,
+      "end": 377.157,
+      "score": 0.431
+    },
+    {
+      "word": "Buenas",
+      "start": 377.217,
+      "end": 377.538,
+      "score": 0.485
+    },
+    {
+      "word": "noches",
+      "start": 378.299,
+      "end": 378.419,
+      "score": 0.006
+    },
+    {
+      "word": "o",
+      "start": 378.439,
+      "end": 378.459,
+      "score": 0.0
+    },
+    {
+      "word": "buenos",
+      "start": 378.479,
+      "end": 378.6,
+      "score": 0.001
+    },
+    {
+      "word": "días,",
+      "start": 378.62,
+      "end": 378.72,
+      "score": 0.014
+    },
+    {
+      "word": "elijan,",
+      "start": 378.74,
+      "end": 379.06,
+      "score": 0.138
+    },
+    {
+      "word": "elijan.",
+      "start": 379.08,
+      "end": 379.221,
+      "score": 0.191
+    },
+    {
+      "word": "Nuestros",
+      "start": 379.741,
+      "end": 379.982,
+      "score": 0.43
+    },
+    {
+      "word": "saludos",
+      "start": 380.042,
+      "end": 380.483,
+      "score": 0.693
+    },
+    {
+      "word": "a",
+      "start": 380.503,
+      "end": 380.583,
+      "score": 0.721
+    },
+    {
+      "word": "Clarita",
+      "start": 380.603,
+      "end": 380.963,
+      "score": 0.819
+    },
+    {
+      "word": "en",
+      "start": 381.003,
+      "end": 381.043,
+      "score": 0.888
+    },
+    {
+      "word": "Operación",
+      "start": 381.063,
+      "end": 381.464,
+      "score": 0.854
+    },
+    {
+      "word": "Técnica,",
+      "start": 381.564,
+      "end": 381.845,
+      "score": 0.991
+    },
+    {
+      "word": "¿cómo",
+      "start": 381.865,
+      "end": 382.045,
+      "score": 0.62
+    },
+    {
+      "word": "estás?",
+      "start": 382.105,
+      "end": 382.466,
+      "score": 0.834
+    },
+    {
+      "word": "Y",
+      "start": 382.966,
+      "end": 383.006,
+      "score": 0.979
+    },
+    {
+      "word": "como",
+      "start": 383.067,
+      "end": 383.227,
+      "score": 0.988
+    },
+    {
+      "word": "siempre,",
+      "start": 383.267,
+      "end": 383.808,
+      "score": 0.876
+    },
+    {
+      "word": "en",
+      "start": 384.99,
+      "end": 385.05,
+      "score": 0.799
+    },
+    {
+      "word": "los",
+      "start": 385.07,
+      "end": 385.15,
+      "score": 0.709
+    },
+    {
+      "word": "teléfonos,",
+      "start": 385.19,
+      "end": 385.711,
+      "score": 0.81
+    },
+    {
+      "word": "nuestros",
+      "start": 385.751,
+      "end": 386.011,
+      "score": 0.813
+    },
+    {
+      "word": "amigos,",
+      "start": 386.091,
+      "end": 386.452,
+      "score": 0.982
+    },
+    {
+      "word": "compañeros",
+      "start": 386.592,
+      "end": 387.213,
+      "score": 0.926
+    },
+    {
+      "word": "y",
+      "start": 387.233,
+      "end": 387.253,
+      "score": 0.962
+    },
+    {
+      "word": "amigos.",
+      "start": 388.876,
+      "end": 389.617,
+      "score": 0.85
+    },
+    {
+      "word": "Hola,",
+      "start": 389.637,
+      "end": 389.917,
+      "score": 0.476
+    },
+    {
+      "word": "colaboradores,",
+      "start": 389.937,
+      "end": 390.518,
+      "score": 0.505
+    },
+    {
+      "word": "grandes",
+      "start": 390.538,
+      "end": 390.859,
+      "score": 0.892
+    },
+    {
+      "word": "colaboradores.",
+      "start": 390.999,
+      "end": 391.54,
+      "score": 0.164
+    },
+    {
+      "word": "Alicia",
+      "start": 391.56,
+      "end": 391.68,
+      "score": 0.018
+    },
+    {
+      "word": "Gaspar.",
+      "start": 391.7,
+      "end": 392.361,
+      "score": 0.939
+    },
+    {
+      "word": "¿Cómo",
+      "start": 392.763,
+      "end": 393.043,
+      "score": 0.454
+    },
+    {
+      "word": "les",
+      "start": 393.123,
+      "end": 393.243,
+      "score": 0.538
+    },
+    {
+      "word": "va?",
+      "start": 393.263,
+      "end": 393.364,
+      "score": 0.812
+    },
+    {
+      "word": "¿Bien?",
+      "start": 393.404,
+      "end": 393.644,
+      "score": 0.713
+    },
+    {
+      "word": "Bien,",
+      "start": 394.345,
+      "end": 394.445,
+      "score": 0.026
+    },
+    {
+      "word": "hacen",
+      "start": 394.465,
+      "end": 394.725,
+      "score": 0.725
+    },
+    {
+      "word": "así",
+      "start": 394.745,
+      "end": 394.905,
+      "score": 0.767
+    },
+    {
+      "word": "con",
+      "start": 394.945,
+      "end": 395.065,
+      "score": 0.844
+    },
+    {
+      "word": "las",
+      "start": 395.105,
+      "end": 395.185,
+      "score": 0.893
+    },
+    {
+      "word": "manos.",
+      "start": 395.265,
+      "end": 395.426,
+      "score": 0.207
+    },
+    {
+      "word": "Preparando",
+      "start": 395.446,
+      "end": 395.906,
+      "score": 0.76
+    },
+    {
+      "word": "los",
+      "start": 396.026,
+      "end": 396.106,
+      "score": 0.905
+    },
+    {
+      "word": "oídos",
+      "start": 396.186,
+      "end": 396.427,
+      "score": 0.775
+    },
+    {
+      "word": "porque",
+      "start": 396.487,
+      "end": 396.667,
+      "score": 0.855
+    },
+    {
+      "word": "van",
+      "start": 396.727,
+      "end": 396.807,
+      "score": 0.621
+    },
+    {
+      "word": "a",
+      "start": 396.947,
+      "end": 397.007,
+      "score": 0.41
+    },
+    {
+      "word": "haber",
+      "start": 397.067,
+      "end": 397.207,
+      "score": 0.782
+    },
+    {
+      "word": "muchos",
+      "start": 397.287,
+      "end": 397.488,
+      "score": 0.974
+    },
+    {
+      "word": "llamados",
+      "start": 397.508,
+      "end": 397.888,
+      "score": 0.908
+    },
+    {
+      "word": "hoy.",
+      "start": 398.048,
+      "end": 398.188,
+      "score": 0.894
+    },
+    {
+      "word": "¿A",
+      "start": 398.689,
+      "end": 399.209,
+      "score": 0.366
+    },
+    {
+      "word": "qué",
+      "start": 399.229,
+      "end": 399.289,
+      "score": 0.318
+    },
+    {
+      "word": "número,",
+      "start": 399.429,
+      "end": 399.81,
+      "score": 0.696
+    },
+    {
+      "word": "Charo?",
+      "start": 399.83,
+      "end": 400.11,
+      "score": 0.842
+    },
+    {
+      "word": "Al",
+      "start": 400.29,
+      "end": 400.39,
+      "score": 0.58
+    },
+    {
+      "word": "373-1636,",
+      "start": 400.511,
+      "end": 401.331,
+      "score": 0.837
+    },
+    {
+      "word": "al",
+      "start": 401.351,
+      "end": 401.391,
+      "score": 0.472
+    },
+    {
+      "word": "374-3818.",
+      "start": 401.411,
+      "end": 404.414,
+      "score": 0.871
+    },
+    {
+      "word": "Bueno,",
+      "start": 404.715,
+      "end": 405.315,
+      "score": 0.679
+    },
+    {
+      "word": "entonces",
+      "start": 405.816,
+      "end": 408.338,
+      "score": 0.63
+    },
+    {
+      "word": "larguemos",
+      "start": 408.478,
+      "end": 408.799,
+      "score": 0.699
+    },
+    {
+      "word": "ya",
+      "start": 408.979,
+      "end": 409.139,
+      "score": 0.73
+    },
+    {
+      "word": "la",
+      "start": 409.159,
+      "end": 409.199,
+      "score": 0.458
+    },
+    {
+      "word": "preguntita.",
+      "start": 409.259,
+      "end": 409.539,
+      "score": 0.51
+    },
+    {
+      "word": "La",
+      "start": 409.559,
+      "end": 409.599,
+      "score": 0.419
+    },
+    {
+      "word": "pregunta,",
+      "start": 409.639,
+      "end": 410.18,
+      "score": 0.677
+    },
+    {
+      "word": "la",
+      "start": 410.22,
+      "end": 410.3,
+      "score": 0.864
+    },
+    {
+      "word": "pregunta,",
+      "start": 410.36,
+      "end": 410.841,
+      "score": 0.844
+    },
+    {
+      "word": "a",
+      "start": 410.861,
+      "end": 410.881,
+      "score": 0.02
+    },
+    {
+      "word": "ver,",
+      "start": 410.901,
+      "end": 412.342,
+      "score": 0.867
+    },
+    {
+      "word": "a",
+      "start": 412.362,
+      "end": 412.382,
+      "score": 0.0
+    },
+    {
+      "word": "ver,",
+      "start": 412.402,
+      "end": 412.482,
+      "score": 0.123
+    },
+    {
+      "word": "decí",
+      "start": 412.502,
+      "end": 412.702,
+      "score": 0.694
+    },
+    {
+      "word": "la",
+      "start": 412.722,
+      "end": 412.802,
+      "score": 0.433
+    },
+    {
+      "word": "cosa.",
+      "start": 412.822,
+      "end": 414.704,
+      "score": 0.314
+    },
+    {
+      "word": "Una",
+      "start": 414.724,
+      "end": 414.844,
+      "score": 0.917
+    },
+    {
+      "word": "frase",
+      "start": 414.965,
+      "end": 415.385,
+      "score": 0.986
+    },
+    {
+      "word": "muy",
+      "start": 415.585,
+      "end": 415.785,
+      "score": 0.825
+    },
+    {
+      "word": "característica",
+      "start": 415.885,
+      "end": 416.706,
+      "score": 0.954
+    },
+    {
+      "word": "en",
+      "start": 416.746,
+      "end": 416.806,
+      "score": 0.713
+    },
+    {
+      "word": "el",
+      "start": 416.846,
+      "end": 416.926,
+      "score": 0.676
+    },
+    {
+      "word": "cine",
+      "start": 417.047,
+      "end": 417.287,
+      "score": 0.871
+    },
+    {
+      "word": "argentino,",
+      "start": 417.327,
+      "end": 419.749,
+      "score": 0.961
+    },
+    {
+      "word": "y",
+      "start": 419.769,
+      "end": 419.829,
+      "score": 0.816
+    },
+    {
+      "word": "además",
+      "start": 419.909,
+      "end": 420.11,
+      "score": 0.685
+    },
+    {
+      "word": "estaba",
+      "start": 420.15,
+      "end": 420.41,
+      "score": 0.784
+    },
+    {
+      "word": "dicha",
+      "start": 420.49,
+      "end": 420.71,
+      "score": 0.893
+    },
+    {
+      "word": "por",
+      "start": 420.79,
+      "end": 420.93,
+      "score": 0.912
+    },
+    {
+      "word": "un",
+      "start": 421.091,
+      "end": 421.851,
+      "score": 0.734
+    },
+    {
+      "word": "señor",
+      "start": 421.871,
+      "end": 422.432,
+      "score": 0.934
+    },
+    {
+      "word": "argentino,",
+      "start": 422.452,
+      "end": 422.652,
+      "score": 0.097
+    },
+    {
+      "word": "muy",
+      "start": 422.851,
+      "end": 423.953,
+      "score": 0.433
+    },
+    {
+      "word": "importante",
+      "start": 424.014,
+      "end": 424.515,
+      "score": 0.939
+    },
+    {
+      "word": "que",
+      "start": 424.775,
+      "end": 424.895,
+      "score": 0.736
+    },
+    {
+      "word": "decía",
+      "start": 424.976,
+      "end": 425.417,
+      "score": 0.986
+    },
+    {
+      "word": "la",
+      "start": 426.258,
+      "end": 426.339,
+      "score": 0.959
+    },
+    {
+      "word": "vieja",
+      "start": 426.419,
+      "end": 426.88,
+      "score": 0.808
+    },
+    {
+      "word": "ve",
+      "start": 426.9,
+      "end": 427.2,
+      "score": 0.884
+    },
+    {
+      "word": "la",
+      "start": 427.661,
+      "end": 427.742,
+      "score": 0.928
+    },
+    {
+      "word": "vieja",
+      "start": 427.822,
+      "end": 428.283,
+      "score": 0.702
+    },
+    {
+      "word": "ve",
+      "start": 428.303,
+      "end": 428.543,
+      "score": 0.816
+    },
+    {
+      "word": "los",
+      "start": 428.563,
+      "end": 428.684,
+      "score": 0.651
+    },
+    {
+      "word": "colores",
+      "start": 429.125,
+      "end": 430.006,
+      "score": 0.294
+    },
+    {
+      "word": "queremos",
+      "start": 430.588,
+      "end": 430.868,
+      "score": 0.872
+    },
+    {
+      "word": "saber",
+      "start": 430.888,
+      "end": 431.209,
+      "score": 0.699
+    },
+    {
+      "word": "de",
+      "start": 431.43,
+      "end": 431.53,
+      "score": 0.688
+    },
+    {
+      "word": "qué",
+      "start": 431.65,
+      "end": 431.83,
+      "score": 0.65
+    },
+    {
+      "word": "actor",
+      "start": 431.911,
+      "end": 432.211,
+      "score": 0.825
+    },
+    {
+      "word": "se",
+      "start": 432.271,
+      "end": 432.352,
+      "score": 0.914
+    },
+    {
+      "word": "trata",
+      "start": 432.472,
+      "end": 432.873,
+      "score": 0.921
+    },
+    {
+      "word": "y",
+      "start": 432.893,
+      "end": 432.913,
+      "score": 0.988
+    },
+    {
+      "word": "quién",
+      "start": 433.314,
+      "end": 433.714,
+      "score": 0.467
+    },
+    {
+      "word": "era",
+      "start": 433.735,
+      "end": 433.855,
+      "score": 0.701
+    },
+    {
+      "word": "la",
+      "start": 433.935,
+      "end": 434.175,
+      "score": 0.924
+    },
+    {
+      "word": "señora",
+      "start": 434.336,
+      "end": 434.757,
+      "score": 0.97
+    },
+    {
+      "word": "que",
+      "start": 434.857,
+      "end": 435.017,
+      "score": 0.728
+    },
+    {
+      "word": "hacía",
+      "start": 435.037,
+      "end": 435.318,
+      "score": 0.526
+    },
+    {
+      "word": "de",
+      "start": 436.521,
+      "end": 436.601,
+      "score": 0.924
+    },
+    {
+      "word": "mamá",
+      "start": 436.661,
+      "end": 436.921,
+      "score": 0.882
+    },
+    {
+      "word": "y",
+      "start": 436.941,
+      "end": 436.961,
+      "score": 0.994
+    },
+    {
+      "word": "cuál",
+      "start": 437.623,
+      "end": 437.783,
+      "score": 0.422
+    },
+    {
+      "word": "era",
+      "start": 437.803,
+      "end": 437.863,
+      "score": 0.261
+    },
+    {
+      "word": "el",
+      "start": 437.883,
+      "end": 437.964,
+      "score": 0.82
+    },
+    {
+      "word": "nombre",
+      "start": 438.024,
+      "end": 438.244,
+      "score": 0.985
+    },
+    {
+      "word": "de",
+      "start": 438.284,
+      "end": 438.344,
+      "score": 0.805
+    },
+    {
+      "word": "la",
+      "start": 438.385,
+      "end": 438.445,
+      "score": 0.782
+    },
+    {
+      "word": "película",
+      "start": 438.525,
+      "end": 439.527,
+      "score": 0.714
+    }
+  ],
+  "language": "es",
+  "alignment_stats": {
+    "total_segments": 17,
+    "successful_alignments": 67,
+    "failed_alignments": 0,
+    "success_rate": 394.1,
+    "total_words": 682
+  },
+  "word_score_buckets": {
+    "Good": 0.905,
+    "Neutral": 0.808,
+    "Bad": 0.572
+  }
+}
